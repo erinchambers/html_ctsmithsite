@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="27"><text><div1 type="sonnets">
+<head>SONNET XXI.</head>
+<head type="sub">SUPPOSED TO BE WRITTEN BY WERTER.</head>
+<lg type="verse">
+<l>GO! cruel tyrant of the human breast!</l>
+<l rend="indent">To other hears, thy burning arrow bear;</l>
+<l>Go, where fond hope, and fair illusion rest!</l>
+<l rend="indent">Ah! why should love inhabit with despair!</l>
+<l>Like the poor maniac I linger here, <note>SONNET XXI.<lb/>Line 5.<lb/>'Poor Maniac.'<lb/>See the Story of the Lunatic.<lb/>'Is this the destiny of man? Is he only happy before he possesses his reason, or after he has lost it? Full of hope you go to gather flowers in winter, and are grieved not to find any  and do not know why they cannot be found.' <bibl>Sorrows of Werter. Volume Second.</bibl>
+
+
+
+
+</note>
+</l>
+<l rend="indent">Still haunt the scene, where all my treasure lies;</l>
+<l>Still seek for flowers, where only thorns appear,</l>
+<l rend="indent">'And drink delicious poison from her eyes!' <note>SONNET XXI.<lb/>Line 8.<lb/>'And drink delicious poison from thine eye.'<bibl>
+</bibl>
+<bibl>Pope.</bibl>
+
+
+</note>
+</l>
+<l>Tow'rds the deep gulph that opens on my sight</l>
+<l rend="indent">I hurry forward, passion's helpless slave!</l>
+<l>And scorning reason's mild and sober light,</l>
+<l rend="indent">Pursue the path that leads me to the grave!</l>
+<l>So round the flame the giddy insect flies,</l>
+<l>And courts the fatal fire, by which it dies!</l>
+</lg>
+</div1></text></TEI.2>

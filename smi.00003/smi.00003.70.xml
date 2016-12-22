@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="70"><text><div1 type="poem">
+<head>THE<lb/>PEASANT OF THE ALPS.
+</head>
+<head type="sub">FROM THE NOVEL OF CELESTINA.</head>
+<lg type="verse">
+<l rend="indent">WHERE cliffs arise by Winter crown'd,</l>
+<l rend="indent">And through dark groves of pine around,</l>
+<l>Down the deep chasms, the snow-fed torrents foam,</l>
+<l>Within some hollow, shelter'd from the storms,</l>
+<l>The PEASANT of the ALPS his cottage forms,</l>
+<l>And builds his humble, happy home.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l rend="indent">Unenvied is the rich domain,</l>
+<l rend="indent">That far beneath him on the plain,</l>
+<l>Waves its wide harvests and its olive groves;</l>
+<l>More dear to him his hut, with plaitain thatch'd,</l>
+<l>Where long his unambitious heart attach'd,</l>
+<l>Finds all he wishes, all he loves.</l>
+</lg>
+<pb n="78"/>
+<lg type="verse">
+<l rend="indent">There dwells the mistress of his heart,</l>
+<l rend="indent">And love who teaches every art,</l>
+<l>Has bid him dress the spot with fondest care;</l>
+<l>When borrowing from the vale its fertile foil,</l>
+<l>He climbs the precipice with patient toil,</l>
+<l>To plant her favorite flow'rets there.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l rend="indent">With native shrubs, an hardy race,</l>
+<l rend="indent">There the green myrtle finds a place,</l>
+<l>And roses there, the dewy leaves decline;</l>
+<l>While from the craggs abrupt and tabled steeps,</l>
+<l>With bloom and fruit the Alpine berry peeps,</l>
+<l>And, blushing, mingles with the vine.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l rend="indent">His garden's simple produce stor'd,</l>
+<l rend="indent">Prepar'd for him by hands ador'd,</l>
+<l>Is all the little luxury he knows:</l>
+<l>And by the same dear hands are softly spread,</l>
+<l>Where in her arms he finds repose.</l>
+</lg>
+<pb n="79"/>
+<lg type="verse">
+<l rend="indent">But absent from the calm abode,</l>
+<l rend="indent">Dark thunder gathers round his road,</l>
+<l>Wild raves the wind, the arrowy lightnings flash,</l>
+<l>Returning quick the murmuring rocks among,</l>
+<l>His faint heart trembling as he winds along;</l>
+<l>Alarm'd  he listens to the crash</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l rend="indent">Of rifted ice!  Oh, man of woe!</l>
+<l rend="indent">O'er his dear cot  a mass of snow,</l>
+<l>By the storm fever'd from the cliff above,</l>
+<l>Has fallen  and buried in its marble breast,</l>
+<l>All that for him  lost wretch  the world possest,</l>
+<l>His home, his happiness, his love!</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l rend="indent">Aghast the heart-struck mourner stands,</l>
+<l rend="indent">Glaz'd are his eyes  convuls'd his hands,</l>
+<l>O'erwhelming anguish checks his labouring breath;</l>
+<l>Crush'd by despair's intolerable weight,</l>
+<l>Frantic he seeks the mountain's giddiest height,</l>
+<l>And headlong seeks relief in death.</l>
+</lg>
+<pb n="80"/>
+<lg type="verse">
+<l rend="indent">A fate too similar is mine,</l>
+<l rend="indent">But I  in lingering pain repine,</l>
+<l>And still my lost felicity deplore;</l>
+<l>Cold, cold to me is that dear breast become,</l>
+<l>Where this poor heart had fondly fix'd its home,</l>
+<l>And love and happiness are mine no more.</l>
+</lg>
+
+
+
+
+
+
+
+
+</div1></text></TEI.2>

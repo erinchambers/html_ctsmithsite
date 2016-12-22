@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="58"><text><div1 type="sonnet">
+<head>SONNET LII.</head>
+<head>FROM THE NOVEL OF CELESTINA.<lb/>THE PILGRIM.
+</head>
+<lg type="verse">
+<l>FAULT'RING and sad, the unhappy Pilgrim roves,</l>
+<l rend="indent">Who, on the eve of bleak December's night,</l>
+<l>Divided far from all he fondly loves,</l>
+<l rend="indent">Journeys alone, along the giddy height</l>
+<l>Of these steep cliffs, and as the sun's last ray</l>
+<l rend="indent">Fades in the west, sees, from the rocky verge,</l>
+<l>Dark tempest scowling o'er the shorten'd day,</l>
+<l rend="indent">And hears, with ear appal'd, the impetuous surge</l>
+<l>Beneath him thunder!  So, with hear oppress'd,</l>
+<l rend="indent">Alone, reluctant, desolate, and slow,</l>
+<l>By Friendship's cheering radiance <emph>now</emph> unblest,</l>
+<l rend="indent">Along Life's rudest path I seem to go;</l>
+<l>Nor see where yet the anxious heart may rest,</l>
+<l rend="indent">That trembling at the past  recoils from future woe.</l>
+</lg>
+</div1></text></TEI.2>

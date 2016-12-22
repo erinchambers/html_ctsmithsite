@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="28"><text><div1 type="sonnet">
+<head>SONNET XXII.</head>
+<head type="sub">BY THE SAME.<lb/>SO SOLITUDE.
+</head>
+<lg type="verse">
+<l>OH! Solitude! to thy sequester'd vale <note>SONNET XXII.<lb/>Line 1.<lb/>'I climb steep rocks, I break my way through copses, among thorns and briars which tear me to pieces, and I feel a little relief.'<bibl>Sorrows of Werter. Volume First.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">I come to hide my sorrow and my tears,</l>
+<l>And to thy echoes tell the mournful tale</l>
+<l rend="indent">Which scarce I trust to pitying Friendship's ear's!</l>
+<l>Amidst thy wild-woods, and untrodden glades,</l>
+<l rend="indent">No sounds but those of melancholy move;</l>
+<l>And the low winds that die among thy shades,</l>
+<l rend="indent">Seem like soft Pity's sighs, for hopeless love!</l>
+<l>And sure some story of despair and pain,</l>
+<l rend="indent">In yon deep copse, thy murm'ring doves relate;</l>
+<l>And hark! methinks in that long plaintive strain,</l>
+<l rend="indent">Thine own sweet songstress weeps my wayward fate!</l>
+<l>Ah, Nymph! that fate assist me to endure,</l>
+<l>And bear awhile  what death alone can cure!</l>
+</lg>
+</div1></text></TEI.2>

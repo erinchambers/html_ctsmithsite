@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="42"><text><div1 type="sonnet">
+<head>SONNET XXXVI.</head>
+<lg type="verse">
+<l>SHOULD the lone Wanderer, fainting on his way,</l>
+<l rend="indent">Rest for a moment of the sultry hours,</l>
+<l>And tho' his path thro' thorns and roughness lay,</l>
+<l rend="indent">Pluck the wild rose, or woodbine's gadding flowers;</l>
+<l>Weaving gay wreaths, beneath some sheltering tree,</l>
+<l rend="indent">The sense of sorrow he awhile may lose;</l>
+<l>So have I fought thy flowers, fair Poesy!</l>
+<l rend="indent">So charm'd my way, with Friendship and the Muse.</l>
+<l>But darker now grows life's unhappy day,</l>
+<l rend="indent">Dark, with new clouds of evil, yet to come,</l>
+<l>Her pencil sickening Fancy throws away,</l>
+<l rend="indent">And weary Hope reclines upon the tomb,</l>
+<l>And points my wishes to that tranquil shore,</l>
+<l>Where the pale spectre Care, pursues no more.</l>
+</lg>
+
+<pb n="[plate 3]"/>
+
+<p>
+<figure>
+<entity name="vol1plate3"/>
+</figure>
+</p>
+
+</div1></text></TEI.2>

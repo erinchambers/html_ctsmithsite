@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="68"><text><div1 type="poem">
+<head>SONG.</head>
+<head type="sub">FROM THE FRENCH OF CARDINAL BERNIS.</head>
+<lg type="verse">
+<head>I.</head>
+<l>FRUIT of Aurora's tears, fair rose,</l>
+<l rend="indent">On whose soft leaves fond Zephyrs play,</l>
+<l>Oh! queen of flowers, thy buds disclose,</l>
+<l rend="indent">And give thy fragrance to the day;</l>
+<l>Unveil thy transient charms:  ah, no!</l>
+<l rend="indent">A little by thy bloom delay'd,</l>
+<l>Since the same hour that bids thee blow,</l>
+<l rend="indent">Shall see thee droop thy languid head.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<head>II.</head>
+<l>But go! and on Themira's breast</l>
+<l rend="indent">Find, happy flower, thy throne and tomb;</l>
+<l>While, jealous of a fate so blest,</l>
+<l rend="indent">How shall I envy thee thy doom!</l>
+<pb n="69"/>
+<l>Should some rude hand approach thee there,</l>
+<l rend="indent">Guard the sweet shrine thou wilt adorn;</l>
+<l>Ah! punish those who rashly dare,</l>
+<l rend="indent">And for my rivals keep thy thorn.</l>
+
+</lg>
+<lb/>
+<lg type="verse">
+<head>III.</head>
+<l>Love shall himself thy boughs compose,</l>
+<l rend="indent">And bid thy wanton leaves divide;</l>
+<l>He'll shew thee how, my lovely rose,</l>
+<l rend="indent">To deck her bosom, not to hide;</l>
+<l>And thou shalt tell the cruel maid</l>
+<l rend="indent">How frail are youth and beauty's charms,</l>
+<l>And teach her ere her own shall fade, </l>
+<l rend="indent">To give them to her lover's arms.</l>
+</lg>
+
+
+</div1></text></TEI.2>

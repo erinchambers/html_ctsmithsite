@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="42"><text><div1 type="poem">
+<head>APRIL.</head>
+<lg type="verse">
+<l>GREEN o'er the copses Spring's soft hues are spreading,</l>
+<l rend="indent">High wave the Reeds in the transparent floods,</l>
+<l>The Oak its fear and sallow soliage shedding,</l>
+<l rend="indent">From their moss'd cradles start its infant buds. <note>From their moss'd cradles, &amp;c. <lb/>The Oak, and, in sheltered situations, the Beech, retain the leaves of the preceding year till the new foliage appears. <lb/>The return of the Spring, which awakens many to new sentiments of pleasure, now serves only to remind <emph>me</emph> of past misery. <lb/>This sensation is common to the wretched &#8212; and too many Poets have felt it in all its force. <lb/>"Zefiro torno, e'l bel tempo rimena <lb/>"E i fiori. e l'erbe, sua dolce famiglia; &amp;c. &amp;c. <lb/>&#8212; "Ma per me lasso!" &#8212;<bibl>Petrarch on the Death of Laura.</bibl>
+ <lb/>And these lines of Guarini have always been celebrated. <lb/>"O primavera giovent dell' ano, <lb/>"Bella madre de fiori <lb/>C'erbe novelle e di novelli amori; <lb/>Tu torni ben, ma teco <lb/>"Non tornan i fereni <lb/>"E forunati di, delle mie gioje; <lb/>"Tu torni ben, tu torni, <lb/>"Ma teco altro non torna <lb/>"Che del perduto mio caro tesoro, <lb/>"La rimembraza misera e dolente."
+
+
+
+
+</note>
+</l>
+</lg>
+<lg type="verse">
+<l>Pale as the tranquil tide of Summer's ocean,</l>
+<l rend="indent">The Willow now its slender leaf unveils;</l>
+<l>And thro' the sky with swiftly fleeting motion,</l>
+<l rend="indent">Driv'n by the wind, the rack of April fails.</l>
+</lg>
+<pb n="83"/>
+<lg type="verse">
+<l>Then, as the gust declines, the stealing showers</l>
+<l rend="indent">Fall fresh and noiseless; while at closing day</l>
+<l>The low Sun gleams on moist and half-blown flowers</l>
+<l rend="indent">That promise garlands for approaching May.</l>
+</lg>
+<lg type="verse">
+<l>Blest are yon peasant children, simply singing.</l>
+<l rend="indent">Who thro' the new-sprung grass rejoicing rove;</l>
+<l>More blest! to whom the <emph>Time</emph>, fond thought is bringing.</l>
+<l rend="indent">Of friends expected, or returning love.</l>
+</lg>
+<lg type="verse">
+<l>The pensive wanderer blest, to whom reflection</l>
+<l rend="indent">Points out some future views that sooth his mind;</l>
+<l>Me how unlike! &#8212; whom cruel recollection</l>
+<l rend="indent">But tells of comfort I shall never find!</l>
+</lg>
+<pb n="84"/>
+<lg type="verse">
+<l>Hope, that on Nature's you this still attending,</l>
+<l rend="indent">No more to me her syren song shall sing;</l>
+<l>Never to <emph>me</emph> her influence extending,</l>
+<l rend="indent">Shall I again enjoy the days of Spring!</l>
+</lg>
+<lg type="verse">
+<l>Yet, how I lov'd them once these scenes remind me,</l>
+<l rend="indent">When light of heart, in childhood's thoughtless mirth,</l>
+<l>I reck'd not that the cruel lot assign'd me</l>
+<l rend="indent">Should make me curse the hour that gave me birth!</l>
+</lg>
+<lg type="verse">
+<l>Then, from thy wild-wood banks, Aruna! roving,</l>
+<l rend="indent">Thy thymy downs with sportive steps I sought,</l>
+<l>And Nature's charms, with artless transport loving,</l>
+<l rend="indent">Sung like the birds, unheeded and untaught.</l>
+</lg>
+<pb n="85"/>
+<lg type="verse">
+<l>But now the Springtide's pleasant hours returning,</l>
+<l rend="indent">Serve to awaken me to sharper pain;</l>
+<l>Recalling scenes of agony and mourning,</l>
+<l rend="indent">Of baffled hope and prayers preferr'd in vain.</l>
+</lg>
+<lg type="verse">
+<l>Thus shone the sun, his vernal rays displaying,</l>
+<l rend="indent">Thus did the woods in early verdure wave,</l>
+<l>While dire Disease on all I lov'd was preying,</l>
+<l rend="indent">And flowers seem'd rising but to strew her grave!</l>
+</lg>
+<lg type="verse">
+<l>Now, 'mid reviving blooms, I coldy languish,</l>
+<l rend="indent">Spring seems devoid of joy to me alone;</l>
+<l>Each sound of pleasure aggravates my anguish,</l>
+<l rend="indent">And speaks of beauty, youth, and sweetness gone!</l>
+</lg>
+<pb n="86"/>
+<lg type="verse">
+<l>Yet, as stern Duty bids, with faint endeavour</l>
+<l rend="indent">I drag on life, contending with my woe,</l>
+<l>Tho' conscious Misery still repeats, that never</l>
+<l rend="indent">My soul one pleasureable hour shall know.</l>
+</lg>
+<lg type="verse">
+<l>Lost in the tomb, when Hope no more appeases</l>
+<l rend="indent">The fester'd wounds that prompt the eternal sigh,</l>
+<l>Grief, the most fatal of the heart's diseases,</l>
+<l rend="indent">Soon teaches, whom it fastens on, to die.</l>
+</lg>
+<lg type="verse">
+<l>The wretch undone, for pain alone existing,</l>
+<l rend="indent">The abject dread of Death shall sure subdue,</l>
+<l>And far from his decisive hand resisting,</l>
+<l rend="indent">Rejoice to bid a world like this, adieu!</l>
+</lg>
+</div1></text></TEI.2>

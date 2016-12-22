@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="31"><text><div1 type="poem">
+<head>OCCASIONAL ADDRESS.</head>
+<head type="sub">WRITTEN FOR THE BENEFIT OF A DISTRESSED<lb/> PLAYER, DETAINED AT BRIGHTHELMSTONE<lb/> FOR DEBT, NOVEMBER 1792.
+</head>
+<lg type="verse">
+<l rend="indent">WHEN in a thousand swarms, the summer o'er,</l>
+<l>The birds of passage quit our English shore,</l>
+<l>By various routs the feather'd myriad moves;</l>
+<l>The <emph>Becca-Fica</emph> seeks Italian groves, <note>OCCASIONAL ADDRESS.<lb/>WRITTEN FOR A PLAYER.<lb/>The becca-fica seeks Italian groves,<lb/>No more a wheat-ear &#8212; <lb/>From an idea that the wheat-ear of the Southern downs is the becca-fica of Italy. I doubt it; but have no books that give me any information on the subject.
+</note>
+</l>
+<l>No more a <emph>Wheat-ear</emph>; while the soaring files</l>
+<l>Of sea-fowl gather round the Hebrid-isles.</l>
+</lg>
+<lg type="verse">
+<l rend="indent">But if by bird-lime touch'd, unplumed, confined,</l>
+<l>Some poor ill-fated straggler stays behind,</l>
+<l>Driven from his transient perch, beneath your eaves</l>
+<l>On his unshelter'd head the tempest raves,</l>
+<l>While drooping round, redoubling every pain,</l>
+<l>His <emph>Mate</emph> and Nestlings ask his help in vain.</l>
+</lg>
+<pb n="34"/>
+<lg type="verse">
+<l rend="indent">So we, the buskin and the sock who wear,</l>
+<l>And "strut and fret," our little season here,</l>
+<l>Dismiss'd at length, as Fortune bids divide &#8212;</l>
+<l>Some (lucky rogues!) sit down on Thames's side;</l>
+<l>Others to Liffy's western banks proceed,</l>
+<l>And some &#8212; driven far a-field, across the Tweed;</l>
+<l>But pinion'd here, alas! I cannot fly:</l>
+<l>The <emph>hapless</emph>, <emph>unplumed</emph>, lingering straggler I!</l>
+<l>Unless the healing pity you bestow,</l>
+<l>Shall imp my shatter'd wings &#8212; and let me go.</l>
+</lg>
+<lg type="verse">
+<l rend="indent">Hard in his fate, whom evil stars have led</l>
+<l>To seek in scenic art <emph>precarious</emph> bread,</l>
+<l>While still, thro' wild vicissitudes afloat,</l>
+<l>An Hero now, and now a <emph>Sans Culotte</emph>! <note>OCCASIONAL ADDRESS.<lb/>Page 34.  Line 14.<lb/>An hero now, and now a <emph>sans culotte</emph>.<lb/>At this time little else was talked of.
+</note>
+</l>
+<l>That eleemosinary bread he gains</l>
+<l>Mingling &#8212; with real distresses &#8212; mimic pains,</l>
+</lg>
+<pb n="35"/>
+<lg type="verse">
+<l>See in our group, a pale, lank Falstaff stare!</l>
+<l>Much needs he stuffing: &#8212; while young Ammon there</l>
+<l>Rehearses &#8212; in a garret &#8212; ten feet square!</l>
+<l>And as his soft <emph>Statira</emph> sighs content,</l>
+<l>Roxana comes not &#8212; but a dun for rent!</l>
+<l>Here shiv'ring Edgar, in his blanket roll'd,</l>
+<l>Exclaims &#8212; with too much reason, "<emph>Tom's a-cold"!</emph>
+</l>
+<l>And vainly tries his sorrows to divert,</l>
+<l>While <emph>Goneril</emph> or <emph>Regan</emph> &#8212; wash his shirt!</l>
+</lg>
+<lg type="verse">
+<l rend="indent">Lo! fresh from Calais, Edward! mighty king!</l>
+<l>Revolves &#8212; a mutton chop upon a string!</l>
+<l>And Hotspur, plucking "honour from the moon,"</l>
+<l>Feed a <emph>sick infant</emph> with a pewter spoon!</l>
+</lg>
+<lg type="verse">
+<l rend="indent">More blest the Fisher, who undaunted braves</l>
+<l>In his small bark, the impetuous winds and waves;</l>
+<pb n="36"/>
+<l>For though he plough the sea when others sleep, <note>OCCASIONAL ADDRESS.<lb/>Page 36. Line 1.<lb/>For tho' he plough the sea when others sleep,<lb/>He draws like Glendower spirits from the deep.<lb/>
+<emph>Glen</emph>. "I can call spirits from the vasty deep."
+<emph>Hotsp</emph>. "But will they come when you do call for "them?" <bibl>Shakspeare.</bibl>The <emph>spirits</emph> that animate the night voyages of the Sussex fishermen are often sunk in their kegs on any alarm from the Custom-House officers; and being attached to a buoy, the adventurers go out when the danger of detection is over, and draw them up.  A coarse sort of white brandy which they call <emph>moonshine</emph>, is a principal article of this illegal commerce.
+</note>
+</l>
+<l>He draws, like Glendower, spirits from the deep!</l>
+<l>And while the storm howls round, amidst his trouble,</l>
+<l>Bright <emph>moonshine</emph> still illuminates the cobble!</l>
+<l>Pale with her fears for him, some fair <emph>Poissarde</emph>,</l>
+<l>Watches his nearing boat; with fond regard</l>
+<l>Smiles when she sees his little canvas handing,</l>
+<l>And clasps her dripping lover on his landing.</l>
+</lg>
+<lg type="verse">
+<l rend="indent">More blest the Peasant, who, with nervous toil</l>
+<l>Hews the rough oak, or breaks the stubborn soil:</l>
+<l>Weary, indeed, he sees the evening come,</l>
+<l>But then, the rude, yet tranquil hut, his home,</l>
+<l>Receives tits rustic inmate; then are his,</l>
+<l>Secure repose, and dear domestic bliss!</l>
+<l>The orchard's blushing fruit, the garden's store,</l>
+<l>The pendant hop, that mantles round the door,</l>
+<pb n="37"/>
+<l>Are his: &#8212; and while the cheerful faggots burn,</l>
+<l>"His lisping children hail their fire's return!" <note>OCCASIONAL ADDRESS.<lb/>Page 37.  Line 2.<lb/>His lisping children hail their fire's return.<lb/>"No children run to lisp their fire's return." <bibl>Gray.</bibl>
+</note>
+</l>
+</lg>
+<lg type="verse">
+<l rend="indent">But wandering Players, "unhousel'd, unanneal'd,"</l>
+<l>And unappointed, scour life's common field,</l>
+<l>A flying squadron! &#8212; disappointment cross 'em,</l>
+<l>And the campaign concludes, perhaps, at Horsham! <note>OCCASIONAL ADDRESS.<lb/>Page 37.  Line 6.<lb/>And the campaign concludes, perhaps, at Horsham!<lb/>At Horsham is the county jail.
+</note>
+</l>
+</lg>
+<lg type="verse">
+<l>Oh! ye, whose timely bounty deigns to shed</l>
+<l>Compassion's balm upon my luckless head,</l>
+<l>Benevolence, with warm and glowing breast,</l>
+<l>And soft, celestial mercy, double blest! <note>OCCASIONAL ADDRESS.<lb/>Page 37.  Line 10.<lb/>And soft celestial mercy, doubly blest.<lb/>&#8212; "It is twice blessed,<lb/>"It blesseth him that gives and him that takes." <bibl>Shakspeare.</bibl>
+
+</note>
+</l>
+<l>Smile on the generous act! &#8212; where means are given,</l>
+<l>To aid the wretched &#8212; is to merit Heaven.</l>
+</lg>
+</div1></text></TEI.2>

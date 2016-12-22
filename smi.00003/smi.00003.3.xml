@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="3"><text><div1 type="preface">
+<head>PREFACE <lb/>TO THE <lb/>THIRD AND FOURTH EDITIONS.
+
+</head>
+<lb/>
+<p>THE reception given by the public, as well as my particular friends, to the two first editions of these poems, has induced me to add to the present such other Sonnets as I have written since, or have recovered from my acquaintance, to who I had given them without thinking well enough of them at the time to preserve any copies myself.  A few of those last written, I have attempted on the Italian model; with what success I know not, but I am persuaded<pb n="vi"/>that to the generality of readers those which are less regular will be more pleasing.
+</p>
+<p>As a few notes were necessary, I have added them at the end.  I have there quoted such lines as I have borrowed; and even where I am conscious the ideas were not my own, I have restored them to their original possessors.</p>
+
+</div1></text></TEI.2>

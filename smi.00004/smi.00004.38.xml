@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="38"><text><div1 type="poem">
+<head>ODE <lb/>TO THE POPPY.
+</head>
+<head type="sub">WRITTEN BY A DECEASED FRIEND.</head>
+<note>ODE TO THE POPPY. <lb/>This and the following Poem were written (the first of them at my request, for a Novel) by a lady whose death in her thirty-sixth year was a subject of the deepest concern to all who knew her. <lb/>Would to God the last line which <emph>my</emph> regret on that loss, drew from me, had been prophetic &#8212; and that <emph>my</emph> heart had indeed been cold, instead of having suffered within the next twelve months after that line was written, a deprivation which has rendered <emph>my</emph> life a living death.
+</note>
+<lg type="verse">
+<l>NOT for the promise of the labour'd field,</l>
+<l>Not for the good the yellow harvests yield,</l>
+<l rend="indent">I bend at Ceres' shrine;</l>
+<l>For dull, to humid eyes, appear</l>
+<l>The gold glories of the year,</l>
+<l rend="indent">Alas! &#8212; a melancholy worship's mine.</l>
+</lg>
+<pb n="69"/>
+<lg type="verse">
+<l>I hail the goddess for her scarlet flower!</l>
+<l rend="indent">Thou brilliant weed,</l>
+<l rend="indent">That dost so far exceed</l>
+<l rend="indent">The richest gifts gay Flora can bestow:</l>
+<l>Heedless I pass'd thee, in life's morning hour,</l>
+<l rend="indent">(Thou comforter of woe)</l>
+<l>Till sorrow taught me to confess thy power.</l>
+</lg>
+<lg type="verse">
+<l>In early days, when Fancy cheats,</l>
+<l rend="indent">A varied wreath I wove</l>
+<l>Of laughing Spring's luxuriant sweets,</l>
+<l rend="indent">To deck ungrateful Love:</l>
+<l>The rose, or thorn, my labours crown'd,</l>
+<l>As Venus smiled, or Venue frown'd;</l>
+</lg>
+<pb n="70"/>
+<lg type="verse">
+<l>But Love, and Joy, and all their train, are flown;</l>
+<l>E'en languid Hope no more is mine,</l>
+<l>And I will sing of thee alone,</l>
+<l>Unless, perchance, the attributes of Grief,</l>
+<l>The cypress bud, and willow leaf,</l>
+<l>Their pale funereal foliage blend with thine.</l>
+</lg>
+<lg type="verse">
+<l>Hail, lovely blossom! &#8212; thou can'st ease</l>
+<l>The wretched victims of Disease;</l>
+<l>Can'st close those weary eyes in gentle sleep,</l>
+<l>Which never open but to weep;</l>
+<l>For, oh! thy potent charm</l>
+<l>Can agonizing Pain disarm;</l>
+<l>Expel imperious Memory from her feat,</l>
+<l>And bid the throbbing heart forget to beat.</l>
+</lg>
+<pb n="[plate]"/>
+<p>
+<figure>
+<entity name="vol2page70"/>
+</figure>
+</p>
+<pb n="71"/>
+<lg type="verse">
+<l>Soul-soothing plant! that can such blessings give,</l>
+<l>By thee the mourner bears to live!</l>
+<l rend="indent">By thee the hopeless die!</l>
+<l rend="indent">Oh! ever "friendly to despair,"</l>
+<l rend="indent">Might Sorrow's pallid votary dare,</l>
+<l>Without a crime, that remedy implore,</l>
+<l rend="indent">Which bids the spirit from its bondage fly,</l>
+<l>I'd court thy palliative aid no more;</l>
+</lg>
+<lg type="verse">
+<l rend="indent">No more I'd sue that thou should'st spread,</l>
+<l rend="indent">Thy spell around my aching head,</l>
+<l rend="indent">But would conjure thee to impart</l>
+<l rend="indent">Thy balsam for a broken heart;</l>
+<l>And by thy soft Lethean power,</l>
+<l rend="indent">(Inestimable flower)</l>
+<l>Burst these terrestrial bonds, and other regions thy.</l>
+</lg>
+</div1></text></TEI.2>

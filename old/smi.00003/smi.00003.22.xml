@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="22"><text><div1 type="sonnet">
+<head>SONNET XVI.</head>
+<head type="sub">FROM PETRARCH.</head>
+<lg type="verse">
+<l>YE vales and woods! fair scenes of happier hours! <note>SONNET XVI.<lb/>Line 1.<lb/>Valle che de lament miei se piena.<bibl>Sonnetto 33. Parte secundo.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">Ye feather'd people, tenants of the grove!</l>
+<l>And you, bright stream! befring'd with shrubs and flowers,</l>
+<l rend="indent">Behold my grief, ye witnesses of love!</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>For ye beheld my infant passion rise,</l>
+<l rend="indent">And saw thro' years unchang'd my faithful flame;</l>
+<l>Now cold, in dust, the beauteous object lies,</l>
+<l rend="indent">And you, ye conscious scenes, are still the same!</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>While busy memory still delights to dwell</l>
+<l rend="indent">On all the charms these bitter tears deplore,</l>
+<l>And with a trembling hand describes too well</l>
+<l rend="indent">The angel form I shall behold no more?</l>
+<l>To Heaven she's fled! and nought to me remains</l>
+<l>But the pale ashes, which her urn contains.</l>
+</lg>
+
+<pb n="[plate  4]"/>
+<p>
+<figure>
+<entity name="vol1plate4"/>
+</figure>
+</p>
+
+</div1></text></TEI.2>

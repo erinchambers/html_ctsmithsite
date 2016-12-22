@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="25"><text><div1 type="sonnet">
+<head>SONNET LXXXI.</head>
+<note>SONNET LXXXI.<lb/>First printed in a Publication for the use of Young Persons, called "Rambles Farther."
+</note>
+<lg type="verse">
+<l>HE may be envied, who with tranquil breast</l>
+<l rend="indent">Can wander in the wild and woodland scene,</l>
+<l>When Summer's glowing hands have newly drest</l>
+<l rend="indent">The shadowy forests, and the copses green;</l>
+<l>Who, unpursued by care, can pass his hours</l>
+<l rend="indent">Where briony and woodbine fringe the trees, <note>SONNET LXXXI.<lb/>Line 6.<lb/>Where <emph>briony</emph> and woodbine fringe the trees.<lb/>Briony, Bryoniadioica, foliis palmatis, &amp;c. White Briony, growing plentifully in woods and hedges, and twisting around taller plants.
+</note>
+</l>
+<l rend="indent">On thymy banks reposing, while the bees</l>
+<l>Murmur "their fairy turnes in praise of flowers;" <note>SONNET LXXXI.<lb/>Line 8.<lb/>"Murmur their fairy tunes in praise of flowers," a line taken, I believe, from a Poem called "Vacuna," printed in Dodsley's collection.
+</note>
+</l>
+<l>Or on the rock with ivy clad, and fern</l>
+<l rend="indent">That overhangs the ozier-whispering bed</l>
+<l>Of some clear current, bid his wishes turn</l>
+<l rend="indent">From this bad world; and by calm reason led,</l>
+<l>Knows, in refined retirement, to possess</l>
+<l>By friendship hallow'd &#8212; rural happiness!</l>
+</lg>
+</div1></text></TEI.2>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="7"><text><div1 type="sonnet">
+<head>SONNET LXIII.</head>
+<head type="sub">THE GOSSAMER.</head>
+<lg type="verse">
+<l>O'ER faded heath-flowers spun, or thorny furze, <note>SONNET LXIII.<lb/>Line 1.<lb/>O'er faded heath-flowers spun, or thorny furze.<lb/>The web, charged with innumerable globules of bright dew, that is frequently on heaths and commons in autumnal morning, can hardly have escaped the observation of any lover of nature &#8212; The slender web of the field spider is again alluded to in Sonnet lxxvii.
+</note>
+</l>
+<l rend="indent">The filmy Gossamer is lightly spread;</l>
+<l>Waving in every sighing air that stirs,</l>
+<l rend="indent">As Fairy fingers had entwined the thread:</l>
+<l>A thousand trembling orbs of lucid dew</l>
+<l rend="indent">Spangle the texture of the fairy loom,</l>
+<l>As if soft Sylphs, lamenting as they flew,</l>
+<l rend="indent">Had wept departed Summer's transient bloom:</l>
+<l>But the wind rises, and the turf receives</l>
+<l rend="indent">The glittering web: &#8212;  So, evanescent, fade</l>
+<l>Bright views that Youth with sanguine heart, believes:</l>
+<l rend="indent">So vanish schemes of bliss, by Fancy made;</l>
+<l>Which, fragile as the fleeting dreams of morn,</l>
+<l>Leave but the wither'd heath, and barren thorn!</l>
+</lg>
+</div1></text></TEI.2>

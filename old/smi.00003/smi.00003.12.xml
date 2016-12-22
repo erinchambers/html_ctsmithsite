@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="12"><text><div1 type="sonnet">
+<head>SONNET VI.</head>
+<head type="sub">
+</head>
+<lg type="verse">
+<l>OH, Hope! thou soother sweet of human woes!</l>
+<l rend="indent">How shall I lure thee to my haunts forlorn!</l>
+<l>For me wilt thou renew the wither'd rose, </l>
+<l rend="indent">And clear my painful path of pointed thorn?</l>
+<l>Ah come, sweet nymph! in smiles and softness drest,</l>
+<l rend="indent">Like the young hours that lead the tender year,</l>
+<l>Enchantress come! and charm my cares to rest:</l>
+<l rend="indent">Alas! the flatterer flies, and will not hear!</l>
+<l>A prey to fear, anxiety, and pain,</l>
+<l rend="indent">Must I a sad existence still deplore?</l>
+<l>Lo!  the flowers fade, but all the thorns remain,</l>
+<l rend="indent">'For me the vernal garland blooms no more.' <note>SONNET VI.<lb/>Line 12.<lb/>'For me the vernal garland blooms no more.'<bibl>Pope's Imit. 1st Ode 4th Book of Horace.</bibl>
+
+
+</note>
+</l>
+<l>Come then 'pale Misery's love!' be thou my cure, <note>SONNET VI.<lb/>Line 13.<lb/>'Misery's love.'<bibl>Shakespeare's King John.</bibl>
+
+
+</note>
+</l>
+<l>And I will bless thee, who tho' slow are sure.</l>
+</lg>
+</div1></text></TEI.2>

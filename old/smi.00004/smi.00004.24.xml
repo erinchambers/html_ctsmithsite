@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="24"><text><div1 type="sonnet">
+<head>SONNET LXXX.</head>
+<head type="sub">TO THE INVISIBLE MOON.</head>
+<note>SONNET LXXX.<lb/>TO THE INVISIBLE MOON.<lb/>I know not whether this is correctly expressed &#8212; I suspect that it is not &#8212; What I mean, however, will surely be understood &#8212; I address the Moon when not visible at night in our hemisphere.<lb/>"The sun to me is dark,<lb/>"And silent as the Moon<lb/>"When she deserts the night,<lb/>"Hid in her secret interlunar cave." <bibl>Milton, Samps. Agon.</bibl>
+
+</note>
+<lg type="verse">
+<l>DARK and conceal'd art thou, soft Evening's Queen,</l>
+<l rend="indent">And Melancholy's votaires that delight</l>
+<l>To watch thee, gliding thro' the blue serene,</l>
+<l rend="indent">Now vainly seek thee on the brow of night &#8212;</l>
+<l>Mild sorrow, such as Hope has not forsook,</l>
+<l rend="indent">May love to muse beneath thy silent reign;</l>
+<l>But <emph>I</emph> prefer from some steep rock to look</l>
+<l rend="indent">On the obscure and fluctuating main,</l>
+<l>What time the martial star with lurid glare,</l>
+<l rend="indent">Portentous, gleams above the troubled deep;</l>
+<l>Or the red comet shakes his blazing hair;</l>
+<l rend="indent">Or on the fire-ting'd waves the lightnings leap;</l>
+<l>While thy fair beams illume another sky,</l>
+<l>And shine for beings less accurst than I.</l>
+</lg>
+</div1></text></TEI.2>

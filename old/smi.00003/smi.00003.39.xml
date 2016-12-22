@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="39"><text><div1 type="sonnet">
+<head>SONNET XXXIII.</head>
+<head rend="sub">TO THE NAIAD OF THE ARUN.</head>
+<lg type="verse">
+<l>GO! rural Naiad; wind thy stream along</l>
+<l rend="indent">Thro' woods and wilds: then seek the ocean caves</l>
+<l>Where sea nymphs meet, their coral rocks among,</l>
+<l rend="indent">To boast the various honors of their waves!</l>
+<l>'Tis but a little, o'er thy shallow tide,</l>
+<l rend="indent">That toiling trade her burden'd vessel leads;</l>
+<l>But laurels grow luxuriant on thy side,</l>
+<l rend="indent">And letters live, along thy classic meads.</l>
+<l>Lo! where 'mid British bards thy natives shine! <note>SONNET XXXIII.<lb/>Line 9.<lb/>Thy natives.<lb/>Toway, Collins, Hayley.
+
+
+</note>
+</l>
+<l rend="indent">And now another poet helps to raise</l>
+<l>Thy glory high  the poet of the MINE!</l>
+<l rend="indent">Whose brilliant talents are his smallest praise:</l>
+<l>And who, to all the genius can impart,</l>
+<l>Adds the cool head, and the unblemish'd heart!</l>
+</lg>
+</div1></text></TEI.2>

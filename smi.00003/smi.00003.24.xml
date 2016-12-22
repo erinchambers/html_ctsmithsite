@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="24"><text><div1 type="sonnet">
+<head>SONNET XVIII.</head>
+<head type="sub">TO THE EARL OF EGREMONT.</head>
+<lg type="verse">
+<l>WYNDHAM! 'tis not thy blood, tho' pure it runs</l>
+<l rend="indent">Thro' a long line of glorious ancestry,</l>
+<l>Percys and Seymours, Britain's boasted sons,</l>
+<l rend="indent">Who trust the honors of their race to thee:</l>
+<l>'Tis not thy splendid domes, where science loves</l>
+<l rend="indent">To touch the canvas, and the bust to raise;</l>
+<l>Thy rich domains, fair fields, and spreading groves;</l>
+<l rend="indent">'Tis not all these the Muse delights to praise!</l>
+<l>In birth and wealth and honours, great thou art!</l>
+<l rend="indent">But nobler, in thy independent mind;</l>
+<l>And in that liberal hand and feeling heart</l>
+<l rend="indent">Given thee by Heaven  a blessing to mankind!</l>
+<l>Unworthy oft may titled fortune be;</l>
+<l>A soul like thine  is true Nobility!</l>
+</lg>
+</div1></text></TEI.2>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="11"><text><div1 type="sonnet">
+<head>SONNET V.</head>
+<head type="sub">TO THE SOUTH DOWNS.</head>
+<lg type="verse">
+<l>AH! hills belov'd!  where once, an happy child,</l>
+<l rend="indent">Your beechen shades, ' your turf, your flowers among,` <note>SONNET V.<lb/>Line 2.<lb/>Your turf, your flowers among.<lb/>Whose turf, whose shades, whose flowers among.<bibl>Gray.</bibl>
+
+
+
+</note>
+</l>
+<l>I wove your blue-bells into garlands wild, </l>
+<l rend="indent">And woke your echoes with my artless song.</l>
+<l>Ah! hills belov'd!  your turf, your flowers remain;</l>
+<l rend="indent">But can they peace to this sad breast restore,</l>
+<l>For one poor moment soothe the sense of pain,</l>
+<l rend="indent">And teach a breaking hear to throb no more?</l>
+<l>And you, Aruna!  in the vale below, <note>SONNET V.<lb/>Line 9.<lb/>Aruna!<lb/>The river Arun.
+
+
+</note>
+</l>
+<l rend="indent">As to the sea your limpid waves you bear,</l>
+<l>Can you one kind Leathean cup bestow,</l>
+<l rend="indent">To drink a long oblivion to my care?</l>
+<l>Ah! no!  when all, e`en Hope's last ray is gone,</l>
+<l>There's no oblivion  but in death alone!</l>
+</lg>
+</div1></text></TEI.2>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="30"><text><div1 type="sonnets">
+<head>SONNET XXIV.</head>
+<head type="sub">BY THE SAME.</head>
+<lg type="verse">
+<l>MAKE there my tomb; beneath the lime-tree's shade, <note>SONNET XXIV.<lb/>Line 1.<lb/>'At the corner of the church-yard which looks towards the fields, there are two line trees  it is there I wish to rest.'<bibl>Sorrow of Werter. Volume Second.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">Where grass and flowers, in wild luxuriance wave;</l>
+<l>Let no memorial mark where I am laid,</l>
+<l rend="indent">Or point to common eyes the lover's grave!</l>
+<l>But oft at twilight morn, or closing day,</l>
+<l rend="indent">The faithful friend, with fault'ring step shall glide,</l>
+<l>Tributes of fond regret by stealth to pay,</l>
+<l rend="indent">And sigh o'er the unhappy suicide!</l>
+<l>And sometimes, when the sun with parting rays</l>
+<l rend="indent">Gilds the long grass that hides my silent bed,</l>
+<l>The tear shall tremble in my CHARLOTTE'S eyes;</l>
+<l rend="indent">Dear, precious drops!  they shall embalm the dead!</l>
+<l>Yes!  CHARLOTTE o'er the mournful spot shall weep,</l>
+<l>Where her poor WERTER  and his sorrows sleep.</l>
+</lg>
+</div1></text></TEI.2>

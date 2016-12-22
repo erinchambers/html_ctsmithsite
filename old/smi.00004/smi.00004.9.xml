@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="9"><text><div1 type="sonnet">
+<head>SONNET LXV.</head>
+<head>TO DR. PARRY OF BATH, WITH SOME BOTANIC<lb/>DRAWINGS WHICH HAD BEEN MADE SOME<lb/>YEARS.
+</head>
+<note>SONNET LXV.<lb/>To the excellent friend and Physician to whom these lines are addressed, I was obliged for the kindest attention, and for the recovery from one dangerous illness, of that beloved child whom a few months afterwards his skill and most unremitted and disinterested exertions could not save!
+</note>
+<lg type="verse">
+<l>IN happier hours, ere yet so keenly blew</l>
+<l rend="indent">Adversity's cold blight, and bitter storms,</l>
+<l rend="indent">Luxuriant Summer's evanescent forms,</l>
+<l>And Spring's soft blooms with pencil light I drew:</l>
+<l>But as the lovely family of flowers</l>
+<l rend="indent">Shrink from the bleakness of the Northern blast,</l>
+<l rend="indent">So fail from present care and sorrow past</l>
+<l>The flight botanic pencil's mimic powers &#8212;</l>
+<l>Nor will kind Fancy even by Memory's aid,</l>
+<l rend="indent">Her visionary garlands nor entwine;</l>
+<l>Yet while the wreaths of Hope and Pleasure fade,</l>
+<l rend="indent">Still is one flower of deathless blossom mine,</l>
+<l>That dares the lapse of Time, and Tempest rude,</l>
+<l>The unfading Amaranth of Gratitude.</l>
+</lg>
+</div1></text></TEI.2>

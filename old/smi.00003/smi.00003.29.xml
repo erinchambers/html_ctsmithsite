@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="29"><text><div1 type="sonnets">
+<head>SONNET XXIII.</head>
+<head type="sub">BY THE SAME.<lb/>TO THE NORTH STAR.
+</head>
+<lg type="verse">
+<l>TO thy bright beams I turn my swimming eyes, <note>SONNET XXIII.<lb/>Line 1.<lb/>'The greater Bear, favourite of all the constellations; for when I left you of an evening it used to shine opposite your window,'<bibl>Sorrows of Werter. Volume Second.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">Fair, fav'rite planet! which in happier days</l>
+<l>Saw my young hopes, ah! faithless hopes!  arise;</l>
+<l rend="indent">And on my passion shed propitious rays!</l>
+<l>Now nightly wandering mild the tempest drear</l>
+<l rend="indent">That howl the woods, and rocky steeps among,</l>
+<l>I love to see thy sudden light appear</l>
+<l rend="indent">Thro' the swift clouds  driv'n by the wind along:</l>
+<l>Or in the turbid water, rude and dark,</l>
+<l rend="indent">O'er whose wild stream the gust of Winter raves,</l>
+<l>Thy trembling light with pleasure still I mark,</l>
+<l rend="indent">Gleam in faint radiance on the foaming waves!</l>
+<l>So o'er my soul short rays of reason fly,</l>
+<l>Then fade:  and leave me, to despair and die!</l>
+</lg>
+</div1></text></TEI.2>

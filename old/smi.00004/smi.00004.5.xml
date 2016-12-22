@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="5"><text><div1 type="sonnets">
+<head>SONNET LXI.</head>
+<head rend="sub">SUPPOSED TO HAVE BEEN WRITTEN IN AMERICA.</head>
+<lg type="verse">
+<l>ILL-omen'd bird! whose cries portentous float<note> SONNET LXI.<lb/>Line 1.<lb/>Ill-omen'd bird, whose cries portentous float.<lb/>This Sonnet, first inserted in the Novel called the Old Manor House, is founded on a superstition attributed (vide Bertram's Travels in America) to the Indians, who believe that the cry of this night-hawk (Caprimulgus Americanus) portends some evil, and when they are at war, assert that it is never heard near their tents or habitations but to announce the death of some brave warrior of their tribe, or some other calamity.
+</note>
+</l>
+<l rend="indent">O'er yon savannah with the mournful wind;</l>
+<l>While, as the Indian hears your piercing note,</l>
+<l rend="indent">Dark dread of future evil fills his mind;</l>
+<l>Wherefore with early lamentation break</l>
+<l rend="indent">The dear delusive visions of repose?</l>
+<l>Why from so short felicity awake</l>
+<l rend="indent">My wounded senses to substantial woes?</l>
+<l>O'er my sick soul thus rous'd from transient rest,</l>
+<l rend="indent">Pale Superstition sheds her influence drear,</l>
+<l>And to my shuddering fancy would suggest</l>
+<l rend="indent">Thou com'st to speak of ev'ry woe I fear.</l>
+<l>Ah! Reason little o'er the soul prevails,</l>
+<l>When, from ideal ill, the enfeebled spirit fails!</l>
+</lg>
+</div1></text></TEI.2>

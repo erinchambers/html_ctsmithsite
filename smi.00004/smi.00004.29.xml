@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="29"><text><div1 type="poem">
+<head>THE DEAD BEGGAR.</head>
+<head type="sub">AN ELEGY,</head>
+<head type="sub">Addressed to a Lady, who was affected at seeing the Funeral of a<lb/>nameless Pauper, buried at the Expence of the Parish, in the<lb/>Church-Yard at Brighthelmstone, in November 1792.
+</head>
+<note>THE DEAD BEGGAR.<lb/>I have been told that I have incurred blame for having used in this short compositions, terms that have become obnoxious to certain persons.  Such remarks are hardly worth notice; and it is very little my ambition to obtain the suffrage of those who suffer party prejudice to influence their taste; or of those who desire that because they have themselves done it, every one else should be willing to sell their best birth-rights, the liberty of though, and of expressing thought, for the <emph>promise</emph> of a mess of pottage.<lb/>It is surely not too much to say, that in a country like ours, where such immense sums are annually raised for the poor, there ought to be some regulation which should prevent any miserable deserted being from perishing through want, as too often happens to such objects as that on whose interment these stanzas were written.<lb/>It is somewhat remarkable that a circumstance exactly similar is the subject of a short poem called the Pauper's Funeral, in a volume lately published by Mr. Southey.
+</note>
+<lg type="verse">
+<l>SWELLS then thy feeling heart, and streams thine eye</l>
+<l rend="indent">O'er the deserted being, poor and old,</l>
+<l>whom cold, reluctant, Parish Charity</l>
+<l rend="indent">Consigns to mingle with his kindred mold?</l>
+</lg>
+<lg type="verse">
+<l>Mourn'st thou, that <emph>here</emph> the time-worn sufferer ends</l>
+<l rend="indent">Those evil days still threatening woes to come;</l>
+<l>Here, where the friendless feel no want of friends,</l>
+<l rend="indent">Where even the houseless wanderer finds an home!</l>
+</lg>
+<pb n="27"/>
+<lg type="verse">
+<l>What tho' no kindred croud in fable forth,</l>
+<l rend="indent">And sigh, or seem to sigh, around his bier;</l>
+<l>Tho' o'er his coffin with the humid earth</l>
+<l rend="indent">No children drop the unavailing tear?</l>
+</lg>
+<lg type="verse">
+<l>Rather rejoice that <emph>here</emph> his sorrows cease,</l>
+<l rend="indent">Whom sickness, age, and poverty oppress'd</l>
+<l>Where Death, the Leveller, restores to peace</l>
+<l rend="indent">The wretch who living knew not where to rest.</l>
+</lg>
+<lg type="verse">
+<l>Rejoice, that tho' an outcast spurn'd by Fate,</l>
+<l rend="indent">Thro' penury's rugged path his race he ran;</l>
+<l>In earth's cold bosom, equall'd with the great,</l>
+<l rend="indent">Death vindicates the insulted rights of Man.</l>
+</lg>
+<pb n="28"/>
+<lg type="verse">
+<l>Rejoice, that tho' severe his earthly doom,</l>
+<l rend="indent">And rude, and sown with thorns the way he trod, </l>
+<l>Now, (where unfeeling Fortune cannot come)</l>
+<l rend="indent">He rests upon the mercies of his GOD.</l>
+</lg>
+</div1></text></TEI.2>

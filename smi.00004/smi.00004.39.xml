@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="39"><text><div1 type="poem">
+<head>VERSES.</head>
+<head type="sub">WRITTEN BY THE SAME LADY ON SEEING HER <lb/> TWO SONS AT PLAY.
+</head>
+<lg type="verse">
+<l>SWEET age of blest delusion! blooming boys,</l>
+<l>Ah! revel long in childhood's thoughtless joys,</l>
+<l>With light and pliant spirits, that can stoop</l>
+<l>To follow, sportively, the rolling hoop;</l>
+<l>To watch the sleeping top with gay delight,</l>
+<l>Or mark, with raptured gaze, the failing kite;</l>
+<l>Or, eagerly pursuing Pleasure's call,</l>
+<l>Can find it center'd in the bounding ball!</l>
+<l>Alas! the day <emph>will</emph> come, when sports like these</l>
+<l>Must lose their magic, and their power to please;</l>
+<l>Too swiftly fled, the rosy hours of youth</l>
+<l>Shall yield their fairy-charms to mournful Truth;</l>
+<pb n="73"/>
+<l>Even now, a mother's fond prophetic fear</l>
+<l>Sees the dark train of human ills appear;</l>
+<l>Views various fortune for each lovely child,</l>
+<l>Storms for the bold, and anguish for the mild;</l>
+<l>Beholds already those expressive eyes</l>
+<l>Beam a sad certainty of future sighs;</l>
+<l>And dreads each suffering those dear breasts may know</l>
+<l>In their long passage through a world of woe;</l>
+<l>Perchance predestined every pang to prove,</l>
+<l>That treacherous friends inflict, or faithless love;</l>
+<l>For, ah! how few have found existence sweet,</l>
+<l>Where grief is sure, but happiness deceit!</l>
+</lg>
+</div1></text></TEI.2>

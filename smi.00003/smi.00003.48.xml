@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="48"><text><div1 type="sonnet">
+<head>SONNET XLII.</head>
+<head type="sub">COMPOSED DURING A WALK ON THE DOWNS,<lb/>IN NOVEMBER 1787.
+</head>
+<lg type="verse">
+<l>THE dark and pillowy cloud; the sallow trees,</l>
+<l rend="indent">Seem o'er the ruins of the year to mourn;</l>
+<l>And cold and hollow, the inconstant breeze</l>
+<l rend="indent">Sobs thro' the falling leaves and wither'd fern.</l>
+<l rend="indent">O'er the tall brow of yonder chalky bourn,</l>
+<l>The evening shades their gather'd darkness fling,</l>
+<l rend="indent">While by the lingering light, I scarce discern</l>
+<l>The shrieking night-jar, sail on heavy wing. <note>SONNET XLII.<lb/>Line 8.<lb/>"The shrieking night-jar sail on heavy wing."<lb/>The night-jar or night hawk, a dark bird not so big as a rook, which is frequently seen of an evening on the downs.  It has a short heavy flight, then rests on the ground, and again, uttering a mournful cry, flits before the traveller, to whom its appearance is supposed by the peasants to portend misfortune.  As I have never seen it dead, I know not to what species it belongs.
+
+
+</note>
+</l>
+<l rend="indent">Ah! yet a little  and propitious Spring</l>
+<l>Crown'd with fresh flowers, shall wake the woodland strain;</l>
+<l rend="indent">But no gay change revolving seasons bring,</l>
+<l>To call forth pleasure from the soul of pain,</l>
+<l>Bid Syren Hope resume her long lost part,</l>
+<l>And chace the vulture Care  that feeds upon the heart.</l>
+</lg>
+</div1></text></TEI.2>

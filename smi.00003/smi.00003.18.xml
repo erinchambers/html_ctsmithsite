@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="18"><text><div1 type="sonnet">
+<head>SONNET XII.</head>
+<head>WRITTEN ON THE SEA SHORE.  <date>OCTOBER, 1784</date>
+</head>
+<lg type="verse">
+<l>ON some rude fragment of the rocky shore,</l>
+<l rend="indent">Where on the fracture'd cliff, the billows break</l>
+<l rend="indent">Musing, my solitary seat I take,</l>
+<l>And listen to the deep and solemn roar.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>O'er the dark waves the winds tempestuous howl;</l>
+<l rend="indent">The screaming sea-bird quits the trouble sea:</l>
+<l rend="indent">But the wild gloomy scene has charms for me,</l>
+<l>And suits the mournful temper of my foul. <note>SONNET XII.<lb/>Line 8.<lb/>And suits the mournful temper of my soul.<bibl>Young.</bibl>
+
+
+</note>
+</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Already shipwreck'd by the storms of Fate,</l>
+<l rend="indent">Like the poor mariner methinks I stand,</l>
+<l rend="indent">Cast on a rock; who sees the distant land</l>
+<l>From whence no succour comes  or comes too late.</l>
+<l>Faint and more faint are heard his feeble cries,</l>
+<l>'Till in the rising tide, the exhausted sufferer dies.</l>
+</lg>
+
+
+</div1></text></TEI.2>

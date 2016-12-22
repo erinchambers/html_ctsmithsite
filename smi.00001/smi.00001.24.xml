@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00001" n="24"><text><div1 type="chapter" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="div1" sample="complete" next="" id="" decls="" prev="" part="N">
+<head lang="" n="" ana="" corresp="" rend="" TEIform="head" next="" id="" prev="" type="">CHAP. XXII.</head>
+<epigraph lang="" n="" ana="" corresp="" rend="" TEIform="epigraph" next="" id="" prev="">
+<lg type="verse" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Can cunning justify the prood man's wrong,</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Leaving the poor no remedy but tears?"</l></lg>
+<bibl lang="" n="" ana="" corresp="" rend="" TEIform="bibl" next="" id="" prev="" default="NO">COWPER.</bibl>
+</epigraph>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">AS Mrs. Denzil and her family will frequently appear in the subsequent part of this history, a sketch of some of them may not be unnecessary&#8212;and this may perhaps best be given in a letter of her own, in answer to one she had received from a friend, who remonstrated with her on the restless temper she had lately evinced, which had induced her more than once to change her residence, a circumstance that occasioned her prudent correspondent to represent to her the expence of frequent removals, and to interlard her friendly sermon with many proverbs of great authority; at the head of which appeared that excellent axiom, "that a rolling stone gathers no moss:" her answer to which, and to much other stationary wisdom, was in the following terms:</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"There is always, my dear *****, so much real friendship in your severity; you mean so perfectly well, that with you I shall, without scruple, enter into a defence of those parts of my conduct which you seem to disapprove; and let this be a testimony of my real affection for you; for to the greater part of those who still do me the honor to call themselves my friends, I am content to let my conduct justify itself, conscious of the rectitude of my intention, and certain that nothing is so difficult, even to minds the most liberal and the most enlightened, as to judge of the
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">actions</seg>
+</p>
+
+<pb n="257" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">actions of another, when the motives of those actions cannot be known.</p>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">You think I do wrong in again proposing to move, when you imagine me so pleasantly, and as you express it, so <hi rend="italics" lang="" TEIform="hi" id="" n="">snugly</hi> situated in this house&#8212;fitted for an own uncle<ref target="n.00001.017" n="*" lang="" ana="" corresp="" rend="" crdate="" TEIform="ref" resp="" next="" id="" targOrder="U" targType="" prev="" evaluate="" type=""/> of Lord Aberdore's&#8212;very certainly an house <sic corr="fitted" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">fittted </sic> up for the <hi rend="italics" lang="" TEIform="hi" id="" n="">own </hi> uncle of a lord, must be a great acquisition to me, who am not one of those poets who have a house and who ought to be glad of so great an advantage as being admitted to live, as you observe, "rent free" in a mansion, which I do verily believe would bring in my children's noble kinsman five, or, for ought I know, six-in-twenty whole pounds a year, which, to a man who possesses about twenty thousand annually of his own and about <hi rend="italics" lang="" TEIform="hi" id="" n="">seven </hi>in places, I allow to be a very considerable object.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">But are you, my dear ******, who, fortunately for you, have seen very little of such people as those I am connected with&#8212;are you aware, that there are more ways than one of paying for such advantages?&#8212;Alas! it is almost a pity to give you, who have so much philanthropy, a true idea of men as they are, especially of those who we call <hi rend="italics" lang="" TEIform="hi" id="" n="">great men</hi>, and who you consider, I know to be <hi rend="italics" lang="" TEIform="hi" id="" n="">indeed</hi> what they ought to be, from the superiority of their education, as well as their greater power of benefiting mankind.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">But now, as a matter of self defence, I must tell you, that there are not only two ways of
+
+<note id="n.00001.017" n="*" lang="" rend="" anchored="yes" TEIform="note" place="unspecified" targetEnd="" resp="" target="" type="">Lest any part of sketches gives of Mrs. Denzil's history should be supposed too strongly to resemble my own, I beg this circumstance, so totally different, may be adverted to; not one of my children's relations ever lent them an house, though some of them have contributed all in their power to take from them the house we possess of our own.</note>
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">doing</seg>
+</p>
+
+<pb n="258" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">doing a favor, but that one of those ways entirely annihilates the obligation, while the other doubles it.</p>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Now my good Lord of Aberdore knows only the first of these methods&#8212;and he contrived to accommodate me by his house here, with so much parade of the obligation I owe him, to clog it with so many ceremonies, and to tell so often to all his satellites, how very good he has been to "poor Mrs. Denzil and her family," that I, who have had all this repeated to me, who have found since I inhabited the house many conditions annexed to it, which I never dreamt of when I was induced to enter it, and who am neither dazzled by his nobility, nor feel myself degraded by my own poverty, have at times, had very great inclination to return his house to the old man and woman who inhabited it heretofore, and with "<foreign lang="" TEIform="foreign" rend="" id="" n="">
+<hi rend="italics" lang="" TEIform="hi" id="" n="">une reverence tres prefonde</hi>
+</foreign>" for all past favors, to pack up my children and my books, in which consist all my riches, and, like a female Prospero, set forth for some desert island&#8212;or any island but this dear England of ours, which I acknowledge, however, to be the very best of all possible countries for a thousand things.&#8212;There is no such place in the world for fat beeves, and rich pastures, fine horses, fine meadows for them to live in, and convenient furniture&#8212;fine servants in fine liveries, and fine carriages for them to ride behind, and fine public places to <sic corr="show" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">shew </sic> them at:&#8212;fine places for those who have great talents, and admirable sinecures for others who have only great interest&#8212;excellent laws to defend the property of those who can pay for being so defended&#8212;a brave army, and the first navy in the world.&#8212;Of all these excellencies there is no manner of
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">doubt</seg>
+</p>
+
+<pb n="259" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">doubt,  together with many others "too numerous to mention;" nor am I disposed to point out, as our favorite poet<ref target="n.00001.018" n="*" lang="" ana="" corresp="" rend="" crdate="" TEIform="ref" resp="" next="" id="" targOrder="U" targType="" prev="" evaluate="" type=""/> does, on another occasion,</p>
+
+<lg type="verse" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">&#8212;&#8212;&#8212;" a spot or two,</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Which so much beauty would do well to purge."</l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">On the contrary, I will praise the disinterested characters of our statesmen, the self denial and humility of our divines, the integrity and dispatch of our men of law, more particularly those thrice worthy members of it yclept <hi rend="italics" lang="" TEIform="hi" id="" n="">attornies </hi>by the vulgar, but by themselves called <hi rend="italics" lang="" TEIform="hi" id="" n="">solicitors</hi>.  See now if you can with reason accuse me of insensibility towards the many great blessings we enjoy; so for from it, that the consciousness alone of those blessings (together with some other trifling reasons) compels me to stay in</p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"This land, that from her pushes all the rest;</l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">and among others there is one very cogent one, viz. that I have lost in it <sic corr="every" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">evere </sic> thing <hi rend="italics" lang="" TEIform="hi" id="" n="">but my head</hi>, and should I now venture out of it, I think I should be in some hazard of being deprived of that should be in some hazard of being deprived of that also, my sole remaining <sic corr="possession" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">poossession </sic>,  with which, <foreign lang="" TEIform="foreign" rend="" id="" n="">
+<hi rend="italics" lang="" TEIform="hi" id="" n="">grace a Dieu</hi>
+</foreign>, I have been enabled to supply the want of those,  which the very worthy and honest relations of my children have taken from me; and have verified, at the expence indeed of my health, (and sometimes of temper) the truth of that excellent adage, that </p>
+
+<lg type="verse" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Learning is better than house or land:</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"When house and land is gone and spent,</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Then learning"&#8212;&#8212;&#8212;</l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">or, as my housemaid's edition reads, </p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Larning is most excellent."</l></lg>
+
+<note id="n.00001.018" n="*" lang="" rend="" anchored="yes" TEIform="note" place="unspecified" targetEnd="" resp="" target="" type="">
+<bibl lang="" n="" ana="" corresp="" rend="" TEIform="bibl" next="" id="" prev="" default="NO">Cowper,</bibl>
+</note>
+
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">Now,</seg></l>
+
+
+<pb n="260" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">Now, as this commodity on the way I possess it would not be marketable in any other country, )even if my head remained on) you see, my dear friend, that while I must live by it, that is, while the worthies above named choose to keep me and my children entirely out of the property that belongs to us, I must remain in England, notwithstanding my rattle about my voyages.&#8212;Thus circumscribed </p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n=""><ref target="n.00001.019" n="*" lang="" ana="" corresp="" rend="" crdate="" TEIform="ref" resp="" next="" id="" targOrder="U" targType="" prev="" evaluate="" type=""/>"To one small island, and but half an age."</hi></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">do not wonder If I want to move about in my prison, and have a horror of being planted here, like a cabbage, to grow white-headed and hard-hearted.  You, who are one of very few people who shrink not from the couch of pain and sickness when friendship or duty calls upon you to attend it, have seen how uneasy is the sufferer who seeks rest but finds none&#8212;Every part of his bed is tried, and all are alike strewn with thorns&#8212;Allow something like this to accompany a mind ill at ease, a mind overwhelmed with present troubles, and future dread for the fate of my children&#8212;Driven from my home twelve years since, with a large family wandering without any fixed plan, was long a matter of necessity and may now, for aught I know, be grown into habit, and be a fault of temper.&#8212;Be it so&#8212;I do not <sic corr="pretend" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">prerend </sic> to be without faults&#8212;and as a poet, I might plead imprudence by prescription.  Alas! dear ****, how little can the generality of the prosperous world judge of a situation to unlike their own.&#8212;Many of my <hi rend="italics" lang="" TEIform="hi" id="" n="">ci`	devant</hi> friends, for many I have dropped by the way, (I beg pardon, they have dropped me) were born to the same prospects of easy competence as I was; and their subsequent destiny&#8212;ah!&#8212;how unlike mine&#8212;has <hi rend="italics" lang="" TEIform="hi" id="" n="">not</hi> believed
+
+<note id="n.00001.019" n="*" lang="" rend="" anchored="yes" TEIform="note" place="unspecified" targetEnd="" resp="" target="" type="">
+<bibl lang="" n="" ana="" corresp="" rend="" TEIform="bibl" next="" id="" prev="" default="NO">Pope.</bibl>
+</note>
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">the</seg>
+</p>
+
+<pb n="261" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">the early promise of affluence.&#8212;These ladies have always had a father, an husband, or a brother, to order all their peculiarly concerns.&#8212;The morning arose only to awaken them to some pleasurable party abroad, or some chosen amusement at home&#8212;their winters have passed, and, for aught I know, pass still while they are in London, in shopping or visiting in a morning&#8212;or by such as are literary, or are told they ought to be so, in examining new pamphlets, peeping into reviews to form their opinions, listening to that of "Dear Mr. Such a one the most  charming man in the world, who writes sweet verses himself;" in entering some <hi rend="italics" lang="" TEIform="hi" id="" n="">delightful</hi> lines into a book, or following a celebrated preacher, or attending philosophical lectures&#8212;Others, of less mental accomplishments, frequent auctions or exhibitions, or drive into the Park, or walk in Kensington Gardens.  The former set (the literary ladies) return to dress for a late dinner, then go to some conversation, where there is</p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"The feast of reason, and the flow of soul."</hi></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">or by their interest with some favorite actress they get places when others are refused, and from their severer studies unbend at a celebrated performance.&#8212;The less enlightened, the beauties, or rather those who insist upon being still noticed as such, dress with more eclat, though not with more care&#8212;they dash at new fashions to leave the <hi rend="italics" lang="" TEIform="hi" id="" n="">vulgars and ruffs</hi> at an immeasurable distance&#8212;dine at eight o'clock&#8212;go to the opera; set up half the night at deep play&#8212;talk loud about it the next day as they stop in Bond-Street, to some idle man who affects fashion.&#8212;If they happen to be women whose connections were originally in the city, they take care to talk a great deal to,
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">and</seg>
+</p>
+
+<pb n="262" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">and of lords and ladies, Sir John and Sir Frederick, and to exceed in their follies and their expences these new acquaintances.  &#8212;Such are the lives persons lead, who "are very sorry for poor Mrs. Denzil, but cannot help saying they think her quite wrong in many things&#8212;to be sure she has some talents, but nothing so extraordinary; and if she had, it is a thousand pities to use them in attacking people of consequence, who really wished her well&#8212;and then to have any opinion of politics is so extremely wrong!&#8212;There can be but one opinion on those things among <foreign lang="" TEIform="foreign" rend="" id="" n="">'les gens comme il faut'&#8212;</foreign>why then offend them by differing from them, when <hi rend="italics" lang="" TEIform="hi" id="" n="">they</hi> only can be of use in promoting the interest of her large family."&#8212;Such are the charitable comments on the conduct of "poor Mrs. Denzil," who leaves her bed in a morning, when her health permits, to go to her desk, from whence she rises only to sit down to a dinner she cannot eat, waited upon by an awkward boy, or a strapping country girl, who stare at madam "bin as how she writs all them there books that be on the shelf."  From this delectable repast, during which the authoress </p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"Chews the food of sweet and bitter fancy,"</hi></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">rather than any thing else, she is not unfrequently called on by an honest gentleman, in a brown rough great coat, corduroy breeches, boots, and green boot garters, his hair curling naturally in his pole, to the great advantage of his shining face, who with that sort of half bow which a substantial <sic corr="tradesman" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">trade sman </sic> sometimes makes, as much as to say, "Humph! for all you are a lady, I know you are poor and in debt"&#8212;pulls out a little square wafered letter, of which the contents peradventure run thus&#8212;
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">"Mrs.</seg>
+</p>
+
+<pb n="267" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"Mrs. DENZIL.</hi></l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Madam,</l>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"My neighbour, Mr. Thomas Tough, coming your way, I have desired him to call to receive of you the sum of sixty-two pounds nine shillings and eleven-pence, due as per bill delivered for your young gentlemen, I having sent up the same, as desired, Messieurs Ramsay and Shrimpshire, who answer they have no effects in hand for discharge of ditto;&#8212;wherefore hope you will please immediately to pay the same to bearer, whose receipt will be sufficient for,<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>Madam,<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>Your humble servant,<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>HUMPHRY HOTGOOSE.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"N. B. Madam, I hope you'll not fail herein, as I have a great sum to make up next Wensday, and hope you'll give me no furder trubble; but if shoud, must put it into a lawyer's hands."</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">From the têt-à-tête with Mr. Thomas Tough, she goes to her desk again, and begins to write, </p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"With what appetite she may,"</hi></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">in the forlorn hope of procuring from her bookseller part of the money she has been compelled to promise to the said Thomas's peremptory demands on the behalf of Mr. Humphry Hotgoose&#8212;precious recipe to animate the imagination and exalt the fancy!</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">The evening comes, however, and finds her so employed.   After a conference with Mr.
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">Tough,</seg>
+</p>
+<pb n="268" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">Tough, she must write a tender dialogue between some damsel, whose perfections are even greater then those</p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"Which youthful poets fancy when they love,"</hi></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">and her hero, who, to the bravery and talents of Cæsar, adds the gentleness of Sir Charles Grandison, and the wit of Lovelace.  But Mr. Tough's conversation, his rude threats, and his boisterous remonstrances, have totally sunk her spirits; nor are they elevated by hearing that the small beer is almost out; that the pigs of a rich farmer, her next neighbour, have broke into the garden, rooted up the whole crop of pease, and not left her a single hyacinth or jonquil.  She knows remonstrance to be vain; or if it were not, that farmer Duckbury cannot restore her bed of sweet flowers, on which she depended for the amusement of a few solitary moments in the spring.  Melancholy and dejected she recollects that once she had a walled garden well provided with flowers; and the comforts and pleasures of affluence recur forcibly to her mind.  She is diverted from such reflections, however, by hearing from her maid, as she is assisting her to undress, that John Gubbin's children over the way, and his wife, and John his-self, have all got the <hi rend="italics" lang="" TEIform="hi" id="" n="">scarlot favor</hi>; and that one of the children is dead on't, and another like to die.  She is ashamed of concern she felt a few moments before for a nosegay, when creatures of the same species, and so near her, are suffering under calamities infinitely more severe.  She enquires what attendance these poor people have had; and finds that farmer Duckbury has sent the doctor, (Hired by the parish to attend the poor at so much a head) and that he says the favor's very catching
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">and</seg>
+</p>
+<pb n="269" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">and he's afraid to go nist um.  Compassion for these unhappy persons is now mingled with apprehensions for her own family.  A malignant fever raging in a dirty cottage not an hundred yards from her door, gives her but an unpleasing impression to carry to her pillow, where </p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"The churlish chiding of the winter's wind"</hi></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">does not lull her agitated mind to repose.  Sleep flies from her eyes; or if it visits her a moment, the figure of that animal, </p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"Hateful to gods and men,"</hi></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">a Dun, appears before her disturbed imagination; or she sees her sick neighbours expiring around her.  With the earliest dawn she sends her servant (her nose well stopped with rue,) to enquire at their door how they do?&#8212;The scene of exquisite misery, even as described by the unadorned account of her maid Betty, excites her commiseration.  She buys her wine by the dozen, not having been for a long time rich enough to purchase a pipe, and she sends a man and horse ten miles to fetch it; but all she has in the house is now sent to supply the pressing occasions of John Gubbins and his family, for whom she knows it will do more than medicine, especially such as is sent in to be paid for by farmer Ducksbury, as overseer, at so much a head.   The rest of the day is passed as before; her hero and her heroine are parted in agonies, or meet in delight and she is employed in making the most of either; with interludes of the Gubbins' family, and precautions against importing the infectious distemper into her own.  The farmer arrives towards evening, who had been to the market-town, and had undertaken to bring her letters.
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">He</seg>
+</p>
+
+<pb n="270" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">He delivers her two, of which the contents are probably as follows:</p>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"No. 4, Thaives-Inn, Feb. 23, 17</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Madam,</l>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"The trustees have received your's of the 9th past.  I hereby acquaint you from them, that they will not, for the future, correspond with you, or answer any questions you may ask.  They are suprised at the abuse you throw upon them about Mr. Prettythief, their agent.  You have already been informed that the trustees have written to him to know what he has done with the 650l. &amp;c. and for his accounts so long ago as five months.  Have no doubt, as he is a very honest man, that he will give, in due time, a true account thereof.  Mean time, as for money for your children's support, the gentlemen have none in hand; but if they had, it would make no difference, they being determined not to pay a farthing without an order from Chancery.</p>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">I am, Madam,</hi></l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">For Mess. Ramsay and Shrimpshire,</hi></l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">Your humble servant,</hi></l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">ANTHONY LAMBSKIN."</l>
+
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">LETTER II.</hi></l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Madam,</l>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"Am much surprised at your not sending up, as promised, the end of the third volume of the new novel purchased by me.  The trade expects it at the time I notified to them that it would be
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">ready;</seg>
+</p>
+
+<pb n="271" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">ready; and the printer informs me he shall stand still if not supplied immediately.  Must insist on having a hundred pages at least by Saturday night; also the Ode to Liberty, mentioned by you as a close to the same: but I shall change the title of that, having promis'd the trade that there shall be no liberty at all in the present work; without which asshurance they would not have delt for the same.&#8212;Hopin to receive the manscrip (as you have had money thereon,) at the time before-named, remain,</p>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Madam, your humble servant,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">JOSEPTH CLAPPER.</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"194, Holbourn,<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+Feb. 22, 17  ."</l>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Such, my dear *****, are the delights that her existence now affords to Mrs. Denzil, mingled and varied with others, of which she will forbear to give a description, because you are not ignorant of some, and others would only give you pain.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">But to cease speaking in the second person&#8212;Do not <hi rend="italics" lang="" TEIform="hi" id="" n="">you</hi>, my friend, add <hi rend="italics" lang="" TEIform="hi" id="" n="">your</hi> censure to that of the unfeeling triflers I have before described, and to many others whom I <hi rend="italics" lang="" TEIform="hi" id="" n="">could </hi>describe.  Do not add your censure if I find it always impossible to submit, without murmuring, to so dreary a fate; and let others, if I find it always impossible to submit, without murmuring, to so dreary a fate; and let others, if they can a moment divest themselves of selfish prejudice, ask their own hears whether <hi rend="italics" lang="" TEIform="hi" id="" n="">they </hi>could acquit themselves better in circumstances like mine than I have done.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">All, however, I could have borne, because I <hi rend="italics" lang="" TEIform="hi" id="" n="">must </hi>&#8212;because I felt a degree of self-approbation in stemming a tide of adversity under which
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">the</seg>
+</p>
+<pb n="272" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">the generality of women would have sunk.&#8212;All this I could have endured with less disposition to murmur, did I not see, as I proceed in this rugged way, that those who now and then threw a flower before me, drop off as I go along&#8212;some from the mere weakness and caprice of human nature; others because I will not consent to consider it as proper to give up my understanding to their disposal; and some, alas! by death.  You know how tenderly I was attached to one friend, thus torn from me; and if you love my attempts in poetry, as well as you once did, though perhaps those attempts are not what they were once, you may possibly have a melancholy satisfaction in reading the lines that occurred to me a few evenings since, as I was wandering alone, watching the rising of the moon above the plantation on the hilly common behind the house here, and recollected that it was twelve months since I lost the friend who supplied to me the many relations and connections that calamity has robbed me of&#8212;some by distance, and some by that estrangement which policy imposes on the sage and the prudent.
+</p>
+
+<lg type="poem" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Like a poor ghost, the night I seek, </l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Its hollow winds repeat my sighs, </l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">The cold dews mingle on my check,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">With tears that wander from mine eyes.</l>
+<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">The thorns that still my couch molest,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Have robb'd those heavy eyes of sleep;</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">But long depriv'd of tranquil rest,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">I here at least am free to weep.</l>
+<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Twelve times the moon that rises red,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">O'er you tall wood of shadowy pine,</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Has fill'd her orb, since low was laid,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">My Harriet, that sweet form of thine!</l>
+</lg>
+
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">While</seg></l>
+
+<pb n="273" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<lg type="poem" rend="cont" lang="" org="uniform" n="" ana="" corresp="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">While each sad month, as flow it pass'd,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Brought some new sorrow to deplore;</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Some grief more poignant than the last,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">&#8212;But thou canst calm those griefs no more.</l>
+<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">No more thy friendship soothes to rest,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">This wearied spirit, tempest tost;</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">The cares, that weigh upon my breast,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Are doubly felt, since thou art lost.</l>
+<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Bright visions of ideal grace,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">That the young poet's dreams inflame,</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Were not more lovely than thy face,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Were not more perfect than thy frame.</l>
+<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Wit, that no sufferings could impair,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Was thine; and thine those mental powers</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Of force to chase the fiends, that tear</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">From fancy's hand her budding flowers.</l>
+<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">O'er what, my angel friend, thou wert,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Dejected memory loves to mourn;</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Regretting still thy tender heart,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Now withering in a distant urn!</l>
+<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">But ere that wood of shadowy pine</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Twelve times shall yon full orb behold,</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">The sickening heart, that bleeds for thine,</l>
+<l rend="indent" lang="" n="" ana="" corresp="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">My Harriet!&#8212;may, like thine, be cold!</l>
+</lg>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">And this is, in my opinion, my dear ***** "a consummation devoutly to be wished."&#8212;Yet when I look at my children, particularly my girls and my little boy, I blush at my cowardice, and resolve that I will not even <hi rend="italics" lang="" TEIform="hi" id="" n="">wish </hi>to desert my post, terribly untenable as it frequently appears.</p>
+
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">But</seg></l>
+
+<pb n="274" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">But what amends can be made me by the men, who, under pretence of serving, have undone us?&#8212;If there is justice either on earth or in Heaven, they will have a dreadful account to answer to both.  In the mean time, notwithstanding your exhortations to moderation, I shall endeavour to <sic corr="show" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">shew </sic> what they are to a world who is already but little disposed to think well of them&#8212;And <hi rend="italics" lang="" TEIform="hi" id="" n="">you </hi>will see it really may happen in this very happy land, that men who are rich may commit, with impunity, crimes infinitely more unpardonable, because they are committed with less temptation, than those for which "little villains" suffer everyday&#8212;crimes which involve in their consequences the most fatal events.&#8212;I dare not trust myself longer on this subject, for my temper and health suffer from it.&#8212;<sic corr="Farewell" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">Farewel</sic>, my dear *****; while I exist, I must, however, or wherever situated, remain your most faithful and affectionate servant.</p>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="right" lang="" TEIform="hi" id="" n="">CHARLOTTE DENZIL.</hi></l>
+
+
+<closer lang="" n="" ana="" corresp="" rend="" TEIform="closer" next="" id="" prev="">END OF THE FIRST VOLUME.</closer>
+
+</div1></text></TEI.2>

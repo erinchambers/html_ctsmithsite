@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="9"><text><div1 type="sonnet">
+<head>SONNET III.</head>
+<head type="sub">WRITTEN AT THE CLOSE OF SPRING.</head>
+<lg type="verse">
+<l>POOR melancholy bird  that all night long <note>SONNET III.<lb/>Line 1.<lb/>The idea from the 43rd Sonnet of Petrarch. Secondo parte.<lb/>Quel resigniuol, che si soave piagne.
+
+
+</note>
+</l>
+<l rend="indent">Tell'st to the Moon thy tale of tender woe;</l>
+<l rend="indent">From what sad cause can such sweet sorrow flow,</l>
+<l>And whence this mournful melody of song?</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Thy poet's musing fancy would translate</l>
+<l rend="indent">What mean the sounds that swell thy little breast,</l>
+<l rend="indent">When still at dewy eve thou leav'st thy nest,</l>
+<l>Thus to the listening night to sing thy fate?</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Pale sorrow's victims wert thou once among,</l>
+<l rend="indent">Tho' now releas'd in woodlands wild to rove?</l>
+<l rend="indent">Say  hast thou felt from friends some cruel wrong,</l>
+<l>Or died'st thou  martyr of disastrous love?</l>
+<l>Ah! songstress sad! that such my lot might be,</l>
+<l>To sigh and sing at liberty  like thee!</l>
+</lg>
+
+
+</div1></text></TEI.2>

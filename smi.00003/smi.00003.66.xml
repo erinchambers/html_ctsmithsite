@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="66"><text><div1 type="poem">
+<head>ODE TO DESPAIR.</head>
+<head type="sub">FROM THE NOVEL OF EMMELINE.</head>
+<lg type="verse">
+<l>THOU spectre of terrific mien,</l>
+<l>Lord of the hopeless heart and hollow eye,</l>
+<l>In whose fierce train each form is seen</l>
+<l>That drives sick Reason to insanity!</l>
+<l>"Grim visag'd, comfortless Despair:"</l>
+<l>Approach; in me a willing victim find,</l>
+<l>Who seeks thine iron sway  and calls thee kind!</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Ah! hide for ever from my sight</l>
+<l>The faithless flatterer Hope  whose pencil, gay,</l>
+<l>Portrays some vision of delight,</l>
+<l>Then bids the fairy tablet fade away;</l>
+<l>While in dire contrast, to mine eyes,</l>
+<l>Thy phantoms, yet more hideous, rise,</l>
+<pb n="61"/>
+<l>And Memory draws, from Pleasure's wither'd flower,</l>
+<l>Corrosives for the heart  of fatal power!</l>
+
+</lg>
+<lb/>
+<lg type="verse">
+<l>I bid the traitor Love, adieu!</l>
+<l>Who to this fond, believing bosom came,</l>
+<l>A guest insidious and untrue,</l>
+<l>With Pity's soothing voice  in friendship's name;</l>
+<l>The wounds <emph>he</emph> gave, nor time shall cure,</l>
+<l>Nor Reason teach me to endure.</l>
+<l>And to that breast mild Patience pleads in vain,</l>
+<l>Which feels the curse  of meriting it's pain.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Yet not to me, tremendous power!</l>
+<l>Thy worth of spirit-wounding pangs impart,</l>
+<l>With which, in dark conviction's hour,</l>
+<l>Thou strik'st the guilty unrepentant heart!</l>
+<l>But of illusion long the sport,</l>
+<l>That dreary, tranquil gloom I court,</l>
+<l>Where my past errors I may still deplore,</l>
+<l>And dream of long-lost happiness no more!</l>
+</lg>
+<pb n="62"/>
+<lg type="verse">
+<l>To thee I give his tortur'd breast,</l>
+<l>Where Hope arises but to softer pain;</l>
+<l>Ah! lull it's agonies to rest!</l>
+<l>Ah! let me never be deceiv'd again!</l>
+<l>But callous, in thy deep repose</l>
+<l>Behold, in long array, the woes</l>
+<l>Of the dread future, calm and undismay'd,</l>
+<l>Till I may claim the Hope &#8212; that shall not fade!</l>
+</lg>
+<pb n="[plate 5]"/>
+<p>
+<figure>
+<entity name="vol1plate5"/>
+</figure>
+</p>
+</div1></text></TEI.2>

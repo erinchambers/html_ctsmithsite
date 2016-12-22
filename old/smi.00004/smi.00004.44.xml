@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="44"><text><div1 type="notes">
+<head>NOTES</head>
+<pb n="[90]"/>
+<note>The Quotations, Notes, and Explanations have been included throughout the text.  In the printed version, these notes were on pages 91 through 117.</note>
+<pb n="117"/>
+
+<pb n="[118]"/>
+<pb n="[119]"/>
+<trailer>
+<seg type="figure">
+<figure>
+<entity name="vol2advertisement"/>
+</figure>
+</seg>
+<seg>New Editions of the following Works, all written by CHARLOTTE SMITH, have been lately published by T. CADELL, jun. and W. DAVIES, in the <emph>Strand</emph>.</seg>
+ <lb/>
+<seg type="monograph">  <title>1.  ELEGIAC SONNETS, and other Poems. Vol. 1.</title>Elegantly printed in a pocket volume, and adorned withplates.  6s. in boards.</seg>
+ <lb/>
+<seg type="monograph">  <title>2.  THE EMIGRANTS, a Poem.</title>4 to. 2s. in boards.</seg>
+ <lb/>
+<seg type="monograph"> <title>3.  RURAL WALKS: in Dialogues, intended for the use of Young Persons.</title> 2 vols.  5s. half bound.</seg>
+ <lb/>
+<seg type="monograph">
+<title>4.  RAMBLES FARTHER:  a continuation of <emph>Rural Walks</emph>.</title>2 vols. 5s. half bound.</seg>
+ <lb/>
+<seg type="monograph">
+<title>5.  EMMELINE, THE ORPHAN OF THE CASTLE. A Novel.</title>4 vols. 12s sewed</seg>
+ <lb/>
+<seg type="monograph">
+<title>6.  ETHELINDE, THE RECLUSE OF THE LAKE.  A Novel.</title> 4 vols. 12s. sewed.</seg>
+ <lb/>
+<seg type="monograph">
+<title>7.  CELESTINA, a Novel.</title>4 vols. 14s. sewed.</seg>
+ <lb/>
+<seg type="monograph">
+<title>8.  THE BANISHED MAN, a Novel.</title>4 vols. 14s. sewed.</seg>
+ <lb/>
+<seg type="monograph">
+<title>9.  THE ROMANCE OF REAL LIFE.</title>3 vols. 9s sewed.</seg>
+</trailer>
+</div1></text></TEI.2>

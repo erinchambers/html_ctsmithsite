@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="3"><text><div1 type="TOC">
+<head>CONTENTS.</head>
+<head type="sub">SONNETS.</head>
+<list>
+<item>LX.  To an amiable Girl . . . 1</item>
+<item>LXI.  Supposed to have been written in America . . . 2</item>
+<item>LXII.  Written on passing by Moon-light through a village, while the ground was covered with Snow . . . 3</item>
+<item>LXIII.  The Gossamer . . . 4</item>
+<item>LXIV.  Written at Bristol in the Summer of 1794 . . . 5</item>
+<item>LXV.  To Dr. Parry of Bath, with some botanic Drawings which had been made some years . . . 6</item>
+<item>LXVI.  Written in a tempestuous Night, on the coast of Sussex . . . 7</item>
+<item>LXVII.  On passing over a dreary tract of country, and near the ruins of a deserted chapel, during a Tempest . . . 8</item>
+<pb n="xviii"/>
+<item>LXVIII.  Written at Exmouth, Midsummer 1795 . . . 9</item>
+<item>LXIX.  Written at the same place, on seeing a Seaman return who had been imprisoned at Rochfort . . . 10</item>
+<item>LXX.  On being cautioned against walking on an Headland overlooking the Sea, because it was frequented by a Lunatic . . . 11</item>
+<item>LXXI.  Written at Weymouth in Winter . . . 12</item>
+<item>LXXII.  To the Morning Star.  Written near the Sea . . . 13</item>
+<item>LXXIII.  To a querulous Acquaintance . . . 14</item>
+<item>LXXIV.  The Winter Night . . . 15</item>
+<item>LXXV.  . . . . . 16</item>
+<item>LXXVI.  To a Young Man entering the World . . . 17</item>
+<item>LXXVII.  To the Insect of the Gossamer . . . 18</item>
+<item>LXXVIII.  Snow-drops . . . 19</item>
+<item>LXXIX.  To the Goddess of Botany . . . 20</item>
+<item>LXXX.  To the Invisible Moon . . . 21</item>
+<item>LXXXI.  . . . . . 22</item>
+<pb n="xix"/>
+<item>LXXXII.  To the Shade of Burns . . . 23</item>
+<item>LXXXIII.  The Sea View . . . 24</item>
+<item>LXXXIV. To the Muse . . . 25</item>
+<item>The Dead Beggar . . . 26</item>
+<item>The Female Exile . . . 29</item>
+<item>Occasional Address.  Written for the Benefit of a distressed Player, detained at Brighthelmstone for debt, November 1792 . . . 33</item>
+<item>Inscription on a Stone in the Church-Yard at Boreham, in Essex . . . 38</item>
+<item>A descriptive Ode . . . 39</item>
+<item>Verses supposed to have been written in the new Forest, in early Spring . . . 46</item>
+<item>Song.  From the French . . . 48</item>
+<item>Apostrophe to an Old Tree . . . 50</item>
+<item>The Forest Boy . . . 54</item>
+<item>Ode to the Poppy. Written by a deceased Friend . . . 68</item>
+<item>Verses written by the same Lady on seeing her two Sons at play . . . 72</item>
+<pb n="xx"/>
+<item>Verses on the death of the same Lady, written in September 1794 . . . 74</item>
+<item>Fragment, descriptive of the Miseries of War . . .78</item>
+<item>April . . . 82</item>
+<item>Ode to Death . . . 87</item>
+</list>
+</div1></text></TEI.2>

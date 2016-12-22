@@ -1,0 +1,20 @@
+CATCHWORDS
+
+<catchwords>  provides a description of the system of word(s), written in the lower margin of the last leaf verso of a gathering, as a preview of the first word(s) of the first leaf recto of the successive gathering, to ensure correcting ordering of the quires by the binder.
+
+Although ante litteram, the <catchword> element may also be used to encode the description of pre-twelfth-century ordering of quires by roman numerals on the first leaf recto or the last leaf verso; we have chosen to amalgamate this practice to that of catchwords, since both systems order only the quires (and not the leaves), and since both systems occur once per gathering.
+
+This element may also be used for the mainly post-medieval habit of placing preview words at the foot of each page, as an aid to the reader.
+
+Examples:
+
+<catchwords>Quires signed on the last leaf verso in roman numerals.</catchwords>
+
+<catchwords>The only evidence of the use of catchwords is a tiny trace of one on fol. 144v.</catchwords>
+
+ <collation><p>Hauptsächlich Quinionen</p></collation> <catchwords>mit Reklamanten</catchwords>
+
+<catchwords>Quelques réclames, le plus souvent rognées.</catchwords>
+
+<catchwords>Vertical catchwords in the hand of the scribe placed along the inner bounding line, reading from top to bottom.</catchwords>
+

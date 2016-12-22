@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="21"><text><div1 type="sonnet">
+<head>SONNET LXXVII.</head>
+<head type="sub">TO THE INSECT OF THE GOSSAMER.</head>
+<lg type="verse">
+<l>SMALL, viewless ronaut, that by the line <note>SONNET LXXVII.<lb/>Line 1.<lb/>Small viewless ronaut, &amp;c. &amp;c.<lb/>The almost imperceptible threads floating in the air, towards the end of Summer or Autumn, in a still evening, sometimes are so numerous as to be felt on the face and hands.  It is on these that a minute species of spider convey themselves from place to place; sometimes rising with the wind to a great height in the air.  Dr. Lister, among other naturalists, remarked these insects.  "To fly they cannot strictly be said, they being<lb/>"carried into the air by external force; but they can,<lb/>"in case the wind suffer them, steer their course, perhaps<lb/>"mount and descend at pleasure: and to the <lb/>"purpose of rowing themselves along in the air, it is<lb/>"observable that they ever take their flight backwards,<lb/>"that is, their head looking a contrary way like a sculler<lb/>"upon the Thames.  It is scarcely credible to what<lb/>"height they will mount; which is yet precisely true,<lb/>"and a thing easily to be observed by one that shall<lb/>"fix his eye some time on any part of the heavens,<lb/>"the white web, at a vast distance, very distinctly<lb/>"appearing from the azure sky &#8212; But this is in Autumn<lb/>"only, and that in very fair and calm weather."<bibl>From the Encyclop. Britan.</bibl>
+<lb/>Dr. Darwin, whose imagination so happily applies every object of Natural History to the purposes of Poetry, makes the Goddess of Botany thus direct her Sylphs &#8212;<lb/>"Thin clouds of Gossamer in air display,<lb/>"And hide the vale's chaste lily from the ray."<lb/>These filmy threads form a part of the equipage of Mab:<lb/>"Her waggon spokes are made of spiders legs,<lb/>"The cover of the winds of grasshoppers,<lb/>"The traces of the smallest spider's web."<lb/>Juliet, too, in anxiously waiting for the silent arrival of her lover, exclaims,<lb/>&#8212; Oh! so light of foot<lb/>Will ne'er wear out the everlasting flint;<lb/>A lover may bestride the Gossamer<lb/>That idles in the wanton Summer air,<lb/>And yet not fall &#8212;
+
+
+
+
+
+
+
+</note>
+</l>
+<l rend="indent">Of Gossamer suspended, in mid air</l>
+<l rend="indent">Float'st on a sun beam &#8212; Living Atom, where</l>
+<l>Ends thy breeze-guided voyage; &#8212; with what design</l>
+<l>In ther dost thou launch they form minute,</l>
+<l rend="indent">Mocking the  eye? &#8212; Alas! before the veil</l>
+<l>Of denser clouds shall hide thee, the pursuit</l>
+<l rend="indent">Of the keen Swift may end thy fairy sail! &#8212;</l>
+<l>Thus on the golden thread that Fancy weaves</l>
+<l rend="indent">Bouyant, as Hope's illusive flattery breathes,</l>
+<l>The young and visionary Poet leaves</l>
+<l rend="indent">Life's dull realities, while sevenfold wreaths</l>
+<l>Of rainbow-light around his head revolve.</l>
+<l>Ah! soon at Sorrow's touch the radiant dreams dissolve!</l>
+</lg>
+</div1></text></TEI.2>

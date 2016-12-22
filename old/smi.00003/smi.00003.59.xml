@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="59"><text><div1 type="sonnet">
+<head>SONNET LIII.</head>
+<head>FROM THE NOVEL OF CELESTINA.<lb/>THE LAPLANDER.
+</head>
+<lg type="verse">
+<l>THE shivering native, who by Tenglio's side</l>
+<l rend="indent">Beholds with fond regret the parting light</l>
+<l>Sink far away, beneath the dark'ning tide,</l>
+<l rend="indent">And leave him to long months of dreary night;</l>
+<l>Yet knows, that springing from the eastern wave</l>
+<l rend="indent">The fun's glad beams shall re-illume his way,</l>
+<l>And from the snows secur'd  within his cave</l>
+<l rend="indent">He waits inpatient hope  returning day.</l>
+<l>Not so the sufferer feels, who, o'er the waste</l>
+<l rend="indent">Of joyless life, is destin'd to deplore</l>
+<l>Fond love forgotten, tender friendship past,</l>
+<l rend="indent">Which, once extingiush'd, can revive no more!</l>
+<l>O'er the blank void he looks with hopeless pain;</l>
+<l>For him those beams of heaven shall never shine again.</l>
+</lg>
+</div1></text></TEI.2>

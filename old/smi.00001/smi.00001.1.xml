@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00001" n="1"><text><div1 type="preface">
+
+<figure>
+<entity name="bm1titlepage"/>
+</figure>
+
+<head>PREFACE.</head>
+<p>THE Work I now offer to the Public, has been written under great disadvantages and, might I quote in my apology for the defects of so trifling a composition as a Novel, the expression used in regard to his great and laborious work by Dr. Johnson, I might justly plead in excuse for those defects, that it has been composed <emph>"amidst inconvenience and distraction, in sickness and in sorrow"</emph>  at a time when long anxiety has ruined my health, and long oppression broken my spirits  at the end of more than ten years (a very great portion of human life), during which I have been compelled to provide for the necessities of a numerous family, almost entirely by my own labour  and when I am yet to look forward to no other prospect for the future but a repetition of exertions on my part; of injustice and evasion on the part of those who have detained the property of my children from them, or even to greater inconvenience and distress for them, when, quite worn out by my sufferings, <emph>I</emph> shall no more be able to assist them.</p>
+<p>By my friends I have often been congratulated, on the power I have possessed of warding off, in a great measure, the shafts of adversity from my children; but whatever gratification that reflection may afford, it is embittered when I consider that <emph>I</emph> have toiled only that others might rob  and that the more struggles I have made for their support, the greater has been the facility with which their trustees have given up their property to be plundered by others.</p>
+
+<pb n="iv"/>
+
+<p>Had I known ten years since, that instead of rescuing them from the mismanagement, it was the purpose of these Trustees to expose them to more direct malversation  had I known that instead of disposing of the property as the will of their Grandfather directs, it was these gentlemens' determination to let their agent put the produce into his own pocket from year to year, without question, and without account  could I have foreseen that the creditors of their Grandfather's estate to a very great amount, would have <emph>defied</emph>, instead of paying them, I should have done wrong to have attempted raising such a family as a <emph>gentleman's</emph> family  I should have been wiser to have descended at once into the inferior walks of life, and have humbled them and myself to our fortunes:  but, when I have been told, from year to year, that their property would be restored; when I have been conjured to have patience yet a little longer, on this, or on that pretence, of unavoidable delay  it has seemed a part of my duty to continue my efforts for them; till at length every evasion being exhausted, and their affairs being more embroiled than when their trustees engaged in them, I am sent to Chancery by the very men, who ten years since, undertook the trust for the express purpose of saving them from that expence;  and who have been telling me repeatedly, that such an appeal would be ruinous to my hopes of a speedy settlement. I am now to wait the tardy justice of a Court, which to avoid, I have suffered ten years of poverty and deprivation.</p>
+<p>The insults I have endured, the inconveniencies I have been exposed to, are not to be described  but let it not be a matter of surprise or blame, if the impression made by them on my mind affects my writings. In the strictures on a
+
+<pb n="vii"/>
+
+late publication of mine, some Review (I do not now recollect which) objected to the too frequent allusion I made in it to my own circumstances  I might quote in favour of this practice, the example of two of the greatest of our poets; but I will make no other defence than that which is lent me by a sister art:  The History Painter, gives to his figures the cast of countenance he is accustomed to see around him  the Landscape Painter derives <emph>his</emph> predominant ideas from the country in which he has been accustomed to study  a novelist, from the same causes, makes his drawing to resemble the characters he has had occasion to meet with,  Thus, some have drawn alehouse-keepers and their wives  others, artists and professors  and of late we have seen whole books full of dukes and duchesses, lords and ladies  <emph>I</emph> have "fallen among thieves," and I have made only sketches of them, because it is very probable that I may yet be under the necessity of giving the portraits at full length, and of writing under those portraits the names of the <emph>weazles</emph>, <emph>wolves</emph>, and <emph>vultures</emph> they are meant to describe  nay, even to detail at length the unexampled conduct of these persons who have completed me, being <lb/>
+<q>
+<l>"Perplexed in the extreme,"</l>
+</q>
+<lb/>to have recourse to my pen for a subsistence, and at length "My downright violence and storm of fortune "To trumpet to the world "
+
+
+</p>
+<p>"When a man owns himself to have been in an error," says Pope, "he does but tell you that he is wiser than he was." Thus, if I had been convinced I was in an error in regard to what I formerly wrote on the politics of France, I should
+
+<pb n="viii"/>
+
+without hesitation avow it. I still think, however, that no native of England could help then rejoicing at the probability there was that the French nation would obtain, with very little bloodshed, that degree of freedom which we have been taught to value so highly.  But I think also, that Englishmen must execrate the abuse of the name of liberty which has followed; they must feel it to be injurious to the real existence of that first of blessings, and must contemplate with mingled horror and pity, a people driven by terror to commit enormities which in the course of a few months have been more destructive than the despotism of ages  a people who, in place of a mild and well-meaning monarch, have given themselves up to the tyranny of monsters, compared with whom, Nero and Caligula are hardly objects of abhorrence.
+</p>
+<p>For the rest, I have in the present work, aimed less at the wonderful and extraordinary, than at connecting by a chain of possible circumstances, events, some of which have happened, and all of which might have happened to an individual, under the exigencies of banishment and proscription; but I beg leave to add, that my hero resembles in nothing but in merit, the emigrant gentleman who now makes part of my family; and that though some of the adventures are real, the characters are for the most part merely imaginary.</p>
+<signed>CHARLOTTE SMITH.<date>July 30, 1794.</date>
+</signed>
+
+</div1></text></TEI.2>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="32"><text><div1 type="poem">
+<head>INSCRIPTION</head>
+<note>On a Stone, in the Church-Yard at BOREHAM, in ESSEX; raised by <lb/>the Honourable ELIZABETH OLMIUS, to the Memory of ANN<lb/> GARDNER, who died at NEW HALL, after a faithful Service of <lb/>Forty Years.
+</note>
+<lg type="verse">
+<l>WHATE'ER of praise, and of regret attend</l>
+<l>The grateful Servant, and the humble friend,</l>
+<l>Where strict integrity and worth unite</l>
+<l>To raise the lowly in the Maker's sight,</l>
+<l>Are her's; whose faithful service, long approved,</l>
+<l>Wept by the Mistress whom thro' life she loved.</l>
+<l>Here ends her early task; in joyful trust</l>
+<l>To share the eternal triumph of the Just.</l>
+</lg>
+</div1></text></TEI.2>

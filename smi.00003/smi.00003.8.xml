@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="8"><text><div1 type="sonnet">
+<head>SONNET II.</head>
+<head type="sub">WRITTEN AT THE CLOSE OF SPRING.</head>
+<lg type="verse">
+<l>THE garlands fade that Spring so lately wove,</l>
+<l rend="indent">Each simple flower, which she had nurs'd in dew,</l>
+<l>Anemonies, that spangled every grove, <note>SONNET II.<lb/>Line 3.<lb/>Anemonies, that spangled every grove.<lb/>Anemony Nemeroso. The wood Anemony.
+
+
+</note>
+</l>
+<l rend="indent">The primrose wan, the hare-bell, mildly blue.</l>
+<l>No more shall violets linger the dell,</l>
+<l rend="indent">Or purple orchis variegate the plain,</l>
+<l>Till Spring again shall call forth every bell,</l>
+<l rend="indent">And dress with humid hands her wreaths again. </l>
+<l>Ah! poor humanity! so  frail, so fair,</l>
+<l rend="indent">Are the fond visions of thy early day,</l>
+<l>Till tyrant passion, and corrosive care,</l>
+<l rend="indent">Bid all thy fairy colours fade away!</l>
+<l>Another May new buds and flowers shall bring;</l>
+<l>Ah! why has happiness  no second Spring?</l>
+</lg>
+</div1></text></TEI.2>

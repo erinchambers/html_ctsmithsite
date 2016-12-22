@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00008" n="7"><text><div1 type="chapter">
+
+<head>NOTES TO THE FIRST VOLUME.</head>
+
+<p>PAGE 2.  Green Chafer, <i>Scarabeus nobilis</i>.</p>
+
+<p>3.  Guelder Rose, <i>Viburnum opulus</i>&#8212;a cultivated variety of the indigenous species.</p>
+
+<p>7.  Shards, <i>Elytra</i>.</p>
+
+<p>10.  Lady-bird, <i>Coccinella</i>&#8212;many species.</p>
+
+<p>13.  Snail, <i>Ilelix</i>.</p>
+
+<p>15.  Plover, <i>Tringa vanellus</i>.</p>
+
+<p>17.  Carp, <i>Cyprinus carpio</i>.  Trout, <i>Salmo fario</i>.  Perch, <i>Perca fluviatilis</i>.  Bream, <i>Cyprinus brama</i>.  Minnow, <i>Cyprinus phoscinus</i>.  Roach, <i>Cyprinus rutilus</i>.</p>
+
+<p>22.  Otters, <i>Mustela lutra</i>.  Badger, <i>Ursus meles</i>.</p>
+
+<p>37.  Heath, <i>Erica</i>&#8212;there are five British species.</p>
+
+<p>38.  Wasp, <i>Vespa vulgaris</i>.  Hornet, <i>Vespa crabro</i>.</p>
+
+<p>39.  Hare-bell, <i>Hyacinthus non scriptus</i>.  Broom, <i>Spartium scoparium</i>.  Clover, <i>Trifolium pratense</i>.  Wood-bine, <i>Lonciera periclymenum</i>.  Hawthorn, <i>Cralegus oxyucantha</i>.  Wild Rose, <i>Rosa canina</i>.  Fox-glove, <i>Digitalis purpurea</i>.  Indian Pink, <i>Dianthus chinensis</i>.</p>
+
+<p>46.  Hedge-hog, <i>Erinaceus Europeus</i>.</p>
+
+<p>52.  Pilewort, <i>Ranuxculus ficaria</i>.  Daisy, <i>Bellis perennis</i>.</p>
+
+<pb n="194"/>
+
+<p>Pa. 56.  Swallow, <i>Hirundo rustica</i>.  Bat, <i>Vespertilis murinus</i>.</p>
+
+<p>57.  Nastursium, <i>Tropaecolum majus</i>.&#8212;This is one of the flowers which is said to have a sort of glory, or light halo of fire apparently surrounding it, of an evening in dry weather&#8212;a phenomenon first observed by one of the daughters of Linneaus.  I once thought I saw it in the Summer of 1802.</p>
+
+<p>68.  Cocoa, <i>Theobroma cacao</i>.  Bread fruit, <i>Artocarpus incisa</i>.  Sugar cane, <i>Saccharum officinarum</i>.  Indigo, <i>Indigofera</i>&#8212;many species.  Ginger, <i>Amomum zingiber</i>.</p>
+
+<p>69.  Sensitive plant, <i>Mimosa</i>&#8212;many species.</p>
+
+<p>71.  Bird of Indian skies, <i>Paradisea apoda</i>.</p>
+
+<p>72.  Rook, <i>Corous frugilegus</i>.  Hare, <i>Lepus timidus</i>.  Pheasant, <i>Phasiamus colchicus</i>.  Squirrel, <i>Sciurus vulgaris</i>.  Dormouse, <i>Mayoxus muscardinus</i>. Marmot, <i>Arctomis marmota</i>.</p>
+
+<p>73.  Rat, <i>Mus decumanus</i>&#8212;brown rat.  Mouse, <i>Mus musculus</i>.</p>
+
+<p>84.  Wood Strawberries, <i>Fragaria vesea</i>.</p>
+
+<p>94.  Yellow hellebore, <i>Helleborus hyemalis</i>.  Snow-drop, <i>Gulanthus nivalis</i>.  Orchis&#8212;many species.</p>
+
+<p>95.  Crocus, <i>Crocus vernus</i>.  Hazle, <i>Corylus avellana</i>.  Sallows, <i>Salix carprea</i>.</p>
+
+<p>96.  Violet, <i>Viola odorata</i>.</p>
+
+<p>102.  Carnation, <i>Dianthus caryophyllus</i>.</p>
+
+<p>103.  Aster <i>chinensis</i>.  Poppy, <i>Papaver somniferum</i>.  Sun-flower, <i>Helianthus anorenus</i>.</p>
+
+<p>108.  Lion, <i>Felis leo</i>.  Leopard, <i>Felis leopardus</i>.  Tyger, <i>Felis tigris</i>.  Rattle-snake, <i>Coluber horridus</i>.</p>
+
+<p>110.  Snake, <i>Coluber natrix</i>, ringed Snake.</p>
+
+<p>111. Viper, <i>Coluber berus</i>.</p>
+
+<p>113.  Field Cricket, <i>Gryllus campestris</i>.</p>
+
+<pb n="195"/>
+
+<p>Pa. 115.  Locust, <i>Gryllus migratorius</i>.</p>
+
+<p>116.  Horse Ant, <i>Formica Herculaneu</i>.  Black Ant, <i>Formica omnivora</i>.</p>
+
+<p>119.  Fox, <i>Canis vulpes</i>.  Wild Cat, <i>Felis caius</i>.  Weasel, <i>Mustela vulgaris</i>.  Pole-cat, <i>Mustela putorius</i>.  Martin cat, <i>Mustela martes</i>.</p>
+
+<p>123.  Kite, <i>Falco milous</i>.  Sparrow-hawk, <i>Falco nisus</i>.</p>
+
+<p>125.  Tree-creeper, <i>Corthia familiaris</i>.  Wood-pecker, <i>Picus viridis</i>.</p>
+
+<p>131.  Admirable Butterfly, <i>Papilis atalanta</i>.</p>
+
+<p>132.  Nettle Tortoise-shell, <i>Papilis urtica</i>.</p>
+
+<p>149.  Primrose, <i>Primula vulgaris</i>.  Arum, <i>Arum muculutum</i>.  Anemone, <i>Anemone nemorosa</i>.</p>
+
+<p>150.  Sorrel, <i>Oxalis acelosella</i>, Wood Sorrel.  <i>Hottonia&#8212;Hottonia palustris</i>, Water Violet.  <i>Menyanthis&#8212;Menyanthis trifolia</i>, Buck or Bog-bean.  Lily of the valley, <i>Convallaria majalis</i>.  <i>Vinca major</i> and <i>minor</i>, Perriwinkle.  <i>Orchis apifera &amp; muscifera</i>, bee and fly Orchis.  Nightshade, <i>Solanum dulcamara</i>.  <i>Bryonia dioica</i>, Brynny.  <i>Clematis vitulba</i>.</p>
+
+<p>151.  Foxglove, <i>Digitalis purpurea</i>.  Mullcin, <i>Verbuscum thupsus</i>.  <i>Galium</i>&#8212;many species.  Willow-herb, <i>Epilohium</i>&#8212;several species.  <i>Arundo</i>, Reed&#8212;many species.  <i>Nymphea lutea</i>, yellow Water Lily.  <i>Papaver sumniferum</i>, Poppy.  Corn-flower, <i>Centaurea cyanus</i>.</p>
+
+<p>171.  Wood-lark, <i>Lauda arborea</i>.  Linnet, <i>Tringilla linota</i>.  Thrush, <i>Turdus musicus</i>.  Blackbird, <i>Turdus merula</i>.  Nightingale, <i>Motacilla luscinia</i>.  Robin, <i>Motacilla rubecula</i>.</p>
+
+<p>177.  <i>Fragaria vesca</i>, Strawberry.  Lilac, <i>Syringa vulgaris</i>.  Laburnum, <i>Cylisus Laburnum</i>.  Clove pink, <i>Dianthus</i>&#8212;many species.  Damask rose, <i>Rosa damas</i>
+
+<pb n="196"/>
+
+<i>cena</i>.  Peach, <i>Smygdalus persica</i>.  Raspberries, <i>Rubus idaeus</i>.</p>
+
+<p>Pa. 180.  Cricket, <i>Gryllus domesticus</i>.</p>
+
+<p>187.  Spanish Chesnut, <i>Fagus castanea</i>.</p>
+
+<p>188.  Olive-tree, <i>Olea europaea</i>.  Ground Ivy, <i>Glecoma hederacea</i>.  <i>Orchis maculuta</i>, and others.</p>
+
+<p>190.  <i>Lychnis dioica</i>.  Mullein, <i>Verbascum thapsus</i>.  Bugloss, Lycopsis arvensis.</p>
+
+<p>191.  Ring-dove, <i>Columbo palambus</i>.  Stock-dove, <i>Columbo oenas</i>.</p>
+
+<head>END OF THE FIRST VOLUME.</head>
+
+<pb ed="smi.00008.197" n="blank"/>
+<pb ed="smi.00008.198" n="blank"/>
+<pb ed="smi.00008.199" n="date due slip"/>
+<pb ed="smi.00008.200" n="inside back cover"/>
+<pb ed="smi.00008.202" n="back cover"/>
+
+</div1></text></TEI.2>

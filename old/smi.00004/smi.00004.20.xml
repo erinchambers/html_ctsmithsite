@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="20"><text><div1 type="sonnet">
+<head>SONNET LXXVI.</head>
+<head type="sub">TO A YOUNG MAN ENTERING THE WORLD.</head>
+<lg type="verse">
+<l>GO now, ingenuous Youth! &#8212; The trying hour</l>
+<l rend="indent">Is come: The World demands that thou shouldst go</l>
+<l>To active life:  There titles, wealth and power</l>
+<l rend="indent">May all by purchas'd &#8212;  Yet I joy to know</l>
+<l>Thou wilt not pay their price.  The base controul <note>SONNET LXXVI.<lb/>Line 5.<lb/>The base controul<lb/>Of petty despots in their pedant reign<lb/>Already hast thou felt; &#8212;<lb/>This was not addressed to my son, who suffered with many others in an event which will long be remembered by those parents who had sons at a certain public school, in 1793, but to another young man, not <emph>compelled</emph> as he was, in consequence of that dismission, to abandon the fairest prospects of his future life.
+
+</note>
+</l>
+<l rend="indent">Of petty despots in their pedant reign</l>
+<l rend="indent">Already hast thou felt; &#8212; and high disdain</l>
+<l>Of Tyrants is imprinted on thy soul &#8212; </l>
+<l>Not, where mistaken Glory, in the field</l>
+<l rend="indent">Rears her red banner, be thou ever found;</l>
+<l>But, against proud Oppression raise the shield</l>
+<l rend="indent">Of Patriot daring &#8212; So shalt thou renown'd</l>
+<l>For the best virtues <emph>live</emph>; or that denied</l>
+<l>May'st die, as Hampden or as Sydney died!</l>
+</lg>
+</div1></text></TEI.2>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="41"><text><div1 type="sonnet">
+<head>SONNET XXXV.</head>
+<head type="sub">TO FORTITUDE.</head>
+<lg type="verse">
+<l>NYMPH of the rock! whose dauntless spirit braves</l>
+<l rend="indent">The beating storm, and bitter winds that howl</l>
+<l>Round thy cold breast; and hear'st the bursting waves,</l>
+<l rend="indent">And the deep thunder with unshaken soul;</l>
+<l>Oh come!  and shew how vain the cares that press</l>
+<l rend="indent">On my weak bosom  and how little worth</l>
+<l>Is the false fleeting meteor, Happiness,</l>
+<l rend="indent">That still misleads the wanderers of the earth!</l>
+<l>Strength'd by thee, this heart shall cease to melt</l>
+<l rend="indent">O'er ills that poor humanity must bear;</l>
+<l>Nor friends estrange'd, or ties dissolv'd be felt</l>
+<l rend="indent">To leave regret, and fruitless anguish there:</l>
+<l>And when at length it heaves its latest sigh,</l>
+<l>Thou and mild hope, shall teach me how to die!</l>
+</lg>
+</div1></text></TEI.2>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00001" n="23"><text><div1 type="chapter" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="div1" sample="complete" next="" id="" decls="" prev="" part="N">
+<head lang="" n="" ana="" corresp="" rend="" TEIform="head" next="" id="" prev="" type="">CHAP. XXI.</head>
+<epigraph lang="" n="" ana="" corresp="" rend="" TEIform="epigraph" next="" id="" prev="">
+<lg lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N" type="">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Exiles, the proverb says, subsist on hope;</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Delusive hope still points to distant good,</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">To good that marks approach.</l></lg>
+<bibl lang="" n="" ana="" corresp="" rend="" TEIform="bibl" next="" id="" prev="" default="NO">EURIPIDES.</bibl>
+</epigraph>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">ELLESMERE had been talked to till he had no inclination to hear even the sound of his own voice, and D'Alonville was still less disposed to speak; they rode near a mile together before this silence was broken by Ellesmere's checking his horse suddenly, and asking his friend whether he thought Captain Caverly would not have something to undergo for having suffered them to keep his dinner waiting so long?  D'Alonville, who by no means understood the question, asked an explanation.  "Why don't you know, my friend," said he, "that our good uncle, who never could be prevailed upon to submit to the yoke of matrimony, of which he entertained the most formidable ideas, is under the dominion of an housekeeper, who governs him with more severity than the most imperious dame of family would probably ever thought of exercising.&#8212;As she does not love me much, for she has taken up, I know not how, a notion that I make the honest Captain restless under her authority, and as she always suspects I may come in for a share of his fortune, for which she has provided other claimants, she has made several attempts to shut me out from ever appearing in her little despotic government; in this instance, however, our old soldier has stoutly resisted her tyranny; but the knowledge that it gives her an opportunity of teazing him, always shortens my
+</p>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">visits</seg></l>
+
+<pb n="247" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">visits, and renders them less pleasant to me while they last.&#8212;Heaven knows, that to possess, or even to share, the little fortune of Capt. Caverly, never made any part of my scheme of life, but I love my uncle, and wish he had made out for himself a happier destiny."  "I beseech you," said D'Alonville, "if our delay is likely to be the occasion of a moment's uneasiness to him, let us make more haste."  "No," answered Ellesmere, "it is not so much that which just now struck me; for though a dinner spoiled is a very serious grievance, yet with a few hours grumbling and pouting it may be got over; but what led me to think and to speak of my uncle's governante, was, the difficulty he will have to escape from her wrath, when it is known that he is about to make an acquaintance with these French ladies, and even proposed receiving them into his house."
+</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"Permit me one remark," said D'Alonville.  "You English accuse the French (I speak of the French as they were) of dissolute manners and as being a nation wholly unprincipled in their gallantries; yet in my short acquaintance with England, I have observed several instances of arrangements which, in my country, would appear extraordinary examples of want of principle, or rather what we call of <foreign lang="" TEIform="foreign" rend="" id="" n="">
+<hi rend="italics" lang="" TEIform="hi" id="" n="">bien seance </hi>
+</foreign>, than any thing that usually occurs in France."</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"A truce with your moralizing comparisons, my dear Chevalier.  Notwithstanding the solemn airs we English give ourselves, your remark is just enough; but there is nothing so blind as national prejudice and national presumption.  That Miss Denzil," added he, changing the conversation, "is a good fine girl, D'Alonville?"
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">"</seg>
+</p>
+
+<pb n="248" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"I think her," answered he, "not only the most lovely woman I have seen in England but during my whole life."</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"Yes," said Ellesmere, "I saw you were taken with her, which I should not have expected; for after all, it is but a little uncultivated rustic, and surely rather <sic corr="showy" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">shewy </sic> than handsome,  I should have fancied thee, my good friend, much more likely to be charmed with the fair Gabrielle."</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"What the wife of my friend?"</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">
+<foreign lang="" TEIform="foreign" rend="" id="" n="">"Cela n'empeche rien</foreign>, Chevalier, as you know very well; but lest it should be really likely you should be <foreign lang="" TEIform="foreign" rend="" id="" n="">
+<hi rend="italics" lang="" TEIform="hi" id="" n="">epris </hi>
+</foreign>with the simple charms of this nymph of the wilds, let me put you upon your guard, by telling you, that I understand she is the second or third daughter of a numerous family, and that, by I know not what strange combination, they are robbed of the greatest part of their property, and are compelled to live in great obscurity.&#8212;I could only obtain a very vague and in-complete account from Madame de Touranges, who is too much occupied, as may well be supposed with her own affairs, to attend much to those of others; besides that I think foreigners hardly ever comprehend the domestic history of the English; which is owning, perhaps, to our manners being so different form theirs.   What I clearly comprehended, however, was that Mrs. Denzil has nothing to give her daughters, and that they are in circumstances very far from fortunate."</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"I grieve to hear it," answered D'Alonville; "not because more brilliant fortune would give me a chance of being favorably received in the family of Mademoiselle Denzil, for to such an happiness I could not in any case pretend; but because, if credit is to be given to the exterior
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">indications</seg>
+</p>
+
+<pb n="249" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">indications of an amiable and ingenious mind, there are not many young persons who deserve an happier destiny than her of whom we have been speaking."   D'Alonville sighed so deeply as he concluded this sentence, that Ellesmere could not but remark it.  "Is it even so?" cried he.  "What! is my invulnerable friend touched at last?  He on whom the graceful vivacity of France, the majestic gravity of Germany, and even the celebrated charms of English women, have hitherto made no impression?"  D'Alonville turned off this raillery as well as he could; and they soon after arrived at Fernyhurst, where they found the poor Captain in some concern, much more indeed than a spoiled dinner seemed to deserve from a man who was not particularly attached to the pleasures of the table.  Ellesmere lamented the derangement he had been the occasion of, though he <sic corr="showed" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">shewed </sic> by his appetite that it was not a matter of much consequence to him.  D'Alonville was dejected and silent.  The face, the figure, the tone of voice of the beautiful Denzil were present to his imagination, and he seemed to have discovered that there was in the world one being for whom it was worth while to wish to live; and that England contained one object which made him wish to remain in it.
+</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">He was not, however, so much fascinated by this infant passion, as not to be perfectly sensible of the folly of indulging it; yet had he not so much command over himself as to refuse the opportunities of seeing Miss Denzil, which, after this first accidental meeting.  Ellesmere seemed purposely to throw in his way.  The next day he contrived to get his uncle to wait on Madame de Touranges; and interested him so much in her favor, and so much more in that of her daughter-in-law, that braving all the domestic storms
+</p>
+
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">he</seg></l>
+
+<pb n="250" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">he incurred, the old Captain became their most assiduous visitant.  His farm and his garden were made to offer their best productions for the table of these strangers; and parties were made for them, first at the house of Mrs. Denzil, and after words at Fernyhurst, where Mrs. Denzil herself, and the elder Madame de Touranges being present, malice itself could find nothing in such society to offend the most inveterate prudery.  D'Alonville must have been unlike every other man of his age and country, or indeed of any other country, if, when he continually saw the object who had by this time acquired so decided a preference in his heart, he could have concealed from her that preference; yet whenever he was alone, and ventured to examine his own conduct, he reproached himself; for he was conscious that, situated as he was, he ought not to think of engaging the affections of an innocent girl, of whom he must soon take an everlasting adieu.  Alas! when he saw Angelina, (for by that name a romantic mother had called her third daughter,) he forgot all that reason and prudence suggested, and his real disposition, which was warm and impetuous, predominated over the artificial character that adversity and sorrow had given him.  He fancied that the soft and expressive eyes of Angelina understood the language of his;&#8212;and when he spoke of his ruined fortune, of his being a wanderer and a fugitive, those charming eyes were filled with tears.  Once he ventured to begin a sketch of the melancholy circumstances that had attended his father's death; but his voice faultered as he would have described the scene at the castle of Rosenheim, and Angelina entreated him not to go on.&#8212;At this instant her mother, who had left the room a few moments before, returned, and very na-
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">turally</seg>
+</p>
+
+<pb n="251" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">turally enquired what was the occasion of the tears she saw stealing down the cheeks of her daughter.&#8212;D'Alonville got up, and went to the window; but Angelina, without hesitation, answered, "Oh! my dear mama, the Chevalier has been telling me so many sad particulars of what happened to him before he came to England, that it breaks one's heart!"   I beg your pardon, Madam." said D'Alonville, "I was not aware how much the sensibility of Mademoiselle Angelina might be excited by the story of distresses, with which, as they are without remedy, I do not generally trouble my friends; I know not indeed how I now came to be betrayed into the weakness of unavailing complaint."  Mrs. Denzil seemed to hear this apology with as much interest as her daughter had attended to the story that had given occasion for it; and answered with a pensive smile; "Don't you know, Chevalier, that we always listen with patience, and even with sympathy, to the relation of sorrows, of which we have ourselves tasted?  Alas! Sir, my children and I have also been wanderers and exiles.  I know not whether we may not still be called so; for the victims of injustice, oppression and fraud, we are now banished from the rank of life where fortune originally placed us; and England, with all its advantages, is not the country where such a change of fortune is much softened to the sufferer.  "But come," continued she, in a more cheerful voice, "we are only making one another melancholy&#8212;let us find some conversation less infectious."
+</p>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">These parties were made every day during the first ten days of the residence of the two friends at Fernyhurst; a nearer way was found, which made the distance hardly four miles from thence to North-Feldbury and Besthorpe, the villages in
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">which</seg>
+</p>
+
+<pb n="252" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">which Mrs. Denzil's and Mr. Sanderson's house stood; and Captain Caverly was so moved by the eloquence of one of the French ladies, or the beauty of the other, (though the former he did not clearly understand, and the latter he dared not openly admire) that for him the age the chivalry seemed indeed to be revived.  He had a post-chaise, which, that he might not pay an heavy duty for what he seldom used, he had for some time shut up in a wood house, where it had remained almost forgotten; the lining had suffered from time and moths; and though there was not <hi rend="italics" lang="" TEIform="hi" id="" n="">bend sinister </hi>on the pannels, to mortify the genealogic pride of the Ellesmere's or the Caverly's, yet the blended arms of those two ancient and respectable families, which had originally been blazoned on them, were nearly effaced by mould.  Some difficulties had occurred as to a conveyance for Mesdames de Touranges, on the first venturing to Fernyhurst;&#8212;to obviate these against another time, Ellesmere undertook to inspect this long neglected vehicle; and, notwithstanding such strong opposition on the part of the Captain's governante as greatly hazarded the peace of the establishment, the lining was brushed out and darned,&#8212;and the old post-chaise, drawn into the sun on a favorable morning, was in a great measure restored to its former consequence.  Two of the handsomest and best matched cart horses carefully trimmed, and a smart boy in his Sundays clothes, made altogether an equipage which far from being contemptible, and greatly facilitated the benevolent and friendly endeavours of Captain Caverly to restore the languid spirits of the fair Gabrielle, who, from a state of the most melancholy depression, now began to look forward to brighter prospects; so easily do the sanguine eyes of youth turn from
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">the</seg>
+</p>
+
+<pb n="253" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">the rugged path of adversity, to contemplate the fair landscapes which hope then displays before them.</p>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Of the delicious infatuation of hope D'Alonville was another instance&#8212;a thousand enchanting visions now appeared to him, rather as waking dreams than as sketches with which the steady hand of reason had any thing to do.   Mrs. Denzil, far from appearing to consider him as an adventurer, whom she ought to fear, or an alien, who she should for that reason despise, treated him with particular kindness, and a very few interviews with her charming daughter convinced him that he had obtained an interest in her young and innocent heart, which worlds could not tempt to relinquish;&#8212;but the future happiness of Angelina was dearer to him than worlds&#8212;and yet he was about to sacrifice that to his own selfish and inconsiderate passion.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Yet, why selfish and inconsiderate?    Was his fortune always to remain as desperate as it now appeared?   Was he always to be an exile, without property, friends, or home; and was every effort against the anarchists and murderers of France to be fruitless, because one campaign had been unsuccessful?   To believe so would be to mistrust the justice of Providence.  If the hour <hi rend="italics" lang="" TEIform="hi" id="" n="">should </hi>arrive, which would restore him to his country, should he not have it in his power to place the woman he loved in a situation of life superior to what, from the misfortunes of her family, she was likely to fill in her own country?  This thought led to the most flattering train of ideas&#8212;and he determined to pursue, and to obtain the object, without whom he was convinced his being restored to his country, and enjoying there the most unclouded prosperity, would not make him happy.  At length he had dressed up a
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">set</seg>
+</p>
+
+<pb n="254" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">set of future possibilities in colours so bewitching, and by the
+sophistry of love had so far subdued every objection to their being
+arrange as his ardent imagination had place them, that he ventured, when
+Ellesmere touched himself on the subject of his evident attachment, to
+mention his plan of seriously making proposals to Mrs. Denzil.&#8212;Far from repressing such a project with the cold phlegm of a sober-blooded Englishman, Ellesmere not only encouraged him in it, but offered him every service in his power towards its success; &#8212;and it was determined that, as D'Alonville had already secured the approbation of the daughter; he should take the first opportunity of declaring himself to the mother, from whom every observation he had lately made persuaded him he had very little reason to apprehend a repulse.&#8212;This determination was taken after a most delightful day, passed in such society as is not often met with; Madame de Touranges was hardly ever so agreeable.  Her daughter, always interesting was now almost cheerful; and Mrs. Denzil, on a small but excellent piano fort with an organ stop, had been playing some simple airs, while her <sic corr="daughters" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">daghters </sic> sung, till Ellesmere, who was passionately fond of music, declared that he was in danger of being as much in love with Olivia, the second sister, as D'Alonville already was with the third.  A declaration which was answered by D'Alonville, by reminding him of his prepossession for the fair Polonese, towards whom he laughingly accused him of infidelity.   Ellesmere answered by declaring, that he had never yet seen a woman whom he liked so well as he did Alexina; at which D'Alonville, who did not believe him serious, and thought it almost impossible he should ever see her again, only laughed.  They then went on to plan another party, which should
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">be</seg>
+</p>
+
+<pb n="255" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">be as agreeable that they had just left; and they met the next morning with the expectation of realizing this project, when a packet of letters, brought by a servant whom Sir Maynard had sent over on purpose, put an end to it.  Ellesmere found it necessary to return to Eddisbury immediately, and D'Alonville, though with an heavy heart, took leave of his generous host, and of the neighbourhood, which was become so interesting; and though they both promised themselves they should find an opportunity of revisiting Fernyhurst in a few days, they returned with almost equal reluctance to the dull round of long stories from Sir Maynard, and inspired anecdotes from Lady Ellesmere, with the formal and tedious dinners and solemn suppers that awaited them at Eddisbury.
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">CHAP.</seg>
+</p>
+</div1></text></TEI.2>

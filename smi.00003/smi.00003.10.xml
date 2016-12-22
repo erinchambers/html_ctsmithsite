@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="10"><text><div1 type="sonnet">
+<head>SONNET IV.</head>
+<head type="sub">TO THE MOON.</head>
+<lg type="verse">
+<l>QUEEN of the silver bow!  by the pale beam,</l>
+<l rend="indent">Alone and pensive, I delight to stray,</l>
+<l>And watch thy shadow trembling in the stream,</l>
+<l rend="indent">Or mark the floating clouds that cross thy way.</l>
+<l>And while I gaze, thy mild and placid light</l>
+<l rend="indent">Sheds a soft calm upon my troubled breast;</l>
+<l>And oft I think  fair planet of the night, </l>
+<l rend="indent">That in thy orb, the wretched may have rest:</l>
+<l>The sufferers of the earth perhaps may go,</l>
+<l rend="indent">Releas'd by death  to thy benignant sphere,</l>
+<l>And the sad children of despair and woe</l>
+<l rend="indent">Forget in thee, their cup of sorrow here.</l>
+<l>Oh! that I soon may reach thy world serene,</l>
+<l>Poor wearied pilgrim  in this toiling scene!</l>
+</lg>
+</div1></text></TEI.2>

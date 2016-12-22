@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="73"><text><div1 type="poem">
+<head>VERSES</head>
+<head type="sub">INTENDED TO HAVE BEEN PREFIXED TO THE NOVEL<lb/>OF EMMELINE, BUT THEN SUPPRESSED.
+</head>
+<lg type="verse">
+<l>O'ERWHELM'D with sorrow, and sustaining long</l>
+<l>"The proud man's contumely, th' oppressor's wrong,"</l>
+<l>languid despondency and vain regret,</l>
+<l>Must my exhausted spirit struggle yet?</l>
+<l>Yes!  Robb'd myself, of all that fortune gave,</l>
+<l>Even of all Hope,  but shelter in the grave,</l>
+<l>Still shall the plaintive lyre essay its powers</l>
+<l>To dress the Cave of Care, with Fancy's flowers,</l>
+<l>Maternal Love, the fiend Despair withstand,</l>
+<l>Still animate the heart and guide the hand.</l>
+<l>Escape the evils   I was born to bear!</l>
+<l>Round <emph>my</emph> devoted head, while tempest roll,</l>
+<l>Yet there, where I have treasur'd up my soul,</l>
+<pb n="87"/>
+<l>May the soft rays of dawning hope impart</l>
+<l>Reviving Patience to my fainting heart;  </l>
+<l>And, when it sharp solicitudes shall cease,</l>
+<l>May I be conscious in the realms of peace</l>
+<l>That every tear which swells my children's eyes,</l>
+<l>From sorrows past, not present ills arise.</l>
+<l>Then, with some friend who loves to share your pain,</l>
+<l>For 'tis my boast that <emph>some</emph> such friends remain,</l>
+<l>By filial grief, and fond remembrance prest,</l>
+<l>You'll seek the spot where all my sorrows rest;</l>
+<l>Recall my hapless days in sad review,</l>
+<l>The long calamities I bore for you,</l>
+<l>And  with an happier fate  resolve to prove</l>
+<l>How well you merited  your mother's love.</l>
+
+</lg>
+</div1></text></TEI.2>

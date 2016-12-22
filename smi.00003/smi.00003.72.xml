@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="72"><text><div1 type="poem">
+<head>THIRTY-EIGHT.</head>
+<head type="sub">ADDRESS'D TO MRS. HY.</head>
+<lg type="verse">
+<l>IN early youth's unclouded scene,</l>
+<l>The brilliant morning of eighteen,</l>
+<l>With health and sprightly joy elate</l>
+<l rend="indent">We gaz'd on life's enchanting spring,</l>
+<l rend="indent">Nor though how quickly time would bring </l>
+<l>The mournful period  Thirty-eight.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>The the starch maid, or matron sage,</l>
+<l>Already of that sober age,</l>
+<l>We view'd with mingled scorn and hate;</l>
+<l rend="indent">In whose sharp words, or sharper face,</l>
+<l rend="indent">With thoughtless mirth we lov'd to trace</l>
+<l>The sad effects of  Thirty-eight.</l>
+</lg>
+<pb n="83"/>
+<lg type="verse">
+<l>Till saddening, sickening at the view, </l>
+<l>We learn'd to dread what time might do;</l>
+<l>And then preferr'd a prayer to Fate</l>
+<l rend="indent">To end our days ere that arriv'd;</l>
+<l rend="indent">When (pow'r and pleasure long surviv'd)</l>
+<l>We met neglect and  Thirty-eight.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>But Time, inspite of wishes flies,</l>
+<l>And Fate our simple prayer denies, </l>
+<l>And bids us death's own hour await:</l>
+<l rend="indent">The auburn locks are mix'd with grey,</l>
+<l rend="indent">The transient roses fade away,</l>
+<l>But Reason comes at  Thirty-eight.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Her voice the anguish contradicts</l>
+<l>That dying vanity inflicts;</l>
+<l>Her hand new pleasures can create,</l>
+<l rend="indent">For us she opens to the view</l>
+<l rend="indent">Prospects less bright,  but far more true,</l>
+<l>And bids us smile at  Thirty-eight.</l>
+</lg>
+<pb n="84"/>
+<lg type="verse">
+<l>No more shall <emph>Scandal's</emph> breath destroy</l>
+<l>The social converse we enjoy</l>
+<l>With bard or critic tête a tête; </l>
+<l rend="indent">O'er Youth's bright blooms her blights shall pour,</l>
+<l rend="indent">But spare the improving friendly hour</l>
+<l>That Science gives to  Thirty-eight.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Stripp'd of their gaudy hues by truth,</l>
+<l>We view the glitt'ring toys of youth,</l>
+<l>And blush to think how poor the bait</l>
+<l rend="indent">For which to public scenes we ran</l>
+<l rend="indent">And scorn'd of sober sense the plan</l>
+<l>Which give content at  Thirty-eight.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Tho' Time's inexorable sway</l>
+<l>Has torn the myrtle bands away,</l>
+<l>For other wreaths 'tis not too late,</l>
+<l rend="indent">The amaranth's purple glow survives,</l>
+<l rend="indent">And still Minerva's olive lives</l>
+<l>On the calm brow of  Thirty-eight.</l>
+</lg>
+<pb n="85"/>
+<lg type="verse">
+<l>With eye more steady we engage</l>
+<l>To contemplate approaching age,</l>
+<l>And life more justly estimate;</l>
+<l>With firmer souls, and stronger powers,</l>
+<l>With reason, faith, and friendship ours,</l>
+<l>We'll not regret the stealing hours</l>
+<l>That lead from Thirty  even to Forty-eight.</l>
+</lg>
+
+
+
+
+
+
+
+
+</div1></text></TEI.2>

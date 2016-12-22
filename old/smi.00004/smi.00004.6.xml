@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="6"><text><div1 type="sonnet">
+<head>SONNET LXII.</head>
+<head type="sub">WRITTEN ON PASSING BY MOON-LIGHT THROUGH<lb/>A VILLAGE, WHILE THE GROUND WAS<lb/>COVERED WITH SNOW.
+</head>
+<note>SONNET LXII.<lb/>First published in the same work.
+</note>
+<lg type="verse">
+<l>WHILE thus I wander, cheerless and unblest,</l>
+<l rend="indent">And find in change of place but change of pain;</l>
+<l>In tranquil sleep the village labourers rest,</l>
+<l rend="indent">And taste that quiet I pursue in vain!</l>
+<l>Hush'd is the hamlet now, and faintly gleam</l>
+<l rend="indent">The dying embers, from the casement low</l>
+<l>Of the thatch'd cottage; while the Moon's wan beam</l>
+<l rend="indent">Lends a new lustre to the dazzling snow &#8212;</l>
+<l>o'er the cold waste, amid the freezing night,</l>
+<l rend="indent">Scarce heeding whither, desolate I stray;</l>
+<l>For me, pale Eye of Evening, thy soft light</l>
+<l rend="indent">Leads to no happy home; <emph>my</emph> weary way</l>
+<l>Ends but in sad vicissitudes of care:</l>
+<l>I only fly from doubt &#8212; to meet despair!</l>
+</lg>
+</div1></text></TEI.2>

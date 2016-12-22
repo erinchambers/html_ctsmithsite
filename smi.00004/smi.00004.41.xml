@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="41"><text><div1 type="poem">
+<head>FRAGMENT,</head>
+<head type="sub">DESCRIPTIVE OF THE MISERIES OF WAR; FROM <lb/>A POEM CALLED "THE EMIGRANTS," <lb/>PRINTED IN 1793.
+</head>
+<lg type="verse">
+<l>TO a wild mountain, whose bare summit hides</l>
+<l>Its broken eminence in clouds; whose steeps</l>
+<l>Are dark with woods; where the receding rocks</l>
+<l>Are worn with torrents of dissolving snow;</l>
+<l>A wretched woman, pale and breathless, flies,</l>
+<l>And, gazing round her, listens to the sound</l>
+<l>Of hostile footsteps: &#8212; No! they die away &#8212;</l>
+<l>Nor noise remains, but of the cataract,</l>
+<l>Or surly breeze of night, that mutters low</l>
+<l>Among the thickets, where the trembling seeks</l>
+<l>A temporary shelter &#8212; Clasping close</l>
+<l>To her quick throbbing heart her sleeping child,</l>
+<pb n="79"/>
+<l>All she could rescue of the innocent group</l>
+<l>That yesterday surrounded her &#8212; Escaped</l>
+<l>Almost by miracle! &#8212; Fear, frantic Fear,</l>
+<l>Wing'd her weak feet; yet, half repenting now</l>
+<l>Her headlong haste, she wishes she had staid</l>
+<l>To die with those affrighted Fancy paints</l>
+<l>The lawless soldiers' victims &#8212; Hark! again</l>
+<l>The driving tempest bears the cry of Death;</l>
+<l>And with deep, sudden thunder, the dread found</l>
+<l>Of cannon vibrates on the tremulous earth;</l>
+<l>While, bursting in the air, the murderous bomb</l>
+<l>Glares o'er her mansion &#8212; Where the splinters fall</l>
+<l>Like scatter'd comets, its destructive path</l>
+<l>Is mark'd by wreaths of flame! &#8212; Then, overwhelm'd</l>
+<pb n="80"/>
+<l>Beneath accumulated horror, sinks</l>
+<l>The desolate mourner!</l>
+<l>*   *   *   *   *   *   *   *   *</l>
+<l>*   *   *   *   *   *   *   *   *</l>
+<l>*   *   *   *   *   *   *   *   *</l>
+<l>The feudal Chief, whose Gothic battlements</l>
+<l>Frown on the plain beneath, returning home</l>
+<l>From distant lands, alone, and in disguise,</l>
+<l>Gains at the fall of night his castle walls,</l>
+<l>But at the silent gate no porter sits</l>
+<l>To wait his lord's admittance! &#8212; In the courts</l>
+<l>All is drear stillness! &#8212; Guessing but too well</l>
+<l>The fatal truth, he shudders as he goes</l>
+<l>Thro' the mute hall; where, by the blunted light</l>
+<pb n="81"/>
+<l>That the dim Moon thro' painted casement lends,</l>
+<l>He sees that devastation has been there;</l>
+<l>Then, while each hideous image to his mind</l>
+<l>Rises terrific, o'er a bleeding corpse</l>
+<l>Stumbling he falls; another intercepts</l>
+<l>His staggering feet &#8212; All, all who us'd to rush</l>
+<l>With joy to meet him, all his family</l>
+<l>Lie murder'd in his way! &#8212; And the day dawns</l>
+<l>On a wild raving Maniac, whom a fate</l>
+<l>So sudden and calmitous has robb'd</l>
+<l>Of reason; and who round his vacant walls</l>
+<l>Screams unregarded, and reproaches Heaven!</l>
+</lg>
+</div1></text></TEI.2>

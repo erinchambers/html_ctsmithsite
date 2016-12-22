@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="40"><text><div1 type="poem">
+<head>VERSES</head>
+<head type="sub">ON THE DEATH OF THE SAME LADY, WRITTEN <lb/>IN SEPTEMBER 1794.
+</head>
+<lg type="verse">
+<l>LIKE a poor ghost the night I seek;</l>
+<l rend="indent">Its hollow winds repeat my sighs;</l>
+<l>The cold dews mingle on my cheek</l>
+<l rend="indent">With tears that wander from mine eyes.</l>
+</lg>
+<lg type="verse">
+<l>The thorns that still my couch molest,</l>
+<l rend="indent">Have robb'd these heavy eyes of sleep;</l>
+<l>But tho' deprived of tranquil rest,</l>
+<l rend="indent">I here at least am free to weep.</l>
+</lg>
+<pb n="75"/>
+<lg type="verse">
+<l>Twelve times the moon, the rises red</l>
+<l rend="indent">O'er yon tall wood of shadowy pine,</l>
+<l>Has fill'd her orb, since low was laid</l>
+<l rend="indent">My Harriet! that sweet form of thine!</l>
+</lg>
+<lg type="verse">
+<l>While each sad month, as flow it past,</l>
+<l rend="indent">Brought some new sorrow to deplore;</l>
+<l>Some grief more poignant than the last,</l>
+<l rend="indent">But thou can'st calm those griefs no more.</l>
+</lg>
+<lg type="verse">
+<l>No more thy friendship sooths to rest</l>
+<l rend="indent">This wearied spirit tempst-tost;</l>
+<l>The cares that weigh upon my breast</l>
+<l rend="indent">Are doubly felt since thou art lost.</l>
+</lg>
+<pb n="76"/>
+<lg type="verse">
+<l>Bright visions of ideal grace</l>
+<l rend="indent">That the young poet's dreams inflame,</l>
+<l>Were not more lovely than thy face;</l>
+<l rend="indent">Were not more perfect than thy frame.</l>
+</lg>
+<lg type="verse">
+<l>Wit, that no sufferings could impair,</l>
+<l rend="indent">Was thine, and thine those mental powers</l>
+<l>Of force to chase the fiends that tear</l>
+<l rend="indent">From Fancy's hands her budding flowers.</l>
+</lg>
+<lg type="verse">
+<l>O'er what, my angel friend, thou wert,</l>
+<l rend="indent">Dejected Memory loves to mourn;</l>
+<l>Regretting still that tender heart,</l>
+<l rend="indent">Now withering in a distant urn!</l>
+</lg>
+<pb n="77"/>
+<lg type="verse">
+<l>But ere that wood of shadowy pine</l>
+<l rend="indent">Twelve times shall yon full orb behold,</l>
+<l>This sickening heart, that bleeds for thine,</l>
+<l rend="indent">My Harriet! &#8212; may like thine be cold!</l>
+</lg>
+</div1></text></TEI.2>

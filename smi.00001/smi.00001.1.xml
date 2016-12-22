@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00001" n="1"><text><div1 type="preface" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="div1" sample="complete" next="" id="" decls="" prev="" part="N">
+
+
+<head lang="" n="" ana="" corresp="" rend="" TEIform="head" next="" id="" prev="" type="">PREFACE.</head>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">THE Work I now offer to the Public, has been written under great disadvantages&#8212;and, might I quote in my apology for the defects of so trifling a composition as a Novel, the expression used in regard to his great and laborious work by Dr. Johnson, I might justly plead in excuse for those defects, that it has been composed <hi rend="italics" lang="" TEIform="hi" id="" n="">"amidst inconvenience and distraction, in sickness and in sorrow"</hi>&#8212;at a time when long anxiety has ruined my health, and long oppression broken my spirits  at the end of more than ten years (a very great portion of human life), during which I have been compelled to provide for the necessities of a numerous family, almost entirely by my own labour&#8212;and when I am yet to look forward to no other prospect for the future but a repetition of exertions on my part; of injustice and evasion on the part of those who have detained the property of my children from them, or even to greater inconvenience and distress for them, when, quite worn out by my sufferings, <hi rend="italics" lang="" TEIform="hi" id="" n="">I</hi> shall no more be able to assist them.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">By my friends I have often been congratulated, on the power I have possessed of warding off, in a great measure, the shafts of adversity from my children; but whatever gratification that reflection may afford, it is embittered when I consider that <hi rend="italics" lang="" TEIform="hi" id="" n="">I</hi> have toiled only that others might rob&#8212;and that the more struggles I have made for their support, the greater has been the facility with which their trustees have given up their property to be plundered by others.</p>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">Had</seg></l>
+
+<pb n="vi" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Had I known ten years since, that instead of rescuing them from the mismanagement, it was the purpose of these Trustees to expose them to more direct malversation&#8212;had I known that instead of disposing of the property as the will of their Grandfather directs, it was these gentlemens' determination to let their agent put the produce into his own pocket from year to year, without question, and without account&#8212;could I have foreseen that the creditors of their Grandfather's estate to a very great amount, would have <hi rend="italics" lang="" TEIform="hi" id="" n="">defied</hi>, instead of paying them, I should have done wrong to have attempted raising such a family as a <hi rend="italics" lang="" TEIform="hi" id="" n="">gentleman's</hi> family&#8212;I should have been wiser to have descended at once into the inferior walks of life, and have humbled them and myself to our fortunes:&#8212;but, when I have been told, from year to year, that their property would be restored; when I have been conjured to have patience yet a little longer, on this, or on that pretence, of unavoidable delay&#8212;it has seemed a part of my duty to continue my efforts for them; till at length every evasion being exhausted, and their affairs being more embroiled than when their trustees engaged in them, I am sent to Chancery by the very men, who ten years since, undertook the trust for the express purpose of saving them from that expence;  and who have been telling me repeatedly, that such an appeal would be ruinous to my hopes of a speedy settlement. I am now to wait the tardy justice of a Court, which to avoid, I have suffered ten years of poverty and deprivation.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">The insults I have endured, the inconveniencies I have been exposed to, are not to be described&#8212;but let it not be a matter of surprise or blame, if the impression made by them on my mind affects my writings. In the strictures on a 
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">late</seg>
+</p>
+
+<pb n="vii" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">late publication of mine, some Review (I do not now recollect which) objected to the too frequent allusion I made in it to my own circumstances&#8212;I might quote in favour of this practice, the example of two of the greatest of our poets; but I will make no other defence than that which is lent me by a sister art:&#8212;The History Painter, gives to his figures the cast of countenance he is accustomed to see around him&#8212;the Landscape Painter derives <hi rend="italics" lang="" TEIform="hi" id="" n="">his</hi> predominant ideas from the country in which he has been accustomed to study&#8212;a novelist, from the same causes, makes his drawing to resemble the characters he has had occasion to meet with,  Thus, some have drawn alehouse-keepers and their wives&#8212;others, artists and professors&#8212;and of late we have seen whole books full of dukes and duchesses, lords and ladies&#8212;<hi rend="italics" lang="" TEIform="hi" id="" n="">I</hi> have "fallen among thieves," and I have occasionally made sketches of them, because it is very probable that I may yet be under the necessity of giving the portraits at full length, and of writing under those portraits the names of the <hi rend="italics" lang="" TEIform="hi" id="" n="">weazles</hi>, <hi rend="italics" lang="" TEIform="hi" id="" n="">wolves</hi>, and <hi rend="italics" lang="" TEIform="hi" id="" n="">vultures</hi> they are meant to describe&#8212;nay, even to detail at length the unexampled conduct of these persons who have completed me, being</p>
+
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"Perplexed in the extreme,"</l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">to have recourse to my pen for a subsistence, and at length </p>
+
+<lg type="verse" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"My downright violence and storm of fortune</l> 
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">"To trumpet to the world&#8212;"</l></lg>
+
+
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</hi></l>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">"When a man owns himself to have been in an error," says Pope, "he does but tell you that he is wiser than he was." Thus, if I had been convinced I was in an error in regard to what I formerly wrote on the politics of France, I should
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">without</seg>
+</p>
+<pb n="viii" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">without hesitation avow it. I still think, however, that no native of England could help <hi rend="italics" lang="" TEIform="hi" id="" n="">then</hi> rejoicing at the probability there was that the French nation would obtain, with very little bloodshed, that degree of freedom which we have been taught to value so highly.  But I think also, that Englishmen must execrate the abuse of the name of liberty which has followed; they must feel it to be injurious to the real existence of that first of blessings, and must contemplate with mingled horror and pity, a people driven by terror to commit enormities which in the course of a few months have been more destructive than the despotism of ages&#8212;a people who, in place of a mild and well-meaning monarch, have given themselves up to the tyranny of monsters, compared with whom, Nero and Caligula are hardly objects of abhorrence.
+</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">For the rest, I have in the present work, aimed less at the wonderful and extraordinary, than at connecting by a chain of possible circumstances, events, some of which <hi rend="italics" lang="" TEIform="hi" id="" n="">have</hi> happened, and all of which <hi rend="italics" lang="" TEIform="hi" id="" n="">might</hi> have happened to an individual, under the exigencies of banishment and proscription; but I beg leave to add, that my hero resembles in nothing but in merit, the emigrant gentleman who now makes part of my family; and that though some of the adventures are real, the characters are for the most part merely imaginary.</p>
+<signed lang="" n="" ana="" corresp="" rend="" TEIform="signed" next="" id="" prev="">CHARLOTTE SMITH.<lb ed="" lang="" TEIform="lb" rend="" id="" n=""/>
+<date lang="" n="" ana="" corresp="" rend="" certainty="" TEIform="date" value="" calendar="" next="" id="" prev="">July 30, 1794.</date>
+</signed>
+
+</div1></text></TEI.2>

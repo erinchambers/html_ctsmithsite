@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="36"><text><div1 type="sonnet">
+<head>SONNET XXX.</head>
+<head type="sub">TO THE RIVER ARUN.</head>
+<lg type="verse">
+<l>BE the proud Thames, of trade the busy mart!</l>
+<l rend="indent">Arun! to thee will other praise belong;</l>
+<l>Dear to the lover's, and the mourner's heart,</l>
+<l rend="indent">And ever sacred to the sons of song!</l>
+<l>Thy banks romantic, hopeless Love shall seek,</l>
+<l rend="indent">Where o'er the rocks the mantling bind with flaunts; <note>SONNET XXX.<lb/>Line 6.<lb/>Bindwith.<lb/>The plant Clematis, Bindwith, Virgin's Bower, or Traveller's Joy, which toward the end of June begins to cover the hedges and sides of rocky hollows, with its beautiful foliage, and flowers of a yellowish white of an agreeable fragrance; these are succeeded by seed pods, that bear some resemblance to feathers or hair, when it is sometimes called Old Man's Beard.
+
+
+</note>
+</l>
+<l>And Sorrow's drooping from and faded cheek,</l>
+<l rend="indent">Choose on thy willow'd shore her lonely haunts!</l>
+<l>Banks! which inspir'd thy Otway's plaintive strain! <note>SONNET XXX.<lb/>Line 9.<lb/>Banks! which inspir'd thy Otway's plaintive strain!<lb/>Wilds! whose lorn Echo's learn'd the deeper tone<lb/>Of Collins' powerful shell!<lb/>Collins, as well as Otway, was a native of this country, and probably at some period of his life an inhabitant of this neighbourhood, since in his beautiful Ode on the death of Colonel Rose, he says:<lb/>
+<ident>The Muse Shall still, with social aid,</ident>
+<lb/>
+<ident>Her gentlest promise keep,</ident>
+<lb/>
+<ident>E'en humble Hearting's cottag'd vale</ident>
+<lb/>
+<ident>Shall learn the sad repeated tale,</ident>
+<lb/>
+<ident>And bid her shepherds weep.</ident>And in the Ode to Pity:<lb/>
+<ident>Wild Arun too has heard thy strains,</ident>
+<lb/>
+<ident>And Echo, midst my native plains,</ident>
+<lb/>
+<ident>Been sooth'd with Pity's lute.</ident>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</note>
+</l>
+<l rend="indent">Wilds!  whose lorn echoes learn'd the deeper tone</l>
+<l>Of Collins' powerful shell! yet once again</l>
+<l rend="indent">Another poet  Hayley is thine own!</l>
+<l>Thy classic stream anew shall hear a lay,</l>
+<l>Bright as its waves, and various as its way!</l>
+</lg>
+</div1></text></TEI.2>

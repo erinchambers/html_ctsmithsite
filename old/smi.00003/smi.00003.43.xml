@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="43"><text><div1 type="sonnet">
+<head>SONNET XXXVII.</head>
+<head type="sub">SENT TO THE HONOURABLE MRS. O'NIEL, WITH<lb/>PAINTED FLOWERS.
+</head>
+<lg type="verse">
+<l>THE poet's fancy takes from Flora's realm</l>
+<l rend="indent">Her buds and leaves to dress fictitious powers,</l>
+<l>With the green olive shades Minerva's helm,</l>
+<l rend="indent">And gives to Beauty's Queen, the Queen of flowers.</l>
+<l>But what gay blossoms of luxuriant Spring.</l>
+<l rend="indent">With rose, mimosa, amaranth entwin'd,</l>
+<l>Shall fabled Sylphs, and fairy people bring,</l>
+<l rend="indent">As a just emblem of the lovely mind?</l>
+<l>In vain the mimic pencil tries to blend</l>
+<l rend="indent">The glowing dyes that dress the flowery race,</l>
+<l rend="indent">Scented and colour'd by an hand divine!</l>
+<l>Ah! not less vainly would the Muse pretend</l>
+<l rend="indent">On her weak lyre, to sing native grace</l>
+<l rend="indent">And native goodness of a foul like thine!</l>
+</lg>
+</div1></text></TEI.2>

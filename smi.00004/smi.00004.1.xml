@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="1"><text><div1 type="contents">
+<head>SUBSCRIBERS NAMES.</head>
+<list>
+<lb/>
+<item rend="indent">A.</item>
+<lb/>
+<item>The Marchioness of Antrim</item>
+<item>Hon. Miss Acheson</item>
+<item>Sir Joseph Andrews, Bart.</item>
+<item>Lady Andrews</item>
+<item>James Petit Andrews, Esq.</item>
+<item>&#8212; Amherst, Esq.</item>
+<item>Mrs. Alexander.</item>
+<lb/>
+<item rend="indent">B.</item>
+<lb/>
+<item>Earl of Besborough</item>
+<item>The Countess of Besborough</item>
+<item>The Earl of BectiveThe Countess of Bective</item>
+<pb n="[b]"/>
+<item>Lady Anne Butler</item>
+<item>Lady Bellmore</item>
+<item>Lady Burrel</item>
+<item>Lady Bandon</item>
+<item>Lady William Beauchamp</item>
+<item>Mr. Brydges</item>
+<item>Dr. Burney</item>
+<item>Miss Benson</item>
+<item>Miss C. Bull</item>
+<item>M. Bunbury, Esq.</item>
+<item>Miss Blackwood</item>
+<item>Mr. Blake</item>
+<item>Mrs. Brograve</item>
+<item>T. B. Bramston, Esq.</item>
+<item>Mrs. Burgoyne</item>
+<item>Mr. Blake</item>
+<item>&#8212; Brooke, Esq.</item>
+<item>Mrs. Brooke</item>
+<item>Rev. John Bouverie</item>
+<item>William Bourne, Esq.</item>
+<item>Mrs. Brydges</item>
+<item>Mr. Birdfall</item>
+<item>Egerton Brydges, Esq.</item>
+<item>Rev. William Lisle Bowles.</item>
+<pb n="[c]"/>
+<lb/>
+<item rend="indent">C.</item>
+<lb/>
+<item>The Earl of Charlemont</item>
+<item>The Countess of Charlemont</item>
+<item>The Dutchess Dowager of Chandos</item>
+<item>The Marquis of Caermarthen</item>
+<item>The Countess of Carrick</item>
+<item>Lady Cahier</item>
+<item>Lady Geogiana Cavendish</item>
+<item>Lady Harriet Cavendish</item>
+<item>The Countess of Cavan</item>
+<item>Lady Croston, 2 Copies</item>
+<item>Mrs. Robert Crofts</item>
+<item>Miss S. Colston, 2 Copies</item>
+<item>William Cowper, Esq.</item>
+<item>Mr. Coslin</item>
+<item>Mr. Thomas Cook</item>
+<item>Rev. Thomas Carwardine</item>
+<item>Geo. Colman, Esq. 2 Copies,</item>
+<item>Captain Calder, R. N. </item>
+<item>Captain Cunningham</item>
+<item>&#8212; Cornewall, Esq.</item>
+<item>Mrs. Carne</item>
+<item>Mrs. C&#8212;, Newport-Pagnel</item>
+<item>Joseph Cowper, Esq.</item>
+<item>Andrew Caldwell, Esq.</item>
+<pb n="[d]"/>
+<item>Edward Chichester, Esq.</item>
+<item>Mr. Church</item>
+<item>Miss Campion</item>
+<item>Miss Croft</item>
+<item>Miss F. Cameron</item>
+<item>Miss Campbell</item>
+<item>John Craufurd, Esq.</item>
+<lb/>
+<item rend="indent">D.</item>
+<lb/>
+<item>Duke of Devonshire</item>
+<item>The Dutchess of Devonshire</item>
+<item>The Bishop of Dromore</item>
+<item>Lady Catherine Douglas</item>
+<item>Right Hon. Sylvester Douglas</item>
+<item>Rev. Peter Du Sautoy</item>
+<item>Mrs. Domville</item>
+<item>Mr. Dalrymple</item>
+<item>Mrs. Drought</item>
+<item>J. Dobson, Esq.</item>
+<item>Rev. J. Dade</item>
+<item>Miss S. P. Dickenson</item>
+<item>William Drew, Esq.</item>
+<lb/>
+<item rend="indent">E.</item>
+<lb/>
+<item>Mrs. Evans, 4 Copies</item>
+<item>Gasper Erch, Esq.</item>
+<pb n="[e]"/>
+<lb/>
+<item rend="indent">F.</item>
+<lb/>
+<item>Countess Fitz William</item>
+<item>Lady Elizabeth Foster</item>
+<item>Right Hon. Charles James Fox</item>
+<item>Captain Fortescue, R. N.</item>
+<item>Late Rev. Dr. Fordyce</item>
+<item>Dr. Falconer, Bath, 2 Copies</item>
+<item>Rev. Mr. Foyle, Cholderton</item>
+<item>Mrs. William Fauquier</item>
+<item>Mrs. Fox</item>
+<item>Mrs. Francillon</item>
+<item>Mrs. Fitz Patrick.</item>
+<lb/>
+<item rend="indent">G.</item>
+<lb/>
+<item>Dowager Countess of Guildford</item>
+<item>Earl of Guildford, 2 Copies</item>
+<item>Countess of Granard</item>
+<item>Lady Viscountess Gage</item>
+<item>Charles Grey, Esq.</item>
+<item>Mrs. Grey</item>
+<item>Lady Gould</item>
+<item>Carew Gauntlet, Esq.</item>
+<item>Mr. Godley</item>
+<item>Mrs. Greville</item>
+<pb n="[f]"/>
+<item>Rev. Samuel Greatheed</item>
+<item>Mrs. Greatheed</item>
+<item>Mrs. Grant</item>
+<item>Rev. John Gilby</item>
+<item>John Goulton, Esq.</item>
+<item>Mr. Edward Gordon, Mile-End</item>
+<item>Mrs. Geary.</item>
+<lb/>
+<item rend="indent">H.</item>
+<lb/>
+<item>Marquis of Hartington</item>
+<item>Lady Anne Hoare</item>
+<item>Rev. Mr. Hoare</item>
+<item>Lady Anne Henry</item>
+<item>Lady Hawkins</item>
+<item>Right Hon. Sackville Hamilton</item>
+<item>Sir John Henniker, Bart.</item>
+<item>Late Mrs. Harkins</item>
+<item>Miss Hawkins</item>
+<item>William Hayley, Esq.</item>
+<item>Mrs. Hayley</item>
+<item>Charles Henry Hunt, Esq.</item>
+<item>Mrs. Charles Hunt</item>
+<item>J. Holland, Jun. Esq.</item>
+<item>&#8212; Hammersley, Esq.</item>
+<item>Miss Hillier</item>
+<pb n="[g]"/>
+<item>Mrs. Hartley</item>
+<item>Miss Hotham</item>
+<item>Mrs. Hardcastle</item>
+<item>Miss Harris Hayne</item>
+<item>Mrs. Hill</item>
+<item>Mrs. Hallaghan</item>
+<item>Miss Henry</item>
+<item>Miss H. Henry</item>
+<item>Miss Horner</item>
+<item>J. Horner, Esq.</item>
+<item>S. Horner, Esq.</item>
+<item>Mrs. Le Hunte</item>
+<item>Miss Le Hunte</item>
+<item>Mrs. S. Hunt.</item>
+<lb/>
+<item rend="indent">J.</item>
+<lb/>
+<item>Sir Walter James</item>
+<item>Lady Jane James</item>
+<item>Dr. Jenner</item>
+<item>Mr. George Jermyn</item>
+<item>Miss Mary Ingram</item>
+<item>Miss Jacob</item>
+<item>Henry Irwin, Esq.</item>
+<item>Miss Joliffe</item>
+<item>Miss C. Jackson</item>
+<item>Mad. de St. Jules.</item>
+<pb n="[h]"/>
+<lb/>
+<item rend="indent">K.</item>
+<lb/>
+<item>Miss Keen</item>
+<item>Mrs. Kingston</item>
+<item>Dr. Kirkland</item>
+<item>Dr. John Kearney</item>
+<item>Mrs. Kitchen</item>
+<item>S. Knight, Esq.</item>
+<lb/>
+<item rend="indent">L.</item>
+<lb/>
+<item>The Earl of Longford</item>
+<item>Lord Lisle</item>
+<item>Lady Lisle</item>
+<item>Lady Lifford</item>
+<item>Lady Lindsay</item>
+<item>Hon. Mrs. Luttrell</item>
+<item>Hon. Miss Lysaght</item>
+<item>Hon. Miss C. Lysaght</item>
+<item>Miss Lindsay</item>
+<item>Rev. Dean Langrishe</item>
+<item>Miss Langrishe</item>
+<item>Launcelot Lee, Esq.</item>
+<item>Mr. William Larkins</item>
+<item>Mrs. Lawes, 2 Copies</item>
+<item>Mrs. Peter Latouche.</item>
+<pb n="[i]"/>
+<lb/>
+<item rend="indent">M.</item>
+<lb/>
+<item>The Countess of Moira</item>
+<item>Lady St. John Mildmay</item>
+<item>Late Lady Mildmay</item>
+<item>Right Hon. Frederic Montague</item>
+<item>Sir Digby Mackworth, Bart.</item>
+<item>Lady Mackworth</item>
+<item>Miss Mayhew</item>
+<item>Mrs. Macquay</item>
+<item>Miss Miles</item>
+<item>Miss Menzies</item>
+<item>Mrs. Minchin</item>
+<item>Miss Minchin</item>
+<item>John Henniker Major, Esq.</item>
+<item>Mrs. H. Major</item>
+<item>Mrs. Magill</item>
+<item>Miss Macartney</item>
+<item>Miss Montgomery</item>
+<item>Mr. Macbride.</item>
+<lb/>
+<item rend="indent">N.</item>
+<lb/>
+<item>Lady Anne North</item>
+<item>Lady Charlotte North</item>
+<item>Hon. Frances North, 10 Copies</item>
+<item>Hon. Frederic North, 2 Copies</item>
+<pb n="[j]"/>
+<item>Mrs. Nott</item>
+<item>Rev. George Nott</item>
+<item>Miss Nott</item>
+<item>N. Newnham, Esq.</item>
+<item>Dr. Nott, Bristol</item>
+<item>William Neville, Esq.</item>
+<item>Miss N. Newport-Pagnel</item>
+<item>Miss H. N. Ditto</item>
+<item>Miss Nesbit</item>
+<item>Miss Newenham, 2 Copies</item>
+<lb/>
+<item rend="indent">O.</item>
+<lb/>
+<item>Viscount O'Neill, 2 Copies</item>
+<item>Hon. John Olmius, 2 Copies</item>
+<item>Hon. Mrs. Olmius, 2 Copies</item>
+<item>Miss O'Neill</item>
+<item>The Earl of Oxford</item>
+<item>The Countess of Oxford</item>
+<item>&#8212; Outram, Esq.</item>
+<lb/>
+<item rend="indent">P.</item>
+<lb/>
+<item>Lady Elizabeth Packenham</item>
+<item>Hon. Mrs. Ponsonby</item>
+<item>The late sir Herbert P. Packington, Bart.</item>
+<item>Miss Packington</item>
+<pb n="[k]"/>
+<item>Thomas Norton Powlett, Esq.</item>
+<item>Miss Piers</item>
+<item>Mrs. Preston</item>
+<item>&#8212; Pirtchett, Esq.</item>
+<item>Captain Pitts</item>
+<item>Mrs. Poulter</item>
+<item>Mrs. Pease</item>
+<item>Mr. Philips</item>
+<item>Miss Pigot</item>
+<lb/>
+<item rend="indent">R.</item>
+<lb/>
+<item>Lord Rivers, 2 Copies</item>
+<item>Lady Charlotte Rawdon</item>
+<item>Miss Reeve</item>
+<item>James Rowe, Esq.</item>
+<item>&#8212; Read, Esq.</item>
+<item>Captain Reynolds</item>
+<item>Mrs. Riall</item>
+<item>Mrs. Rially</item>
+<item>G. W. Ricketts, Esq.</item>
+<lb/>
+<item rend="indent">S.</item>
+<lb/>
+<item>Dowager Countess Spenser</item>
+<item>Countess of Shannon</item>
+<item>Hon. Mrs. Stewart</item>
+<pb n="[l]"/>
+<item>Hon. Mrs. Staples</item>
+<item>Hon. Mrs. Stuart Wortley, 2 Copies</item>
+<item>Miss Stuart Wortley, 2 Copies</item>
+<item>Lieut. Shrapnell</item>
+<item>J. C. Stoughton, Esq.</item>
+<item>Mrs. Symes</item>
+<item>Mrs. Schaw</item>
+<item>Miss Schaw</item>
+<item>Mrs. Strutt</item>
+<item>Mrs. Seale</item>
+<item>Mrs. Stewart</item>
+<item>Mrs. Sykes</item>
+<item>Miss Sykes</item>
+<item>Rev. Richard Sykes</item>
+<item>Mrs. J. Sykes</item>
+<item>John Sykes, Esq.</item>
+<item>Mark Sykes, Esq.</item>
+<item>Mrs. Stackpoole</item>
+<item>Robert Shaw, Esq.</item>
+<lb/>
+<item rend="indent">T.</item>
+<lb/>
+<item>Right Hon. Lady Templetown, 2 Copies</item>
+<item>Rev. T.F. Twigge, 2 Copies</item>
+<item>Mrs. Townsend, 2 Copies</item>
+<pb n="[m]"/>
+<item>Mrs. Twigge</item>
+<item>Mrs. Taylor</item>
+<item>Mrs. Trevelyn</item>
+<item>Miss Trimmer.</item>
+<lb/>
+<item rend="indent">V.</item>
+<lb/>
+<item>Rev. Mr. Villiers.</item>
+<lb/>
+<item rend="indent">W.</item>
+<lb/>
+<item>Lady Webster, Battle-Abbey</item>
+<item>Lieut. Col. Walpole, 2 Copies</item>
+<item>Joseph Cooper Walker, Esq.</item>
+<item>Dr. Wall, Oxford, 2 Copies</item>
+<item>Mr. Whipham</item>
+<item>Mrs. Walsh</item>
+<item>Mrs. Wilmot</item>
+<item>Mrs. Woods</item>
+<item>Peter Walsh, Esq.</item>
+<item>&#8212; Wood, Esq.</item>
+<item>Mrs. Wood</item>
+<item>Miss Wallen</item>
+<item>Miss Wright</item>
+<item>Miss A. Wright</item>
+<item>Miss E. Wright</item>
+<item>Mrs. Wray</item>
+<pb n="[n]"/>
+<item>Mrs. Way</item>
+<item>Mrs. Walter</item>
+<item>Mr. James Wallace</item>
+<item>Mr. Wallingford</item>
+<item>Peter Walsh, Esq.</item>
+
+
+
+
+
+
+
+</list>
+</div1></text></TEI.2>

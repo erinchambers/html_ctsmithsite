@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="40"><text><div1 type="sonnet">
+<head>SONNET XXXIV.</head>
+<head type="sub">TO A FRIEND.</head>
+<lg type="verse">
+<l>CHARM'D by thy suffrage, shall I yet aspire,</l>
+<l rend="indent">(All inauspicious as my fate appears,</l>
+<l rend="indent">By troubles darken'd, that increase with years,)</l>
+<l>To guide the crayon, or to touch the lyre?</l>
+<l>Ah me!  the sister Muses still require</l>
+<l rend="indent">A spirit free from all intrusive fears,</l>
+<l rend="indent">Nor will they deign to wipe away the tears</l>
+<l>Of vain regret, that dim their sacred fire.</l>
+<l>But when thy envy'd sanction crowns my lays,</l>
+<l rend="indent">A ray of pleasure lights my languid mind,</l>
+<l>For well I know the value of thy praise;</l>
+<l rend="indent">And to how few, the flattering meed confin'd,</l>
+<l rend="indent">That thou,  their highly favour'd brows to bind,</l>
+<l>Wilt weave green myrtle, and unfading bays!</l>
+</lg>
+</div1></text></TEI.2>

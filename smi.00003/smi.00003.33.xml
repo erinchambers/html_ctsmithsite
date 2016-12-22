@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="33"><text><div1 type="sonnets">
+<head>SONNET XXVII.</head>
+<lg type="verse">
+<l>SIGHING I see yon little troop at play;</l>
+<l rend="indent">By sorrow yet untouch'd; unhurt by care;</l>
+<l>While free and sportive they enjoy to-day,</l>
+<l rend="indent">'Content and careless of to-morrow's fare!' <note>SONNET XXVII.<lb/>Line 4.<lb/>Content, and careless of tomorrow's fare.'<bibl>Thomson.</bibl>
+
+
+</note>
+</l>
+<l>Oh happy age! when Hope's unclouded ray</l>
+<l rend="indent">Lights their green path, and prompts their simple mirth,</l>
+<l>Ere yet they feel the thorns that lurking lay</l>
+<l rend="indent">To wound the wretched pilgrims of the earth,</l>
+<l>Making them rue the hour that gave them birth,</l>
+<l rend="indent">And threw them on a world to full of pain,</l>
+<l>Where prosperous folly treads on patient worth,</l>
+<l rend="indent">And to deaf pride, misfortune pleads in vain!</l>
+<l>Ah! for their future fate how many fears </l>
+<l>Oppress my heart  and fill mine eyes with tears!</l>
+</lg>
+</div1></text></TEI.2>

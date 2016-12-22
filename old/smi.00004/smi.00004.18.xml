@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="18"><text><div1 type="sonnet">
+<head>SONNET LXXIV.</head>
+<head type="sub">THE WINTER NIGHT.</head>
+<lg type="verse">
+<l>"SLEEP, that kits up the ravell'd sleeve of care," <note>SONNET LXXIV.<lb/>Line 1.<lb/>"Sleep, that knits up the ravell'd sleeve of care."<bibl>Shakspeare.</bibl>
+</note>
+</l>
+<l rend="indent">Forsakes me, while the chill and sullen blast,</l>
+<l rend="indent">As my sad soul recalls its sorrows past,</l>
+<l>Seems like a summons, bidding me prepare</l>
+<l>For the last sleep of death &#8212; Murmuring I hear <note>SONNET LXXIV.<lb/>Line 5.<lb/>Murmuring I hear<lb/>The hollow wind around the ancient towers.<lb/>These lines were written in a residence among ancient public buildings.
+</note>
+</l>
+<l rend="indent">The hollow wind around the ancient towers,</l>
+<l>While night and silence reign; and cold and drear</l>
+<l rend="indent">The darkest gloom of Middle Winter lours;</l>
+<l>But wherefore fear existence such as mine,</l>
+<l rend="indent">To change for long and undisturb'd repose?</l>
+<l>Ah! when this suffering being I resign,</l>
+<l rend="indent">And o'er my miseries the tomb shall close,</l>
+<l>By her, whose loss in anguish I deplore,</l>
+<l>I shall be laid, and feel that loss no more!</l>
+</lg>
+</div1></text></TEI.2>

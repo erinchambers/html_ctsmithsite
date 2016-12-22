@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="25"><text><div1 type="sonnet">
+<head>SONNET XIX.</head>
+<head type="sub">TO MR. HAYLEY.<lb/>ON RECEIVING SOME ELEGANT LINES FROM HIM.
+</head>
+<lg type="verse">
+<l>FOR me the Muse a simple band design'd</l>
+<l rend="indent">Of 'idle' flowers that bloom the woods among,</l>
+<l>Which, with the cypress and the willow join'd,</l>
+<l rend="indent">A garland form'd as artless as my song.</l>
+<l>And little dar'd I hope its transient hours</l>
+<l rend="indent">So long would last; compos'd of buds so brief;</l>
+<l>'Till Hayley's hand among the vagrant flowers,</l>
+<l rend="indent">Threw from his verdant crown, a deathless leaf.</l>
+<l>For high in Fame's bright fane has Judgment plac'd</l>
+<l rend="indent">The laurel wreath Serena's poet won,</l>
+<l>Which, wov'n with myrtles by the hands of Taste,</l>
+<l rend="indent">The Muse decreed, for this her favourite son.</l>
+<l>And those immortal leaves his temples shade,</l>
+<l>Whose fair eternal verdure  shall not fade!</l>
+</lg>
+</div1></text></TEI.2>

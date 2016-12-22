@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00001" n="13"><text><div1 type="chapter" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="div1" sample="complete" next="" id="" decls="" prev="" part="N">
+<head lang="" n="" ana="" corresp="" rend="" TEIform="head" next="" id="" prev="" type="">AVIS AU LECTEUR.</head>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">THERE was, an please your honor," said Corporal Trim, "There was a certain king of Bohemia, who had seven castles."</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">A <sic corr="modern" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">modean </sic> Novelist, who, to write "in the immediate taste," has so great a demand for these structures, cannot but regret, that not one of the seven castles was sketched by the light and forcible pencil of Sterne: for, if it be true, that books are made, as he asserts, only as apothecaries make medicines, how much might have been obtained from the king of Bohemia's seven castes, towards the castles which frown in almost every modern novel?</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">For my part, who can now no longer guild chateaux even en Espague, I find that Mowbray Castle, Grasmere Abbey, the castle of Rock March, the castle of Hauteville, and Rayland Hall, have taken so many of my materials to construct, that I have hardly a watch tower, a Gothic arch, a cedar parlour, or a long gallery, an illuminated window, or a ruined chapel, left to help myself.  Yet some of these are indispensibly necessary; and I have already built and burnt down one of these venerable edifices in this work, yet must seek wherewithal to raise another.</p>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">But my ingenious <sic corr="contemporaries" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">cotemporaries </sic> have fully possessed themselves of every bastion and buttress&#8212;of every tower and turret&#8212;of every gal-
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">lery</seg>
+</p>
+<pb n="ii" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">and gateway, together with all their furniture of ivy mantles, and mossy battlements; tapestry, and old pictures; owls, bats, and ravens&#8212;that I had some doubts whether, to avoid the charge of plagiarism, it would not have been better to have <hi rend="italics" lang="" TEIform="hi" id="" n="">earthed</hi> my hero, and have sent him for adventures to the subterranious town on the Chatelet mountains in Champagne, or even to Herculaneum, or Pompeii, where I think no scenes have yet been laid, and where I should have been in less danger of being <hi rend="italics" lang="" TEIform="hi" id="" n="">again </hi>accused of borrowing, than I may perhaps be, while I only visit </p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">"The glympses of the moon."</hi></l></lg>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">On giving the first volume however to a friend to peruse, and hinting at the difficulty I was sensible of in finding novelty from my dark drawings, he bade me remember the maxim so universally allowed&#8212;</p>
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><foreign lang="" TEIform="foreign" rend="" id="" n=""><hi rend="center" lang="" TEIform="hi" id="" n="">"Que rien n'est beau que le vrai."</hi></foreign></l></lg>
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">I asked him how it were possible to adhere to le vrai, in a work like this.  But I believe I shall be better understood if I relate our conversation in the way of dialogue.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;"I do not mean to say that you can adhere to truth in a book which is avowedly a fiction; but as you have laid much of the scene in France, and at the distance of only a few months, I think you can be at no loss for <hi rend="italics" lang="" TEIform="hi" id="" n="">real</hi> horrors, if a novel must abound in horrors; your imagination, however fertile, can suggest nothing of individual calamity, that has not there been exceeded.  Keep therefore as nearly as you can to circumstances you have heard related, or to such as might have occurred in a country where murder stalks abroad, and calls itself
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">patriotism;</seg>
+</p>
+
+<pb n="iii" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">patriotism; where the establishment of liberty serves as a pretence for the violation of humanity; and I am persuaded, though there may be less of the miraculous in your work; though it may resemble less</p>
+
+<lg type="poem" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">A woman's story at a winter's fire</l>
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Authoriz'd by her grand dam,</l>
+</lg>
+<bibl lang="" n="" ana="" corresp="" rend="" TEIform="bibl" next="" id="" prev="" default="NO">SHAKESPEARE.</bibl>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">yet it will have the advantage of bearing such a resemblance to truth as may best become fiction, and that you will be in less danger of having it said, that</p> 
+
+<lg type="poem" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N">
+<l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real="">Fancy still cruises, when poor Sense is tired.</l>
+</lg>
+<bibl lang="" n="" ana="" corresp="" rend="" TEIform="bibl" next="" id="" prev="" default="NO">YOUNG.</bibl>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">But I have another remark to make on the book I have read.&#8212;Give me leave to ask if you are going to make in it the experiment that has often been talked of, but has never<ref target="n.00001.004" n="*" lang="" ana="" corresp="" rend="" crdate="" TEIform="ref" resp="" next="" id="" targOrder="U" targType="" prev="" evaluate="" type=""/> yet been hazarded; do you propose to make a novel without love in it?"
+</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;Certainly not.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;Then I am really in greater pain for you&#8212;for I am afraid you will again incur the charge of immorality, and intend to make your hero in love with Madame D'Alberg, a married woman.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;I have no such design.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;Well, I really am at a loss then to comprehend your plan; for I have now read the greater part of the first, volume, and except your Adriana, your Madame D'Alberg, I see nobody who can possibly be intended for your heroine.
+
+<note id="n.00001.004" n="*" lang="" rend="" anchored="yes" TEIform="note" place="unspecified" targetEnd="" resp="" target="" type="">I had not then heard of, or seen, a work called, "Things as they Are."</note>
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">Author.</seg>
+</p>
+<pb n="iv" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;Alas! my dear Sir! if you had yourself ever seen much of that part of the critical world who descant on novels, you would be aware of the extreme difficulty of the task that a Novelist has to execute:&#8212;besides that the number of strange situations under which the heroes and heroines have been represented, are so numerous as to leave hardly any new means of bewildering them in difficulties, there are such objections continually made to some part or other of our fabricated stores, as have continually reminded me of the fable of the Man, his Son, and his Ass.  I have been assailed with remonstrances on the evil tendency of having too much of love&#8212;too much of violent attachments in my novels; and as I thought in the present instance, the situation of my hero was of itself interesting enough to enable me to carry him on for some time without making him violently in love, I was determined to try the experiment.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;I am afraid it is an experiment you must not carry too far.  I do not believe that the generality of novel reader, and it is to those you must look, will agree with you sage advisers, who were, I suppose, ladies far advanced in life.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;They were indeed.&#8212;One was an authoress; one who is herself above all the weaknesses of humanity, and whose talents give to her character a peculiar hardness, which is all placed to the account of her understanding.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;And the others?</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;Were women no longer young, and who now assume a sort of stoicism quite opposite to their former sentiments and habits of life.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;To such I should listen without any great deference, and when they discover that the stories you have invented turn too much on the passions of love, ask them what are the sub-
+
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">jects</seg>
+</p>
+
+<pb n="v" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">jects of those books of mere entertainment, which are now classics?&#8212;Ask them while they put into the hands of their daughters novels that have for years been considered as written in the cause of virtue, and by which our mothers, I suppose, set their minds, whether they can seriously object to any one page of your five-and-twenty volumes, as immoral, or even improper, in the imagination of the most prudish censurer. But on some future occasion I may give you more fully my opinion of English novels.  I speak not of the trifles which issue every day from the press to satisfy the idlest readers of a circulating library, but such as deserve to be read by persons who have other purposes in reading than to pass a vacant hour, or escape for a few moments from the insipid monotony of prosperity, by engaging their minds in the detail of  adventures; of fables, that only a distempered imagination can produce, or a vitiated taste enjoy.
+</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;I shall be extremely obliged to you for your opinion, which cannot fail to entertain and edify me; though I believe, as far as relates to the business of novel writing, I shall never have occasion to avail myself of your judgment.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;Why so?</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;Because I think I have taken my leave for ever of that species of writing.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;Your imagination then is exhausted?</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;Perhaps not.&#8212;In the various combinations of human life&#8212;in the various shades of human character, there are almost inexhaustible sources, from whence observation may draw materials, that very slender talents may weave into connected narratives; but in this as in every other species of composition, there is a sort of fashion of the day.  <hi rend="italics" lang="" TEIform="hi" id="" n="">Le vrai</hi>, which you so properly recommend, or even <hi rend="italics" lang="" TEIform="hi" id="" n="">le vrai semblance</hi>, seems
+<seg type="catchword" function="" lang="" n="" ana="" corresp="" rend="" TEIform="seg" next="" id="" prev="" part="N" subtype="">not</seg>
+</p>
+<pb n="vi" ed="" lang="" TEIform="pb" rend="" id=""/>
+
+<p rend="cont" lang="" n="" ana="" corresp="" TEIform="p" next="" id="" prev="">not to be the present fashion. I have no pleasure in drawing figures which interest me no more than the allegoric personages of Spencer: besides, it is time to resign the field of fiction before there remains for me only the gleanings, or before I am compelled by the caprice of fashion to go for materials for my novels, as the authors of some popular dramas have lately done, to children's story books, or rather the collection which one sees in farm houses; the book of apparitions; or a dismal tale of an haunted house, <sic corr="showing" lang="" n="" ana="" corresp="" rend="" TEIform="sic" cert="" resp="" next="" id="" prev="">shewing </sic> how the inhabitants were forced to leave the same by reason of a bloody and barbarous murder committed there twenty years before, which was fully brought to light.
+</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Friend.&#8212;Well! but if you should change your mind, I can furnish you with <hi rend="italics" lang="" TEIform="hi" id="" n="">such</hi> a ghost story.</p>
+<p lang="" n="" ana="" corresp="" rend="" TEIform="p" next="" id="" prev="">Author.&#8212;I thank you  but I have no talents that way; and will rather endeavour, in whatever I may hereafter produce, (if I am still urged by the same necessity as has hitherto made me produce so much,) to remember, whenever it can be remembered with advantage,</p>
+
+<lg type="quote" lang="" org="uniform" n="" ana="" corresp="" rend="" TEIform="lg" met="" rhyme="" sample="complete" next="" id="" prev="" real="" part="N"><l lang="" n="" ana="" corresp="" rend="" TEIform="l" met="" rhyme="" enjamb="" next="" id="" prev="" part="N" real=""><hi rend="center" lang="" TEIform="hi" id="" n="">Que rien n'est beau que le vrai.</hi></l></lg>
+
+</div1></text></TEI.2>

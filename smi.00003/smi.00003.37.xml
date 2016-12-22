@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="37"><text><div1 type="sonnet">
+<head>SONNET XXXI.</head>
+<head type="sub">WRITTEN ON FARM WOOD, SOUTH DOWNS, IN MAY 1784.</head>
+<lg type="verse">
+<l>SPRING's dewy hand on this fair summit weaves</l>
+<l rend="indent">The downy grass, with tufts of Alpine flowers, <note>SONNET XXXI.<lb/>Line 2.<lb/>'Alpine flowers.'<lb/>An infinite variety of plants are found on these hills, particularly about this spot: many forts of Orchis and Cistus of singular beauty, with several others.
+
+
+</note>
+</l>
+<l>And shades the beechen slopes with tender leaves,</l>
+<l rend="indent">And leads the shepherd to his upland bowers,</l>
+<l>Strewn with wild thyme; while flow-descending showers,</l>
+<l rend="indent">Feed the green ear, and nurse the future sheaves!</l>
+<l rend="indent">Ah! blest the hind   whom no sad thought bereaves</l>
+<l>Of the gay Season's pleasures!  All his hours</l>
+<l>To wholesome labour given, or thoughtless mirth;</l>
+<l rend="indent">No pangs of sorrow past, or coming dread,</l>
+<l>Bend his unconscious spirit down to earth,</l>
+<l rend="indent">Or chase clam slumbers from his careless head!</l>
+<l>Ah! what to me can those dear days restore,</l>
+<l>When scenes could charm, that now I taste no more!</l>
+</lg>
+</div1></text></TEI.2>

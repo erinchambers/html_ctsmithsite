@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="69"><text><div1 type="poem">
+<head>THE<lb/>ORIGIN OF FLATTERY.</head>
+
+<note>THE ORIGIN OF FLATTERY.<lb/>This little poem was written almost extempore on occasion of a conversation where many pleasant things were said on the subject of flattery; and some French gentlemen who were of the party, enquired for a synonime in English to the French word <foreign lang="fre">fleurette</foreign>.  The poem was inserted in the two first editions, and having been asked for by very respectable subscribers to the present, it is reprinted.  The sonnets have been thought too gloomy; and the author has been advised to insert some of a more cheerful cast.  This poem may be others be though too gay, and is indeed so little in unison with the present sentiments and feelings of its author, that it had been wholly omitted but for the respectable approbation of those to whose judgement she owed implicit deference.
+</note>
+
+<lg type="verse">
+<l>WHEN Jove, in anger to the sons of earth,</l>
+<l>Bid artful Vulcan give Pandora birth,</l>
+<l>And sent the fatal gift, which spread below</l>
+<l>O'er all the wretched race contagious woe,</l>
+<l>Unhappy man, by vice and folly tost,</l>
+<l>Found in the storms of life his quiet lost,</l>
+<l>While Envy, Avarice, and Ambition, hurl'd</l>
+<l>Discord and death around the warring world;</l>
+<l>Then the blest peasant left his fields and sold,</l>
+<l>And barter'd love and peace, for power and gold;</l>
+<l>Left his calm cottage, and his native plain,</l>
+<l>In search of wealth to tempt the faithless main;</l>
+<l>Or, braving danger, in the battle stood,</l>
+<l>And bath'd his savage hands in human blood;</l>
+<pb n="71"/>
+<l>No longer then, his woodland walks among,</l>
+<l>The shepherd lad his genuine passion sung,</l>
+<l>Or fought at early morn his soul's delight,</l>
+<l>Or grav'd her name upon the bark at night;</l>
+<l>To deck her flowing hair no more he wove</l>
+<l>The simple wreath, or with ambitious love</l>
+<l>Bound his own brow with myrtle or with bay,</l>
+<l>But broke his pipe, and threw his crook away.</l>
+<l>The nymphs forsaken, other pleasures fought;</l>
+<l>Then first for gold their venal hearts were bought,</l>
+<l>And nature's blush to sickly art gave place,</l>
+<l>And affectation seiz'd the feat of grace:</l>
+<l>No more simplicity by sense refin'd,</l>
+<l>Or generous sentiment, possess'd the mind;</l>
+<l>No more they felt each other's joy and woe,</l>
+<l>And Cupid fled, and hid his useless bow.</l>
+<l>But with deep grief propitious Venus pin'd,</l>
+<l>To see the ills which threaten'd womankind;</l>
+<l>Ills, that she knew her empire would disarm,</l>
+<l>And rob her subjects of their sweetest charm;</l>
+<pb n="72"/>
+<l>Good humour's potent influence destroy,</l>
+<l>And change for low'ring frowns, the smile of joy,</l>
+<l>Then deeply sighing at the mournful view,</l>
+<l>She try'd at length what heavenly art could do</l>
+<l>To bring back pleasure to her pensive train,</l>
+<l>And vindicate the glories of her reign.</l>
+<l>A thousand little loves attend the talk,</l>
+<l>And bear from Mars's head his radiant casque,</l>
+<l>The fair enchantress on its silver bound,</l>
+<l>Weav'd with soft spells her magic cestus round,</l>
+<l>Then shaking from her hair embrosial dew,</l>
+<l>Infus'd fair hope, and expectation new,</l>
+<l>And stifled wishes, and persuasive sighs,</l>
+<l>And fond belief, and 'eloquence of eyes,'</l>
+<l>And falt'ring accents, which explain so well</l>
+<l>What studied speeches vainly try to tell;</l>
+<l>And more pathetic silence, which imparts</l>
+<l>Infectious tenderness to feeling hearts;</l>
+<l>Soft tones of pity; fascinating smiles;</l>
+<l>And Maia's son assisted her with wiles,</l>
+<pb n="73"/>
+<l>And brought gay dreams, fantastic visions brought,</l>
+<l>And wav'd his wand o'er the seducing draught.</l>
+<l>Then Zephyr came: To him the goddess cry'd,</l>
+<l>'Go fetch from Flora all her flow'ry pride</l>
+<l>'To fill my charm, each scented bud that blows,</l>
+<l>'And bind my myrtles with her thornless rose;</l>
+<l>'Then speed thy flight to Galliea's smiling plain,</l>
+<l>'Where rolls the Loire, the Garonne, and the Seine;</l>
+<l>'Dip in their waters thy celestial wing,</l>
+<l>'And the soft dew to fill my chalice bring;</l>
+<l>'But chiefly tell thy Flora, that to me</l>
+<l>'She send a bouquet of her fleurs de lys;</l>
+<l>'That poignant spirit will complete my spell.'</l>
+<l> 'Tis done: the lovely sorceress says 'tis well.</l>
+<l>And now Apollo lends a ray of fire,</l>
+<l>The cauldron bubbles, and the flames aspire;</l>
+<l>The watchful Graces round the circle dance,</l>
+<l>With arms entwin'd, to mark the work's advance;</l>
+<l>And with full quiver sportive Cupid came,</l>
+<l>Temp'ring his favourite arrows in the flame.</l>
+<pb n="74"/>
+<l>Then Venus speaks, the wavering flames retire,</l>
+<l>And Zephyr's breath extinguishes the fire.</l>
+<l>At length the goddess in the helmet's round</l>
+<l>A sweet and subtil spirit duly found,</l>
+<l>More soft than oil, than æther more refin'd,</l>
+<l>Of power to cure the woes of womankind,</l>
+<l>And call'd it Flattery:  balm of female life,</l>
+<l>It charms alike the widow, maid, and wife;</l>
+<l>Clears the sad brow of virgins in despair,</l>
+<l>And smoothes the cruel traces left by care;</l>
+<l>Bids palsy'd age with youthful spirit glow,</l>
+<l>And hangs May's garlands on December's snow.</l>
+<l>Delicious essence! howsoe'er apply'd,</l>
+<l>By what rude nature is thy charm deny'd?</l>
+<l>Some form seducing still thy whisper wears,</l>
+<l>Stern Wisdom turns to thee her willing ears,</l>
+<l>And Prudery listens, and forgets her fears.</l>
+<l>The rustic nymph, whom rigid aunts restrain,</l>
+<l>Condemn'd to dress, and practice airs in vain,</l>
+<pb n="75"/>
+<l>At thy first summons finds her bosom swell,</l>
+<l>And bids her crabbed gouvernantes farewell;</l>
+<l>While, fir'd by thee with spirit not her own,</l>
+<l>She grows a toast, and rises into <emph>ton</emph>.</l>
+<l>The faded beauty, who with secret pain,</l>
+<l>Sees younger charms usurp her envied reign,</l>
+<l>By thee assisted, can with smiles behold</l>
+<l>The record where her conquests are enroll'd;</l>
+<l>And dwelling yet on scenes by memory nurs'd,</l>
+<l>When George the Second reign'd, or George the First;</l>
+<l>She sees the shades of ancient beaux arise,</l>
+<l>Who swear her eyes exceeded modern eyes,</l>
+<l>When poets sung for her and lovers bled, </l>
+<l>And giddy fashion follow'd as she led.</l>
+<l>Departed modes appear in long array,</l>
+<l>The flowers and flounces of her happier day,</l>
+<l>Again her locks the decent fillets bind,</l>
+<l>The waving lappet flutters in the wind,</l>
+<l>And then comparing with a proud disdain</l>
+<l>The more fantastic tastes that now obtain,</l>
+<pb n="76"/>
+<l>She deems ungraceful, trifling and absurd,</l>
+<l>The gayer world that moves round George the Third.</l>
+<l>Nor thy soft influence will the train refuse,</l>
+<l>Who court in distant shades the modest Muse,</l>
+<l>Tho' in a form more pure and more refin'd,</l>
+<l>Thy soothing spirit meets the letter'd mind.</l>
+<l>Tow'rds thee, even then, we turn the languid eye;</l>
+<l>Still trust in thee to bid our memory bloom,</l>
+<l>And scatter roses round the silent tomb.</l>
+
+
+
+
+
+
+</lg>
+</div1></text></TEI.2>

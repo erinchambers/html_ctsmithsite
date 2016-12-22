@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="5"><text><div1 type="preface">
+<head>PREFACE <lb/>TO THE <lb/>SIXTH EDITION.
+
+</head>
+<lb/>
+<p>WHEN a sixth edition of these little Poems was lately called for, it was proposed to me, to add such sonnets or other pieces, as I might have written since the publication of the fifth  Of these, however, I had only a few; and on shewing them to a friend  whose judgement I had an high opinion; he remarked, that some of them, particularly <bibl>
+<title>"The Sleeping Woodman,"</title>
+</bibl> and <title>"The Return of the Nightingale,"</title> resembled in their subjects, and still more in the plaintive tone in which they are written, the greater part of those in the former Editions  and that, perhaps, some of a more lively cast, might be better<pb n="x"/> liked by the Public <q lang="fre">"Toujours perdrix,"</q> said my friend  <q lang="fre">"Toujours perdrix,"</q> you know, <q lang="fre">"ne vaut rien."</q>  I am far from supposing that <emph>your</emph> compositions can be neglected or disapproved on whatever subject:  but perhaps <q lang="fre">"toujours Rossignols, toujour des chanson triste,"</q> may not be so well received as if you attempted, what you would certainly execute as successfully, a more cheerful style of composition. <q>"Alas!"</q> replied I, <q>"Are grapes gather'd from thorns, or figs from thistles?"</q>  Or can the <emph>effect</emph> cease, while the <emph>cause</emph> remains?  <emph>You know</emph> that when in the Beech Woods of Hampshire, I first struck the chords of the melancholy lyre, its notes were never intended for the public ear!  It was unaffected sorrows drew them forth: I wrote mournfully because I was unhappy  And I have unfortunately no reason yet, though nine years have since elapsed, to <emph>change my tone</emph>.  The <pb n="xi"/>time is indeed arrived, when I have been promised by "<emph>the Honourable Man</emph>" who <emph>nine years ago</emph>, undertook to see that my family obtained the provision their grandfather designed for them,  that all should be well, all should be settled.  But still I am condemned to feel the "<emph>hope delayed that maketh the heart sick</emph>."  Still to receive  not a repetition of promises indeed  <emph>but of scorn and insult</emph>, <emph>when</emph> I apply to those gentlemen, who, though they acknowledge that all impediments to a division of the estate they have undertaken to manage, are done away  will neither tell me when they will proceed to divide it; or, <emph>whether they will ever do so at all</emph>.  You know the circumstances under which I have now so long been labouring; and you have done me the honor to say, that few women could so long have contended with them. With these, however, as they are some of them of a <pb n="xii"/>domestic and painful nature, I will not trouble the Public <emph>now</emph>; but while they exist in all their force, that indulgent Public must accept all I am able to atchieve  <q lang="fre">"Toujours des Chansons tristes!"</q>
+
+
+
+</p>
+<p>Thus ended the short dialogue between my friend and me, and I repeat it as an apology for that apparent despondence, which when it is observed for a long series of years, may look like affectation.  <emph>I shall be sorry</emph>, if on some future occasion, I should feel myself compelled to detail its causes more at length; for notwithstanding I am thus frequently appearing as an Authoress, and have derived from thence many of the greatest advantages of my life, (since it has procured me friends whose attachment is most invaluable,) I am well aware that for a woman  "The Post of Honor is a Private Station."<lb/>London, <date>May 14, 1792</date>
+
+</p>
+
+</div1></text></TEI.2>

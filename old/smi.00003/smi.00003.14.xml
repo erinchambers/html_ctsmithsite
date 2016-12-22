@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="14"><text><div1 type="sonnet">
+<head>SONNET VIII.</head>
+<head type="sub">TO SPRING.</head>
+<lg type="verse">
+<l>AGAIN the wood, and long-withdrawing vale,</l>
+<l rend="indent">In many a tint of tender green are drest,</l>
+<l>Where the young leaves unfolding, scarce conceal</l>
+<l rend="indent">Beneath their early shade, the half-form'd nest</l>
+<l>Of finch or wood-lark; and the primrose pale,</l>
+<l rend="indent">And lavish cowslip, wildly scatter'd round,</l>
+<l>Give their sweet spirits to the sighing gale.</l>
+<l rend="indent">Ah! season of delight!  could aught be found</l>
+<l rend="indent">To soothe awhile the tortur'd bosom's pain,</l>
+<l rend="indent">Of Sorrow's rankling shaft to cure the sound,</l>
+<l rend="indent">And bring life's first delusions once again,</l>
+<l>'Twere surely meet in thee!  thy prospect fair,</l>
+<l>Thy sounds of harmony, thy balmy air,</l>
+<l>Have power to cure all sadness  but despair. <note>SONNET VIII.<lb/>Line 14.<lb/>Have power to cure all sadness  but despair!<lb/>To the heart inspires<lb/>Vernal delight and joy, able to drive<lb/>All sadness but despair.<bibl>Paradise Lost, Fourth Book.</bibl>
+
+</note>
+</l>
+</lg>
+
+<p>
+<figure>
+<entity name="vol1plate2"/>
+</figure>
+</p>
+</div1></text></TEI.2>

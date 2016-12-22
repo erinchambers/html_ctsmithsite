@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="28"><text><div1 type="sonnet">
+<head>SONNET LXXXIV.</head>
+<head type="sub">TO THE MUSE.</head>
+<lg type="verse">
+<l>WILT thou forsake me who in life's bright May</l>
+<l rend="indent">Lent warmer lustre to the radiant morn;</l>
+<l rend="indent">And even o'er Summer scenes by tempests torn,</l>
+<l>Shed with illusive light the dewy ray</l>
+<l>Of pensive pleasure? &#8212; Wilt thou, while the day</l>
+<l rend="indent">Of saddening Autumn closes, as I mourn</l>
+<l>In languid, hopeless sorrow, far away</l>
+<l rend="indent">Bend thy soft step, and never more return? &#8212; </l>
+<l>Crush'd to the earth, by bitterest anguish prest,</l>
+<l rend="indent">From my faint eyes thy graceful form recedes;</l>
+<l rend="indent">Thou canst not heal an heart like mine that bleeds;</l>
+<l>But, when in quiet earth that heart shall rest,</l>
+<l>Haply may'st thou one sorrowing vigil keep, <note>SONNET LXXXIV.<lb/>Line 13.<lb/>Haply may'st thou one sorrowing vigil keep,<lb/>Where Pity and Remembrance <emph>bend and weep</emph>.<lb/>"Where melancholy friendship bends and weeps." <bibl>Gray</bibl>
+
+</note>
+</l>
+<l>Where Pity and Remembrance bend and weep.</l>
+</lg>
+</div1></text></TEI.2>

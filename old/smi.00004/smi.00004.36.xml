@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="36"><text><div1 type="poem">
+<head>APOSTROPHE <lb/>TO <lb/> AN OLD TREE.
+</head>
+<note>APOSTROPHE. <lb/>TO AN OLD TREE. <lb/>The philosophy of these few lines may not be very correct, since mosses are known to injure the stems and branches of trees to which they adhere; but the images of Poetry cannot always be exactly adjusted to objects of Natural History.
+</note>
+<lg type="verse">
+<l>WHERE thy broad branches brave the bitter North,</l>
+<l>Like rugged, indigent, unheeded, worth,</l>
+<l>Lo! Vegetation's guardian hands emboss</l>
+<l>Each giant limb with fronds of studded moss, <note>&#8212; fronds of studded moss. <lb/>The foliage, if it may be so called, of this race of plants, is termed fronds; and their flowers, or fructification, assume the shapes of cups and shields; of those of this description, more particularly adhering to trees, in Lichen Pulmonarius; Lungwort lichen with shields; the Lichen Caperatus, with red cups; and may others which it would look like pedantry to enumerate.
+</note>
+</l>
+<l>That clothes the bark in many a fringed fold</l>
+<l>Begemm'd with scarlet shields, and cups of gold,</l>
+<l>Which, to the wildest winds their webbs oppose,</l>
+<l>And mock the arrowy sleet, or weltering snows.</l>
+<l>&#8212; But to the warmer <emph>West</emph> the woodbine fair <note>APOSTROPHE. <lb/>Line 9. <lb/>The Woodbine and the Clematis are well known plants, ornamenting our hedge-rows in Summer with fragrant flowers.
+</note>
+</l>
+<l>With tassels that perfumed the Summer air,</l>
+<pb n="51"/>
+<l>The mantling Clematis, whose feathery bowers</l>
+<l>Waved in festoons with Nightshade's purple flowers, <note>APOSTROPHE. <lb/>Line 12. <lb/>Nightshade, (Solanum Lignosum) Woody Nightshade, is one of the most beautiful of its tribe.
+</note>
+</l>
+<l>The silver weed, whose corded fillets wove <note>APOSTROPHE. <lb/>Page 51. Line 1. <lb/>The silver weed, whose corded fillets wove. <lb/>The silver weed, Convolvulus major (Raii Syn. 275) or greater Bind-weed, which, however the beauty of the flowers may enliven the garden or the wilds, is so prejudicial to the gardener and farmer that it is seen by them with dislike equal to the difficulty of extirpating it from the soil.  Its cord-like stalks, plaited together, can hardly be forced from the branches round which they have twined themselves.
+</note>
+</l>
+<l>Round thy pale rind, even as deceitful love</l>
+<l>Of mercenary beauty would engage</l>
+<l>The dotard fondness of decrepit age;</l>
+<l>All these, that during Summer's halcyon days</l>
+<l>With their green canopies conceal'd thy sprays,</l>
+<l>Are gone for ever; or disfigured, trail</l>
+<l>Their sallow relicts in the Autumnal gale;</l>
+<l>Or o'er thy roots, in faded fragments tost,</l>
+<l>But tell of happier hours, and sweetness lost!</l>
+<l>&#8212; Thus in Fate's trying hour, when furious storms</l>
+<l>Strip social life of Pleasure's fragile forms,</l>
+<pb n="52"/>
+<l>And aweful <emph>Justice</emph>, as his rightful prey</l>
+<l>Tears Luxury's silk, and jewel'd robe, away,</l>
+<l>While reads <emph>Adversity</emph> her lesson stern,</l>
+<l>And <emph>Fortune's</emph> minions tremble as they learn;</l>
+<l>The crouds around her gilded car that hung,</l>
+<l>Bent the lithe knee, and troul'd the honey'd tongue,</l>
+<l>Desponding fall, or fly in pale despair;</l>
+<l>And <emph>Scorn</emph> alone remembers that they were.</l>
+<l>Not so <emph>Integrity</emph>; unchanged he lives</l>
+<l>In the rude armour conscious Honor gives,</l>
+<l>And dares with hardy front the troubled sky,</l>
+<l>In Honesty's uninjured panoply.</l>
+<l>Ne'er on Prosperity's enfeebling bed</l>
+<l>Or rosy pillows, he reposed his head,</l>
+<pb n="53"/>
+<l>But given to useful arts, his ardent mind</l>
+<l>Has fought the general welfare of mankind;</l>
+<l>To mitigate <emph>their</emph> ills his greatest bliss,</l>
+<l>While studying <emph>them</emph>, has taught him <emph>what he is</emph>;</l>
+<l>
+<emph>He</emph>, when the human tempest rages worth,</l>
+<l>And the earth shudders as the thunders burst,</l>
+<l>Firm, as thy northern branch, is rooted fast,</l>
+<l>And if he can't <emph>avert</emph>, endures the blast.</l>
+</lg>
+</div1></text></TEI.2>

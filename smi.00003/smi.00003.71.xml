@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="71"><text><div1 type="poem">
+<head>SONG.</head>
+<lg type="verse">
+<l>DOES Pity give, tho' Fate denies,</l>
+<l rend="indent">And to my wounds her balm impart?</l>
+<l>O speak!  with those expressive eyes;</l>
+<l rend="indent">Let one low sigh escape thine heart.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>The gazing crowd shall never guess</l>
+<l rend="indent">What anxious, watchful Love can see;</l>
+<l>Nor know what those soft looks express,</l>
+<l rend="indent">Nor dream that sigh is meant for me.</l>
+</lg>
+<lb/>
+<lg type="verse">
+<l>Ah! words are useless, words are vain,</l>
+<l rend="indent">Thy generous sympathy to prove;</l>
+<l>And well, that sigh, those looks explain</l>
+<l rend="indent">That Clara mourns my hapless love.</l>
+</lg>
+
+
+</div1></text></TEI.2>

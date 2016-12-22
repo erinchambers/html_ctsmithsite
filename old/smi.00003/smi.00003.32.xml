@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="32"><text><div1 type="sonnets">
+<head>SONNET XXVI.</head>
+<head type="sub">TO THE RIVER ARUN.</head>
+<lg type="verse">
+<l>ON thy wild banks, by frequent torrents worn,</l>
+<l rend="indent">No glittering fanes, or marble domes appear,</l>
+<l>Yet shall the mournful muse thy course adorn,</l>
+<l rend="indent">And still to her thy rustic waves be dear.</l>
+<l>For with the infant Otway, lingering here, <note>SONNET XXVI.<lb/>Line 5.<lb/>For with the infant Otway, lingering here.<lb/>Otway was born at Trotten, a village in Suffex.  Of Woolbeding, another village on the banks of the Arun (which runs through them both), his father was rector. Here it was therefore that he probably passed many of his early years.  The Arun is here an inconsiderable stream, winding in a channel deeply worn, among meadow, heath, and wood.
+
+
+</note>
+</l>
+<l rend="indent">Of early woes she bade her votary dream,</l>
+<l>While thy low murmurs sooth'd his pensive ear,</l>
+<l rend="indent">And still the poet  consecrates the stream.</l>
+<l>Beneath the oak and birch, that fringe thy side,</l>
+<l rend="indent">The first-born violets of the year shall spring,</l>
+<l>And in thy hazles, bending o'er the tide,</l>
+<l rend="indent">The earliest Nightingale delight to sing:</l>
+<l>While kindred spirits, pitying, shall relate</l>
+<l>Thy Otway's sorrows, and lament his fate!</l>
+</lg>
+</div1></text></TEI.2>

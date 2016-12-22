@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="20"><text><div1 type="sonnet">
+<head>SONNET XIV.</head>
+<head type="sub">FROM PETRARCH.</head>
+<lg type="verse">
+<l>LOOSE to the wind her golden tresses stream'd, <note>SONNET XIV.<lb/>Line 1.<lb/>Erano i capei d'oro all aura sparsi.<bibl>Sonnetto 69. Parte primo.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">Forming bright waves, with amorous Zephyr's sighs;</l>
+<l rend="indent">And tho' averted now, her charming eyes</l>
+<l>Then with warm love, and melting pity beam'd.</l>
+<l>Was I deceiv'd?  Ah! surely, nymph divine!</l>
+<l rend="indent">That fine suffusion on thy cheek was love;</l>
+<l rend="indent">What wonder then those beauteous tints should move,</l>
+<l>Should this heart, this tender heart of mine!</l>
+<l>Thy soft melodious voice, thy air, thy shape,</l>
+<l rend="indent">Were of a goddess  not a mortal maid;</l>
+<l rend="indent">Yet tho' thy charms, thy heavenly charms should fade;</l>
+<l>My heart, my tender heart could not escape;</l>
+<l rend="indent">Nor cure for me in time or change be found:</l>
+<l rend="indent">The shaft extracted, does not cure the wound!</l>
+</lg>
+</div1></text></TEI.2>

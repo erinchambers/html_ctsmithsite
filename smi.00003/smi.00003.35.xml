@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="35"><text><div1 type="sonnet">
+<head>SONNET XXIX.</head>
+<head type="sub">TO MISS C<lb/>ON BEING DESIRED TO ATTEMPT WRITING A<lb/>COMEDY.
+
+</head>
+<lg type="verse">
+<l>WOULD'ST thou then have <emph>me </emph>tempt the comic scene</l>
+<l rend="indent">Of gay Thalia? Us'd so long to tread</l>
+<l rend="indent">The gloomy paths of sorrow's cypress shade;</l>
+<l>And the lorn lay, with sighs and tears to stain?</l>
+<l>Alas! how much unfit her sprightly vein!</l>
+<l rend="indent">Arduous to try!  and seek the funny mead,</l>
+<l rend="indent">And bowers of roses, where she loves to lead</l>
+<l>The sportive subjects of her golden reign!</l>
+<l>Enough for me, if still, to soothe my days,</l>
+<l rend="indent">Her fair and pensive sister condescend,</l>
+<l>With tearful smile to bless my simple lays;</l>
+<l rend="indent">Enough, if her soft notes she sometimes lend,</l>
+<l>To gain for me, of feeling hearts the praise,</l>
+<l rend="indent">And chiefly thine, my ever partial friend!</l>
+</lg>
+</div1></text></TEI.2>

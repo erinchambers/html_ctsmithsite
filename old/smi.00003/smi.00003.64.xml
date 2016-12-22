@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="64"><text><div1 type="sonnet">
+<head>SONNET LVIII.</head>
+<head type="sub">THE GLOW-WORM.</head>
+<lg type="verse">
+<l>WHEN, on some balmy-breathing night of Spring</l>
+<l rend="indent">The happy child, to whom the world is new,</l>
+<l>Pursues the evening moth, of mealy wing,</l>
+<l rend="indent">Or from the heath-bell beats the sparking dew;</l>
+<l>He sees, before his inexperienc'd eyes,</l>
+<l rend="indent">The brilliant Glow-worm, like a meteor, shine</l>
+<l>On the turf bank;  amaz'd and pleas'd he cries</l>
+<l rend="indent">"Star of the dewy grass!  I make thee mine!"  <note>SONNET LVIII.<lb/>Line 8.<lb/>"Star of the earth."<bibl>Dr. Darwin.</bibl>
+
+
+</note>
+</l>
+<l>Then, ere he sleep, collects the moisten'd flower," <note>SONNET LVIII.<lb/>Line 9.<lb/>"The moisten'd blade "<bibl>Wolcot's beautiful Ode to the Glow-worm.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">And bids soft leaves his glittering prize enfold,</l>
+<l>And dreams that fairy lamps illume his bower:</l>
+<l rend="indent">Yet with the morning, shudders to behold</l>
+<l>His lucid treasure, rayless as the dust;</l>
+<l> So turn the World's bright joys, to cold and blank disgust.</l>
+</lg>
+</div1></text></TEI.2>

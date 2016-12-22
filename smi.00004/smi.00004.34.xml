@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="34"><text><div1 type="poem">
+<head>VERSES</head>
+<head type="sub">SUPPOSED TO HAVE BEEN WRITTEN IN THE<lb/> NEW FOREST, IN EARLY SPRING.
+</head>
+<note>VERSES.<lb/>Supposed to have been written in the New Forest,<lb/>in early Spring.<lb/>These are from the Novel of Marchmont,
+</note>
+<lg type="verse">
+<l>AS in the woods, where leathery Lichen weaves <note>VERSES.<lb/>Line 1.<lb/>As in the woods where leathery lichen weaves<lb/>Its wint'ry web among the sallow leaves.<lb/>Mosses and lichens are the first efforts of nature to clothe the earth: as they decay, they form an earth that affords nourishment to the larger and more succulent vegetables: several species of lichen are found in the woods, springing up among the dead leaves, under the drip of forest trees: these, and the withered foliage of preceding years, afford shelter to the earliest wild flowers about the skirts of woods, and in hedge-rows and copses.<lb/> The Pile-wort (Ranucula Ficaria) and the Wood Anemone (Anemone Nemerosa) or Wind-flower, blow in the woods and copses.  Of this latter beautiful species there is in Oxfordshire a blue one, growing wild, (Anemone pratensis pedunculo infoluerato, petalis apice reflexis foliis bipinnatis &#8212; Lin. Sp. Pl. 760.)  It is found in Whichwood Forest near Cornbury quarry. (Vide Flora Oxonensis).  I do not mention this by way of exhibiting botanical knowledge (so easy to possess in appearance) but because I never saw the Blue Anemone wild in any other place, and it is a flower of singular beauty and elegance.
+
+</note>
+</l>
+<l>Its wint'ry web among the sallow leaves,</l>
+<l>Which (thro' cold months in whirling eddies blown)</l>
+<l>Decay beneath the branches once their own,</l>
+<l>From the brown shelter of their foliage fear,</l>
+<l>Spring the young blooms that lead the floral year:</l>
+<l>When, waked by vernal suns, the Pilewort dares</l>
+<l>Expand her spotted leaves, and shining starts</l>
+<l>And (veins empurpling all her tassels pale)</l>
+<l>Bends the soft Wind-flower in the tepid gale;</l>
+<l>Uncultured bells of azure Jacynth's blow, <note>VERSES.<lb/>Line 11.<lb/>Uncultured bells of azure Jacynths blow.<lb/>Hyacinthus no scriptus &#8212; a Hare-bell.
+</note>
+</l>
+<l>And the breeze-scenting Violet lurks below: <note>VERSES.<lb/>Line 12.<lb/> And the breeze-scenting Violet lurks below.<lb/>To the Violet there needs no note, it being like the Nightingale and the Rose, in <emph>constant requisition</emph> by the poets.
+</note>
+</l>
+<pb n="47"/>
+<l>So views the wanderer, with delighted eyes,</l>
+<l>Reviving hopes from black despondence rise,</l>
+<l>When, blighted by Adversity's chill breath,</l>
+<l>Those hopes had felt a temporary death;</l>
+<l>Then with gay heart he looks to future hours,</l>
+<l>When Love shall dress for him the Summer bowers!</l>
+<l>And, as delicious dreams enchant his mind,</l>
+<l>Forgets his sorrow past, or gives them to the wind.</l>
+</lg>
+</div1></text></TEI.2>

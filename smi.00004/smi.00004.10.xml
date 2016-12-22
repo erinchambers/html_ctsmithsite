@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="10"><text><div1 type="sonnet">
+<head>SONNET LXVI.</head>
+<head type="sub">WRITTEN IN A TEMPESTUOUS NIGHT, ON THE<lb/>COAST OF SUSSEX.
+</head>
+<note>SONNET LXVI.<lb/>Written on the coast of Sussex during very tempestuous weather in December 1791, but first published in the Novel of Montalbert.
+</note>
+<lg type="verse">
+<l>THE night-flood rakes upon the stony shore;</l>
+<l rend="indent">Along the rugged cliffs and chalky caves</l>
+<l>Mourns the hoarse Ocean, seeming to deplore</l>
+<l rend="indent">All that are buried in his restless waves &#8212; </l>
+<l>Mined by corrosive tides, the hollow rock</l>
+<l rend="indent">Falls prone, and rushing from its turfy height,</l>
+<l>Shakes the broad beach with long-resounding shock,</l>
+<l rend="indent">Loud thundering on the ear of sullen Night;</l>
+<l>Above the desolate and stormy deep,</l>
+<l rend="indent">Gleams the wan Moon, by floating mist opprest;</l>
+<l>Yet here while youth, and health, and labour sleep,</l>
+<l rend="indent">Alone I wander &#8212; Calm untroubled rest,</l>
+<l rend="indent">"Nature's soft nurse," deserts the sigh-swoln breast,</l>
+<l>And shuns the eyes, that only wake to weep!</l>
+</lg>
+</div1></text></TEI.2>

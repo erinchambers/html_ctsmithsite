@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="19"><text><div1 type="sonnet">
+<head>SONNET LXXV.</head>
+<note>SONNET LXXV.<lb/>First published in the Novel of Marchmont.
+</note>
+<lg type="verse">
+<l>WHERE the wild woods and pathless forests frown,</l>
+<l rend="indent">The darkling Pilgrim seeks his unknown way,</l>
+<l>Till on the grass he throws him weary down,</l>
+<l rend="indent">To wait in broken sleep the dawn of day;</l>
+<l>Thro' bought just waving in the silent air,</l>
+<l rend="indent">With pale capricious light the Summer Moon</l>
+<l>Chequers his humid couch; while Fancy there,</l>
+<l rend="indent">That loves to wanton in the Night's deep noon,</l>
+<l>Calls from the mossy roots and fountain edge</l>
+<l rend="indent">Fair visionary Nymphs that haunt the shade,</l>
+<l>Or Naiads rising from the whispering sedge:</l>
+<l rend="indent">And, 'mid the beauteous group, his dear loved maid</l>
+<l>Seems beckoning him with smiles to join the train:</l>
+<l>Then, starting from his dream, he feels his woes again.</l>
+</lg>
+</div1></text></TEI.2>

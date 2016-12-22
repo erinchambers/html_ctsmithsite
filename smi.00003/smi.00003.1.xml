@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="1"><text><div1 type="dedication letter">
+<salute>TO WILLIAM HAYLEY, ESQ.<lb/>SIR,
+</salute>
+<p>WHILE I ask your protection for these essays, I cannot deny having myself some esteem for them.  Yet permit me to say, that did I not trust to your candour and sensibility, and hope they will plead for the error your judgment must discover, I should never have availed myself of the liberty I have obtained  that of dedicating these simple effusions to the greatest modern Master of that charming talent, in which I can never be more than a distant copyist.</p>
+<signed>I am, <lb/>SIR, <lb/>Your most obedient and obliged servant, <lb/>
+<name>CHARLOTTE SMITH.</name>
+
+
+
+</signed>
+</div1></text></TEI.2>

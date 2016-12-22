@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="26"><text><div1 type="sonnet">
+<head>SONNET LXXXII.</head>
+<head type="sub">TO THE SHADE OF BURNS.</head>
+<note>SONNET LXXXII.<lb/>TO THE SHADE OF BURNS.<lb/>Whoever has tasted the charm of original genius so evident in the composition of this genuine Poet,<lb/>A Poet "of nature's own creation,"<lb/>cannot surely fail to lament his unhappy life, (latterly passed, as I have understood, in an employment to which such a mind as his must have been averse,) nor his premature death.  For one, herself made the object of <emph>subscription</emph>, is it proper to add, that whoever <emph>has</emph> thus been delighted with the wild notes of the Scottish bard, must have a melancholy pleasure in relieving by their benevolence, the unfortunate family he has left?
+</note>
+<lg type="verse">
+<l>MUTE is thy wild harp, now, O Bard sublime!</l>
+<l rend="indent">Who, amid Scotia's mountain solitude,</l>
+<l>Great Nature taught to "build the lofty rhyme,"</l>
+<l rend="indent">And even beneath the daily pressure, rude,</l>
+<l rend="indent">Of labouring Poverty, thy generous blood,</l>
+<l rend="indent">Fired with the love of freedom &#8212; Not subdued</l>
+<l>Wert thou by thy low fortune: But a time</l>
+<l>Like this we live in, when the abject chime</l>
+<l>Of echoing Parasite is best approved,</l>
+<l rend="indent">Was not for thee &#8212; Indignantly is fled</l>
+<l>Thy noble Spirit; and no longer moved</l>
+<l rend="indent">By all the ills o'er which thine heart has bled,</l>
+<l rend="indent">Associate, worthy of the illustrious dead,</l>
+<l>Enjoys with them "the Liberty it loved." <note>SONNET LXXXII.<lb/>Line 14.<lb/>"Enjoys the liberty it loved &#8212;"<bibl>Pope.</bibl>
+</note>
+</l>
+</lg>
+</div1></text></TEI.2>

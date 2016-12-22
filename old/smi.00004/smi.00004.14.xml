@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="14"><text><div1 type="sonnet">
+<head>SONNET LXX.</head>
+<head type="sub">ON BEING CAUTIONED AGAINST WALKING ON AN<lb/>HEADLAND OVERLOOKING THE SEA, BECAUSE<lb/>IT WAS FREQUENTED BY A LUNATIC.
+</head>
+<lg type="verse">
+<l>IS there a solitary wretch who hies</l>
+<l rend="indent">To a tall cliff, with starting pace or slow,</l>
+<l>And, measuring, views with wild and hollow eyes</l>
+<l rend="indent">Its distance from the waves that chide below;</l>
+<l>Who, as the sea-born gale with frequent sighs</l>
+<l rend="indent">Chills his cold bed upon the mountain turf,</l>
+<l>With hoarse, half utter'd lamentation, lies</l>
+<l rend="indent">Murmuring responses to the dashing surf?</l>
+<l>In moody sadness, on the giddy brink,</l>
+<l rend="indent">I see him more with envy than with fear;</l>
+<l>
+<emph>He</emph> has no <emph>nice felicities</emph> that shrink <note>SONNET LXX.<lb/>Line 11.<lb/>He has "no nice felicities that shrink."<lb/>"'Tis delicate felicity that shrinks<lb/>"When rocking winds are loud."<bibl>Walpole.</bibl>
+
+</note>
+</l>
+<l rend="indent">From giant horrors; wildly wandering here,</l>
+<l>He seems (uncursed with reason) not to know</l>
+<l>The depth or the duration of his woe.</l>
+</lg>
+</div1></text></TEI.2>

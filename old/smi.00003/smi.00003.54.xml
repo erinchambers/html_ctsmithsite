@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="54"><text><div1 type="sonnet">
+<head>SONNET XLVIII.</head>
+<head type="sub">TO MRS. ****</head>
+<lg type="verse">
+<l>NO more my wearied soul attempts to stray</l>
+<l rend="indent">From sad reality and vain regret,</l>
+<l>Nor courts enchanting fiction to allay</l>
+<l rend="indent">Sorrows the sense refuses to forget:</l>
+<l>For of calamity so long the prey,</l>
+<l rend="indent">Imagination now has lost her powers,</l>
+<l>Nor will her fairy loom again essay</l>
+<l rend="indent">To dress affliction in a robe of flowers.</l>
+<l>But if no more the bowers of Fancy bloom,</l>
+<l rend="indent">Let one superior scene attract my view,</l>
+<l>Where heaven's pure rays the sacred spot illume,</l>
+<l rend="indent">Let <emph>thy </emph>lov'd hand with palm and amaranth strew</l>
+<l>The mournful path approaching to the tomb,</l>
+<l>While Faith's consoling voice endears the friendly gloom.</l>
+</lg>
+</div1></text></TEI.2>

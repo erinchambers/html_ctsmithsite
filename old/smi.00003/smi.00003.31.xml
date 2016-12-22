@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="31"><text><div1 type="sonnets">
+<head>SONNET XXV.</head>
+<head>BY THE SAME.<lb/>JUST BEFORE HIS DEATH.
+</head>
+<lg type="verse">
+<l>WHY should I wish to hold in this low sphere <note>SONNET XXV.<lb/>Line 1.<lb/>'May my death remove every obstacle to your happiness.  Be at peace, I intreat you be at peace.' <bibl>Sorrow of Werter. Volume Second.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">'A frail and feverish being?' wherefore try</l>
+<l>Poorly from day to day to linger here,</l>
+<l rend="indent">Against the powerful hand of destiny?</l>
+<l>By those who know the force of hopeless care,</l>
+<l rend="indent">On worn heart  I sure shall be forgiven,</l>
+<l>If to elude dark guilt, and dire despair,</l>
+<l rend="indent">I go uncall'd  to mercy and to Heaven!</l>
+<l>Oh thou! to save whose peace I now depart,</l>
+<l rend="indent">Will thy soft mind, thy poor lost friend deplore,</l>
+<l>When worms shall feed on this devoted heart, <note>SONNET XXV.<lb/>Line 11.<lb/>When worms shall feed on this devoted heart,<lb/>Where even thy image shall be found no more. <bibl>From a line in Rousseau's Eloisa.</bibl>
+
+
+
+</note>
+</l>
+<l rend="indent">Where even thy image shall be found no more?</l>
+<l>Yet may thy pity mingle not with pain,</l>
+<l>For then thy hapless lover  dies in vain!</l>
+</lg>
+</div1></text></TEI.2>

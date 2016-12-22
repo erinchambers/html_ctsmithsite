@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="43"><text><div1 type="poem">
+<head>ODE <lb/>TO DEATH.
+</head>
+<note>ODE TO DEATH. <lb/>From the following sentence in Lord Bacon's Essays. <lb/>"Death is no such formidable enemy, since a man <lb/>"has so many champions about him that can win the <lb/>"combat of him &#8212; Revenge triumphs of Death; <lb/>"Love flights it; Honour courts it; Dread of Disgrace <lb/>chooses it; Grief flies to it; Fear anticipates <lb/>it."
+
+</note>
+<lg type="verse">
+<l>FRIEND of the wretched! wherefore should the eye</l>
+<l rend="indent">Of blank Despair, whence tears have ceased to flow,</l>
+<l>Be turn'd from thee? &#8212; Ah! wherefore fears to die</l>
+<l rend="indent">He, who compell'd each poignant grief to know,</l>
+<l rend="indent">Drains to its lowest dregs the cup of woe?</l>
+</lg>
+<lg type="verse">
+<l>Would Cowardice post pone thy calm embrace,</l>
+<l rend="indent">To linger out long years in torturing pain?</l>
+<l>Or not prefer thee to the ills that chase</l>
+<l rend="indent">Him, who too much impoverish'd to obtain</l>
+<l rend="indent">From BRITISH THEMIS <emph>right</emph>, implores her aid in vain!</l>
+</lg>
+<pb n="88"/>
+<lg type="verse">
+<l>Sharp goading Indigence who would not fly,</l>
+<l rend="indent">That urges toil the exhausted strength above?</l>
+<l>Or shun the <emph>once</emph> fond friend's <emph>averted</emph> eye?</l>
+<l rend="indent">Or who to <emph>thy</emph> asylum not remove,</l>
+<l rend="indent">To lose the wasting anguish of ungrateful love?</l>
+</lg>
+<lg type="verse">
+<l>Can then the wounded wretch who must deplore</l>
+<l rend="indent">What most she lov'd, to thy cold arms consign'd,</l>
+<l>Who hears the voice that sooth'd her soul no more,</l>
+<l rend="indent">Fear <emph>thee</emph>, O Death! &#8212; Or hug the chains that bind</l>
+<l rend="indent">To joyless, cheerless life, her sick, reluctant mind?</l>
+</lg>
+<pb n="89"/>
+<lg type="verse">
+<l>Oh! Misery's Cure; who e'er in pale dismay</l>
+<l rend="indent">Has watch'd the angel form they could not save,</l>
+<l>And seen their dearest blessing torn away,</l>
+<l rend="indent">May well the terrors of thy triumph brave,</l>
+<l rend="indent">Nor pause in fearful dread before the opening grave!</l>
+</lg>
+<trailer>FINIS.</trailer>
+</div1></text></TEI.2>

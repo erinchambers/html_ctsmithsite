@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="15"><text><div1 type="sonnet">
+<head>SONNET LXXI.</head>
+<head type="sub">WRITTEN AT WEYMOUTH IN WINTER.</head>
+<lg type="verse">
+<l>THE chill waves whiten in the sharp North-east;</l>
+<l rend="indent">Cold, cold the night-blast comes, with sullen sound,</l>
+<l>And black and gloomy, like my cheerless breast;</l>
+<l rend="indent">Frowns the dark pier and lonely sea-view round.</l>
+<l>Yet a few months &#8212; and on the peopled strand</l>
+<l rend="indent">Pleasure shall all her varied forms display;</l>
+<l>Nymphs lightly tread the bright reflecting sand,</l>
+<l rend="indent">And proud fails whiten all the summer bay:</l>
+<l>Then, for these winds that whistle keen and bleak,</l>
+<l rend="indent">Music's delightful melodies shall float</l>
+<l>O'er the blue waters; but 'tis mine to seek</l>
+<l rend="indent">Rather, some unfrequented shade, remote</l>
+<l>From sights and sounds of gaiety &#8212; I mourn</l>
+<l>All that gave <emph>me</emph> delight &#8212; Ah! never to return!</l>
+</lg>
+</div1></text></TEI.2>

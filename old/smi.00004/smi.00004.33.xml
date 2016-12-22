@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="33"><text><div1 type="poem">
+<head>A <lb/>DESCRIPTIVE ODE,
+</head>
+<note>Supposed to have been written under the Ruins of RUFUS's<lb/> Castle, among the remains of the ancient Church on the Isle<lb/> of PORTLAND.
+</note>
+<note>DESCRIPTIVE ODE.<lb/>The singular scenery here attempted to be described, is almost the only part of this rock of stones worth seeing.  On an high broken cliff hang the ruins of some very ancient building, which the people of the island call Bow and Arrow Castle, or Rufus' Castle.  Beneath, but still high above the sea, are the half fallen arches and pillars of an old church, and around are scattered the remains of tomb-stones, and almost obliterated memorials of the dead.  These verses were written for, and first inserted in, a Novel, called Marchmont; and the close alludes to the circumstance of the story related in the Novel.
+</note>
+<lg type="verse">
+<l rend="indent">CHAOTIC pile of barren stone,</l>
+<l>That Nature's hurrying hand has thrown,</l>
+<l rend="indent">Half finish'd, from the troubled waves;</l>
+<l>On whose rude brow the rifted tower</l>
+<l>Has frown'd, thro' many a stormy hour,</l>
+<l rend="indent">On this drear site of tempest-beaten graves.</l>
+</lg>
+<pb n="40"/>
+<lg type="verse">
+<l>Sure Desolation loves to shroud</l>
+<l>His giant form within the cloud</l>
+<l rend="indent">That hovers round thy rugged head;</l>
+<l>And as thro' broken vaults beneath,</l>
+<l>The future storms low-muttering breathe,</l>
+<l rend="indent">Hears the complaining voices of the dead.</l>
+</lg>
+<lg type="verse">
+<l>Here marks the Fiend with eager eyes,</l>
+<l>Far out at sea the fogs arise</l>
+<l rend="indent">That dimly shade the beacon'd strand,</l>
+<l>And listens the portentous roar</l>
+<l>Of sullen waves, as on the shore,</l>
+<l rend="indent">Monotonous, they burst and tell the storm at hand.</l>
+</lg>
+<pb n="41"/>
+<lg type="verse">
+<l>Northward the Demon's eyes are cast</l>
+<l>O'er yonder bare and sterile waste,</l>
+<l rend="indent">Where, born to hew and heave the block,</l>
+<l>Man, lost in ignorance and toil,</l>
+<l>Becomes associate to the soil,</l>
+<l rend="indent">And his heart hardens like his native rock.</l>
+</lg>
+<lg type="verse">
+<l>On the bleak hills, with flint o'erspread,</l>
+<l>No blossoms rear the purple head;</l>
+<l rend="indent">No shrub perfumes the Zephyrs' breath,</l>
+<l>But o'er the cold and cheerless down</l>
+<l>Grim Desolation seems to frown,</l>
+<l rend="indent">Blasting the ungrateful foil with partial death.</l>
+</lg>
+<pb n="42"/>
+<lg type="verse">
+<l>Here the scathed trees with leaves half-drest,</l>
+<l>Shade no soft songster's secret nest,</l>
+<l rend="indent">Whose spring-notes soothe the pensive ear;</l>
+<l>But high the croaking cormorant flies,</l>
+<l>And mews and hawks with clamourous cries</l>
+<l rend="indent">Tire the lone echos of these caverns drear.</l>
+</lg>
+<lg type="verse">
+<l>Perchance among the ruins grey</l>
+<l>Some widow'd mourner loves to stray,</l>
+<l rend="indent">Marking the melancholy main</l>
+<l>Where once, afar she could discern</l>
+<l>O'er the white waves his fail return</l>
+<l rend="indent">Who never, never now, returns again!</l>
+</lg>
+<pb n="43"/>
+<lg type="verse">
+<l>On these lone tombs, by storms up-torn,</l>
+<l>The hopeless wretch may lingering mourn,</l>
+<l rend="indent">Till from the ocean, rising red,</l>
+<l>The misty Moon with lurid ray</l>
+<l>Lights her, reluctant, on her way,</l>
+<l rend="indent">To steep in tears her solitary bed.</l>
+</lg>
+<lg type="verse">
+<l>Hence the dire Spirit oft surveys</l>
+<l>The ship, that to the western bays</l>
+<l rend="indent">With favouring gales pursues its course;</l>
+<l>Then calls the vapour dark that blinds</l>
+<l>The pilot &#8212; calls the felon winds</l>
+<l rend="indent">That heave the billows with resistless force.</l>
+</lg>
+<pb n="44"/>
+<lg type="verse">
+<l>Commixing with the blotted skies,</l>
+<l>High and more high the wild waves rise,</l>
+<l rend="indent">Till, as impetuous torrents urge,</l>
+<l>Driven on yon fatal bank accurst,</l>
+<l>The vessel's massy timbers burst,</l>
+<l rend="indent">And the crew sinks beneath the infuriate surge.</l>
+</lg>
+<lg type="verse">
+<l>There find the weak an early grave,</l>
+<l>While youthful strength the whelming wave</l>
+<l rend="indent">Repels; and labouring for the land,</l>
+<l>With shorten'd breath and upturn'd eyes,</l>
+<l>Sees the rough shore above him rise,</l>
+<l rend="indent">Nor dreams that rapine meets him on the strand.</l>
+</lg>
+<pb n="45"/>
+<lg type="verse">
+<l>And are there then in human form</l>
+<l>Monsters more savage than the storm,</l>
+<l rend="indent">Who from the gasping sufferer tear</l>
+<l>The dripping weed? &#8212; who dare to reap</l>
+<l>The inhuman harvest of the deep,</l>
+<l rend="indent">From half-drown'd victims whom the tempest spare?</l>
+</lg>
+<lg type="verse">
+<l>Ah! yes! by avarice once possest,</l>
+<l>No pity moves the rustic breast;</l>
+<l rend="indent">Callous he proves &#8212; as those who haply wait</l>
+<l>Till I (a pilgrim weary worn)</l>
+<l>To my own native land return,</l>
+<l rend="indent">With legal toils to drag me to my fate!</l>
+</lg>
+</div1></text></TEI.2>

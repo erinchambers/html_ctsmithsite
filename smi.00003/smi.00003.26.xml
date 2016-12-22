@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="26"><text><div1 type="sonnets">
+<head>SONNET XX.</head>
+<head type="sub">TO THE COUNTESS OF A.<lb/>WRITTEN ON THE ANNIVERSARY OF HER MARRIAGE.
+</head>
+<lg type="verse">
+<l>ON this blest day may no dark cloud or shower,</l>
+<l rend="indent">With envious shade, the sun's bright influence hide!</l>
+<l>But all his rays illume the favour'd hour,</l>
+<l rend="indent">That saw thee, Mary!  Henry's lovely bride!</l>
+<l>With years revolving may it still arise,</l>
+<l rend="indent">Blest with each good approving Heaven can lend!</l>
+<l>And still, with ray serene, shall those blue eyes</l>
+<l rend="indent">Enchant the husband, and attach the friend!</l>
+<l>For you, fair Friendship's amaranth shall blow,</l>
+<l rend="indent">And Love's own thornless roses, bind your brow!</l>
+<l>And when  long hence  to happier worlds you go,</l>
+<l rend="indent">Your beauteous race shall be, what you are now!</l>
+<l>And future Nevills, thro' long ages shine,</l>
+<l>With hearts as good, and forms as fair as thine!</l>
+</lg>
+</div1></text></TEI.2>

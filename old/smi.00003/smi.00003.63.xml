@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="63"><text><div1 type="sonnet">
+<head>SONNET LVII.</head>
+<head type="sub">TO DEPENDENCE.</head>
+<lg type="verse">
+<l>DEPENDENCE! heavy heavy are thy chains,</l>
+<l rend="indent">And happier they, who from the dangerous sea</l>
+<l>Or the dark mine, procure with ceaseless pains</l>
+<l rend="indent">An hard-earn'd pittance  than who trust to thee!</l>
+<l>More blest the hind, who from his bed of flock</l>
+<l rend="indent">Starts!  when the birds of morn, their summons give,</l>
+<l>And waken'd by the lark  "the shepherd's clock" <note>SONNET LVII.<lb/>Line 7.<lb/>The lark  the shepherd's clock.<bibl>Shakespear.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">Lives but to labour  labouring but to live.</l>
+<l>More noble than the sycophant, whose art,</l>
+<l rend="indent">Must heap with taudry flowers thy hated shrine;</l>
+<l>I envy not the meed thou canst impart</l>
+<l rend="indent">To crown <emph>his</emph> service  while, tho' Pride combine</l>
+<l>With fraud to crush me  my unfetter'd heart</l>
+<l rend="indent">Still to the Mountain Nymph may offer mine. <note>SONNET LVII.<lb/>Line 14.<lb/>The mountain goddess, Liberty.<bibl>Milton.</bibl>
+
+
+</note>
+</l>
+</lg>
+</div1></text></TEI.2>

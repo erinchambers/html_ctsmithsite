@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="15"><text><div1 type="sonnet">
+<head>SONNET IX.</head>
+<lg type="verse">
+<l>BLEST is yon shepherd, on the turf reclin'd,</l>
+<l rend="indent">Who on the varied clouds which float above</l>
+<l>Lies idly gazing  while his vacant mind</l>
+<l rend="indent">Pours out some tale antique of rural love!</l>
+<l rend="indent">Ah! <emph>he</emph>
+ has never felt the pangs that move</l>
+<l rend="indent">Th' indignant spirit, when with selfish pride,</l>
+<l rend="indent">Friends, on whose faith the trusting heart rely'd,</l>
+<l rend="indent">Unkindly shun th' imploring eye of woe!</l>
+<l rend="indent">The ills they ought to soothe, with taunts deride,</l>
+<l rend="indent">And laugh at tears themselves have forc'd to flow. <note>SONNET IX.<lb/>Line 10.<lb/>And laugh at tears themselves have forc'd to flow.<lb/>And hard unkindness' alter'd eye,<lb/>That mocks the tear it forc'd to flow.<bibl>Gray.</bibl>
+
+
+
+
+</note>
+</l>
+<l>Nor <emph>his</emph> rude bosom those fine feelings melt,</l>
+<l rend="indent">Children of Sentiment and Knowledge born,</l>
+<l>Thro' whom each shaft with cruel force is felt,</l>
+<l rend="indent">Empoison'd by deceit  or bar'd with scorn.</l>
+</lg>
+</div1></text></TEI.2>

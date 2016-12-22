@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith_TOC.xsl" type="text/xsl"?>
+
+<!DOCTYPE TEI.2 [
+<!ENTITY vol2titlepage SYSTEM "vol2titlepage.jpg" NDATA jpeg>
+<!ENTITY vol2page11 SYSTEM "vol2page11.jpg" NDATA jpeg>
+<!ENTITY vol2page31 SYSTEM "vol2page31.jpg" NDATA jpeg>
+<!ENTITY vol2page70 SYSTEM "vol2page70.jpg" NDATA jpeg>
+<!ENTITY vol2portrait SYSTEM "vol2portrait.jpg" NDATA jpeg>
+<!ENTITY vol2page66 SYSTEM "vol2page66.jpg" NDATA jpeg>
+<!ENTITY vol2advertisement SYSTEM "vol2advertisement.jpg" NDATA jpeg>
+]>
+<TEI.2 id="smi.00004">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title type="245">Elegiac sonnets / by Charlotte  Smith [electronic text]</title>
+<author>Smith, Charlotte Turner, 1749 - 1806</author>
+<respstmt>
+<name>Gina L. B. Minks</name>
+<resp>University of Nebraska-Lincoln Electronic Text Center</resp>
+</respstmt>
+</titlestmt>
+<extent> 119 kb</extent>
+<publicationstmt>
+<publisher>University of Nebraska-Lincoln Electronic Text Center</publisher>
+<pubplace>Lincoln, Neb.</pubplace>
+<availability>
+<p>This work is the property of the University of Nebraska-Lincoln. It may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this statement of availability is included in the text. It may be linked to freely in Internet editions of all kinds, including for-profit works.</p>
+<p>Publishers, libraries, and other information providers interested in providing this text in a commercial or non-profit product or from an information server must contact the University of Nebraska-Lincoln for licensing and cost information.</p>
+<p>Scholars interested in changing or adding to these texts by, for example, creating a new edition of the text (electronically or in print) with substantive editorial changes, may do so with the
+permission of the University of Nebraska-Lincoln. This is the case whether the new publication will be made available at a cost or free of charge.</p>
+</availability>
+<date>1999.</date>
+</publicationstmt>
+<sourcedesc>
+<biblfull>
+<titlestmt>
+<title>Elegiac sonnets, <lb /> and <lb />other poems,</title>
+<title type="sub">volume 2</title>
+<author>Charlotte Smith</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Printed by A. Strahan and sold by T. Cadell</publisher>
+<pubplace>London</pubplace>
+<date>1795</date>
+</publicationstmt>
+<notesstmt>
+<note>Spine title.</note>
+</notesstmt>
+</biblfull>
+</sourcedesc>
+</filedesc>
+<encodingdesc>
+<editorialdecl>
+<p>All poems, line groups, and lines are represented. Indentation and table of contents have been preserved. The original version contains unusual spellings (i.e., "sieze" for "seize") which have been retained in this electronic version of the text.  Pencilled annotations have not been preserved.  Running heads, signature markings, and decorative typographical elements have not been preserved.</p>
+</editorialdecl>
+</encodingdesc>
+<profiledesc>
+<langusage>
+<language lang="fre" id="fre">French</language>
+</langusage>
+</profiledesc>
+</teiheader>
+<text>
+<front>
+
+<p>
+<figure>
+<entity name="vol2portrait"/>
+</figure>
+<pb id="titlepage01" n="[titlepage]" />
+<figure>
+<entity name="vol2titlepage"/>
+</figure>
+</p>
+<titlepage>
+<doctitle>
+<titlepart>ELEGIAC SONNETS</titlepart>
+<titlepart type="sub">AND <lb/>OTHER POEMS,
+</titlepart>
+</doctitle>
+<byline>BY</byline>
+<lb/>
+<docauthor>CHARLOTTE SMITH</docauthor>
+<lb/>
+<docedition>VOL. II.</docedition>
+<epigraph>
+<lg type="verse">
+<l>Non t'appressar ove sia riso e canto</l>
+<l>Canzone mio, n, ma pianto:</l>
+<l>Non fa per te di star con gente allegra</l>
+<l>Vedova sconsolata, in vesta nigra.</l>
+</lg>
+<bibl>PETRARCHA.</bibl>
+</epigraph>
+<lb/>
+<docimprint>
+<pubplace>LONDON:</pubplace>
+<publisher>PRINTED FOR T. CADELL, JUNIOR, AND W. DAVIES,<lb/> (SUCCESSORS TO MR. CADELL) STRAND.
+</publisher>
+<lb/>
+<docdate>1797.</docdate>
+</docimprint>
+</titlepage>
+<pb n="[a]" />
+<div1 type="contents">
+<head>SUBSCRIBERS NAMES.</head>
+<list>
+<lb/>
+<item rend="indent">A.</item>
+<lb/>
+<item>The Marchioness of Antrim</item>
+<item>Hon. Miss Acheson</item>
+<item>Sir Joseph Andrews, Bart.</item>
+<item>Lady Andrews</item>
+<item>James Petit Andrews, Esq.</item>
+<item>&#8212; Amherst, Esq.</item>
+<item>Mrs. Alexander.</item>
+<lb/>
+<item rend="indent">B.</item>
+<lb/>
+<item>Earl of Besborough</item>
+<item>The Countess of Besborough</item>
+<item>The Earl of BectiveThe Countess of Bective</item>
+<pb n="[b]" />
+<item>Lady Anne Butler</item>
+<item>Lady Bellmore</item>
+<item>Lady Burrel</item>
+<item>Lady Bandon</item>
+<item>Lady William Beauchamp</item>
+<item>Mr. Brydges</item>
+<item>Dr. Burney</item>
+<item>Miss Benson</item>
+<item>Miss C. Bull</item>
+<item>M. Bunbury, Esq.</item>
+<item>Miss Blackwood</item>
+<item>Mr. Blake</item>
+<item>Mrs. Brograve</item>
+<item>T. B. Bramston, Esq.</item>
+<item>Mrs. Burgoyne</item>
+<item>Mr. Blake</item>
+<item>&#8212; Brooke, Esq.</item>
+<item>Mrs. Brooke</item>
+<item>Rev. John Bouverie</item>
+<item>William Bourne, Esq.</item>
+<item>Mrs. Brydges</item>
+<item>Mr. Birdfall</item>
+<item>Egerton Brydges, Esq.</item>
+<item>Rev. William Lisle Bowles.</item>
+<pb n="[c]" />
+<lb/>
+<item rend="indent">C.</item>
+<lb/>
+<item>The Earl of Charlemont</item>
+<item>The Countess of Charlemont</item>
+<item>The Dutchess Dowager of Chandos</item>
+<item>The Marquis of Caermarthen</item>
+<item>The Countess of Carrick</item>
+<item>Lady Cahier</item>
+<item>Lady Geogiana Cavendish</item>
+<item>Lady Harriet Cavendish</item>
+<item>The Countess of Cavan</item>
+<item>Lady Croston, 2 Copies</item>
+<item>Mrs. Robert Crofts</item>
+<item>Miss S. Colston, 2 Copies</item>
+<item>William Cowper, Esq.</item>
+<item>Mr. Coslin</item>
+<item>Mr. Thomas Cook</item>
+<item>Rev. Thomas Carwardine</item>
+<item>Geo. Colman, Esq. 2 Copies,</item>
+<item>Captain Calder, R. N. </item>
+<item>Captain Cunningham</item>
+<item>&#8212; Cornewall, Esq.</item>
+<item>Mrs. Carne</item>
+<item>Mrs. C&#8212;, Newport-Pagnel</item>
+<item>Joseph Cowper, Esq.</item>
+<item>Andrew Caldwell, Esq.</item>
+<pb n="[d]" />
+<item>Edward Chichester, Esq.</item>
+<item>Mr. Church</item>
+<item>Miss Campion</item>
+<item>Miss Croft</item>
+<item>Miss F. Cameron</item>
+<item>Miss Campbell</item>
+<item>John Craufurd, Esq.</item>
+<lb/>
+<item rend="indent">D.</item>
+<lb/>
+<item>Duke of Devonshire</item>
+<item>The Dutchess of Devonshire</item>
+<item>The Bishop of Dromore</item>
+<item>Lady Catherine Douglas</item>
+<item>Right Hon. Sylvester Douglas</item>
+<item>Rev. Peter Du Sautoy</item>
+<item>Mrs. Domville</item>
+<item>Mr. Dalrymple</item>
+<item>Mrs. Drought</item>
+<item>J. Dobson, Esq.</item>
+<item>Rev. J. Dade</item>
+<item>Miss S. P. Dickenson</item>
+<item>William Drew, Esq.</item>
+<lb/>
+<item rend="indent">E.</item>
+<lb/>
+<item>Mrs. Evans, 4 Copies</item>
+<item>Gasper Erch, Esq.</item>
+<pb n="[e]" />
+<lb/>
+<item rend="indent">F.</item>
+<lb/>
+<item>Countess Fitz William</item>
+<item>Lady Elizabeth Foster</item>
+<item>Right Hon. Charles James Fox</item>
+<item>Captain Fortescue, R. N.</item>
+<item>Late Rev. Dr. Fordyce</item>
+<item>Dr. Falconer, Bath, 2 Copies</item>
+<item>Rev. Mr. Foyle, Cholderton</item>
+<item>Mrs. William Fauquier</item>
+<item>Mrs. Fox</item>
+<item>Mrs. Francillon</item>
+<item>Mrs. Fitz Patrick.</item>
+<lb/>
+<item rend="indent">G.</item>
+<lb/>
+<item>Dowager Countess of Guildford</item>
+<item>Earl of Guildford, 2 Copies</item>
+<item>Countess of Granard</item>
+<item>Lady Viscountess Gage</item>
+<item>Charles Grey, Esq.</item>
+<item>Mrs. Grey</item>
+<item>Lady Gould</item>
+<item>Carew Gauntlet, Esq.</item>
+<item>Mr. Godley</item>
+<item>Mrs. Greville</item>
+<pb n="[f]" />
+<item>Rev. Samuel Greatheed</item>
+<item>Mrs. Greatheed</item>
+<item>Mrs. Grant</item>
+<item>Rev. John Gilby</item>
+<item>John Goulton, Esq.</item>
+<item>Mr. Edward Gordon, Mile-End</item>
+<item>Mrs. Geary.</item>
+<lb/>
+<item rend="indent">H.</item>
+<lb/>
+<item>Marquis of Hartington</item>
+<item>Lady Anne Hoare</item>
+<item>Rev. Mr. Hoare</item>
+<item>Lady Anne Henry</item>
+<item>Lady Hawkins</item>
+<item>Right Hon. Sackville Hamilton</item>
+<item>Sir John Henniker, Bart.</item>
+<item>Late Mrs. Harkins</item>
+<item>Miss Hawkins</item>
+<item>William Hayley, Esq.</item>
+<item>Mrs. Hayley</item>
+<item>Charles Henry Hunt, Esq.</item>
+<item>Mrs. Charles Hunt</item>
+<item>J. Holland, Jun. Esq.</item>
+<item>&#8212; Hammersley, Esq.</item>
+<item>Miss Hillier</item>
+<pb n="[g]" />
+<item>Mrs. Hartley</item>
+<item>Miss Hotham</item>
+<item>Mrs. Hardcastle</item>
+<item>Miss Harris Hayne</item>
+<item>Mrs. Hill</item>
+<item>Mrs. Hallaghan</item>
+<item>Miss Henry</item>
+<item>Miss H. Henry</item>
+<item>Miss Horner</item>
+<item>J. Horner, Esq.</item>
+<item>S. Horner, Esq.</item>
+<item>Mrs. Le Hunte</item>
+<item>Miss Le Hunte</item>
+<item>Mrs. S. Hunt.</item>
+<lb/>
+<item rend="indent">J.</item>
+<lb/>
+<item>Sir Walter James</item>
+<item>Lady Jane James</item>
+<item>Dr. Jenner</item>
+<item>Mr. George Jermyn</item>
+<item>Miss Mary Ingram</item>
+<item>Miss Jacob</item>
+<item>Henry Irwin, Esq.</item>
+<item>Miss Joliffe</item>
+<item>Miss C. Jackson</item>
+<item>Mad. de St. Jules.</item>
+<pb n="[h]" />
+<lb/>
+<item rend="indent">K.</item>
+<lb/>
+<item>Miss Keen</item>
+<item>Mrs. Kingston</item>
+<item>Dr. Kirkland</item>
+<item>Dr. John Kearney</item>
+<item>Mrs. Kitchen</item>
+<item>S. Knight, Esq.</item>
+<lb/>
+<item rend="indent">L.</item>
+<lb/>
+<item>The Earl of Longford</item>
+<item>Lord Lisle</item>
+<item>Lady Lisle</item>
+<item>Lady Lifford</item>
+<item>Lady Lindsay</item>
+<item>Hon. Mrs. Luttrell</item>
+<item>Hon. Miss Lysaght</item>
+<item>Hon. Miss C. Lysaght</item>
+<item>Miss Lindsay</item>
+<item>Rev. Dean Langrishe</item>
+<item>Miss Langrishe</item>
+<item>Launcelot Lee, Esq.</item>
+<item>Mr. William Larkins</item>
+<item>Mrs. Lawes, 2 Copies</item>
+<item>Mrs. Peter Latouche.</item>
+<pb n="[i]" />
+<lb/>
+<item rend="indent">M.</item>
+<lb/>
+<item>The Countess of Moira</item>
+<item>Lady St. John Mildmay</item>
+<item>Late Lady Mildmay</item>
+<item>Right Hon. Frederic Montague</item>
+<item>Sir Digby Mackworth, Bart.</item>
+<item>Lady Mackworth</item>
+<item>Miss Mayhew</item>
+<item>Mrs. Macquay</item>
+<item>Miss Miles</item>
+<item>Miss Menzies</item>
+<item>Mrs. Minchin</item>
+<item>Miss Minchin</item>
+<item>John Henniker Major, Esq.</item>
+<item>Mrs. H. Major</item>
+<item>Mrs. Magill</item>
+<item>Miss Macartney</item>
+<item>Miss Montgomery</item>
+<item>Mr. Macbride.</item>
+<lb/>
+<item rend="indent">N.</item>
+<lb/>
+<item>Lady Anne North</item>
+<item>Lady Charlotte North</item>
+<item>Hon. Frances North, 10 Copies</item>
+<item>Hon. Frederic North, 2 Copies</item>
+<pb n="[j]" />
+<item>Mrs. Nott</item>
+<item>Rev. George Nott</item>
+<item>Miss Nott</item>
+<item>N. Newnham, Esq.</item>
+<item>Dr. Nott, Bristol</item>
+<item>William Neville, Esq.</item>
+<item>Miss N. Newport-Pagnel</item>
+<item>Miss H. N. Ditto</item>
+<item>Miss Nesbit</item>
+<item>Miss Newenham, 2 Copies</item>
+<lb/>
+<item rend="indent">O.</item>
+<lb/>
+<item>Viscount O'Neill, 2 Copies</item>
+<item>Hon. John Olmius, 2 Copies</item>
+<item>Hon. Mrs. Olmius, 2 Copies</item>
+<item>Miss O'Neill</item>
+<item>The Earl of Oxford</item>
+<item>The Countess of Oxford</item>
+<item>&#8212; Outram, Esq.</item>
+<lb/>
+<item rend="indent">P.</item>
+<lb/>
+<item>Lady Elizabeth Packenham</item>
+<item>Hon. Mrs. Ponsonby</item>
+<item>The late sir Herbert P. Packington, Bart.</item>
+<item>Miss Packington</item>
+<pb n="[k]" />
+<item>Thomas Norton Powlett, Esq.</item>
+<item>Miss Piers</item>
+<item>Mrs. Preston</item>
+<item>&#8212; Pirtchett, Esq.</item>
+<item>Captain Pitts</item>
+<item>Mrs. Poulter</item>
+<item>Mrs. Pease</item>
+<item>Mr. Philips</item>
+<item>Miss Pigot</item>
+<lb/>
+<item rend="indent">R.</item>
+<lb/>
+<item>Lord Rivers, 2 Copies</item>
+<item>Lady Charlotte Rawdon</item>
+<item>Miss Reeve</item>
+<item>James Rowe, Esq.</item>
+<item>&#8212; Read, Esq.</item>
+<item>Captain Reynolds</item>
+<item>Mrs. Riall</item>
+<item>Mrs. Rially</item>
+<item>G. W. Ricketts, Esq.</item>
+<lb/>
+<item rend="indent">S.</item>
+<lb/>
+<item>Dowager Countess Spenser</item>
+<item>Countess of Shannon</item>
+<item>Hon. Mrs. Stewart</item>
+<pb n="[l]" />
+<item>Hon. Mrs. Staples</item>
+<item>Hon. Mrs. Stuart Wortley, 2 Copies</item>
+<item>Miss Stuart Wortley, 2 Copies</item>
+<item>Lieut. Shrapnell</item>
+<item>J. C. Stoughton, Esq.</item>
+<item>Mrs. Symes</item>
+<item>Mrs. Schaw</item>
+<item>Miss Schaw</item>
+<item>Mrs. Strutt</item>
+<item>Mrs. Seale</item>
+<item>Mrs. Stewart</item>
+<item>Mrs. Sykes</item>
+<item>Miss Sykes</item>
+<item>Rev. Richard Sykes</item>
+<item>Mrs. J. Sykes</item>
+<item>John Sykes, Esq.</item>
+<item>Mark Sykes, Esq.</item>
+<item>Mrs. Stackpoole</item>
+<item>Robert Shaw, Esq.</item>
+<lb/>
+<item rend="indent">T.</item>
+<lb/>
+<item>Right Hon. Lady Templetown, 2 Copies</item>
+<item>Rev. T.F. Twigge, 2 Copies</item>
+<item>Mrs. Townsend, 2 Copies</item>
+<pb n="[m]" />
+<item>Mrs. Twigge</item>
+<item>Mrs. Taylor</item>
+<item>Mrs. Trevelyn</item>
+<item>Miss Trimmer.</item>
+<lb/>
+<item rend="indent">V.</item>
+<lb/>
+<item>Rev. Mr. Villiers.</item>
+<lb/>
+<item rend="indent">W.</item>
+<lb/>
+<item>Lady Webster, Battle-Abbey</item>
+<item>Lieut. Col. Walpole, 2 Copies</item>
+<item>Joseph Cooper Walker, Esq.</item>
+<item>Dr. Wall, Oxford, 2 Copies</item>
+<item>Mr. Whipham</item>
+<item>Mrs. Walsh</item>
+<item>Mrs. Wilmot</item>
+<item>Mrs. Woods</item>
+<item>Peter Walsh, Esq.</item>
+<item>&#8212; Wood, Esq.</item>
+<item>Mrs. Wood</item>
+<item>Miss Wallen</item>
+<item>Miss Wright</item>
+<item>Miss A. Wright</item>
+<item>Miss E. Wright</item>
+<item>Mrs. Wray</item>
+<pb n="[n]" />
+<item>Mrs. Way</item>
+<item>Mrs. Walter</item>
+<item>Mr. James Wallace</item>
+<item>Mr. Wallingford</item>
+<item>Peter Walsh, Esq.</item>
+
+
+
+
+
+
+
+</list>
+</div1>
+<pb n="[i]" />
+<div1 type="preface">
+<head>PREFACE.</head>
+<p>IT so rarely happens that a second attempt in any species of writing equals the first, in the public opinion, when the first has been remarkable successful; that I send this second volume of small Poems into the world with a considerable degree of dissidence and apprehension.</p>
+<lb/>
+<p>Whatever inferiority may be adjudged to it, I cannot plead want of <emph>time</emph> for its completion, if I should attempt any excuse at all; for I do not forget that more than three years have elapsed since I reluctantly yielded to the pressing<pb n="ii" />instances of some of my friends <note>Particularly those of Joseph Cooper Walker, Esq. of Dublin, by whose friendly and successful application in Ireland I am particularly obliged.</note>; and accepted their offers to promote a subscription to another volume of Poems &#8212; I say, accepted the offers of my friends, because (with a single exception I have never made any application myself.
+</p>
+<lb/>
+<p>Having once before had recourse to the indulgence of the public, in publishing a book by subscription, and knowing that it had bee so often done by persons with whom it is honourable to be ranked, it was not pride that long withheld my consent form this manner of publication; and, certainly, the pecuniary inconveniences I had been exposed to for so many year, never pressed upon me<emph>more</emph> heavily than<pb n="iii" />at the moment this proposal was urged by my friends; if then I declined it, it was because I even at <emph>that</emph> period doubted, whether from extreme depression of spirit, I should have the power of fulfilling (so as to satisfy myself) the engagement I must feel myself bound by, the moment I had accepted subscriptions.
+</p>
+<lb/>
+<p>Could an one of the misfortunes that so rapidly followed have been foreseen, nothing should have induced me to have consented to it &#8212; for what expectation could I entertain of resisting such calamities as the detention of their property has brought on my children?  Of four sons, all seeking in other climates the competence denied them in this, two were (for that reason) driven from their prospects in the Church to the Army, where one of them was maimed during the first campaign he served in,<pb n="iv" />and is now a lieutenant of invalids.  The loveliest, the most beloved of my daughters, the darling of all her family, was torn from us for ever.  The rest deprived of every advantage to which they are entitled; and the means of proper education for my youngest son denied me! while the money that their inhuman trustees have suffered yearly to be wasted, and what they keep possession of on false and frivolous pretences, would, if paid to those it belongs to, have saved me and them from all these now irremediable misfortunes.
+</p>
+<lb/>
+<p>I am well aware that the present is not a time when the complaints of individuals against private wrong are likely to be listened to; nor is this an opportunity fit to make those complaints; but I know so much has been said, (so much more than so trifling a matter could<pb n="v" /> be worth) of the <emph>delay</emph> of this publication, that it becomes in some measure a matter of self-defence, to account for that delay.  Those who have expressed such impatience for it, were apprehensive (indeed they owned they were) of the loss of the half guinea they had paid.  I have more than once thought of returning their money, rather than have remained under any obligation to persons who could suspect me of a design to accumulate, by gathering subscriptions for a work I never meant to publish, a sum, which no contrivance, no success, was likely to make equal to one year of the income I ought to possess.  Surely, any who have entertained and <emph>expressed</emph> such an opinion of me, must either never have understood, <emph>or must have forgotten</emph>, what I was, what I am, or what I ought to be.
+</p>
+<pb n="vi" />
+<p>to be suspected even by arrogant ignorance of such an intention to impose on public generosity, has not been the least among the mortifications I have within these last years been subjected to; I place them to the same long account of injuries, where this, however, is almost lost in the magnitude of others!  Let not the censors of literary productions, or the fastidious in private life, again reprove me for bringing forward "with querulous egotism," the mention of myself, and the sorrows, of property, have been the occasion.  Had they never so unjustly possessed, and so shamelessly exercised the power of reducing me to percuniary  distress, I should never, perhaps have had occasion to ask the consideration of the <emph>reader</emph>, or to deprecate the severity of the <emph>critic</emph>.  Certainly I should never have been compelled to<pb n="vii" />make excuses as a defaulter in point of <emph>punctuality</emph> to the <emph>subscriber</emph>.  Nor should I to any of these have found it necessary to state the causes that have rendered me miserable as an <emph>individual</emph>, though now I am compelled to complain of those who have crusted the poor abilities of the <emph>author</emph>, and by the most unheard of acts of injustice (<emph>for twice seven years</emph>) have added the painful sensations of <emph>indignation</emph> to the inconveniences and deprivations of indigence; and aggravating by future dread, the present suffering, have frequently doubled the toil necessary for to-morrow, by palsying the hand and distracting the head, that were struggling against the evils of to-day!
+</p>
+<lb/>
+<p>It is passed! &#8212; The injuries I have so long suffered under are not mitigated; the aggressors are not removed: but however soon they may be<pb n="viii" />disarmed of their power, any retribution in this world is impossible &#8212; they can neither give back to the maimed the possession of health, or restore the dead,  the time they have occasioned me to pass in anxiety, in sorrow, in anguish, can make no amends, but they would not if they could; nor have I the poor consolation of knowing that I leave in the callous hearts of these persons, thorns to <q>"goad and sting them,"</q>for they have conquered or outlived all sensibility of shame; they are alive neither to honesty, honour, or humanity, and at this moment, far from feeling compunction for the ruin they have occasioned, the dreadful misfortunes they have been the authors of, on e shrinks from the very attempt to make such redress as he might yet give, and  wraps himself up in the callous<pb n="ix" />insolence of his imagined consequence; while the other uses such professional subterfuges as are the disgrace of his profession, to baffle me yet a little longer in my attempts to procure that restitution, that justice, which they dare not deny I am entitled to; and to insult me by a continuation of tormenting chicaneries, perpetuating to the utmost of their power the distresses they have occasioned, and which their perseverance in iniquity has already put it out of the power of heaven itself to remedy!</p>
+<lb/>
+<p>Would to God I could dismiss these oppressors from my mind for ever, as I now do from the notice of any future readers, whom I may engage to any work of mine, (though very probably I may now take my last leave of the public.  And let me, while I account for the delay of this work, and for many defects that may<pb n="x" />perhaps be found in it, assign the causes for both, and lament that such have been the circumstances under which I have compassed it, as may rather render it a wonder I have produced it at all, than that it has been so long in appearing, and yet appears defective.  Surely I shall be forgiven once more for "querulous  egotism," when the disadvantages I have laboured under are considered; complaint may be pardoned when the consequences of what I deplore, mingle themselves in all my feelings, embitter every hour of my life, and leave me no hope but in the oblivion of the grave.
+</p>
+<lb/>
+<p>Some degree of pride which <q>"Still travels on, nor leaves us till we die,"</q> makes me somewhat solicitous to account for the visible difference in point of numbers between the subscribers to this and the former <pb n="xi" />volume.  If I were willing to admit that these Poems are inferior to those that preceded them, I know that such a supposition would not have withheld a single subscription &#8212; but I also know, that as party can raise prejudices against the colour of a ribband, or the cut of a cape, it generates still stranger antipathies, even in regard to things almost equally trifling.  And <emph>there are</emph>, who can never forgive an author that has, in the story of a Novel, or the composition of a Sonnet, ventured to hint at any opinions different from those which these liberal-minded personages are determined to find the best.
+</p>
+<lb/>
+<p>I know, therefore, perfectly well, how I have sinned against some ci-devant, I was going to say friends, but I check myself, and change the word for acquaintance, <q>"Since friendship should be made of stronger stuff,"</q>
+<pb n="xii" />acquaintance, who when my writing first obtained popularity, erected themselves into patrons and patronesses.  To the favor they <emph>then</emph> conferred I am not insensible; and I hope they will accept it as a proof of my perfectly understanding the extent of the obligation, that I have so silently acquiesced in not expecting it to be repeated, and have never suffered them their dereliction in 1797, of the writer whom Ten years do indeed operate most wonderful changes in this state of existence.
+</p>
+<lb/>
+<p>Perhaps in addition to the friends, or <emph>soidisant tel</emph>, whose notice and whose names have for some such causes as these, been withheld, I might add as <emph>another cause</emph>, that for many months past I have been so apprehensive of not having<pb n="xiii" />health enough to superintend the publication of even this small volume, that I had desired those few friends who had voluntarily engaged to collect subscriptions, not to persevere in their kind endeavours; and I had written to my elder sons, entreating them, should death overtake me before I could complete my engagements, to place, as soon afterwards as they could, in the hands of Messrs. Cadell and Davies, a sum sufficient to reimburse them any expences they might have incurred, and to repay the subscriptions.
+</p>
+<lb/>
+<p>I am at length enabled to send it into the world &#8212; and have certainly omitted nothing that was in my power to make it not entirely unworthy the general favor, and of the particular kindness of <emph>those</emph> without whose support I believe it would have been impossible for me<pb n="xiv" />to have prepared the few verses I had by me, or to have composed other, That these are gloomy, none will surely have a right to complain; for I never engaged they should be gay.  But I am unhappily exempt from the suspicion of <emph>feigning</emph> sorrow for an opportunity of shewing the pathos with which it can be described &#8212; a suspicion that has give rise to much ridicule, and many invidious remarks, among certain critics, and others, who carry into their closets the same aversion to anything tragic, as influences, at the present period, their theatrical taste.
+</p>
+<lb/>
+<p>It is, indeed, a melancholy truth, that at this time there is so much tragedy in real life, that those who having escaped private calamity, can withdraw their minds a moment from that which is general, very naturally prefer to melancholy<pb n="xv" />books, or tragic representations, those light and gayer amusements, which exhilarate the sense, and throw a transient veil over the extensive and still threatening desolation, that overspreads this country, and in some degree, every quarter of the world.
+</p>
+<signed>CHARLOTTE SMITH.</signed>
+<trailer>
+<date>May 13th, 1797</date>
+</trailer>
+
+
+</div1>
+<pb n="[xvi]" />
+<pb n="[xvii]" />
+<div1 type="TOC">
+<head>CONTENTS.</head>
+<head type="sub">SONNETS.</head>
+<list>
+<item>LX.  To an amiable Girl . . . 1</item>
+<item>LXI.  Supposed to have been written in America . . . 2</item>
+<item>LXII.  Written on passing by Moon-light through a village, while the ground was covered with Snow . . . 3</item>
+<item>LXIII.  The Gossamer . . . 4</item>
+<item>LXIV.  Written at Bristol in the Summer of 1794 . . . 5</item>
+<item>LXV.  To Dr. Parry of Bath, with some botanic Drawings which had been made some years . . . 6</item>
+<item>LXVI.  Written in a tempestuous Night, on the coast of Sussex . . . 7</item>
+<item>LXVII.  On passing over a dreary tract of country, and near the ruins of a deserted chapel, during a Tempest . . . 8</item>
+<pb n="xviii" />
+<item>LXVIII.  Written at Exmouth, Midsummer 1795 . . . 9</item>
+<item>LXIX.  Written at the same place, on seeing a Seaman return who had been imprisoned at Rochfort . . . 10</item>
+<item>LXX.  On being cautioned against walking on an Headland overlooking the Sea, because it was frequented by a Lunatic . . . 11</item>
+<item>LXXI.  Written at Weymouth in Winter . . . 12</item>
+<item>LXXII.  To the Morning Star.  Written near the Sea . . . 13</item>
+<item>LXXIII.  To a querulous Acquaintance . . . 14</item>
+<item>LXXIV.  The Winter Night . . . 15</item>
+<item>LXXV.  . . . . . 16</item>
+<item>LXXVI.  To a Young Man entering the World . . . 17</item>
+<item>LXXVII.  To the Insect of the Gossamer . . . 18</item>
+<item>LXXVIII.  Snow-drops . . . 19</item>
+<item>LXXIX.  To the Goddess of Botany . . . 20</item>
+<item>LXXX.  To the Invisible Moon . . . 21</item>
+<item>LXXXI.  . . . . . 22</item>
+<pb n="xix" />
+<item>LXXXII.  To the Shade of Burns . . . 23</item>
+<item>LXXXIII.  The Sea View . . . 24</item>
+<item>LXXXIV. To the Muse . . . 25</item>
+<item>The Dead Beggar . . . 26</item>
+<item>The Female Exile . . . 29</item>
+<item>Occasional Address.  Written for the Benefit of a distressed Player, detained at Brighthelmstone for debt, November 1792 . . . 33</item>
+<item>Inscription on a Stone in the Church-Yard at Boreham, in Essex . . . 38</item>
+<item>A descriptive Ode . . . 39</item>
+<item>Verses supposed to have been written in the new Forest, in early Spring . . . 46</item>
+<item>Song.  From the French . . . 48</item>
+<item>Apostrophe to an Old Tree . . . 50</item>
+<item>The Forest Boy . . . 54</item>
+<item>Ode to the Poppy. Written by a deceased Friend . . . 68</item>
+<item>Verses written by the same Lady on seeing her two Sons at play . . . 72</item>
+<pb n="xx" />
+<item>Verses on the death of the same Lady, written in September 1794 . . . 74</item>
+<item>Fragment, descriptive of the Miseries of War . . .78</item>
+<item>April . . . 82</item>
+<item>Ode to Death . . . 87</item>
+</list>
+</div1>
+</front>
+<pb n="[1]" />
+<body>
+<div0 type="poems">
+<head>ELEGIAC SONNETS.</head>
+<div1 type="sonnet">
+<head>SONNET LX.</head>
+<head type="sub">TO AN AMIABLE GIRL.</head>
+<lg type="verse">
+<l>MIRANDA! mark where shrinking from the gale,</l>
+<l rend="indent">Its silken leaves yet moist with early dew,</l>
+<l>That fair faint flower, the Lily of the Vale</l>
+<l rend="indent">Droops its meek head, and looks, methinks, like you!</l>
+<l>Wrapp'd in a shadowy veil of tender green,</l>
+<l rend="indent">Its snowy bells a soft perfume dispense,</l>
+<l>And bending as reluctant to be seen,</l>
+<l rend="indent">In simple loveliness it sooths the sense.</l>
+<l>With bosom bared to meet the garish day,</l>
+<l rend="indent">The glaring Tulip, gaudy, undismay'd</l>
+<l>Offends the eye of taste; that turns away</l>
+<l rend="indent">To seek the Lily in her fragrant shade.</l>
+<l>With such unconscious beauty, pensive, mild,</l>
+<l>Miranda charms &#8212; Nature's soft modest child.</l>
+</lg>
+</div1>
+<pb n="2" />
+<div1 type="sonnets">
+<head>SONNET LXI.</head>
+<head rend="sub">SUPPOSED TO HAVE BEEN WRITTEN IN AMERICA.</head>
+<lg type="verse">
+<l>ILL-omen'd bird! whose cries portentous float<note> SONNET LXI.<lb/>Line 1.<lb/>Ill-omen'd bird, whose cries portentous float.<lb/>This Sonnet, first inserted in the Novel called the Old Manor House, is founded on a superstition attributed (vide Bertram's Travels in America) to the Indians, who believe that the cry of this night-hawk (Caprimulgus Americanus) portends some evil, and when they are at war, assert that it is never heard near their tents or habitations but to announce the death of some brave warrior of their tribe, or some other calamity.
+</note>
+</l>
+<l rend="indent">O'er yon savannah with the mournful wind;</l>
+<l>While, as the Indian hears your piercing note,</l>
+<l rend="indent">Dark dread of future evil fills his mind;</l>
+<l>Wherefore with early lamentation break</l>
+<l rend="indent">The dear delusive visions of repose?</l>
+<l>Why from so short felicity awake</l>
+<l rend="indent">My wounded senses to substantial woes?</l>
+<l>O'er my sick soul thus rous'd from transient rest,</l>
+<l rend="indent">Pale Superstition sheds her influence drear,</l>
+<l>And to my shuddering fancy would suggest</l>
+<l rend="indent">Thou com'st to speak of ev'ry woe I fear.</l>
+<l>Ah! Reason little o'er the soul prevails,</l>
+<l>When, from ideal ill, the enfeebled spirit fails!</l>
+</lg>
+</div1>
+<pb n="3" />
+<div1 type="sonnet">
+<head>SONNET LXII.</head>
+<head type="sub">WRITTEN ON PASSING BY MOON-LIGHT THROUGH<lb/>A VILLAGE, WHILE THE GROUND WAS<lb/>COVERED WITH SNOW.
+</head>
+<note>SONNET LXII.<lb/>First published in the same work.
+</note>
+<lg type="verse">
+<l>WHILE thus I wander, cheerless and unblest,</l>
+<l rend="indent">And find in change of place but change of pain;</l>
+<l>In tranquil sleep the village labourers rest,</l>
+<l rend="indent">And taste that quiet I pursue in vain!</l>
+<l>Hush'd is the hamlet now, and faintly gleam</l>
+<l rend="indent">The dying embers, from the casement low</l>
+<l>Of the thatch'd cottage; while the Moon's wan beam</l>
+<l rend="indent">Lends a new lustre to the dazzling snow &#8212;</l>
+<l>o'er the cold waste, amid the freezing night,</l>
+<l rend="indent">Scarce heeding whither, desolate I stray;</l>
+<l>For me, pale Eye of Evening, thy soft light</l>
+<l rend="indent">Leads to no happy home; <emph>my</emph> weary way</l>
+<l>Ends but in sad vicissitudes of care:</l>
+<l>I only fly from doubt &#8212; to meet despair!</l>
+</lg>
+</div1>
+<pb n="4" />
+<div1 type="sonnet">
+<head>SONNET LXIII.</head>
+<head type="sub">THE GOSSAMER.</head>
+<lg type="verse">
+<l>O'ER faded heath-flowers spun, or thorny furze, <note>SONNET LXIII.<lb/>Line 1.<lb/>O'er faded heath-flowers spun, or thorny furze.<lb/>The web, charged with innumerable globules of bright dew, that is frequently on heaths and commons in autumnal morning, can hardly have escaped the observation of any lover of nature &#8212; The slender web of the field spider is again alluded to in Sonnet lxxvii.
+</note>
+</l>
+<l rend="indent">The filmy Gossamer is lightly spread;</l>
+<l>Waving in every sighing air that stirs,</l>
+<l rend="indent">As Fairy fingers had entwined the thread:</l>
+<l>A thousand trembling orbs of lucid dew</l>
+<l rend="indent">Spangle the texture of the fairy loom,</l>
+<l>As if soft Sylphs, lamenting as they flew,</l>
+<l rend="indent">Had wept departed Summer's transient bloom:</l>
+<l>But the wind rises, and the turf receives</l>
+<l rend="indent">The glittering web: &#8212;  So, evanescent, fade</l>
+<l>Bright views that Youth with sanguine heart, believes:</l>
+<l rend="indent">So vanish schemes of bliss, by Fancy made;</l>
+<l>Which, fragile as the fleeting dreams of morn,</l>
+<l>Leave but the wither'd heath, and barren thorn!</l>
+</lg>
+</div1>
+<pb n="5" />
+<div1 type="sonnet">
+<head>SONNET LXIV.</head>
+<head type="sub">WRITTEN AT BRISTOL IN THE SUMMER OF 1794.</head>
+<note>SONNET LXIV.<lb/>First printed in the Novel of "The Banished Man."
+</note>
+<lg type="verse">
+<l>HERE from the restless bed of lingering pain</l>
+<l rend="indent">The languid sufferer seeks the tepid wave,</l>
+<l>And feels returning health and hope again</l>
+<l rend="indent">Disperse "the gathering shadows of the grave!"</l>
+<l>And here romantic rocks that boldly swell,</l>
+<l rend="indent">Fringed with green woods, or stain'd with veins of ore,</l>
+<l>Call'd native Genius forth, whose Heav'n-taught skill</l>
+<l rend="indent">Charm'd the deep echoes of the rifted shore.</l>
+<l>But tepid waves, wild scenes, or summer air,</l>
+<l rend="indent">Restore they palsied Fancy, woe-deprest?</l>
+<l>Check they the torpid influence of Despair,</l>
+<l rend="indent">Or bid warm Health re-animate the breast;</l>
+<l>Where Hope's soft visions have no longer part,</l>
+<l>And whose sad inmate &#8212; is a broken heart?</l>
+</lg>
+</div1>
+<pb n="6" />
+<div1 type="sonnet">
+<head>SONNET LXV.</head>
+<head>TO DR. PARRY OF BATH, WITH SOME BOTANIC<lb/>DRAWINGS WHICH HAD BEEN MADE SOME<lb/>YEARS.
+</head>
+<note>SONNET LXV.<lb/>To the excellent friend and Physician to whom these lines are addressed, I was obliged for the kindest attention, and for the recovery from one dangerous illness, of that beloved child whom a few months afterwards his skill and most unremitted and disinterested exertions could not save!
+</note>
+<lg type="verse">
+<l>IN happier hours, ere yet so keenly blew</l>
+<l rend="indent">Adversity's cold blight, and bitter storms,</l>
+<l rend="indent">Luxuriant Summer's evanescent forms,</l>
+<l>And Spring's soft blooms with pencil light I drew:</l>
+<l>But as the lovely family of flowers</l>
+<l rend="indent">Shrink from the bleakness of the Northern blast,</l>
+<l rend="indent">So fail from present care and sorrow past</l>
+<l>The flight botanic pencil's mimic powers &#8212;</l>
+<l>Nor will kind Fancy even by Memory's aid,</l>
+<l rend="indent">Her visionary garlands nor entwine;</l>
+<l>Yet while the wreaths of Hope and Pleasure fade,</l>
+<l rend="indent">Still is one flower of deathless blossom mine,</l>
+<l>That dares the lapse of Time, and Tempest rude,</l>
+<l>The unfading Amaranth of Gratitude.</l>
+</lg>
+</div1>
+<pb n="7" />
+<div1 type="sonnet">
+<head>SONNET LXVI.</head>
+<head type="sub">WRITTEN IN A TEMPESTUOUS NIGHT, ON THE<lb/>COAST OF SUSSEX.
+</head>
+<note>SONNET LXVI.<lb/>Written on the coast of Sussex during very tempestuous weather in December 1791, but first published in the Novel of Montalbert.
+</note>
+<lg type="verse">
+<l>THE night-flood rakes upon the stony shore;</l>
+<l rend="indent">Along the rugged cliffs and chalky caves</l>
+<l>Mourns the hoarse Ocean, seeming to deplore</l>
+<l rend="indent">All that are buried in his restless waves &#8212; </l>
+<l>Mined by corrosive tides, the hollow rock</l>
+<l rend="indent">Falls prone, and rushing from its turfy height,</l>
+<l>Shakes the broad beach with long-resounding shock,</l>
+<l rend="indent">Loud thundering on the ear of sullen Night;</l>
+<l>Above the desolate and stormy deep,</l>
+<l rend="indent">Gleams the wan Moon, by floating mist opprest;</l>
+<l>Yet here while youth, and health, and labour sleep,</l>
+<l rend="indent">Alone I wander &#8212; Calm untroubled rest,</l>
+<l rend="indent">"Nature's soft nurse," deserts the sigh-swoln breast,</l>
+<l>And shuns the eyes, that only wake to weep!</l>
+</lg>
+</div1>
+<pb n="8" />
+<div1 type="sonnet">
+<head>SONNET LXVII.</head>
+<head rend="sub">ON PASSING OVER A DREARY TRACT OF COUNTRY<lb/>AND NEAR THE RUINS OF A DESERTED<lb/>CHAPEL, DURING A TEMPEST.
+</head>
+<note>SONNET LXVII.<lb/>Printed in the same work.
+</note>
+<lg type="verse">
+<l>SWIFT fleet the billowy clouds along the sky,</l>
+<l rend="indent">Earth seems to shudder at the storm aghast;</l>
+<l>While only beings as forlorn as I,</l>
+<l rend="indent">Court the chill horrors of the howling blast.</l>
+<l>Even round yon crumbling walls, in search of food,</l>
+<l rend="indent">The ravenous Owl foregoes his evening flight,</l>
+<l>And in his cave, within the deepest wood,</l>
+<l rend="indent">The Fox eludes the tempest of the night.</l>
+<l>But to <emph>my</emph> heart congenial is the gloom</l>
+<l rend="indent">Which hides me from a World I wish to shun;</l>
+<l>That scene where Ruin saps the mouldering tomb,</l>
+<l rend="indent">Suits with the sadness of a wretch undone.</l>
+<l>Nor is the deepest shade, the keenest air,</l>
+<l>Black as my fate, or cold as my despair.</l>
+</lg>
+</div1>
+<pb n="9" />
+<div1 type="sonnet">
+<head>SONNET LXVIII.</head>
+<head type="sub">WRITTEN AT EXMOUTH, MIDSUMMER 1795.</head>
+<lg type="verse">
+<l>FALL, dews of Heaven, upon my burning breast,</l>
+<l rend="indent">Bathe with cool drops these ever-streaming eyes;</l>
+<l>Ye gentle Winds, that fan the balmy West,</l>
+<l rend="indent">With the soft rippling tide of morning rise,</l>
+<l>And calm my bursting heart, as here I keep</l>
+<l rend="indent">The vigil of the wretched! &#8212; Now away</l>
+<l>Fade the pale stars, as wavering o'er the deep</l>
+<l rend="indent">Soft rosy tints announce another day,</l>
+<l>The day of Middle Summer! &#8212; Ah! in vain</l>
+<l rend="indent">To those who mourn like me, does radiant June</l>
+<l>Lead on her fragrant hours; for hopeless pain</l>
+<l rend="indent">Darkens with sullen clouds the Sun of Noon,</l>
+<l>And veil'd in shadows Nature's face appears</l>
+<l>To hearts o'erwhelm'd with grief, to eyes suffused with tears.</l>
+</lg>
+</div1>
+<pb n="10" />
+<div1 type="sonnet">
+<head>SONNET LXIX.</head>
+<head>WRITTEN AT THE SAME PLACE, ON SEEING A<lb/>SEAMAN RETURN WHO HAD BEEN <lb/>IMPRISONED AT ROCHFORT.
+</head>
+<lg type="verse">
+<l>CLOUDS, gold and purple, o'er the westering ray</l>
+<l rend="indent">Threw a bright veil, and catching lights between,</l>
+<l rend="indent">Fell on the glancing fail, that we had seen</l>
+<l>With soft, but adverse winds, throughout the day</l>
+<l>Contending vainly: as the vessel nears,</l>
+<l rend="indent">Encreasing numbers hail it from the shore;</l>
+<l>Lo! on the deck a pallid form appears,</l>
+<l rend="indent">Half wondering to behold himself once more</l>
+<l>Approach his home &#8212;  And now he can discern</l>
+<l rend="indent">His cottage thatch amid surrounding trees;</l>
+<l rend="indent">Yet, trembling, dreads least sorrow or disease</l>
+<l>Await him there, embittering his return:</l>
+<l>But all he loves are safe; with hear elate,</l>
+<l>Tho' poor and plunder'd, he absolves his fate!</l>
+</lg>
+
+<p>
+<figure>
+<entity name="vol2page11"/>
+</figure>
+</p>
+</div1>
+<pb n="[plate]" />
+
+
+
+<pb n="11" />
+<div1 type="sonnet">
+<head>SONNET LXX.</head>
+<head type="sub">ON BEING CAUTIONED AGAINST WALKING ON AN<lb/>HEADLAND OVERLOOKING THE SEA, BECAUSE<lb/>IT WAS FREQUENTED BY A LUNATIC.
+</head>
+<lg type="verse">
+<l>IS there a solitary wretch who hies</l>
+<l rend="indent">To a tall cliff, with starting pace or slow,</l>
+<l>And, measuring, views with wild and hollow eyes</l>
+<l rend="indent">Its distance from the waves that chide below;</l>
+<l>Who, as the sea-born gale with frequent sighs</l>
+<l rend="indent">Chills his cold bed upon the mountain turf,</l>
+<l>With hoarse, half utter'd lamentation, lies</l>
+<l rend="indent">Murmuring responses to the dashing surf?</l>
+<l>In moody sadness, on the giddy brink,</l>
+<l rend="indent">I see him more with envy than with fear;</l>
+<l>
+<emph>He</emph> has no <emph>nice felicities</emph> that shrink <note>SONNET LXX.<lb/>Line 11.<lb/>He has "no nice felicities that shrink."<lb/>"'Tis delicate felicity that shrinks<lb/>"When rocking winds are loud."<bibl>Walpole.</bibl>
+
+</note>
+</l>
+<l rend="indent">From giant horrors; wildly wandering here,</l>
+<l>He seems (uncursed with reason) not to know</l>
+<l>The depth or the duration of his woe.</l>
+</lg>
+</div1>
+<pb n="12" />
+<div1 type="sonnet">
+<head>SONNET LXXI.</head>
+<head type="sub">WRITTEN AT WEYMOUTH IN WINTER.</head>
+<lg type="verse">
+<l>THE chill waves whiten in the sharp North-east;</l>
+<l rend="indent">Cold, cold the night-blast comes, with sullen sound,</l>
+<l>And black and gloomy, like my cheerless breast;</l>
+<l rend="indent">Frowns the dark pier and lonely sea-view round.</l>
+<l>Yet a few months &#8212; and on the peopled strand</l>
+<l rend="indent">Pleasure shall all her varied forms display;</l>
+<l>Nymphs lightly tread the bright reflecting sand,</l>
+<l rend="indent">And proud fails whiten all the summer bay:</l>
+<l>Then, for these winds that whistle keen and bleak,</l>
+<l rend="indent">Music's delightful melodies shall float</l>
+<l>O'er the blue waters; but 'tis mine to seek</l>
+<l rend="indent">Rather, some unfrequented shade, remote</l>
+<l>From sights and sounds of gaiety &#8212; I mourn</l>
+<l>All that gave <emph>me</emph> delight &#8212; Ah! never to return!</l>
+</lg>
+</div1>
+<pb n="13" />
+<div1 type="sonnet">
+<head>SONNET LXXII.</head>
+<head type="sub">TO THE MORNING STAR.<lb/>WRITTEN NEAR THE SEA.
+</head>
+<lg type="verse">
+<l>THEE! lucid arbiter 'twixt day and night, <note>SONNET LXXII.<lb/>Line 1.<lb/>Thee! "lucid arbiter 'twixt day and night."<bibl>Milton.</bibl>
+</note>
+</l>
+<l rend="indent">The Seaman greets, as on the Ocean stream</l>
+<l rend="indent">Reflected, thy precursive friendly beam</l>
+<l>Points out the long-sought haven to his sight.</l>
+</lg>
+<lg type="verse">
+<l>Watching for thee, the lover's ardent eyes</l>
+<l rend="indent">Turn to the eastern hills; and as above</l>
+<l>Thy brilliance trembles, hails the lights that rise</l>
+<l rend="indent">To guide his footsteps to expecting love!</l>
+</lg>
+<lg type="verse">
+<l>I mark thee too, as night's dark clouds retire,</l>
+<l rend="indent">And thy bright radiance glances on the sea;</l>
+<l>But nevermore shall thy heraldic fire</l>
+<l rend="indent">Speak of approaching morn with joy to me!</l>
+<l>Quench'd in the gloom of death that heavenly ray</l>
+<l>Once lent to light me on my thorny way!</l>
+</lg>
+</div1>
+<pb n="14" />
+<div1 type="sonnet">
+<head>SONNET LXXIII.</head>
+<head rend="sub">TO A QUERULOUS ACQUAINTANCE.</head>
+<lg type="verse">
+<l>THOU! whom Prosperity has always led</l>
+<l rend="indent">O'er level paths, with moss and flow'rets strewn;</l>
+<l>For whom she still prepares a downy bed</l>
+<l rend="indent">With roses scatter'd and to thorns unknown,</l>
+<l>Wilt thou yet murmur at a mis-placed leaf? <note>SONNET LXXIII.<lb/>Line 5.<lb/>"Wilt thou yet murmur at a misplaced leaf?"<lb/>From a story (I know not where told) of a fastidious being, who on a bed of rose leaves complained that his or her rest was destroyed because one of those leaves was doubled.
+</note>
+</l>
+<l rend="indent">Think, ere thy irritable nerves repine,</l>
+<l rend="indent">How many, born with feelings keen as thine,</l>
+<l>Taste all the sad vicissitudes of grief;</l>
+<l>How many steep in tears their scanty bread;</l>
+<l rend="indent">Or, lost to reason, Sorrow's victims! rave:</l>
+<l>How many know not where to lay their head;</l>
+<l rend="indent">While some are driven by anguish to the grave!</l>
+<l>Think; nor impatient at a feather's weight,</l>
+<l>Mar the uncommon blessings of thy fate!</l>
+</lg>
+</div1>
+<pb n="15" />
+<div1 type="sonnet">
+<head>SONNET LXXIV.</head>
+<head type="sub">THE WINTER NIGHT.</head>
+<lg type="verse">
+<l>"SLEEP, that kits up the ravell'd sleeve of care," <note>SONNET LXXIV.<lb/>Line 1.<lb/>"Sleep, that knits up the ravell'd sleeve of care."<bibl>Shakspeare.</bibl>
+</note>
+</l>
+<l rend="indent">Forsakes me, while the chill and sullen blast,</l>
+<l rend="indent">As my sad soul recalls its sorrows past,</l>
+<l>Seems like a summons, bidding me prepare</l>
+<l>For the last sleep of death &#8212; Murmuring I hear <note>SONNET LXXIV.<lb/>Line 5.<lb/>Murmuring I hear<lb/>The hollow wind around the ancient towers.<lb/>These lines were written in a residence among ancient public buildings.
+</note>
+</l>
+<l rend="indent">The hollow wind around the ancient towers,</l>
+<l>While night and silence reign; and cold and drear</l>
+<l rend="indent">The darkest gloom of Middle Winter lours;</l>
+<l>But wherefore fear existence such as mine,</l>
+<l rend="indent">To change for long and undisturb'd repose?</l>
+<l>Ah! when this suffering being I resign,</l>
+<l rend="indent">And o'er my miseries the tomb shall close,</l>
+<l>By her, whose loss in anguish I deplore,</l>
+<l>I shall be laid, and feel that loss no more!</l>
+</lg>
+</div1>
+<pb n="16" />
+<div1 type="sonnet">
+<head>SONNET LXXV.</head>
+<note>SONNET LXXV.<lb/>First published in the Novel of Marchmont.
+</note>
+<lg type="verse">
+<l>WHERE the wild woods and pathless forests frown,</l>
+<l rend="indent">The darkling Pilgrim seeks his unknown way,</l>
+<l>Till on the grass he throws him weary down,</l>
+<l rend="indent">To wait in broken sleep the dawn of day;</l>
+<l>Thro' bought just waving in the silent air,</l>
+<l rend="indent">With pale capricious light the Summer Moon</l>
+<l>Chequers his humid couch; while Fancy there,</l>
+<l rend="indent">That loves to wanton in the Night's deep noon,</l>
+<l>Calls from the mossy roots and fountain edge</l>
+<l rend="indent">Fair visionary Nymphs that haunt the shade,</l>
+<l>Or Naiads rising from the whispering sedge:</l>
+<l rend="indent">And, 'mid the beauteous group, his dear loved maid</l>
+<l>Seems beckoning him with smiles to join the train:</l>
+<l>Then, starting from his dream, he feels his woes again.</l>
+</lg>
+</div1>
+<pb n="17" />
+<div1 type="sonnet">
+<head>SONNET LXXVI.</head>
+<head type="sub">TO A YOUNG MAN ENTERING THE WORLD.</head>
+<lg type="verse">
+<l>GO now, ingenuous Youth! &#8212; The trying hour</l>
+<l rend="indent">Is come: The World demands that thou shouldst go</l>
+<l>To active life:  There titles, wealth and power</l>
+<l rend="indent">May all by purchas'd &#8212;  Yet I joy to know</l>
+<l>Thou wilt not pay their price.  The base controul <note>SONNET LXXVI.<lb/>Line 5.<lb/>The base controul<lb/>Of petty despots in their pedant reign<lb/>Already hast thou felt; &#8212;<lb/>This was not addressed to my son, who suffered with many others in an event which will long be remembered by those parents who had sons at a certain public school, in 1793, but to another young man, not <emph>compelled</emph> as he was, in consequence of that dismission, to abandon the fairest prospects of his future life.
+
+</note>
+</l>
+<l rend="indent">Of petty despots in their pedant reign</l>
+<l rend="indent">Already hast thou felt; &#8212; and high disdain</l>
+<l>Of Tyrants is imprinted on thy soul &#8212; </l>
+<l>Not, where mistaken Glory, in the field</l>
+<l rend="indent">Rears her red banner, be thou ever found;</l>
+<l>But, against proud Oppression raise the shield</l>
+<l rend="indent">Of Patriot daring &#8212; So shalt thou renown'd</l>
+<l>For the best virtues <emph>live</emph>; or that denied</l>
+<l>May'st die, as Hampden or as Sydney died!</l>
+</lg>
+</div1>
+<pb n="18" />
+<div1 type="sonnet">
+<head>SONNET LXXVII.</head>
+<head type="sub">TO THE INSECT OF THE GOSSAMER.</head>
+<lg type="verse">
+<l>SMALL, viewless ronaut, that by the line <note>SONNET LXXVII.<lb/>Line 1.<lb/>Small viewless ronaut, &amp;c. &amp;c.<lb/>The almost imperceptible threads floating in the air, towards the end of Summer or Autumn, in a still evening, sometimes are so numerous as to be felt on the face and hands.  It is on these that a minute species of spider convey themselves from place to place; sometimes rising with the wind to a great height in the air.  Dr. Lister, among other naturalists, remarked these insects.  "To fly they cannot strictly be said, they being<lb/>"carried into the air by external force; but they can,<lb/>"in case the wind suffer them, steer their course, perhaps<lb/>"mount and descend at pleasure: and to the <lb/>"purpose of rowing themselves along in the air, it is<lb/>"observable that they ever take their flight backwards,<lb/>"that is, their head looking a contrary way like a sculler<lb/>"upon the Thames.  It is scarcely credible to what<lb/>"height they will mount; which is yet precisely true,<lb/>"and a thing easily to be observed by one that shall<lb/>"fix his eye some time on any part of the heavens,<lb/>"the white web, at a vast distance, very distinctly<lb/>"appearing from the azure sky &#8212; But this is in Autumn<lb/>"only, and that in very fair and calm weather."<bibl>From the Encyclop. Britan.</bibl>
+<lb/>Dr. Darwin, whose imagination so happily applies every object of Natural History to the purposes of Poetry, makes the Goddess of Botany thus direct her Sylphs &#8212;<lb/>"Thin clouds of Gossamer in air display,<lb/>"And hide the vale's chaste lily from the ray."<lb/>These filmy threads form a part of the equipage of Mab:<lb/>"Her waggon spokes are made of spiders legs,<lb/>"The cover of the winds of grasshoppers,<lb/>"The traces of the smallest spider's web."<lb/>Juliet, too, in anxiously waiting for the silent arrival of her lover, exclaims,<lb/>&#8212; Oh! so light of foot<lb/>Will ne'er wear out the everlasting flint;<lb/>A lover may bestride the Gossamer<lb/>That idles in the wanton Summer air,<lb/>And yet not fall &#8212;
+
+
+
+
+
+
+
+</note>
+</l>
+<l rend="indent">Of Gossamer suspended, in mid air</l>
+<l rend="indent">Float'st on a sun beam &#8212; Living Atom, where</l>
+<l>Ends thy breeze-guided voyage; &#8212; with what design</l>
+<l>In ther dost thou launch they form minute,</l>
+<l rend="indent">Mocking the  eye? &#8212; Alas! before the veil</l>
+<l>Of denser clouds shall hide thee, the pursuit</l>
+<l rend="indent">Of the keen Swift may end thy fairy sail! &#8212;</l>
+<l>Thus on the golden thread that Fancy weaves</l>
+<l rend="indent">Bouyant, as Hope's illusive flattery breathes,</l>
+<l>The young and visionary Poet leaves</l>
+<l rend="indent">Life's dull realities, while sevenfold wreaths</l>
+<l>Of rainbow-light around his head revolve.</l>
+<l>Ah! soon at Sorrow's touch the radiant dreams dissolve!</l>
+</lg>
+</div1>
+<pb n="19" />
+<div1 type="sonnet">
+<head>SONNET LXXVIII.</head>
+<head type="sub">SNOWDROPS.</head>
+<lg type="verse">
+<l>WAN Heralds of the Sun and Summer gale!</l>
+<l rend="indent">That seem just fallen from infant Zephyrs' wing;</l>
+<l>Not now, as once, with heart reviv'd I hail</l>
+<l rend="indent">Your modest buds, that for the brow of Spring</l>
+<l>Form the first simple garland &#8212; Now no more</l>
+<l rend="indent">Escaping for a moment all my cares,</l>
+<l>Shall I, with pensive, silent step explore</l>
+<l rend="indent">The woods yet leafless; where to chilling airs</l>
+<l>Your green and pencil'd blossoms, trembling, wave.</l>
+<l rend="indent">Ah! ye soft, transient, children of the ground,</l>
+<l>More fair was she on whose untimely grave</l>
+<l rend="indent">Flow my unceasing tears! Their varied round</l>
+<l>The Seasons go; while I through all repine:</l>
+<l>For fixt regret, and hopeless grief are mine.</l>
+</lg>
+</div1>
+<pb n="20" />
+<div1 type="sonnet">
+<head>SONNET LXXIX.</head>
+<head type="sub">TO THE GODDESS OF BOTANY.</head>
+<note>SONNET LXXIX.<lb/>TO THE GODDESS OF BOTANY.<lb/>"Rightly to spell," as Milton wishes, in <emph>Il Penseroso</emph>,<lb/>"Of every herb that sips the dew,"<lb/>seems to be a resource for the sick at heart &#8212; for those who from sorrow or disgust may without affectation say <q>"Society is nothing to one not sociable!"</q>and whose wearied eyes and languid spirits find relief and repose amid the shades of vegetable nature. &#8212; <emph>I</emph> cannot now turn to any other pursuit that for a moment sooths my wounded mind.<lb/>
+<foreign lang="fre">"Je pris gout a cette rcreation des yeux, qui dans<lb/>"l'infortune, repose, amuse, distrait l'esprit, et suspend<lb/>"le sentiment des peines."
+</foreign>
+<lb/>Thus speaks the singular, the unhappy Rousseau, when in his "Promenades" he enumerates the causes that drove him from the society of men, and occasioned his pursuing with renewed avidity the study of Botany.<lb/>
+<q>"I was," says he, <foreign lang="fre">"Forc de m'abstenir de penser, de<lb/>peur de penser a mes malheurs malgr moi; forc<lb/>de contenir les restes d'une imagination riate, mais<lb/>"languissante, que tant d'angoisses pourroient effacroucher<lb/>"a la fin &#8212;"
+</foreign>
+</q>
+<lb/>Without any pretensions to those talents which were in him so heavily taxed with that excessive irritability, too often if not always the attendant on genius, it has been my misfortune to have endured real calamities that have disqualified me for finding any enjoyment in the pleasures and pursuits which copy the generality of the world.  I have been engaged in contending with persons whose cruelty has left so painful an impression on my mind, that I well say <q>
+<foreign lang="fre">"Brillantes fleurs, mail des prs ombrages frais,<lb/>"bosquets, verdure, venez purifier mon imagination<lb/>"de tous ces hideux objets!"
+</foreign>
+</q>
+<lb/>Perhaps, if any situation is more pitiable than that which compels us to wish to escape from the common business and forms of life, it is that where the sentiment is forcibly felt, while it cannot be indulged; and where the sufferer, chained down to the discharge of duties from which the wearied spirit recoils, feels like the wretched Lear, when Shakespeare makes him exclaim <lb/>
+<q>"Oh! I am bound upon a wheel of fire,<lb/>"Which my own tears do scald like melted lead."
+</q>
+
+
+</note>
+<lg type="verse">
+<l>OF Folly weary, shrinking from the view</l>
+<l rend="indent">Of Violence and Fraud, allow'd to take</l>
+<l>All peace form humble life; I would forsake</l>
+<l>
+<emph>Their</emph> haunts for ever, and, sweet Nymph! with you</l>
+<l>Find shelter; where my tired, and tear-swoln eyes</l>
+<l rend="indent">Among your silent shades of soothing hue</l>
+<l>Your "bells and florets of unnumber'd dyes"</l>
+<l>Might rest &#8212; And learn the bright varieties</l>
+<l rend="indent">That form your lovely hands are fed with dew;</l>
+<l>And every veined leaf, that trembling sighs</l>
+<l>In mead or woodland; or in wilds remote,</l>
+<l>Or lurk with mosses into he humid caves,</l>
+<l>Mantle the cliffs, on dimpling rivers float,</l>
+<l>Or stream from coral rocks beneath the Ocean's waves.</l>
+</lg>
+</div1>
+<pb n="21" />
+<div1 type="sonnet">
+<head>SONNET LXXX.</head>
+<head type="sub">TO THE INVISIBLE MOON.</head>
+<note>SONNET LXXX.<lb/>TO THE INVISIBLE MOON.<lb/>I know not whether this is correctly expressed &#8212; I suspect that it is not &#8212; What I mean, however, will surely be understood &#8212; I address the Moon when not visible at night in our hemisphere.<lb/>"The sun to me is dark,<lb/>"And silent as the Moon<lb/>"When she deserts the night,<lb/>"Hid in her secret interlunar cave." <bibl>Milton, Samps. Agon.</bibl>
+
+</note>
+<lg type="verse">
+<l>DARK and conceal'd art thou, soft Evening's Queen,</l>
+<l rend="indent">And Melancholy's votaires that delight</l>
+<l>To watch thee, gliding thro' the blue serene,</l>
+<l rend="indent">Now vainly seek thee on the brow of night &#8212;</l>
+<l>Mild sorrow, such as Hope has not forsook,</l>
+<l rend="indent">May love to muse beneath thy silent reign;</l>
+<l>But <emph>I</emph> prefer from some steep rock to look</l>
+<l rend="indent">On the obscure and fluctuating main,</l>
+<l>What time the martial star with lurid glare,</l>
+<l rend="indent">Portentous, gleams above the troubled deep;</l>
+<l>Or the red comet shakes his blazing hair;</l>
+<l rend="indent">Or on the fire-ting'd waves the lightnings leap;</l>
+<l>While thy fair beams illume another sky,</l>
+<l>And shine for beings less accurst than I.</l>
+</lg>
+</div1>
+<pb n="22" />
+<div1 type="sonnet">
+<head>SONNET LXXXI.</head>
+<note>SONNET LXXXI.<lb/>First printed in a Publication for the use of Young Persons, called "Rambles Farther."
+</note>
+<lg type="verse">
+<l>HE may be envied, who with tranquil breast</l>
+<l rend="indent">Can wander in the wild and woodland scene,</l>
+<l>When Summer's glowing hands have newly drest</l>
+<l rend="indent">The shadowy forests, and the copses green;</l>
+<l>Who, unpursued by care, can pass his hours</l>
+<l rend="indent">Where briony and woodbine fringe the trees, <note>SONNET LXXXI.<lb/>Line 6.<lb/>Where <emph>briony</emph> and woodbine fringe the trees.<lb/>Briony, Bryoniadioica, foliis palmatis, &amp;c. White Briony, growing plentifully in woods and hedges, and twisting around taller plants.
+</note>
+</l>
+<l rend="indent">On thymy banks reposing, while the bees</l>
+<l>Murmur "their fairy turnes in praise of flowers;" <note>SONNET LXXXI.<lb/>Line 8.<lb/>"Murmur their fairy tunes in praise of flowers," a line taken, I believe, from a Poem called "Vacuna," printed in Dodsley's collection.
+</note>
+</l>
+<l>Or on the rock with ivy clad, and fern</l>
+<l rend="indent">That overhangs the ozier-whispering bed</l>
+<l>Of some clear current, bid his wishes turn</l>
+<l rend="indent">From this bad world; and by calm reason led,</l>
+<l>Knows, in refined retirement, to possess</l>
+<l>By friendship hallow'd &#8212; rural happiness!</l>
+</lg>
+</div1>
+<pb n="23" />
+<div1 type="sonnet">
+<head>SONNET LXXXII.</head>
+<head type="sub">TO THE SHADE OF BURNS.</head>
+<note>SONNET LXXXII.<lb/>TO THE SHADE OF BURNS.<lb/>Whoever has tasted the charm of original genius so evident in the composition of this genuine Poet,<lb/>A Poet "of nature's own creation,"<lb/>cannot surely fail to lament his unhappy life, (latterly passed, as I have understood, in an employment to which such a mind as his must have been averse,) nor his premature death.  For one, herself made the object of <emph>subscription</emph>, is it proper to add, that whoever <emph>has</emph> thus been delighted with the wild notes of the Scottish bard, must have a melancholy pleasure in relieving by their benevolence, the unfortunate family he has left?
+</note>
+<lg type="verse">
+<l>MUTE is thy wild harp, now, O Bard sublime!</l>
+<l rend="indent">Who, amid Scotia's mountain solitude,</l>
+<l>Great Nature taught to "build the lofty rhyme,"</l>
+<l rend="indent">And even beneath the daily pressure, rude,</l>
+<l rend="indent">Of labouring Poverty, thy generous blood,</l>
+<l rend="indent">Fired with the love of freedom &#8212; Not subdued</l>
+<l>Wert thou by thy low fortune: But a time</l>
+<l>Like this we live in, when the abject chime</l>
+<l>Of echoing Parasite is best approved,</l>
+<l rend="indent">Was not for thee &#8212; Indignantly is fled</l>
+<l>Thy noble Spirit; and no longer moved</l>
+<l rend="indent">By all the ills o'er which thine heart has bled,</l>
+<l rend="indent">Associate, worthy of the illustrious dead,</l>
+<l>Enjoys with them "the Liberty it loved." <note>SONNET LXXXII.<lb/>Line 14.<lb/>"Enjoys the liberty it loved &#8212;"<bibl>Pope.</bibl>
+</note>
+</l>
+</lg>
+</div1>
+<pb n="24" />
+<div1 type="sonnet">
+<head>SONNET LXXXIII.</head>
+<head type="sub">THE SEA VIEW.</head>
+<lg type="verse">
+<l>THE upland Shepherd, as reclined he lies <note>SONNET LXXXXIII.<lb/>Line 1.<lb/>The upland shepherd, as reclined he lies.<lb/>Suggested by the recollection of having seen, some years since, on a beautiful evening of Summer, an engagement between two armed ships, from the high down called the Beacon Hill, near Brighthelmstone.
+</note>
+</l>
+<l rend="indent">On the soft turf that clothes the mountain brow,</l>
+<l>Marks the bright Sea-line mingling with the skies;</l>
+<l rend="indent">Or from his course celestial, sinking flow,</l>
+<l rend="indent">The Summer-Sun in purple radiance low,</l>
+<l>Blaze on the western waters; the wide scene</l>
+<l rend="indent">Magnificent, and tranquil, seems to spread</l>
+<l>Even o'er the Rustic's breast a joy serene.</l>
+<l rend="indent">When, like dark plague-spots by the Demons shed,</l>
+<l>Charged deep with death, upon the waves, far seen,</l>
+<l rend="indent">Move the war-freighted ships; and fierce and red,</l>
+<l rend="indent">Flash their destructive fires &#8212; the mangled dead</l>
+<l>And dying victims then pollute the flood,</l>
+<l>Ah! thus man spoils Heaven's glorious works with blood!</l>
+</lg>
+</div1>
+<pb n="25" />
+<div1 type="sonnet">
+<head>SONNET LXXXIV.</head>
+<head type="sub">TO THE MUSE.</head>
+<lg type="verse">
+<l>WILT thou forsake me who in life's bright May</l>
+<l rend="indent">Lent warmer lustre to the radiant morn;</l>
+<l rend="indent">And even o'er Summer scenes by tempests torn,</l>
+<l>Shed with illusive light the dewy ray</l>
+<l>Of pensive pleasure? &#8212; Wilt thou, while the day</l>
+<l rend="indent">Of saddening Autumn closes, as I mourn</l>
+<l>In languid, hopeless sorrow, far away</l>
+<l rend="indent">Bend thy soft step, and never more return? &#8212; </l>
+<l>Crush'd to the earth, by bitterest anguish prest,</l>
+<l rend="indent">From my faint eyes thy graceful form recedes;</l>
+<l rend="indent">Thou canst not heal an heart like mine that bleeds;</l>
+<l>But, when in quiet earth that heart shall rest,</l>
+<l>Haply may'st thou one sorrowing vigil keep, <note>SONNET LXXXIV.<lb/>Line 13.<lb/>Haply may'st thou one sorrowing vigil keep,<lb/>Where Pity and Remembrance <emph>bend and weep</emph>.<lb/>"Where melancholy friendship bends and weeps." <bibl>Gray</bibl>
+
+</note>
+</l>
+<l>Where Pity and Remembrance bend and weep.</l>
+</lg>
+</div1>
+<pb n="26" />
+<div1 type="poem">
+<head>THE DEAD BEGGAR.</head>
+<head type="sub">AN ELEGY,</head>
+<head type="sub">Addressed to a Lady, who was affected at seeing the Funeral of a<lb/>nameless Pauper, buried at the Expence of the Parish, in the<lb/>Church-Yard at Brighthelmstone, in November 1792.
+</head>
+<note>THE DEAD BEGGAR.<lb/>I have been told that I have incurred blame for having used in this short compositions, terms that have become obnoxious to certain persons.  Such remarks are hardly worth notice; and it is very little my ambition to obtain the suffrage of those who suffer party prejudice to influence their taste; or of those who desire that because they have themselves done it, every one else should be willing to sell their best birth-rights, the liberty of though, and of expressing thought, for the <emph>promise</emph> of a mess of pottage.<lb/>It is surely not too much to say, that in a country like ours, where such immense sums are annually raised for the poor, there ought to be some regulation which should prevent any miserable deserted being from perishing through want, as too often happens to such objects as that on whose interment these stanzas were written.<lb/>It is somewhat remarkable that a circumstance exactly similar is the subject of a short poem called the Pauper's Funeral, in a volume lately published by Mr. Southey.
+</note>
+<lg type="verse">
+<l>SWELLS then thy feeling heart, and streams thine eye</l>
+<l rend="indent">O'er the deserted being, poor and old,</l>
+<l>whom cold, reluctant, Parish Charity</l>
+<l rend="indent">Consigns to mingle with his kindred mold?</l>
+</lg>
+<lg type="verse">
+<l>Mourn'st thou, that <emph>here</emph> the time-worn sufferer ends</l>
+<l rend="indent">Those evil days still threatening woes to come;</l>
+<l>Here, where the friendless feel no want of friends,</l>
+<l rend="indent">Where even the houseless wanderer finds an home!</l>
+</lg>
+<pb n="27" />
+<lg type="verse">
+<l>What tho' no kindred croud in fable forth,</l>
+<l rend="indent">And sigh, or seem to sigh, around his bier;</l>
+<l>Tho' o'er his coffin with the humid earth</l>
+<l rend="indent">No children drop the unavailing tear?</l>
+</lg>
+<lg type="verse">
+<l>Rather rejoice that <emph>here</emph> his sorrows cease,</l>
+<l rend="indent">Whom sickness, age, and poverty oppress'd</l>
+<l>Where Death, the Leveller, restores to peace</l>
+<l rend="indent">The wretch who living knew not where to rest.</l>
+</lg>
+<lg type="verse">
+<l>Rejoice, that tho' an outcast spurn'd by Fate,</l>
+<l rend="indent">Thro' penury's rugged path his race he ran;</l>
+<l>In earth's cold bosom, equall'd with the great,</l>
+<l rend="indent">Death vindicates the insulted rights of Man.</l>
+</lg>
+<pb n="28" />
+<lg type="verse">
+<l>Rejoice, that tho' severe his earthly doom,</l>
+<l rend="indent">And rude, and sown with thorns the way he trod, </l>
+<l>Now, (where unfeeling Fortune cannot come)</l>
+<l rend="indent">He rests upon the mercies of his GOD.</l>
+</lg>
+</div1>
+<pb n="29" />
+<div1 type="poem">
+<head>THE FEMALE EXILE.</head>
+<head type="sub">WRITTEN AT BRIGHTHELMSTONE IN NOV. 1792.</head>
+<note>THE FEMALE EXILE.<lb/>This little Poem, of which a sketch first appeared in blank verse in a Poem called "The Emigrants," was suggested by the sight of the group it attempts to describe &#8212;  a French lady and her children.  The drawing from which the print is taken I owe to the taste and talents of a lady, whose pencil had bestowed the highest honor this little book can boast.
+</note>
+<lg type="verse">
+<l>NOVEMBER'S chill blast on the rough beach is howling,</l>
+<l rend="indent">The surge breaks afar, and then foams to the shore,</l>
+<l>Dark clouds o'er the sea gather heavy and scowling,</l>
+<l rend="indent">And the white cliffs re-echo the wild wintry roar.</l>
+</lg>
+<lg type="verse">
+<l>Beneath that chalk rock, a fair stranger reclining,</l>
+<l rend="indent">Has found on damp sea-weed a cold lonely seat;</l>
+<l>Her eyes fill'd with tears, and her heart with repining,</l>
+<l rend="indent">She starts at the billows that burst at her feet.</l>
+</lg>
+<pb n="29" />
+<lg type="verse">
+<l>There, day after day, with an anxious hear heaving,</l>
+<l rend="indent">She watches the waves where they mingle with air;</l>
+<l>For the said which, alas! all her fond hopes deceiving,</l>
+<l rend="indent">May bring only tidings to add to her care.</l>
+</lg>
+<lg type="verse">
+<l>Loose stream to wild winds those fair flowing tresses,</l>
+<l rend="indent">Once woven with garlands of gay Summer flowers;</l>
+<l>Her dress unregarded, bespeaks her distresses,</l>
+<l rend="indent">And beauty is blighted by grief's heavy hours.</l>
+</lg>
+<lg type="verse">
+<l>Her innocent children, unconscious of sorrow,</l>
+<l rend="indent">To seek the gloss'd shell, or the crimson weed stray;</l>
+<l>Amused with the present, they heed not to-morrow,</l>
+<l rend="indent">Nor think of the storm that is gathering to day.</l>
+</lg>
+<pb n="[plate]" />
+<p>
+<figure>
+<entity name="vol2page31"/>
+</figure>
+</p>
+<pb n="31" />
+<lg type="verse">
+<l>The gilt, fairy ship, with its ribbon-sail spreading,</l>
+<l rend="indent">They launch on the salt pool the tide left behind;</l>
+<l>Ah! victims &#8212; for whom <emph>their</emph> sad mother is dreading</l>
+<l rend="indent">The multiplied miseries that wait on mankind!</l>
+</lg>
+<lg type="verse">
+<l>to fair fortune born, she beholds them with anguish,</l>
+<l rend="indent">Now wanderers with her on a once hostile foil,</l>
+<l>Perhaps doom'd for life in chill penury to languish,</l>
+<l rend="indent">Or abject dependence, or foul-crushing toil.</l>
+</lg>
+<lg type="verse">
+<l>But the sea-boat, her hopes and her terrors renewing,</l>
+<l rend="indent">O'er the dim grey horizon now faintly appears;</l>
+<l>She flies to the quay, dreading tidings of ruin,</l>
+<l rend="indent">All breathless with haste, half expiring with fears.</l>
+</lg>
+<pb n="32" />
+<lg type="verse">
+<l>Poor mourner! &#8212; I would that my fortune had left me</l>
+<l rend="indent">The means to alleviate the woes I deplore;</l>
+<l>But like thine my hard fate has of affluence berest me,</l>
+<l rend="indent">
+<emph>I</emph> can warm the cold heart of the wretched no more!</l>
+</lg>
+</div1>
+<pb n="33" />
+<div1 type="poem">
+<head>OCCASIONAL ADDRESS.</head>
+<head type="sub">WRITTEN FOR THE BENEFIT OF A DISTRESSED<lb/> PLAYER, DETAINED AT BRIGHTHELMSTONE<lb/> FOR DEBT, NOVEMBER 1792.
+</head>
+<lg type="verse">
+<l rend="indent">WHEN in a thousand swarms, the summer o'er,</l>
+<l>The birds of passage quit our English shore,</l>
+<l>By various routs the feather'd myriad moves;</l>
+<l>The <emph>Becca-Fica</emph> seeks Italian groves, <note>OCCASIONAL ADDRESS.<lb/>WRITTEN FOR A PLAYER.<lb/>The becca-fica seeks Italian groves,<lb/>No more a wheat-ear &#8212; <lb/>From an idea that the wheat-ear of the Southern downs is the becca-fica of Italy. I doubt it; but have no books that give me any information on the subject.
+</note>
+</l>
+<l>No more a <emph>Wheat-ear</emph>; while the soaring files</l>
+<l>Of sea-fowl gather round the Hebrid-isles.</l>
+</lg>
+<lg type="verse">
+<l rend="indent">But if by bird-lime touch'd, unplumed, confined,</l>
+<l>Some poor ill-fated straggler stays behind,</l>
+<l>Driven from his transient perch, beneath your eaves</l>
+<l>On his unshelter'd head the tempest raves,</l>
+<l>While drooping round, redoubling every pain,</l>
+<l>His <emph>Mate</emph> and Nestlings ask his help in vain.</l>
+</lg>
+<pb n="34" />
+<lg type="verse">
+<l rend="indent">So we, the buskin and the sock who wear,</l>
+<l>And "strut and fret," our little season here,</l>
+<l>Dismiss'd at length, as Fortune bids divide &#8212;</l>
+<l>Some (lucky rogues!) sit down on Thames's side;</l>
+<l>Others to Liffy's western banks proceed,</l>
+<l>And some &#8212; driven far a-field, across the Tweed;</l>
+<l>But pinion'd here, alas! I cannot fly:</l>
+<l>The <emph>hapless</emph>, <emph>unplumed</emph>, lingering straggler I!</l>
+<l>Unless the healing pity you bestow,</l>
+<l>Shall imp my shatter'd wings &#8212; and let me go.</l>
+</lg>
+<lg type="verse">
+<l rend="indent">Hard in his fate, whom evil stars have led</l>
+<l>To seek in scenic art <emph>precarious</emph> bread,</l>
+<l>While still, thro' wild vicissitudes afloat,</l>
+<l>An Hero now, and now a <emph>Sans Culotte</emph>! <note>OCCASIONAL ADDRESS.<lb/>Page 34.  Line 14.<lb/>An hero now, and now a <emph>sans culotte</emph>.<lb/>At this time little else was talked of.
+</note>
+</l>
+<l>That eleemosinary bread he gains</l>
+<l>Mingling &#8212; with real distresses &#8212; mimic pains,</l>
+</lg>
+<pb n="35" />
+<lg type="verse">
+<l>See in our group, a pale, lank Falstaff stare!</l>
+<l>Much needs he stuffing: &#8212; while young Ammon there</l>
+<l>Rehearses &#8212; in a garret &#8212; ten feet square!</l>
+<l>And as his soft <emph>Statira</emph> sighs content,</l>
+<l>Roxana comes not &#8212; but a dun for rent!</l>
+<l>Here shiv'ring Edgar, in his blanket roll'd,</l>
+<l>Exclaims &#8212; with too much reason, "<emph>Tom's a-cold"!</emph>
+</l>
+<l>And vainly tries his sorrows to divert,</l>
+<l>While <emph>Goneril</emph> or <emph>Regan</emph> &#8212; wash his shirt!</l>
+</lg>
+<lg type="verse">
+<l rend="indent">Lo! fresh from Calais, Edward! mighty king!</l>
+<l>Revolves &#8212; a mutton chop upon a string!</l>
+<l>And Hotspur, plucking "honour from the moon,"</l>
+<l>Feed a <emph>sick infant</emph> with a pewter spoon!</l>
+</lg>
+<lg type="verse">
+<l rend="indent">More blest the Fisher, who undaunted braves</l>
+<l>In his small bark, the impetuous winds and waves;</l>
+<pb n="36" />
+<l>For though he plough the sea when others sleep, <note>OCCASIONAL ADDRESS.<lb/>Page 36. Line 1.<lb/>For tho' he plough the sea when others sleep,<lb/>He draws like Glendower spirits from the deep.<lb/>
+<emph>Glen</emph>. "I can call spirits from the vasty deep."
+<emph>Hotsp</emph>. "But will they come when you do call for "them?" <bibl>Shakspeare.</bibl>The <emph>spirits</emph> that animate the night voyages of the Sussex fishermen are often sunk in their kegs on any alarm from the Custom-House officers; and being attached to a buoy, the adventurers go out when the danger of detection is over, and draw them up.  A coarse sort of white brandy which they call <emph>moonshine</emph>, is a principal article of this illegal commerce.
+</note>
+</l>
+<l>He draws, like Glendower, spirits from the deep!</l>
+<l>And while the storm howls round, amidst his trouble,</l>
+<l>Bright <emph>moonshine</emph> still illuminates the cobble!</l>
+<l>Pale with her fears for him, some fair <emph>Poissarde</emph>,</l>
+<l>Watches his nearing boat; with fond regard</l>
+<l>Smiles when she sees his little canvas handing,</l>
+<l>And clasps her dripping lover on his landing.</l>
+</lg>
+<lg type="verse">
+<l rend="indent">More blest the Peasant, who, with nervous toil</l>
+<l>Hews the rough oak, or breaks the stubborn soil:</l>
+<l>Weary, indeed, he sees the evening come,</l>
+<l>But then, the rude, yet tranquil hut, his home,</l>
+<l>Receives tits rustic inmate; then are his,</l>
+<l>Secure repose, and dear domestic bliss!</l>
+<l>The orchard's blushing fruit, the garden's store,</l>
+<l>The pendant hop, that mantles round the door,</l>
+<pb n="37" />
+<l>Are his: &#8212; and while the cheerful faggots burn,</l>
+<l>"His lisping children hail their fire's return!" <note>OCCASIONAL ADDRESS.<lb/>Page 37.  Line 2.<lb/>His lisping children hail their fire's return.<lb/>"No children run to lisp their fire's return." <bibl>Gray.</bibl>
+</note>
+</l>
+</lg>
+<lg type="verse">
+<l rend="indent">But wandering Players, "unhousel'd, unanneal'd,"</l>
+<l>And unappointed, scour life's common field,</l>
+<l>A flying squadron! &#8212; disappointment cross 'em,</l>
+<l>And the campaign concludes, perhaps, at Horsham! <note>OCCASIONAL ADDRESS.<lb/>Page 37.  Line 6.<lb/>And the campaign concludes, perhaps, at Horsham!<lb/>At Horsham is the county jail.
+</note>
+</l>
+</lg>
+<lg type="verse">
+<l>Oh! ye, whose timely bounty deigns to shed</l>
+<l>Compassion's balm upon my luckless head,</l>
+<l>Benevolence, with warm and glowing breast,</l>
+<l>And soft, celestial mercy, double blest! <note>OCCASIONAL ADDRESS.<lb/>Page 37.  Line 10.<lb/>And soft celestial mercy, doubly blest.<lb/>&#8212; "It is twice blessed,<lb/>"It blesseth him that gives and him that takes." <bibl>Shakspeare.</bibl>
+
+</note>
+</l>
+<l>Smile on the generous act! &#8212; where means are given,</l>
+<l>To aid the wretched &#8212; is to merit Heaven.</l>
+</lg>
+</div1>
+<pb n="38" />
+<div1 type="poem">
+<head>INSCRIPTION</head>
+<note>On a Stone, in the Church-Yard at BOREHAM, in ESSEX; raised by <lb/>the Honourable ELIZABETH OLMIUS, to the Memory of ANN<lb/> GARDNER, who died at NEW HALL, after a faithful Service of <lb/>Forty Years.
+</note>
+<lg type="verse">
+<l>WHATE'ER of praise, and of regret attend</l>
+<l>The grateful Servant, and the humble friend,</l>
+<l>Where strict integrity and worth unite</l>
+<l>To raise the lowly in the Maker's sight,</l>
+<l>Are her's; whose faithful service, long approved,</l>
+<l>Wept by the Mistress whom thro' life she loved.</l>
+<l>Here ends her early task; in joyful trust</l>
+<l>To share the eternal triumph of the Just.</l>
+</lg>
+</div1>
+<pb n="39" />
+<div1 type="poem">
+<head>A <lb/>DESCRIPTIVE ODE,
+</head>
+<note>Supposed to have been written under the Ruins of RUFUS's<lb/> Castle, among the remains of the ancient Church on the Isle<lb/> of PORTLAND.
+</note>
+<note>DESCRIPTIVE ODE.<lb/>The singular scenery here attempted to be described, is almost the only part of this rock of stones worth seeing.  On an high broken cliff hang the ruins of some very ancient building, which the people of the island call Bow and Arrow Castle, or Rufus' Castle.  Beneath, but still high above the sea, are the half fallen arches and pillars of an old church, and around are scattered the remains of tomb-stones, and almost obliterated memorials of the dead.  These verses were written for, and first inserted in, a Novel, called Marchmont; and the close alludes to the circumstance of the story related in the Novel.
+</note>
+<lg type="verse">
+<l rend="indent">CHAOTIC pile of barren stone,</l>
+<l>That Nature's hurrying hand has thrown,</l>
+<l rend="indent">Half finish'd, from the troubled waves;</l>
+<l>On whose rude brow the rifted tower</l>
+<l>Has frown'd, thro' many a stormy hour,</l>
+<l rend="indent">On this drear site of tempest-beaten graves.</l>
+</lg>
+<pb n="40" />
+<lg type="verse">
+<l>Sure Desolation loves to shroud</l>
+<l>His giant form within the cloud</l>
+<l rend="indent">That hovers round thy rugged head;</l>
+<l>And as thro' broken vaults beneath,</l>
+<l>The future storms low-muttering breathe,</l>
+<l rend="indent">Hears the complaining voices of the dead.</l>
+</lg>
+<lg type="verse">
+<l>Here marks the Fiend with eager eyes,</l>
+<l>Far out at sea the fogs arise</l>
+<l rend="indent">That dimly shade the beacon'd strand,</l>
+<l>And listens the portentous roar</l>
+<l>Of sullen waves, as on the shore,</l>
+<l rend="indent">Monotonous, they burst and tell the storm at hand.</l>
+</lg>
+<pb n="41" />
+<lg type="verse">
+<l>Northward the Demon's eyes are cast</l>
+<l>O'er yonder bare and sterile waste,</l>
+<l rend="indent">Where, born to hew and heave the block,</l>
+<l>Man, lost in ignorance and toil,</l>
+<l>Becomes associate to the soil,</l>
+<l rend="indent">And his heart hardens like his native rock.</l>
+</lg>
+<lg type="verse">
+<l>On the bleak hills, with flint o'erspread,</l>
+<l>No blossoms rear the purple head;</l>
+<l rend="indent">No shrub perfumes the Zephyrs' breath,</l>
+<l>But o'er the cold and cheerless down</l>
+<l>Grim Desolation seems to frown,</l>
+<l rend="indent">Blasting the ungrateful foil with partial death.</l>
+</lg>
+<pb n="42" />
+<lg type="verse">
+<l>Here the scathed trees with leaves half-drest,</l>
+<l>Shade no soft songster's secret nest,</l>
+<l rend="indent">Whose spring-notes soothe the pensive ear;</l>
+<l>But high the croaking cormorant flies,</l>
+<l>And mews and hawks with clamourous cries</l>
+<l rend="indent">Tire the lone echos of these caverns drear.</l>
+</lg>
+<lg type="verse">
+<l>Perchance among the ruins grey</l>
+<l>Some widow'd mourner loves to stray,</l>
+<l rend="indent">Marking the melancholy main</l>
+<l>Where once, afar she could discern</l>
+<l>O'er the white waves his fail return</l>
+<l rend="indent">Who never, never now, returns again!</l>
+</lg>
+<pb n="43" />
+<lg type="verse">
+<l>On these lone tombs, by storms up-torn,</l>
+<l>The hopeless wretch may lingering mourn,</l>
+<l rend="indent">Till from the ocean, rising red,</l>
+<l>The misty Moon with lurid ray</l>
+<l>Lights her, reluctant, on her way,</l>
+<l rend="indent">To steep in tears her solitary bed.</l>
+</lg>
+<lg type="verse">
+<l>Hence the dire Spirit oft surveys</l>
+<l>The ship, that to the western bays</l>
+<l rend="indent">With favouring gales pursues its course;</l>
+<l>Then calls the vapour dark that blinds</l>
+<l>The pilot &#8212; calls the felon winds</l>
+<l rend="indent">That heave the billows with resistless force.</l>
+</lg>
+<pb n="44" />
+<lg type="verse">
+<l>Commixing with the blotted skies,</l>
+<l>High and more high the wild waves rise,</l>
+<l rend="indent">Till, as impetuous torrents urge,</l>
+<l>Driven on yon fatal bank accurst,</l>
+<l>The vessel's massy timbers burst,</l>
+<l rend="indent">And the crew sinks beneath the infuriate surge.</l>
+</lg>
+<lg type="verse">
+<l>There find the weak an early grave,</l>
+<l>While youthful strength the whelming wave</l>
+<l rend="indent">Repels; and labouring for the land,</l>
+<l>With shorten'd breath and upturn'd eyes,</l>
+<l>Sees the rough shore above him rise,</l>
+<l rend="indent">Nor dreams that rapine meets him on the strand.</l>
+</lg>
+<pb n="45" />
+<lg type="verse">
+<l>And are there then in human form</l>
+<l>Monsters more savage than the storm,</l>
+<l rend="indent">Who from the gasping sufferer tear</l>
+<l>The dripping weed? &#8212; who dare to reap</l>
+<l>The inhuman harvest of the deep,</l>
+<l rend="indent">From half-drown'd victims whom the tempest spare?</l>
+</lg>
+<lg type="verse">
+<l>Ah! yes! by avarice once possest,</l>
+<l>No pity moves the rustic breast;</l>
+<l rend="indent">Callous he proves &#8212; as those who haply wait</l>
+<l>Till I (a pilgrim weary worn)</l>
+<l>To my own native land return,</l>
+<l rend="indent">With legal toils to drag me to my fate!</l>
+</lg>
+</div1>
+<pb n="46" />
+<div1 type="poem">
+<head>VERSES</head>
+<head type="sub">SUPPOSED TO HAVE BEEN WRITTEN IN THE<lb/> NEW FOREST, IN EARLY SPRING.
+</head>
+<note>VERSES.<lb/>Supposed to have been written in the New Forest,<lb/>in early Spring.<lb/>These are from the Novel of Marchmont,
+</note>
+<lg type="verse">
+<l>AS in the woods, where leathery Lichen weaves <note>VERSES.<lb/>Line 1.<lb/>As in the woods where leathery lichen weaves<lb/>Its wint'ry web among the sallow leaves.<lb/>Mosses and lichens are the first efforts of nature to clothe the earth: as they decay, they form an earth that affords nourishment to the larger and more succulent vegetables: several species of lichen are found in the woods, springing up among the dead leaves, under the drip of forest trees: these, and the withered foliage of preceding years, afford shelter to the earliest wild flowers about the skirts of woods, and in hedge-rows and copses.<lb/> The Pile-wort (Ranucula Ficaria) and the Wood Anemone (Anemone Nemerosa) or Wind-flower, blow in the woods and copses.  Of this latter beautiful species there is in Oxfordshire a blue one, growing wild, (Anemone pratensis pedunculo infoluerato, petalis apice reflexis foliis bipinnatis &#8212; Lin. Sp. Pl. 760.)  It is found in Whichwood Forest near Cornbury quarry. (Vide Flora Oxonensis).  I do not mention this by way of exhibiting botanical knowledge (so easy to possess in appearance) but because I never saw the Blue Anemone wild in any other place, and it is a flower of singular beauty and elegance.
+
+</note>
+</l>
+<l>Its wint'ry web among the sallow leaves,</l>
+<l>Which (thro' cold months in whirling eddies blown)</l>
+<l>Decay beneath the branches once their own,</l>
+<l>From the brown shelter of their foliage fear,</l>
+<l>Spring the young blooms that lead the floral year:</l>
+<l>When, waked by vernal suns, the Pilewort dares</l>
+<l>Expand her spotted leaves, and shining starts</l>
+<l>And (veins empurpling all her tassels pale)</l>
+<l>Bends the soft Wind-flower in the tepid gale;</l>
+<l>Uncultured bells of azure Jacynth's blow, <note>VERSES.<lb/>Line 11.<lb/>Uncultured bells of azure Jacynths blow.<lb/>Hyacinthus no scriptus &#8212; a Hare-bell.
+</note>
+</l>
+<l>And the breeze-scenting Violet lurks below: <note>VERSES.<lb/>Line 12.<lb/> And the breeze-scenting Violet lurks below.<lb/>To the Violet there needs no note, it being like the Nightingale and the Rose, in <emph>constant requisition</emph> by the poets.
+</note>
+</l>
+<pb n="47" />
+<l>So views the wanderer, with delighted eyes,</l>
+<l>Reviving hopes from black despondence rise,</l>
+<l>When, blighted by Adversity's chill breath,</l>
+<l>Those hopes had felt a temporary death;</l>
+<l>Then with gay heart he looks to future hours,</l>
+<l>When Love shall dress for him the Summer bowers!</l>
+<l>And, as delicious dreams enchant his mind,</l>
+<l>Forgets his sorrow past, or gives them to the wind.</l>
+</lg>
+</div1>
+<pb n="48" />
+<div1 type="poem">
+<head>SONG.</head>
+<head type="sub">FROM THE FRENCH.</head>
+<note>SONG.<lb/>FROM THE FRENCH.<lb/>A free translation of a favourite French song,<lb/>"Un jour me demandoit hortense<lb/>"Ou se trouve le tendre amour?"
+</note>
+<lg type="verse">
+<head>I.</head>
+<l>"AH! say," the fair Louisa cried,</l>
+<l rend="indent">"Say where the abode of Love is found?"</l>
+<l>Pervading nature, I replied,</l>
+<l rend="indent">His influence spreads the world around.</l>
+<l>When Morning's arrowy beams arise,</l>
+<l rend="indent">He sparkles in the enlivening ray,</l>
+<l>And blushes in the glowing skies</l>
+<l rend="indent">When rosy Evening fades away.</l>
+</lg>
+<lg type="verse">
+<head>II.</head>
+<l>The Summer winds that gently blow,</l>
+<l rend="indent">The flocks that bleat along the glades,</l>
+<l>The nightingale, that soft and low,</l>
+<l rend="indent">With music fills the listening shades:</l>
+<pb n="49" />
+<l>The murmurs of the silver surf</l>
+<l rend="indent">All echo Love's enchanting notes,</l>
+<l>From Violets lurking in the turf,</l>
+<l rend="indent">His balmy breath thro' ther floats.</l>
+</lg>
+<lg type="verse">
+<head>III.</head>
+<l>From perfumed flowers and dewy leaves</l>
+<l rend="indent">Delicious scents he bids exhale,</l>
+<l>He smiles amid Autumnal sheaves,</l>
+<l rend="indent">And clothes with green the grassy vale;</l>
+<l>But when that throne the God assumes</l>
+<l rend="indent">Where his most powerful influence lies,</l>
+<l>'Tis on Louisa's cheek he blooms,</l>
+<l rend="indent">And lightens from her radiant eyes!</l>
+</lg>
+</div1>
+<pb n="50" />
+<div1 type="poem">
+<head>APOSTROPHE <lb/>TO <lb/> AN OLD TREE.
+</head>
+<note>APOSTROPHE. <lb/>TO AN OLD TREE. <lb/>The philosophy of these few lines may not be very correct, since mosses are known to injure the stems and branches of trees to which they adhere; but the images of Poetry cannot always be exactly adjusted to objects of Natural History.
+</note>
+<lg type="verse">
+<l>WHERE thy broad branches brave the bitter North,</l>
+<l>Like rugged, indigent, unheeded, worth,</l>
+<l>Lo! Vegetation's guardian hands emboss</l>
+<l>Each giant limb with fronds of studded moss, <note>&#8212; fronds of studded moss. <lb/>The foliage, if it may be so called, of this race of plants, is termed fronds; and their flowers, or fructification, assume the shapes of cups and shields; of those of this description, more particularly adhering to trees, in Lichen Pulmonarius; Lungwort lichen with shields; the Lichen Caperatus, with red cups; and may others which it would look like pedantry to enumerate.
+</note>
+</l>
+<l>That clothes the bark in many a fringed fold</l>
+<l>Begemm'd with scarlet shields, and cups of gold,</l>
+<l>Which, to the wildest winds their webbs oppose,</l>
+<l>And mock the arrowy sleet, or weltering snows.</l>
+<l>&#8212; But to the warmer <emph>West</emph> the woodbine fair <note>APOSTROPHE. <lb/>Line 9. <lb/>The Woodbine and the Clematis are well known plants, ornamenting our hedge-rows in Summer with fragrant flowers.
+</note>
+</l>
+<l>With tassels that perfumed the Summer air,</l>
+<pb n="51" />
+<l>The mantling Clematis, whose feathery bowers</l>
+<l>Waved in festoons with Nightshade's purple flowers, <note>APOSTROPHE. <lb/>Line 12. <lb/>Nightshade, (Solanum Lignosum) Woody Nightshade, is one of the most beautiful of its tribe.
+</note>
+</l>
+<l>The silver weed, whose corded fillets wove <note>APOSTROPHE. <lb/>Page 51. Line 1. <lb/>The silver weed, whose corded fillets wove. <lb/>The silver weed, Convolvulus major (Raii Syn. 275) or greater Bind-weed, which, however the beauty of the flowers may enliven the garden or the wilds, is so prejudicial to the gardener and farmer that it is seen by them with dislike equal to the difficulty of extirpating it from the soil.  Its cord-like stalks, plaited together, can hardly be forced from the branches round which they have twined themselves.
+</note>
+</l>
+<l>Round thy pale rind, even as deceitful love</l>
+<l>Of mercenary beauty would engage</l>
+<l>The dotard fondness of decrepit age;</l>
+<l>All these, that during Summer's halcyon days</l>
+<l>With their green canopies conceal'd thy sprays,</l>
+<l>Are gone for ever; or disfigured, trail</l>
+<l>Their sallow relicts in the Autumnal gale;</l>
+<l>Or o'er thy roots, in faded fragments tost,</l>
+<l>But tell of happier hours, and sweetness lost!</l>
+<l>&#8212; Thus in Fate's trying hour, when furious storms</l>
+<l>Strip social life of Pleasure's fragile forms,</l>
+<pb n="52" />
+<l>And aweful <emph>Justice</emph>, as his rightful prey</l>
+<l>Tears Luxury's silk, and jewel'd robe, away,</l>
+<l>While reads <emph>Adversity</emph> her lesson stern,</l>
+<l>And <emph>Fortune's</emph> minions tremble as they learn;</l>
+<l>The crouds around her gilded car that hung,</l>
+<l>Bent the lithe knee, and troul'd the honey'd tongue,</l>
+<l>Desponding fall, or fly in pale despair;</l>
+<l>And <emph>Scorn</emph> alone remembers that they were.</l>
+<l>Not so <emph>Integrity</emph>; unchanged he lives</l>
+<l>In the rude armour conscious Honor gives,</l>
+<l>And dares with hardy front the troubled sky,</l>
+<l>In Honesty's uninjured panoply.</l>
+<l>Ne'er on Prosperity's enfeebling bed</l>
+<l>Or rosy pillows, he reposed his head,</l>
+<pb n="53" />
+<l>But given to useful arts, his ardent mind</l>
+<l>Has fought the general welfare of mankind;</l>
+<l>To mitigate <emph>their</emph> ills his greatest bliss,</l>
+<l>While studying <emph>them</emph>, has taught him <emph>what he is</emph>;</l>
+<l>
+<emph>He</emph>, when the human tempest rages worth,</l>
+<l>And the earth shudders as the thunders burst,</l>
+<l>Firm, as thy northern branch, is rooted fast,</l>
+<l>And if he can't <emph>avert</emph>, endures the blast.</l>
+</lg>
+</div1>
+<pb n="54" />
+<div1 type="poem">
+<head>THE <lb/>FOREST BOY.
+</head>
+<note>THE FOREST BOY. <lb/>Late circumstances have given rise to many mournful histories like this, which may well be said to be founded in truth! &#8212; <emph>I</emph>, who have been so sad a sufferer in this miserable contest, may well <emph>endeavour</emph> I associate myself with those who apply what powers they have to deprecate the horrors of war.  Gracious God!  will mankind never be reasonable enough to understand that all the miseries which our condition subjects us to, are light in comparison of what we bring upon ourselves by indulging the folly and wickedness of those who make nations destroy each other for <emph>their</emph> diversion, or to administer to their senseless ambition. <lb/>&#8212; If the stroke of war <lb/>Fell certain on the guilty head, none else &#8212; <lb/>If they that make the cause might taste th' effect <lb/>And drink themselves the bitter cup they mix; <lb/>Then might the Bard (the child of peace) delight <lb/>To twine fresh wreaths around the conqueror's brow; <lb/>Or haply strike his high-toned harp, to swell <lb/>The trumpet's martial sound, and bid them on <lb/>When <emph>Justice</emph> arms for vengeance; but, alas! <lb/>That undistinguishing and deathful storm <lb/>Beats heaviest on the exposed and innocent; <lb/>And they that stir its fury, while it raves, <lb/>Safe and at distance, send their mandates forth <lb/>Unto the mortal ministers that wait <lb/>To do their bidding! &#8212;<bibl>Crowe.</bibl>
+ <lb/>I have in these stanzas, entitled the Forest Boy, attempted the measure so successfully adopted in one of the poems of a popular novel,  and so happily imitated by Mr. Southey in "Poor Mary." <lb/>
+
+
+
+
+</note>
+<lg type="verse">
+<l>THE trees have now hid at the edge of the hurst</l>
+<l rend="indent">The spot where the ruins decay</l>
+<l>Of the cottage, where Will of the Woodland was nursed</l>
+<l>And lived so beloved, will the moment accurst</l>
+<l rend="indent">When he went from the woodland away.</l>
+</lg>
+<lg type="verse">
+<l>Among all the lads of the plough or the fold,</l>
+<l rend="indent">Best esteem'd by the sober and good,</l>
+<l>Was Will of the Woodlands; and often the old</l>
+<l>Would tell of his frolics, for active and bold</l>
+<l rend="indent">Was William the Boy of the wood.</l>
+</lg>
+<pb n="55" />
+<lg type="verse">
+<l>Yet gentle was he, as the breath of the May,</l>
+<l rend="indent">And when sick and declining was laid</l>
+<l>The woodman his father, young William away</l>
+<l>Would go to the forest to labour all day,</l>
+<l rend="indent">And perform his hard task in his stead.</l>
+</lg>
+<lg type="verse">
+<l>And when his poor father the forester died,</l>
+<l rend="indent">And his mother was sad, and alone,</l>
+<l>He toil'd from the dawn, and at evening he hied</l>
+<l>In storm or in snow, or whate'er might betide,</l>
+<l rend="indent">To supply all her wants from the town.</l>
+</lg>
+<pb n="56" />
+<lg type="verse">
+<l>One neighbour they had on the heath to the west,</l>
+<l rend="indent">And no other the cottage was near,</l>
+<l>But she would send Phoebe, the child she loved best,</l>
+<l>To stay with the widow, thus sad and distrest,</l>
+<l rend="indent">Her hours of dejection to cheer.</l>
+</lg>
+<lg type="verse">
+<l>As the buds of wild roses, the cheeks of the maid</l>
+<l rend="indent">Were just tinted with youth's lovely hue,</l>
+<l>Her form like the aspen, wild graces display'd,</l>
+<l>And the eyes, over which her luxuriant locks stray'd,</l>
+<l rend="indent">As the skies of the Summer were blue!</l>
+</lg>
+<pb n="57" />
+<lg type="verse">
+<l>Still labouring to live, yet reflecting the while,</l>
+<l rend="indent">Young William consider'd his lot;</l>
+<l>'Twas hard, yet 'twas honest; and one tender smile</l>
+<l>From Phoebe at night overpaid ev'ry toil,</l>
+<l rend="indent">And then all his fatigues were forgot.</l>
+</lg>
+<lg type="verse">
+<l>By the brook where it glides thro' the copse of Arbeal,</l>
+<l rend="indent">When to eat his cold fare he reclined,</l>
+<l>Then soft from her home his sweet Phoebe would steal</l>
+<l>And bring him wood-strawberries to finish his meal,</l>
+<l rend="indent">And would sit by his side while he dined.</l>
+</lg>
+<pb n="58" />
+<lg type="verse">
+<l>And tho' when employ'd in the deep forest glade,</l>
+<l rend="indent">His days have seem'd slowly to move,</l>
+<l>Yet Phoebe going home, thro' the wood-walk has stray'd</l>
+<l>To bid him good night! &#8212; and whatever she said</l>
+<l rend="indent">Was more sweet than the voice of the dove.</l>
+</lg>
+<lg type="verse">
+<l>Fair Hope, that the lover so fondly believes,</l>
+<l rend="indent">Then repeated each soul-soothing speech,</l>
+<l>And touch'd with illusion, that often deceives</l>
+<l>The future with light; as the sun thro' the leaves</l>
+<l rend="indent">Illumines the boughs of the beech.</l>
+</lg>
+<pb n="59" />
+<lg type="verse">
+<l>But once more the tempest of chill Winter blow,</l>
+<l rend="indent">To depress and disfigure the earth;</l>
+<l>And now ere the dawn, the young Woodman must go</l>
+<l>To his work in the forest, half buried in snow,</l>
+<l rend="indent">And at night bring home wood for the hearth.</l>
+</lg>
+<lg type="verse">
+<l>The bridge on the heath by the flood was wash'd down,</l>
+<l rend="indent">And fast fell the sleet and the rain,</l>
+<l>The stream to a wild rapid river was grown,</l>
+<l>And long might the widow sit sighing alone</l>
+<l rend="indent">Ere sweet Phoebe could see her again.</l>
+</lg>
+<pb n="60" />
+<lg type="verse">
+<l>At the town was a market &#8212; and now for supplies</l>
+<l rend="indent">Such as needed her humble abode,</l>
+<l>Young William went forth; and his mother with sighs</l>
+<l>Watch'd long at the window, with tears in her eyes,</l>
+<l rend="indent">Till he turn'd thro' the fields, to the road.</l>
+</lg>
+<lg type="verse">
+<l>Then darkness came on; and she heard with affright</l>
+<l rend="indent">The wind every moment more high;</l>
+<l>She look'd from the door; not a star lent its light,</l>
+<l>But the tempest redoubled the gloom of the night,</l>
+<l rend="indent">And the rain pour'd in sheets from the sky.</l>
+</lg>
+<pb n="61" />
+<lg type="verse">
+<l>The clock in her cottage now mournfully told</l>
+<l rend="indent">The hours that went heavily on;</l>
+<l>'Twas midnight; her spirits sunk hopeless and cold,</l>
+<l>And it seem'd as each blast of wind fearfully told </l>
+<l rend="indent">That long, long would her William be gone.</l>
+</lg>
+<lg type="verse">
+<l>Then heart-sick and cold to her sad bed she crept,</l>
+<l rend="indent">Yet first made up the fire in the room</l>
+<l>To guide his dark steps; but she listen'd and wept,</l>
+<l>Or if for a moment forgetful she slept,</l>
+<l rend="indent">Soon she started! &#8212; and thought he was come.</l>
+</lg>
+<pb n="62" />
+<lg type="verse">
+<l>'Twas morn; and the wind with an hoarse sullen moan</l>
+<l rend="indent">Now seem'd dying away in the wood,</l>
+<l>When the poor wretched mother still drooping, alone,</l>
+<l>Beheld on the threshold a figure unknown,</l>
+<l rend="indent">In gorgeous apparel who stood.</l>
+</lg>
+<lg type="verse">
+<l>"Your son is a soldier," abruptly cried he,</l>
+<l rend="indent">"And a place in our corps has obtain'd,</l>
+<l>"Nay be not cast down; you perhaps may soon see</l>
+<l>"Your William a captain! he now sends by me</l>
+<l rend="indent">"The purse he already has gain'd.</l>
+</lg>
+<pb n="63" />
+<lg type="verse">
+<l>So William entrapp'd 'twixt persuasion and force,</l>
+<l rend="indent">Is embark'd for the isles of the West,</l>
+<l>But he seem'd to begin with ill omens his course,</l>
+<l>And felt recollection, regret, and remorse</l>
+<l rend="indent">Continually weigh on his breast.</l>
+</lg>
+<lg type="verse">
+<l>With useless repentance he eagerly eyed</l>
+<l rend="indent">The high coast as it faded from view,</l>
+<l>And saw the green hills, on whose northernmost side</l>
+<l>Was his own sylvan home: and he falter'd and cried</l>
+<l rend="indent">"Adieu! ah! for ever adieu!</l>
+</lg>
+<pb n="64" />
+<lg type="verse">
+<l>"Who now, my poor mother, thy life shall sustain,</l>
+<l rend="indent">"Since thy son has thus left thee forlorn?</l>
+<l>"Ah! can'st thou forgive me? And not in the pain</l>
+<l>"Of this cruel desertion, of William complain,</l>
+<l rend="indent">"And lament that he ever was born?</l>
+</lg>
+<lg type="verse">
+<l>"Sweet Phoebe! &#8212; if ever thy lover was dear,</l>
+<l rend="indent">"Now forsake not the cottage of woe,</l>
+<l>"But comfort my mother; and quiet her fear,</l>
+<l>"And help her to dry up the vain fruitless tear</l>
+<l rend="indent">"That too long for my absence will flow.</l>
+</lg>
+<pb n="65" />
+<lg type="verse">
+<l>"Yet what if my Phoebe another should wed,</l>
+<l rend="indent">"And lament her lost William no more?"</l>
+<l>The thought was too cruel; and anguish now sped</l>
+<l>The dart of disease &#8212;With the brave numerous dead</l>
+<l rend="indent">He has fall'n on the plague-tainted shore.</l>
+</lg>
+<lg type="verse">
+<l>In the lone village church-yard, the chancel-wall near,</l>
+<l rend="indent">High grass now waves over the spot,</l>
+<l>Where the mother of William, unable to bear</l>
+<l>
+<emph>His</emph> loss, who to her widow'd heart was so dear,</l>
+<l rend="indent">Has both him and her sorrows forgot.</l>
+</lg>
+<pb n="66" />
+<lg type="verse">
+<l>By the brook where it winds thro' the wood of Arbeal,</l>
+<l rend="indent">Or amid the deep forest, to moan,</l>
+<l>The poor wandering Phoebe will silently steal;</l>
+<l>The pain of her bosom no reason can heal,</l>
+<l rend="indent">And she loves to indulge it alone.</l>
+</lg>
+<lg type="verse">
+<l>Her senses are injured; her eyes dim with tears;</l>
+<l rend="indent">She fits by the river and weaves</l>
+<l>Reed garlands, against her dear William appears,</l>
+<l>Then breathlessly listens, and fancies she hears</l>
+<l rend="indent">His step in the help-wither'd leaves.</l>
+</lg>
+<pb n="[plate]" />
+<p>
+<figure>
+<entity name="vol2page66"/>
+</figure>
+</p>
+<pb n="67" />
+<lg type="verse">
+<l>Ah! such are the miseries to which ye give birth,</l>
+<l rend="indent">Ye statesmen! ne'er dreading a scar;</l>
+<l>Who from pictured saloon, or the bright sculptured hearth</l>
+<l>Disperse desolation and death thro' the earth,</l>
+<l rend="indent">When ye let loose the demons of war.</l>
+</lg>
+</div1>
+<pb n="68" />
+<div1 type="poem">
+<head>ODE <lb/>TO THE POPPY.
+</head>
+<head type="sub">WRITTEN BY A DECEASED FRIEND.</head>
+<note>ODE TO THE POPPY. <lb/>This and the following Poem were written (the first of them at my request, for a Novel) by a lady whose death in her thirty-sixth year was a subject of the deepest concern to all who knew her. <lb/>Would to God the last line which <emph>my</emph> regret on that loss, drew from me, had been prophetic &#8212; and that <emph>my</emph> heart had indeed been cold, instead of having suffered within the next twelve months after that line was written, a deprivation which has rendered <emph>my</emph> life a living death.
+</note>
+<lg type="verse">
+<l>NOT for the promise of the labour'd field,</l>
+<l>Not for the good the yellow harvests yield,</l>
+<l rend="indent">I bend at Ceres' shrine;</l>
+<l>For dull, to humid eyes, appear</l>
+<l>The gold glories of the year,</l>
+<l rend="indent">Alas! &#8212; a melancholy worship's mine.</l>
+</lg>
+<pb n="69" />
+<lg type="verse">
+<l>I hail the goddess for her scarlet flower!</l>
+<l rend="indent">Thou brilliant weed,</l>
+<l rend="indent">That dost so far exceed</l>
+<l rend="indent">The richest gifts gay Flora can bestow:</l>
+<l>Heedless I pass'd thee, in life's morning hour,</l>
+<l rend="indent">(Thou comforter of woe)</l>
+<l>Till sorrow taught me to confess thy power.</l>
+</lg>
+<lg type="verse">
+<l>In early days, when Fancy cheats,</l>
+<l rend="indent">A varied wreath I wove</l>
+<l>Of laughing Spring's luxuriant sweets,</l>
+<l rend="indent">To deck ungrateful Love:</l>
+<l>The rose, or thorn, my labours crown'd,</l>
+<l>As Venus smiled, or Venue frown'd;</l>
+</lg>
+<pb n="70" />
+<lg type="verse">
+<l>But Love, and Joy, and all their train, are flown;</l>
+<l>E'en languid Hope no more is mine,</l>
+<l>And I will sing of thee alone,</l>
+<l>Unless, perchance, the attributes of Grief,</l>
+<l>The cypress bud, and willow leaf,</l>
+<l>Their pale funereal foliage blend with thine.</l>
+</lg>
+<lg type="verse">
+<l>Hail, lovely blossom! &#8212; thou can'st ease</l>
+<l>The wretched victims of Disease;</l>
+<l>Can'st close those weary eyes in gentle sleep,</l>
+<l>Which never open but to weep;</l>
+<l>For, oh! thy potent charm</l>
+<l>Can agonizing Pain disarm;</l>
+<l>Expel imperious Memory from her feat,</l>
+<l>And bid the throbbing heart forget to beat.</l>
+</lg>
+<pb n="[plate]" />
+<p>
+<figure>
+<entity name="vol2page70"/>
+</figure>
+</p>
+<pb n="71" />
+<lg type="verse">
+<l>Soul-soothing plant! that can such blessings give,</l>
+<l>By thee the mourner bears to live!</l>
+<l rend="indent">By thee the hopeless die!</l>
+<l rend="indent">Oh! ever "friendly to despair,"</l>
+<l rend="indent">Might Sorrow's pallid votary dare,</l>
+<l>Without a crime, that remedy implore,</l>
+<l rend="indent">Which bids the spirit from its bondage fly,</l>
+<l>I'd court thy palliative aid no more;</l>
+</lg>
+<lg type="verse">
+<l rend="indent">No more I'd sue that thou should'st spread,</l>
+<l rend="indent">Thy spell around my aching head,</l>
+<l rend="indent">But would conjure thee to impart</l>
+<l rend="indent">Thy balsam for a broken heart;</l>
+<l>And by thy soft Lethean power,</l>
+<l rend="indent">(Inestimable flower)</l>
+<l>Burst these terrestrial bonds, and other regions thy.</l>
+</lg>
+</div1>
+<pb n="72" />
+<div1 type="poem">
+<head>VERSES.</head>
+<head type="sub">WRITTEN BY THE SAME LADY ON SEEING HER <lb/> TWO SONS AT PLAY.
+</head>
+<lg type="verse">
+<l>SWEET age of blest delusion! blooming boys,</l>
+<l>Ah! revel long in childhood's thoughtless joys,</l>
+<l>With light and pliant spirits, that can stoop</l>
+<l>To follow, sportively, the rolling hoop;</l>
+<l>To watch the sleeping top with gay delight,</l>
+<l>Or mark, with raptured gaze, the failing kite;</l>
+<l>Or, eagerly pursuing Pleasure's call,</l>
+<l>Can find it center'd in the bounding ball!</l>
+<l>Alas! the day <emph>will</emph> come, when sports like these</l>
+<l>Must lose their magic, and their power to please;</l>
+<l>Too swiftly fled, the rosy hours of youth</l>
+<l>Shall yield their fairy-charms to mournful Truth;</l>
+<pb n="73" />
+<l>Even now, a mother's fond prophetic fear</l>
+<l>Sees the dark train of human ills appear;</l>
+<l>Views various fortune for each lovely child,</l>
+<l>Storms for the bold, and anguish for the mild;</l>
+<l>Beholds already those expressive eyes</l>
+<l>Beam a sad certainty of future sighs;</l>
+<l>And dreads each suffering those dear breasts may know</l>
+<l>In their long passage through a world of woe;</l>
+<l>Perchance predestined every pang to prove,</l>
+<l>That treacherous friends inflict, or faithless love;</l>
+<l>For, ah! how few have found existence sweet,</l>
+<l>Where grief is sure, but happiness deceit!</l>
+</lg>
+</div1>
+<pb n="74" />
+<div1 type="poem">
+<head>VERSES</head>
+<head type="sub">ON THE DEATH OF THE SAME LADY, WRITTEN <lb/>IN SEPTEMBER 1794.
+</head>
+<lg type="verse">
+<l>LIKE a poor ghost the night I seek;</l>
+<l rend="indent">Its hollow winds repeat my sighs;</l>
+<l>The cold dews mingle on my cheek</l>
+<l rend="indent">With tears that wander from mine eyes.</l>
+</lg>
+<lg type="verse">
+<l>The thorns that still my couch molest,</l>
+<l rend="indent">Have robb'd these heavy eyes of sleep;</l>
+<l>But tho' deprived of tranquil rest,</l>
+<l rend="indent">I here at least am free to weep.</l>
+</lg>
+<pb n="75" />
+<lg type="verse">
+<l>Twelve times the moon, the rises red</l>
+<l rend="indent">O'er yon tall wood of shadowy pine,</l>
+<l>Has fill'd her orb, since low was laid</l>
+<l rend="indent">My Harriet! that sweet form of thine!</l>
+</lg>
+<lg type="verse">
+<l>While each sad month, as flow it past,</l>
+<l rend="indent">Brought some new sorrow to deplore;</l>
+<l>Some grief more poignant than the last,</l>
+<l rend="indent">But thou can'st calm those griefs no more.</l>
+</lg>
+<lg type="verse">
+<l>No more thy friendship sooths to rest</l>
+<l rend="indent">This wearied spirit tempst-tost;</l>
+<l>The cares that weigh upon my breast</l>
+<l rend="indent">Are doubly felt since thou art lost.</l>
+</lg>
+<pb n="76" />
+<lg type="verse">
+<l>Bright visions of ideal grace</l>
+<l rend="indent">That the young poet's dreams inflame,</l>
+<l>Were not more lovely than thy face;</l>
+<l rend="indent">Were not more perfect than thy frame.</l>
+</lg>
+<lg type="verse">
+<l>Wit, that no sufferings could impair,</l>
+<l rend="indent">Was thine, and thine those mental powers</l>
+<l>Of force to chase the fiends that tear</l>
+<l rend="indent">From Fancy's hands her budding flowers.</l>
+</lg>
+<lg type="verse">
+<l>O'er what, my angel friend, thou wert,</l>
+<l rend="indent">Dejected Memory loves to mourn;</l>
+<l>Regretting still that tender heart,</l>
+<l rend="indent">Now withering in a distant urn!</l>
+</lg>
+<pb n="77" />
+<lg type="verse">
+<l>But ere that wood of shadowy pine</l>
+<l rend="indent">Twelve times shall yon full orb behold,</l>
+<l>This sickening heart, that bleeds for thine,</l>
+<l rend="indent">My Harriet! &#8212; may like thine be cold!</l>
+</lg>
+</div1>
+<pb n="78" />
+<div1 type="poem">
+<head>FRAGMENT,</head>
+<head type="sub">DESCRIPTIVE OF THE MISERIES OF WAR; FROM <lb/>A POEM CALLED "THE EMIGRANTS," <lb/>PRINTED IN 1793.
+</head>
+<lg type="verse">
+<l>TO a wild mountain, whose bare summit hides</l>
+<l>Its broken eminence in clouds; whose steeps</l>
+<l>Are dark with woods; where the receding rocks</l>
+<l>Are worn with torrents of dissolving snow;</l>
+<l>A wretched woman, pale and breathless, flies,</l>
+<l>And, gazing round her, listens to the sound</l>
+<l>Of hostile footsteps: &#8212; No! they die away &#8212;</l>
+<l>Nor noise remains, but of the cataract,</l>
+<l>Or surly breeze of night, that mutters low</l>
+<l>Among the thickets, where the trembling seeks</l>
+<l>A temporary shelter &#8212; Clasping close</l>
+<l>To her quick throbbing heart her sleeping child,</l>
+<pb n="79" />
+<l>All she could rescue of the innocent group</l>
+<l>That yesterday surrounded her &#8212; Escaped</l>
+<l>Almost by miracle! &#8212; Fear, frantic Fear,</l>
+<l>Wing'd her weak feet; yet, half repenting now</l>
+<l>Her headlong haste, she wishes she had staid</l>
+<l>To die with those affrighted Fancy paints</l>
+<l>The lawless soldiers' victims &#8212; Hark! again</l>
+<l>The driving tempest bears the cry of Death;</l>
+<l>And with deep, sudden thunder, the dread found</l>
+<l>Of cannon vibrates on the tremulous earth;</l>
+<l>While, bursting in the air, the murderous bomb</l>
+<l>Glares o'er her mansion &#8212; Where the splinters fall</l>
+<l>Like scatter'd comets, its destructive path</l>
+<l>Is mark'd by wreaths of flame! &#8212; Then, overwhelm'd</l>
+<pb n="80" />
+<l>Beneath accumulated horror, sinks</l>
+<l>The desolate mourner!</l>
+<l>*   *   *   *   *   *   *   *   *</l>
+<l>*   *   *   *   *   *   *   *   *</l>
+<l>*   *   *   *   *   *   *   *   *</l>
+<l>The feudal Chief, whose Gothic battlements</l>
+<l>Frown on the plain beneath, returning home</l>
+<l>From distant lands, alone, and in disguise,</l>
+<l>Gains at the fall of night his castle walls,</l>
+<l>But at the silent gate no porter sits</l>
+<l>To wait his lord's admittance! &#8212; In the courts</l>
+<l>All is drear stillness! &#8212; Guessing but too well</l>
+<l>The fatal truth, he shudders as he goes</l>
+<l>Thro' the mute hall; where, by the blunted light</l>
+<pb n="81" />
+<l>That the dim Moon thro' painted casement lends,</l>
+<l>He sees that devastation has been there;</l>
+<l>Then, while each hideous image to his mind</l>
+<l>Rises terrific, o'er a bleeding corpse</l>
+<l>Stumbling he falls; another intercepts</l>
+<l>His staggering feet &#8212; All, all who us'd to rush</l>
+<l>With joy to meet him, all his family</l>
+<l>Lie murder'd in his way! &#8212; And the day dawns</l>
+<l>On a wild raving Maniac, whom a fate</l>
+<l>So sudden and calmitous has robb'd</l>
+<l>Of reason; and who round his vacant walls</l>
+<l>Screams unregarded, and reproaches Heaven!</l>
+</lg>
+</div1>
+<pb n="82" />
+<div1 type="poem">
+<head>APRIL.</head>
+<lg type="verse">
+<l>GREEN o'er the copses Spring's soft hues are spreading,</l>
+<l rend="indent">High wave the Reeds in the transparent floods,</l>
+<l>The Oak its fear and sallow soliage shedding,</l>
+<l rend="indent">From their moss'd cradles start its infant buds. <note>From their moss'd cradles, &amp;c. <lb/>The Oak, and, in sheltered situations, the Beech, retain the leaves of the preceding year till the new foliage appears. <lb/>The return of the Spring, which awakens many to new sentiments of pleasure, now serves only to remind <emph>me</emph> of past misery. <lb/>This sensation is common to the wretched &#8212; and too many Poets have felt it in all its force. <lb/>"Zefiro torno, e'l bel tempo rimena <lb/>"E i fiori. e l'erbe, sua dolce famiglia; &amp;c. &amp;c. <lb/>&#8212; "Ma per me lasso!" &#8212;<bibl>Petrarch on the Death of Laura.</bibl>
+ <lb/>And these lines of Guarini have always been celebrated. <lb/>"O primavera giovent dell' ano, <lb/>"Bella madre de fiori <lb/>C'erbe novelle e di novelli amori; <lb/>Tu torni ben, ma teco <lb/>"Non tornan i fereni <lb/>"E forunati di, delle mie gioje; <lb/>"Tu torni ben, tu torni, <lb/>"Ma teco altro non torna <lb/>"Che del perduto mio caro tesoro, <lb/>"La rimembraza misera e dolente."
+
+
+
+
+</note>
+</l>
+</lg>
+<lg type="verse">
+<l>Pale as the tranquil tide of Summer's ocean,</l>
+<l rend="indent">The Willow now its slender leaf unveils;</l>
+<l>And thro' the sky with swiftly fleeting motion,</l>
+<l rend="indent">Driv'n by the wind, the rack of April fails.</l>
+</lg>
+<pb n="83" />
+<lg type="verse">
+<l>Then, as the gust declines, the stealing showers</l>
+<l rend="indent">Fall fresh and noiseless; while at closing day</l>
+<l>The low Sun gleams on moist and half-blown flowers</l>
+<l rend="indent">That promise garlands for approaching May.</l>
+</lg>
+<lg type="verse">
+<l>Blest are yon peasant children, simply singing.</l>
+<l rend="indent">Who thro' the new-sprung grass rejoicing rove;</l>
+<l>More blest! to whom the <emph>Time</emph>, fond thought is bringing.</l>
+<l rend="indent">Of friends expected, or returning love.</l>
+</lg>
+<lg type="verse">
+<l>The pensive wanderer blest, to whom reflection</l>
+<l rend="indent">Points out some future views that sooth his mind;</l>
+<l>Me how unlike! &#8212; whom cruel recollection</l>
+<l rend="indent">But tells of comfort I shall never find!</l>
+</lg>
+<pb n="84" />
+<lg type="verse">
+<l>Hope, that on Nature's you this still attending,</l>
+<l rend="indent">No more to me her syren song shall sing;</l>
+<l>Never to <emph>me</emph> her influence extending,</l>
+<l rend="indent">Shall I again enjoy the days of Spring!</l>
+</lg>
+<lg type="verse">
+<l>Yet, how I lov'd them once these scenes remind me,</l>
+<l rend="indent">When light of heart, in childhood's thoughtless mirth,</l>
+<l>I reck'd not that the cruel lot assign'd me</l>
+<l rend="indent">Should make me curse the hour that gave me birth!</l>
+</lg>
+<lg type="verse">
+<l>Then, from thy wild-wood banks, Aruna! roving,</l>
+<l rend="indent">Thy thymy downs with sportive steps I sought,</l>
+<l>And Nature's charms, with artless transport loving,</l>
+<l rend="indent">Sung like the birds, unheeded and untaught.</l>
+</lg>
+<pb n="85" />
+<lg type="verse">
+<l>But now the Springtide's pleasant hours returning,</l>
+<l rend="indent">Serve to awaken me to sharper pain;</l>
+<l>Recalling scenes of agony and mourning,</l>
+<l rend="indent">Of baffled hope and prayers preferr'd in vain.</l>
+</lg>
+<lg type="verse">
+<l>Thus shone the sun, his vernal rays displaying,</l>
+<l rend="indent">Thus did the woods in early verdure wave,</l>
+<l>While dire Disease on all I lov'd was preying,</l>
+<l rend="indent">And flowers seem'd rising but to strew her grave!</l>
+</lg>
+<lg type="verse">
+<l>Now, 'mid reviving blooms, I coldy languish,</l>
+<l rend="indent">Spring seems devoid of joy to me alone;</l>
+<l>Each sound of pleasure aggravates my anguish,</l>
+<l rend="indent">And speaks of beauty, youth, and sweetness gone!</l>
+</lg>
+<pb n="86" />
+<lg type="verse">
+<l>Yet, as stern Duty bids, with faint endeavour</l>
+<l rend="indent">I drag on life, contending with my woe,</l>
+<l>Tho' conscious Misery still repeats, that never</l>
+<l rend="indent">My soul one pleasureable hour shall know.</l>
+</lg>
+<lg type="verse">
+<l>Lost in the tomb, when Hope no more appeases</l>
+<l rend="indent">The fester'd wounds that prompt the eternal sigh,</l>
+<l>Grief, the most fatal of the heart's diseases,</l>
+<l rend="indent">Soon teaches, whom it fastens on, to die.</l>
+</lg>
+<lg type="verse">
+<l>The wretch undone, for pain alone existing,</l>
+<l rend="indent">The abject dread of Death shall sure subdue,</l>
+<l>And far from his decisive hand resisting,</l>
+<l rend="indent">Rejoice to bid a world like this, adieu!</l>
+</lg>
+</div1>
+<pb n="87" />
+<div1 type="poem">
+<head>ODE <lb/>TO DEATH.
+</head>
+<note>ODE TO DEATH. <lb/>From the following sentence in Lord Bacon's Essays. <lb/>"Death is no such formidable enemy, since a man <lb/>"has so many champions about him that can win the <lb/>"combat of him &#8212; Revenge triumphs of Death; <lb/>"Love flights it; Honour courts it; Dread of Disgrace <lb/>chooses it; Grief flies to it; Fear anticipates <lb/>it."
+
+</note>
+<lg type="verse">
+<l>FRIEND of the wretched! wherefore should the eye</l>
+<l rend="indent">Of blank Despair, whence tears have ceased to flow,</l>
+<l>Be turn'd from thee? &#8212; Ah! wherefore fears to die</l>
+<l rend="indent">He, who compell'd each poignant grief to know,</l>
+<l rend="indent">Drains to its lowest dregs the cup of woe?</l>
+</lg>
+<lg type="verse">
+<l>Would Cowardice post pone thy calm embrace,</l>
+<l rend="indent">To linger out long years in torturing pain?</l>
+<l>Or not prefer thee to the ills that chase</l>
+<l rend="indent">Him, who too much impoverish'd to obtain</l>
+<l rend="indent">From BRITISH THEMIS <emph>right</emph>, implores her aid in vain!</l>
+</lg>
+<pb n="88" />
+<lg type="verse">
+<l>Sharp goading Indigence who would not fly,</l>
+<l rend="indent">That urges toil the exhausted strength above?</l>
+<l>Or shun the <emph>once</emph> fond friend's <emph>averted</emph> eye?</l>
+<l rend="indent">Or who to <emph>thy</emph> asylum not remove,</l>
+<l rend="indent">To lose the wasting anguish of ungrateful love?</l>
+</lg>
+<lg type="verse">
+<l>Can then the wounded wretch who must deplore</l>
+<l rend="indent">What most she lov'd, to thy cold arms consign'd,</l>
+<l>Who hears the voice that sooth'd her soul no more,</l>
+<l rend="indent">Fear <emph>thee</emph>, O Death! &#8212; Or hug the chains that bind</l>
+<l rend="indent">To joyless, cheerless life, her sick, reluctant mind?</l>
+</lg>
+<pb n="89" />
+<lg type="verse">
+<l>Oh! Misery's Cure; who e'er in pale dismay</l>
+<l rend="indent">Has watch'd the angel form they could not save,</l>
+<l>And seen their dearest blessing torn away,</l>
+<l rend="indent">May well the terrors of thy triumph brave,</l>
+<l rend="indent">Nor pause in fearful dread before the opening grave!</l>
+</lg>
+<trailer>FINIS.</trailer>
+</div1>
+<div1 type="notes">
+<head>NOTES</head>
+<pb n="[90]" />
+<note>The Quotations, Notes, and Explanations have been included throughout the text.  In the printed version, these notes were on pages 91 through 117.</note>
+<pb n="117" />
+
+<pb n="[118]" />
+<pb n="[119]" />
+<trailer>
+<seg type="figure">
+<figure>
+<entity name="vol2advertisement"/>
+</figure>
+</seg>
+<seg>New Editions of the following Works, all written by CHARLOTTE SMITH, have been lately published by T. CADELL, jun. and W. DAVIES, in the <emph>Strand</emph>.</seg>
+ <lb/>
+<seg type="monograph">  <title>1.  ELEGIAC SONNETS, and other Poems. Vol. 1.</title>Elegantly printed in a pocket volume, and adorned withplates.  6s. in boards.</seg>
+ <lb/>
+<seg type="monograph">  <title>2.  THE EMIGRANTS, a Poem.</title>4 to. 2s. in boards.</seg>
+ <lb/>
+<seg type="monograph"> <title>3.  RURAL WALKS: in Dialogues, intended for the use of Young Persons.</title> 2 vols.  5s. half bound.</seg>
+ <lb/>
+<seg type="monograph">
+<title>4.  RAMBLES FARTHER:  a continuation of <emph>Rural Walks</emph>.</title>2 vols. 5s. half bound.</seg>
+ <lb/>
+<seg type="monograph">
+<title>5.  EMMELINE, THE ORPHAN OF THE CASTLE. A Novel.</title>4 vols. 12s sewed</seg>
+ <lb/>
+<seg type="monograph">
+<title>6.  ETHELINDE, THE RECLUSE OF THE LAKE.  A Novel.</title> 4 vols. 12s. sewed.</seg>
+ <lb/>
+<seg type="monograph">
+<title>7.  CELESTINA, a Novel.</title>4 vols. 14s. sewed.</seg>
+ <lb/>
+<seg type="monograph">
+<title>8.  THE BANISHED MAN, a Novel.</title>4 vols. 14s. sewed.</seg>
+ <lb/>
+<seg type="monograph">
+<title>9.  THE ROMANCE OF REAL LIFE.</title>3 vols. 9s sewed.</seg>
+</trailer>
+</div1>
+</div0>
+</body>
+</text>
+</TEI.2>

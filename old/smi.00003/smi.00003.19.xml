@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="19"><text><div1 type="sonnet">
+<head>SONNET XIII.</head>
+<head type="sub">FROM PETRARCH.</head>
+<lg type="verse">
+<l>OH! place me where the burning noon <note>SONNET XIII.<lb/>Line 1.<lb/>Pommi ove'l Sol, occide i fiori e l'erba.<bibl>Petrarch, Sonnetto 112.  Parte primo.</bibl>
+
+
+</note>
+</l>
+<l rend="indent">Forbids the wither'd flow'r to blow;</l>
+<l>Or place me in the frigid zone,</l>
+<l rend="indent">On mountains of eternal snow:</l>
+<l>Let me pursue the steps of Fame,</l>
+<l rend="indent">Or Poverty's more tranquil road;</l>
+<l>Let youth's warm tide my veins inflame,</l>
+<l rend="indent">Or sixty winters chill my blood:</l>
+<l>Tho' my fond foul to Heav'n were flown,</l>
+<l rend="indent">Or tho' on earth 'tis doom'd to pine,</l>
+<l>Prisoner or free  obscure or known,</l>
+<l rend="indent">My heart, oh Laura! still is thine.</l>
+<l>Whate'er my destiny may be,</l>
+<l>That faithful heart still burns for thee!</l>
+</lg>
+</div1></text></TEI.2>

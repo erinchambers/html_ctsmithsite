@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="35"><text><div1 type="poem">
+<head>SONG.</head>
+<head type="sub">FROM THE FRENCH.</head>
+<note>SONG.<lb/>FROM THE FRENCH.<lb/>A free translation of a favourite French song,<lb/>"Un jour me demandoit hortense<lb/>"Ou se trouve le tendre amour?"
+</note>
+<lg type="verse">
+<head>I.</head>
+<l>"AH! say," the fair Louisa cried,</l>
+<l rend="indent">"Say where the abode of Love is found?"</l>
+<l>Pervading nature, I replied,</l>
+<l rend="indent">His influence spreads the world around.</l>
+<l>When Morning's arrowy beams arise,</l>
+<l rend="indent">He sparkles in the enlivening ray,</l>
+<l>And blushes in the glowing skies</l>
+<l rend="indent">When rosy Evening fades away.</l>
+</lg>
+<lg type="verse">
+<head>II.</head>
+<l>The Summer winds that gently blow,</l>
+<l rend="indent">The flocks that bleat along the glades,</l>
+<l>The nightingale, that soft and low,</l>
+<l rend="indent">With music fills the listening shades:</l>
+<pb n="49"/>
+<l>The murmurs of the silver surf</l>
+<l rend="indent">All echo Love's enchanting notes,</l>
+<l>From Violets lurking in the turf,</l>
+<l rend="indent">His balmy breath thro' ther floats.</l>
+</lg>
+<lg type="verse">
+<head>III.</head>
+<l>From perfumed flowers and dewy leaves</l>
+<l rend="indent">Delicious scents he bids exhale,</l>
+<l>He smiles amid Autumnal sheaves,</l>
+<l rend="indent">And clothes with green the grassy vale;</l>
+<l>But when that throne the God assumes</l>
+<l rend="indent">Where his most powerful influence lies,</l>
+<l>'Tis on Louisa's cheek he blooms,</l>
+<l rend="indent">And lightens from her radiant eyes!</l>
+</lg>
+</div1></text></TEI.2>

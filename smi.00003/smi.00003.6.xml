@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="6"><text><div1 type="TOC">
+<head>CONTENTS.</head>
+<head type="sub">SONNETS.</head>
+<list>
+<item>I. . . .1</item>
+<item>II.  Written at the close of Spring. . . 2</item>
+<item>III.  To a Nightingale. . . 3</item>
+<item>IV.  To the Moon. . . 4</item>
+<item>V.  To the South Downs. . . 5</item>
+<item>VI.  To Hope. . . 6</item>
+<item>VII.  On the departure of the Nightingale. . . 7</item>
+<item>VIII.  To Spring. . . 8</item>
+<item>IX.  . . . . .9</item>
+<item>X.  To Mrs. G. . . . 10</item>
+<item>XI.  To Sleep . . .11</item>
+<item>XII.  Written on the Sea Shore . . . 12</item>
+<item>XIII.  From Petrarch . . . 13</item>
+<item>XIV.  From the same . . . 14</item>
+<item>XV.  From the same . . . 15</item>
+<pb n="xvi"/>
+<item>XVI.  From Petrarch . . . 16</item>
+<item>XVII.  From the 13th Cantata of Matastasio . . . 17</item>
+<item>XVIII.  To the Earl of Egremont . . . 18</item>
+<item>XIX.  To Mr. Hayley . . . 19</item>
+<item>XX.  To the Countess of A  . . . 20</item>
+<item>XXI.  Supposed to be written by Wester . . . 21</item>
+<item>XXII.  By the same . . . 22</item>
+<item>XXIII.  By the same . . . 23</item>
+<item>XXIV.  By the same . . . 24</item>
+<item>XXV.  By the same . . . 25</item>
+<item>XXVI.  To the River Arun . . . 26</item>
+<item>XXVII.  . . . . . 27</item>
+<item>XXVIII.  .To Friendship . . . 28</item>
+<item>XXIX.  To Miss C . . . 29</item>
+<item>XXX.  To the River Arun . . . 30</item>
+<item>XXXI.  Written in Farm Wood, on the South Downs, May 1784 . . . 31</item>
+<item>XXXII.  To Melancholy. Written on the Banks of the Arun . . . 32</item>
+<item>XXXIII.  To the Naiad of the Arun . . . 33</item>
+<pb n="xv"/>
+<item>XXXIV.  To a Friend . . . 34</item>
+<item>XXXV.  To Fortitude . . . 35</item>
+<item>XXXVI.  . . . . . 36</item>
+<item>XXXVII.  Sent to the Honorable Mrs. O'Niell, with painted flowers . . . 37</item>
+<item>XXXVIII.  From the Novel of Emmeline . . . 38</item>
+<item>XXXIX.  To Night.  From the same . . . 39</item>
+<item>XL.  From the same . . . 40</item>
+<item>XLI.  To Tranquility . . . 41</item>
+<item>XLII.  Composed during a walk on the Downs, in November 1787 . . . 42</item>
+<item>XLIII.  . . . . . 43</item>
+<item>XLIV.  Written in the church-yard at Middleton in Suffex . . . 44</item>
+<item>XLV.  On leaving a part of Suffex . . . 45</item>
+<item>XLVI.  Written at Penshurst, in Autumn, 1788 . . . 46</item>
+<item>XLVII.  To Fancy . . . 47</item>
+<item>XLVIII.  To Mrs. **** . . . 48</item>
+<item>XLIX.  From the Novel of Celestina . . . 49</item>
+<item>L.  From the same . . . 50</item>
+<pb n="xvi"/>
+<item>LI.  From the same . . . 51</item>
+<item>LII.  From the same . . . 52</item>
+<item>LIII. From the same . . . 53</item>
+<item>LIV.  The Sleeping Woodman . . . 54</item>
+<item>LV.  The Return of the Nightingale . . . 55</item>
+<item>LVI.  The Captive escaped in the Wilds of America . . . 56</item>
+<item>LVII.  To Dependence . . . 57</item>
+<item>LVIII.  The Glow-worm . . . 58</item>
+<item>LIX.  Written Sept. 1791, during a remarkable Thunder Storm . . . 59</item>
+<item>Ode to Despair.  From the Novel of Emmeline . . . 60</item>
+<item>Elegy . . . 63</item>
+<item>Song.  From the French of Cardinal Bernis . . . 68</item>
+<item>The Origin of Flattery . . . 71</item>
+<item>The Peasant of the Alps . . . 77</item>
+<item>Song . . . 81</item>
+<item>Thirty-eight . . . 82</item>
+<item>Verses intended to have been prefixed to the Novel of Emmeline . . . 86</item>
+
+
+
+</list>
+</div1></text></TEI.2>

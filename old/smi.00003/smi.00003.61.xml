@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00003" n="61"><text><div1 type="sonnet">
+<head>SONNET LV.</head>
+<head type="sub">THE RETURN OF THE NIGHTINGALE.<lb/>WRITTEN IN MAY 1791.
+</head>
+<lg type="verse">
+<l>BORNE on the warm wing of the western gale,</l>
+<l rend="indent">How tremulously low is heard to float</l>
+<l>Thro' the green budding thorns that fringe the vale,</l>
+<l rend="indent">The early Nightingale's prelusive note.</l>
+<l>'Tis Hope's instinctive power that thro' the grove</l>
+<l rend="indent">Tells, how benignant Heaven revives the earth;</l>
+<l>'Tis the soft voice of young and timid love</l>
+<l rend="indent">That call these melting sounds of sweetness forth.</l>
+<l>With transport, once, sweet bird! I hail'd thy lay,</l>
+<l rend="indent">And bade thee welcome to our shades again,</l>
+<l>To charm the wandering poet's pensive way</l>
+<l rend="indent">And sooth the solitary lover's pain;</l>
+<l>But now!  such evils in my lot combine,</l>
+<l>As shut my languid sense  to Hope's dear voice and thine!</l>
+</lg>
+</div1></text></TEI.2>

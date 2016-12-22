@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="22"><text><div1 type="sonnet">
+<head>SONNET LXXVIII.</head>
+<head type="sub">SNOWDROPS.</head>
+<lg type="verse">
+<l>WAN Heralds of the Sun and Summer gale!</l>
+<l rend="indent">That seem just fallen from infant Zephyrs' wing;</l>
+<l>Not now, as once, with heart reviv'd I hail</l>
+<l rend="indent">Your modest buds, that for the brow of Spring</l>
+<l>Form the first simple garland &#8212; Now no more</l>
+<l rend="indent">Escaping for a moment all my cares,</l>
+<l>Shall I, with pensive, silent step explore</l>
+<l rend="indent">The woods yet leafless; where to chilling airs</l>
+<l>Your green and pencil'd blossoms, trembling, wave.</l>
+<l rend="indent">Ah! ye soft, transient, children of the ground,</l>
+<l>More fair was she on whose untimely grave</l>
+<l rend="indent">Flow my unceasing tears! Their varied round</l>
+<l>The Seasons go; while I through all repine:</l>
+<l>For fixt regret, and hopeless grief are mine.</l>
+</lg>
+</div1></text></TEI.2>

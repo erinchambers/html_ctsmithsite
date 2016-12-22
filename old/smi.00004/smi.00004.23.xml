@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="23"><text><div1 type="sonnet">
+<head>SONNET LXXIX.</head>
+<head type="sub">TO THE GODDESS OF BOTANY.</head>
+<note>SONNET LXXIX.<lb/>TO THE GODDESS OF BOTANY.<lb/>"Rightly to spell," as Milton wishes, in <emph>Il Penseroso</emph>,<lb/>"Of every herb that sips the dew,"<lb/>seems to be a resource for the sick at heart &#8212; for those who from sorrow or disgust may without affectation say <q>"Society is nothing to one not sociable!"</q>and whose wearied eyes and languid spirits find relief and repose amid the shades of vegetable nature. &#8212; <emph>I</emph> cannot now turn to any other pursuit that for a moment sooths my wounded mind.<lb/>
+<foreign lang="fre">"Je pris gout a cette rcreation des yeux, qui dans<lb/>"l'infortune, repose, amuse, distrait l'esprit, et suspend<lb/>"le sentiment des peines."
+</foreign>
+<lb/>Thus speaks the singular, the unhappy Rousseau, when in his "Promenades" he enumerates the causes that drove him from the society of men, and occasioned his pursuing with renewed avidity the study of Botany.<lb/>
+<q>"I was," says he, <foreign lang="fre">"Forc de m'abstenir de penser, de<lb/>peur de penser a mes malheurs malgr moi; forc<lb/>de contenir les restes d'une imagination riate, mais<lb/>"languissante, que tant d'angoisses pourroient effacroucher<lb/>"a la fin &#8212;"
+</foreign>
+</q>
+<lb/>Without any pretensions to those talents which were in him so heavily taxed with that excessive irritability, too often if not always the attendant on genius, it has been my misfortune to have endured real calamities that have disqualified me for finding any enjoyment in the pleasures and pursuits which copy the generality of the world.  I have been engaged in contending with persons whose cruelty has left so painful an impression on my mind, that I well say <q>
+<foreign lang="fre">"Brillantes fleurs, mail des prs ombrages frais,<lb/>"bosquets, verdure, venez purifier mon imagination<lb/>"de tous ces hideux objets!"
+</foreign>
+</q>
+<lb/>Perhaps, if any situation is more pitiable than that which compels us to wish to escape from the common business and forms of life, it is that where the sentiment is forcibly felt, while it cannot be indulged; and where the sufferer, chained down to the discharge of duties from which the wearied spirit recoils, feels like the wretched Lear, when Shakespeare makes him exclaim <lb/>
+<q>"Oh! I am bound upon a wheel of fire,<lb/>"Which my own tears do scald like melted lead."
+</q>
+
+
+</note>
+<lg type="verse">
+<l>OF Folly weary, shrinking from the view</l>
+<l rend="indent">Of Violence and Fraud, allow'd to take</l>
+<l>All peace form humble life; I would forsake</l>
+<l>
+<emph>Their</emph> haunts for ever, and, sweet Nymph! with you</l>
+<l>Find shelter; where my tired, and tear-swoln eyes</l>
+<l rend="indent">Among your silent shades of soothing hue</l>
+<l>Your "bells and florets of unnumber'd dyes"</l>
+<l>Might rest &#8212; And learn the bright varieties</l>
+<l rend="indent">That form your lovely hands are fed with dew;</l>
+<l>And every veined leaf, that trembling sighs</l>
+<l>In mead or woodland; or in wilds remote,</l>
+<l>Or lurk with mosses into he humid caves,</l>
+<l>Mantle the cliffs, on dimpling rivers float,</l>
+<l>Or stream from coral rocks beneath the Ocean's waves.</l>
+</lg>
+</div1></text></TEI.2>

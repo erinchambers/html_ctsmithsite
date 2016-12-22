@@ -1,0 +1,2589 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../../CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00008" n="1"><text><div1 type="chapter">
+<head>PREFACE.</head>
+
+<p>THE Poetry in these books was written without any intention of publishing it.  I wished to find some short and simple pieces on subjects of natural history, for the use of a child of five years old, who on her arrival in England could speak no English, and whose notice was particularly attracted by flowers and insects.  Among the collections avowedly made for the use of children, I met with very few verses that answered my purpose, and therefore I wrote two or three of the most puerile of the pieces that appear in these volumes.  Some friends were pleased with them, as well as with the slight alterations I made in others already in their possession; and a near relation sent me several
+
+<pb n="ii"/>
+
+which she had composed on purpose, and one or two which had long lain in her port folio.  Thus encouraged, my collection insensibly increased.  I grew fond of the work; and when it contained, as I imagined, enough to answer my original intention, I sent it up to be printed; but I found that there was not manuscript enough to make even a very small volume.  I therefore undertook to enlarge the book by Conversations, but I suffered some borrowed and altered pieces to remain, which I should have taken out, had I known that I need not have retained them for want of a sufficient number of original compositions.  Of this, however, I was not aware, till the First Volume was arranged, and the prose written; and as my trespass on others has not been granted, I trust it will be forgiven me.  There are seven pieces not my own, some of them a little altered, to
+
+<pb n="iii"/>
+
+answer my first purpose of teaching a child to repeat them; and five of my own reprinted.  Of the remainder, though the Relation to whom I am obliged to my distinguishing them by any acknowledgement, it is necessary to say, that where my interlocutors <i>praise</i> any Poem, the whole or the greater part of it is <i>hers</i>.</p>
+
+<p>It will very probably be observed, that the pieces toward the end of the Second Volume are too long for mere children to learn to repeat, and too difficult for them to understand.  It is, however, impossible to write any thing for a particular age; some children comprehend more at eight years old, than others do at twelve; but to those who have any knowledge of Geography or Mythology, or who have a taste for Botany, the two last pieces will not be found difficult.  I confess, that in the progress of my work I be
+
+<pb n="iv"/>
+
+came so partial to it, as to wish it might, at least the latter part, be found not unworthy the perusal of those, who are no longer children.</p>
+
+<p>I have endeavoured, as much as possible, to vary the measure, having observed, that a monotonous and drawling tone is acquired, by reciting continually from memory verses, selected without attention to variety of cadence.  To each of these little pieces, I have affixed some moral, or some reflection; and where I supposed the subject or the treatment of it might be obscure, I have preceded or followed the Poetry, with a slight explanation in prose: but many notes were, notwithstanding, unavoidable.</p>
+
+<p>Whoever has undertaken to instruct children, has probably been made sensible, in some way or other, of their own limited knowledge.  In writing these pages of prose,
+
+<pb n="v"/>
+
+simple as they are, I have in more than one instance been mortified to discover, that my own information was very defective, and that it was necessary to go continually to books.  After all, I fear I have made some mistakes, particularly in regard to the nature of Zoophytes; but the accounts of this branch of natural history in the few books I have, are so confused and incompleat, that I could not rectify the errors I suspected.</p>
+
+<p>I found it difficult to make my personages speak so as entirely to satisfy myself.  I shall perhaps hear that my children, in this book, do not talk like children; but the mere prattle of childhood would be less in its place here, than language nearer to that of books, which however will probably be criticised as affected and unnatural.  There is a sort of fall-lall way of writing very usual in works of this kind, which I have been solicitous
+
+<pb n="vi"/>
+
+to avoid, and perhaps have erred in some other way.  Being at a considerable distance from the press, errors have crept in, which under such a disadvantage are almost unavoidable.</p>
+
+<p>CHARLOTTE SMITH.</p>
+
+<p><i>July 28, 1804.</i></p>
+
+<pb n="vii"/>
+
+
+<div1 type="chapter">
+<head>CONVERSATI0N THE FIRST.</head>
+
+<head>POEMS.</head>
+
+<p>TO A GREEN-CHAFER, ON A WHITE ROSE.</p>
+<p>TO A LADY-BIRD.</p>
+<p>THE SNAIL.</p>
+<p>A WALK BY THE WATER.</p>
+<p>INVITATION TO THE BEE.</p>
+
+<pb n="1"/>
+
+<head>CONVERSATION THE FIRST.</head>
+
+<head>GEORGE&#8212;EMILY.</head>
+
+<head>IN A LITTLE GARDEN CALLED THEIR OWN.</head>
+
+<p>GEORGE.  Look, Emily, look at this beautiful shining insect, which has almost hid itself in this white rose, on your favourite tree.&#8212;It is shaped very like those brownish chafers, which you desired me to take away from the gardener's children yesterday, because you thought they were going to torment and hurt them; but this is not so big, and is much prettier.&#8212;See what little tassels it has on its horns; the wings shine like some part of the peacock's feathers.</p>
+
+<p>EMILY.  It is very pretty&#8212;but indeed, George, I am afraid it will fly away if you disturb it.  I should like to keep it in a box, but only you know, Mamma
+
+<pb n="2"/>
+
+says, it is cruel to deprive even an insect like this of its liberty&#8212;perhaps it would not eat if it was to be confined.</p>
+
+<p>GEORGE.  I wish Mamma could see it, she would tell us the name of it; and whether, without hurting it, you might keep it in a little paper box, which you know I could make for you of some strong paper, with pin holes to give it air.  I could carry it gently on the rose which it has crept into so snugly; only I do not like to gather the finest flower on our tree, for the rest of them are not yet blown so much out.</p>
+
+<p>EMILY.  But suppose, brother, I stay and watch it, for fear of its flying away, while you go and desire Mamma, if she is not too busy, to come and look at it.</p>
+
+<p>MRS. TALBOT.  Where is this treasure that you have found?  O, this is the green-chafer.  There are two sorts, I believe, of them, one is more of the colour of copper, and the other more crimson; this is the latter.  They are
+
+<pb n="3"/>
+
+the most beautiful of that species of insects, at least of those that inhabit this country; for in warm climates, where the colours of insects are much brighter, there are creatures of the beetle sort, of which the shards, or upper wings, and bodies, appear to be studded with diamonds, rubies, and emeralds.</p>
+
+<p>EMILY.  Mamma, may we take this chaser and keep it?  George says he could make a box with holes for air, and we could feed it with rose leaves!  Would it be wrong?</p>
+
+<p>MRS. TALBOT.  No&#8212;but I do not think you would find so much satisfaction in it, as in letting your chafer enjoy his liberty, and wander from flower to flower, for they feed on several sorts.  You might have found them on those beautiful guelder roses, which you know were in bloom about a fortnight since in the shrubbery, but the trees were too high for you to see them creeping among the round white bunches of blossoms, which the servants,
+
+<pb n="4"/>
+
+and country people, aptly enough, call snow-balls.  But there is an admirable description of these flowers in the poem of the Task, you know, which I read to you the other day.&#8212;The Poet calls it a rose from the usual name, and describes it&#8212;</p>
+
+<lg type="poem">
+<l>&#8212;"Throwing up, into the darkest gloom</l>
+<l>"Of neighbouring cypress, or more sable yew,</l>
+<l>"Her silver globes; light as the foamy surf</l>
+<l>"That the wind severs from the broken wave."</l></lg>
+
+<p>GEORGE.  But, Mamma, may Emily keep the chafer?</p>
+
+<p>MRS. TALBOT.  I had rather she would not; first, because it is cruel to the insect; and also because, pretty as it is, this sort of chafer has an offensive smell when touched; and you will find, Emily, your prisoner a disagreeable inmate.  Instead, therefore, of contriving the captivity of the chafer, let us address a little poem to it.</p>
+
+<p>EMILY.  A poem to a chafer, Mamma?
+
+<pb n="5"/>
+
+&#8212;Why the chafer cannot be supposed to understand it.</p>
+
+<p>MRS. TALBOT.  Certainly not; prose, or poetry, we know to be equally unintelligible to an insect, as to a bird, a tree, or a flower, or any other animate, or inanimate being, that does not possess speech or reason.  But you remember your brother Edward recited an address, in that style of verse called a sonnet, to a nightingale, which was composed by Milton, the first of English poets.&#8212;And the nightingale, though called the "poet of the woods," is not more qualified to understand these addresses than this shining insect.  Go, then, bring me a pencil and a drawing card.  We will sit down on this bank, under the laburnum, and you shall write while I dictate.  Emily, by this hour to-morrow, will learn to repeat our little address.&#8212;</p>
+
+<pb n="6"/>
+
+<lg type="poem">
+<head>TO A GREEN-CHAFER, ON A WHITE ROSE.</head>
+
+<l>You dwell within a lovely bower,</l>
+<l>Little chafer, gold and green,</l>
+<l>Nestling in the fairest flower,</l>
+<l>The rose of snow, the garden's queen.</l>
+
+<l>There you drink the chrystal dew,</l>
+<l>And your shards as emeralds bright,</l>
+<l>And corselet, of the ruby's hue,</l>
+<l>Hide among the petals white.</l>
+
+<l>Your fringed feet may rest them there,</l>
+<l>And there your filmy wings may close;</l>
+<l>But do not wound the flower so fair,</l>
+<l>That shelters you in sweet repose.</l>
+
+<l>Insect! be not like him who dares</l>
+<l>On pity's bosom to intrude,</l>
+<l>And then that gentle bosom tears</l>
+<l>With baseness and ingratitude.</l></lg>
+
+<p>MRS. TALBOT.  You have written it very well.&#8212;Now, George, and you, my Emily, tell me whether you understand it?</p>
+
+<pb n="7"/>
+
+<p>EMILY.  I don't know, Mamma, what shards are.</p>
+
+<p>MRS. TALBOT.  That word is usually understood to mean the outward wings of beetles, and such insects, which under them have another pair of light filmy wings, that, when they fly, are spread out; but at other times are folded up under their hard case-like wings, so as not to be perceived.</p>
+
+<p>GEORGE.  The word corselet I do not quite comprehend.</p>
+
+<p>MRS. TALBOT.  That expression is taken from the French word for armour, which was worn to cover the body in battle.</p>
+
+<p>GEORGE.  I understand it now&#8212;and <i>petals</i>, you have told us, mean the leaves of the flower itself, which should be distinguished from the green leaves that grow on the branches.</p>
+
+<p>MRS. TALBOT.  Well, then you will assist your little Emily in learning this to-morrow.&#8212;But there is John crossing the
+
+<pb n="8"/>
+
+garden with letters in his hand; let us go in to read them.</p>
+___
+
+<p>MRS. TALBOT.  Your aunt's letter contains a little poem for you, Emily.  Our collection will increase, I hope, and we shall no longer be at a loss for pieces fit for you to repeat.  You have often seen the little insects, called Lady-birds.  You remember there were so many of them about the rooms at your uncle's in Kent, that they were quite troublesome.  But the people in that country are very glad to see them, believing that their appearance is always followed by an extraordinary crop of hops.  They are sometimes called burnie-bees, and sometimes lady-cows.</p>
+
+<p>GEORGE.  I dare say I can find several of them in the garden, among the flowers.</p>
+
+<pb n="9"/>
+
+<p>EMILY.  Brother, you need not even go so far, for I saw two or three in the window this morning.  Here, I have found one already.&#8212;It is a very small one, with only two little black spots.</p>
+
+<p>MRS. TALBOT.  There are a great many sorts of them.  Some have more, and others have less of these spots; some are dark red, others of a lighter red; and now and then I have seen them black, with red spots.  In shape you see these little insects resemble the chafer we saw yesterday.&#8212;Observe, he unfolds his upper wings, spreads the gauze-like pinions underneath, and prepares to fly.  Farewell, Lady-bird, we are now going to read some verses about you, made, I see, in the same measure, as the nursery lullaby, which I remember when I was a child.</p>
+
+<pb n="10"/>
+
+<lg type="poem">
+<head>TO THE LADY-BIRD.</head>
+
+<l>OH! Lady-bird, Lady-bird, why dost thou roam</l>
+<l>So far from thy comrades, so distant from home?</l>
+<l>Why dost thou, who can revel all day in the air,</l>
+<l>Who the sweets of the grove and the garden can share,</l>
+<l>In the fold of a leaf, who can form thee a bower,</l>
+<l>And a place enjoy in the tube of a flower;</l>
+<l>Ah, why, simple Lady-bird, why dost thou venture,</l>
+<l>The dwellings of man so familiar to enter?</l>
+<l>Too soon you may find, that your trust is misplac'd,</l>
+<l>When by some cruel child you are wantonly chas'd,</l>
+<l>And your bright scarlet coat, so bespotted with black,</l>
+<l>May be torn by his barbarous hands from your back.</l>
+<l>And your smooth jetty corselet be pierced with a pin,</l>
+<l>That the urchin may see you in agonies spin;</l>
+<l>For his bosom is shut against pity's appeals,</l>
+<l>He has never been taught that a Lady-bird feels.</l>
+<l>Ah, then you'll regret you were tempted to rove,</l>
+<l>From the tall climbing hop, or the hazle's thick grove,</l>
+<l>And will fondly remember each arbour and tree,</l>
+<l>Where lately you wander'd contented and free;</l>
+<l>Then, fly, simple Lady-bird!&#8212;fly away home,</l>
+<l>No more from your nest, and your children to roam.</l></lg>
+
+<p>EMILY.  I shall be very glad to learn these lines, Mamma, for I think them
+
+<pb n="11"/>
+
+extremely pretty.&#8212;But should I not first be perfect in those lines on the rose, which you desired me to write yesterday, after I had dressed the flower-glasses with those beautiful groupes of roses.</p>
+
+<p>MRS. TALBOT.  Perhaps you can already repeat them&#8212;try.</p>
+
+<lg type="poem">
+<head>EMILY.</head>
+
+<l>QUEEN of fragrance, lovely Rose,</l>
+<l>Thy soft and silken leaves disclose:</l>
+<l>The winter's past, the tempests fly,</l>
+<l>Soft gales breathe gently through the sky;</l>
+<l>The silver dews and genial showers</l>
+<l>Call forth a blooming waste of flowers;</l>
+<l>And lo! thy beauties now unclose,</l>
+<l>Queen of fragrance, lovely Rose!</l>
+<l>Yet, ah! how soon that bloom is flown,</l>
+<l>How soon thy blushing charms are gone!</l>
+<l>To-day thy crimson buds unveil,</l>
+<l>To-morrow scatter'd in the gale.</l>
+<l>Ah! human bliss as sweetly goes,</l>
+<l>And fades like thee, thou lovely Rose.</l></lg>
+
+<p>GEORGE.  You did not make those lines yourself, Mamma?</p>
+
+<pb n="12"/>
+
+<p>MRS. TALBOT.  No, George; I found them in some collection of poems, and changed a few words, and I believe omitted some of the stanzas.</p>
+
+<p>EMILY.  And that which my brother wrote out this morning&#8212;Did you or my aunt write it?</p>
+
+<p>MRS. TALBOT.  You may remember, that I mentioned it was written by the Author of "The Task"&#8212;or rather, he translated it from the Latin of Vincent Bourne; many others of whose small poems he has also translated.</p>
+
+<p>GEORGE.  I liked it on account of the oddity of the measure; but you altered it a little, Mamma?</p>
+
+<p>MRS. TALBOT.  I did; not however expecting to make the poetry better, but rather to make my Snail a less selfish and Epicurean animal than he appears in Vincent Bourne&#8212;Let us hear it, George, and then we will go for out evening walk.</p>
+
+<pb n="13"/>
+
+<lg type="poem"><head>THE SNAIL.</head>
+
+<l>To grass, or leaf, or fruit, or wall,</l>
+<l>The snail sticks fast, nor fears to fall,</l>
+<l>As if he grew there house or all</l>
+<l>   together.</l>
+
+<l>Within that house secure he hides,</l>
+<l>When danger imminent betides</l>
+<l>Of storm, or other harm besides,</l>
+<l>   of weather.</l>
+
+<l>Give but his horns the slightest touch,</l>
+<l>His self-collecting power is such,</l>
+<l>He shrinks into his house with much</l>
+<l>   displeasure.</l>
+
+<l>Where'er he dwells, he dwells alone,</l>
+<l>Except himself has chattles none,</l>
+<l>Well satisfied to be his own</l>
+<l>   whole treasure.</l>
+
+<l>Thus Hermit like his life he leads</l>
+<l>Alone, on simple viands feeds,</l>
+<l>Nor at his humble banquet needs</l>
+<l>   attendant.</l>
+
+<l>And tho' without society,</l>
+<l>He finds 'tis pleasant to be free,</l>
+<l>And that he's blest who need not be</l>
+<l>   dependant.</l></lg>
+
+<pb n="14"/>
+
+<p>GEORGE.  And no being, certainly, can be more independent than the Snail, who carries his habitation about with him.</p>
+
+<p>EMILY.  Let us see, brother, as we walk, whether we cannot find some of those yellow Snails with dark stripes, and others with blood-coloured stripes, such as you remember we found in the hedge under the elms&#8212;I don't like those ugly garden snails, that eat the green gages and peaches, and spoiled so much of our fruit last year&#8212;They are odious dirty things&#8212;</p>
+
+<p>MRS. TALBOT.  Yet by no means without their use.  In some parts of Italy they are used as an article of food, and are fed and cleaned for that purpose; they are also prescribed by certain physicians of Switzerland, as a remedy for consumptions.  But in a garden they are very obnoxious, and if great pains were not taken by gardeners and farmers to de
+
+<pb n="15"/>
+
+stroy these as well as slugs, an insect of the same species, but without a shell; the labours not only of the gardener, but often those of the farmer, would be rendered vain&#8212;Plovers, or Pewits, which are birds that live on heaths and moors, are sometimes kept in walled gardens to destroy these mischievous insects, and they are devoured by ducks and other birds&#8212;But it is time to end our conversation for this morning.  Your acquaintance, young Scamperville, dines here&#8212;you must be ready to receive him, George.</p>
+___
+
+<head>EVENING.</head>
+
+<head>MRS. TALBOT&#8212;EMILY.</head>
+
+<p>EMILY.  Mamma, I was extremely glad to get away from that rude boy&#8212;I hope he will not come often here.</p>
+
+<p>MRS. TALBOT.  Indeed, Emily, I shall
+
+<pb n="16"/>
+
+not encourage the acquaintances; and I do not believe your brother wishes it.</p>
+
+<p>EMILY.  I am sure I should not love my brothers so well as I do, if they were like this Mr. Scamperville.  He is so proud, and contradicts every body, and seems to think himself so great; and besides, I never heard any boy talk so about eating, and sauces, and gravy.</p>
+
+<p>MRS. TALBOT.  He has had a very bad education; his father and mother are people who live very fashionably, and have left him entirely to the chance of a school, and the superintendance of a person between a servant and a tutor, who has no wish but to make advantage of the confidence reposed in him; the boy is the echo and mimic of the people he sees, and will probably become an ignorant dissipated man of fashion, who would be despised if he was not rich; and will, like many other such people, blaze for a day, and be forgotten.  But let us avail ourselves of this interval, to do at least part of our
+
+<pb n="17"/>
+
+evening lesson&#8212;You have learned the stanzas I gave you yesterday?</p>
+
+<p>EMILY.  Yes, Mamma, I found them very easy.</p>
+
+<lg type="poem">
+<head>A WALK BY THE WATER.</head>
+
+<head>EMILY.</head>
+
+<l>LET us walk where reeds are growing,</l>
+<l>   By the alders in the mud;</l>
+<l>Where the crystal streams are flowing,</l>
+<l>   In whose waves the fishes feed.</l>
+
+<l>There the golden carp is laving,</l>
+<l>   With the trout, the perch, and bream;</l>
+<l>Mark! their flexile fins are waving,</l>
+<l>   As they glance along the stream.</l>
+
+<l>Now they sink in deeper billows,</l>
+<l>   Now upon the surface rise;</l>
+<l>Or from under roots of willows,</l>
+<l>   Dart to catch the water flies.</l>
+
+<l>'Midst the reeds and pebbles hiding,</l>
+<l>   See the minnow and the roach;</l>
+<l>Or by water-lilies gliding,</l>
+<l>   Shun with fear our near approach.</l>
+
+<pb n="18"/>
+
+<l>Do not dread us timid fishes,</l>
+<l>   We have neither net nor hook;</l>
+<l>Wanderers we, whose only wishes</l>
+<l>  Are to read in nature's book.</l></lg>
+
+<head>MR. SCAMPERVILLE <i>and</i> GEORGE <i>come into the Room</i>.</head>
+
+<p>GEORGE.  Mother, Harry wishes me to go down to the river with him&#8212;I will go, but not to fish.</p>
+
+<p>HARRY.  Then of what use will your going be? I shall hire a boat, I dare say I can, can't I?&#8212;and get a man to row us down the river:  there is monstrous good sport, Germain told me, a mile or two off; and if we get as low as where the tide comes up, he says there are mullets, which are famous good eating.</p>
+
+<p>GEORGE.  Well, you may do all this without me, you know, as I neither love that sort of sport, nor care about the goodness of mullets&#8212;</p>
+
+<p>MRS. TALBOT.  George has rather a dislike to angling, Mr. Scamperville.</p>
+
+<pb n="19"/>
+
+<p>HARRY.  I dare say; one would think, however, such a quiet sport as <i>that</i> might suit him, tho' he says he never had a gun in his hand in his life, and never rode after the hounds.</p>
+
+<p>MRS. TALBOT.  Neither, I believe, have ever entered into his notions of amusement and pleasure; he has been taught to think, that hunting, and shooting, and fishing, are made in general matters of too much importance, and that those who too ardently pursue them learn at length to believe, that man is an animal born only to ensnare and destroy every other animal.  My sons have been educated to other ideas.</p>
+
+<p>HARRY.  I suppose, Ma'am, you are afraid of their being drowned?</p>
+
+<p>MRS. TALBOT.  Not at all, I assure you, for they have both learned to swim very well&#8212;But George has been of several fishing parties, and has found no pleasure in them, though is very fond of the water.  However, if you like to take your favourite river walk, George, go.&#8212;&#8212;Come
+
+<pb n="20"/>
+
+Emily, <i>we</i> will resort to our little green-house.</p>
+
+<p>HARRY.  Come, come along!&#8212;Why if one was to listen to all this prosing, there would be no pleasure in the world&#8212;I cannot imagine, George, how you contrive to amuse yourself?</p>
+
+<p>GEORGE.  I have never wanted occupation or amusement, Harry&#8212;But I can find no pleasure in putting a miserable worm on a hook, and making it wreath in torture; nor in seeing the poor fish swallow the bait and hook too, as often happens; and indeed to stand dazzling our eyes and wasting the whole days to stare at a bit of cork and a quill, only for such a sad purpose, seems to me to be a great sacrifice of time; I like much better to see the ponds let down, as they were this spring, and thousands of little fishes jumping in the nets, or shining like silver in the shallow water as they flounce about.</p>
+
+<p>HARRY.  But where is the difference, pray?  Were not those fishes to be eaten just the same?</p>
+
+<pb n="21"/>
+
+<p>GEORGE.  No; for they are not caught for that purpose; when the ponds are drawn they are often taken out of the water where they are bred, to be removed to other ponds where they remain: my brother and I were employed to carry them to these last; and our great pleasure was to put them in gently one by one, and observe how they seemed to enjoy themselves as they were restored to their own element, and swam away.</p>
+
+<p>HARRY.  O stupid work!&#8212;I should be wearied to death of such humdrum amusement.</p>
+
+<p>GEORGE.  We are not; besides, my mother often walks with us, and tells us the names of different trees and flowers.  She describes the inhabitants of the waters, and the birds that live on the banks of rivers.  There are alders and willows of different sorts grow on the edge of the stream, and sometimes the great grey heron is seen watching under them for fish, stretching out his long neck over the
+
+<pb n="22"/>
+
+brink.  Sometimes she has shewn us the place, under a rocky bank, where there are hollows, which are inhabited by otters&#8212;</p>
+
+<p>HARRY.  Yes, and it is amazing good sport to hunt those otters.  I was out one day with my father, Sir Harry, and I saw the dogs kill one.</p>
+
+<p>GEORGE.  I once saw one, but it was dead.  Above the river's banks too, on those high sandy rocks that are covered with birch and broom, there are great cavities, where another animal finds his dwelling, the badger.</p>
+
+<p>HARRY.  Oh yes!&#8212;that is the animal they hunt at Winchester on the hills, you know.  I have a cousin there, who says it is famous sport; they pen him down, and then bait him with terriers.</p>
+
+<p>GEORGE.  It may be thought sport perhaps, but I think it must be extremely cruel, to harass a poor defenceless beast.</p>
+
+<p>HARRY.  Stuff and nonsense!&#8212;this is cruel, and t'other thing is cruel!&#8212;Why George, since you have been so much at
+
+<pb n="23"/>
+
+home, you are become an absolute milk-sop! just like a man milliner.</p>
+
+<p>GEORGE.  Well, I cannot help your opinion of me, you know.  But to tell you the truth, Harry, I find much more pleasure and satisfaction in making my mother contented with me, than in any thing you call amusement; and it is now no sacrifice, because I have never been taught to delight in these pastimes which you so much admire.</p>
+
+<p>HARRY.  I can't say I understand all that sort of thing.  It would be curious, I <i>do</i> think, if I was to be tied to my mother's apron string, and taddle about so.  I wonder which would be tired first, Lady Scamperville, or me?  Why she never thinks of asking me to learn any thing in the holidays, or of telling me what this thing is, and what t'other thing is made of&#8212;We know the things are there; and if we have money to buy what we like, that is the most material, I think.</p>
+
+<p>GEORGE.  But how do you expect to
+
+<pb n="24"/>
+
+have money to buy what you like when you grow up, if you take no pains to obtain knowledge when you are young?</p>
+
+<p>HARRY.  A curious question indeed!&#8212;What you really with all your sagacity suppose then, that I shall be obliged to take to a trade when I grow up?  An excellent notion, that?  No! good Mr. George, <i>my</i> father is a Baronet, Sir, a man of great fortune, and I am his only son; I shall have no occasion to learn any thing for the sake of getting money, when I grow up, I assure you.  I shall not want knowledge for <i>that</i>; I shall have a great estate.</p>
+
+<p>GEORGE.  Perhaps, though, it might be worth your while to try for some knowledge to teach you how to keep it; for I have read stories of people, and my mother has heard of, indeed known people, who were once very rich, but being also very idle, they have thrown away their fortunes, only because they did not know how to pass their time; and when their
+
+<pb n="25"/>
+
+money was gone, they found themselves useless beings in the world, and perhaps obliged to become dependant of those very persons who had art and cunning enough to cheat them out of their property.</p>
+
+<p>HARRY.  Really now Talbot, when I met you last summer, you seemed to me to be <i>any thing</i> rather than a formal fellow, with such queer shopkeeping notions&#8212;No, I shall not be idle, I fancy, tho' I don't intend to fag, like a tradesman, or grub like a parson at Greek and Hebrew books, which are of no use to a gentleman.  When I am Sir Harry Scamperville, the first thing I shall do will be to have the best stud in the country.  I'll have a curricle too, and a tandem with blood horses; and I'll have, Sir, such a pack of fox-hounds;&#8212;hoicks, hoicks, my knowing ones; I'll shew them what it is to have right notions of all that sort of thing&#8212;Germain says, I shall be quite the very thing, the tippy.</p>
+
+<p>GEORGE.  Pray, who is Germain?</p>
+
+<pb n="25"/>
+
+<p>HARRY.  Germain!  Why he is a sort of upper servant, that is, a sort of gentleman, that my father keeps to go about with me.  He was abroad with him.  He is a German, a monstrous good fellow, tho' a great quiz; it's high fun to see him on horseback, for he can't ride at all, tho' he won't own to it.  You would die with laughing to see the faces he makes; he is so afraid: but he has had some tumbles, which almost killed me, I laughed so.  I always get him upon a spunkey horse, and the fun is to see his contrivances to stick fast, while I dash on, on purpose.</p>
+
+<p>GEORGE.  He don't seem to recommend all these horses, and hunting schemes, then, to gratify himself?</p>
+
+<p>HARRY.  Oh lord! no, not at all! 'tis only because he wishes that I should make a figure, and all that&#8212;as a man in certain style ought to do.  But there is Jasper Grice, the groom, that overlooks Sir Harry's stables; 'tis he that has made me so well acquainted with all that
+
+<pb n="27"/>
+
+sort of thing; he's the boldest rider you know in the country.  He taught me to ride, and to fear nothing when I'm in the saddle.  You seem to have no notion of that sort of thing; I wish I could get you into the field; you'd soon see what it is to have spirit and courage&#8212;'gad, I go over every thing, as bold as a dragon.  Why, now, if I was on horseback on my filly Truffle, and the dogs were to take water, you see, in this part of the river, or any where, ever so dangerous, why I should no more mind plunging in directly, than I should&#8212;&#8212;</p>
+
+<p>[<i>A boy comes running up.</i></p>
+
+<p>BOY.  Masters, young Masters! pray help!&#8212;help, for God's sake&#8212;my poor little sister&#8212;she has <i>fell'd</i> into the river&#8212;Oh! for certain she'll be <i>drowned</i>, and what will mother say?&#8212;What shall I do?</p>
+
+<p>GEORGE.  Shew me the place directly, come Harry, let us run&#8212;come, come!</p>
+
+<p>HARRY.  Run&#8212;no indeed&#8212;I shall do no
+
+<pb n="28"/>
+
+such thing&#8212;Why, George&#8212;George&#8212;what is it to you?&#8212;Don't go&#8212;You'll be pulled into the water&#8212;He's gone&#8212;a stupid fellow; to hazard his life for a beggar's brat.  I've no notion of that sort of thing&#8212;the fool will be drowned, I dare say; I'll go call for somebody, to help fish him out&#8212;I'm sure he'll be drowned.</p>
+
+<p>(<i>Mrs. Talbot being abruptly informed of what had happened, comes up in alarm; but the child has been taken out of the water by her son, and is seated on the lap of its mother.</i>)</p>
+
+<p>THE POOR WOMAN.  See, Madam&#8212;good Madam, blessings and good luck on Master George!&#8212;he has saved my little Nanny&#8212;look, Ma'am, she's quite come to.&#8212;God reward you, Master George!&#8212;If it had not been for him, Nanny would have been <i>drowned</i>.</p>
+
+<p>MRS. TALBOT.  Indeed I am very glad.&#8212;Poor child!&#8212;I am rejoiced to see her alive.&#8212;And you, my son, I delight in
+
+<pb n="29"/>
+
+your courage and your safety.  I was alarmed, for Mr. Scamperville ran to tell me he believed you were drowned&#8212;But the danger is now over.  Go home and change your clothes.</p>
+
+<p>GEORGE.  I am mad with Scamperville for frightening you so&#8212;he had better have helped, instead of running away.&#8212;Oh there he is coming back, much at his leisure.</p>
+
+<p>HARRY.  So you aren't gone to the bottom, I see.  I was frightened for you, I assure you.</p>
+
+<p>GEORGE.  So it seems, indeed.  You were frightened&#8212;and so you ran away.</p>
+
+<p>HARRY.  Ran away!&#8212;No, I went to call help.</p>
+
+<p>GEORGE.  You had better have helped me yourself if you thought I needed it, such a fine bold fellow as you are.</p>
+
+<p>HARRY.  Where would have been the use of that?  Two of us could have done no good, so I thought to have called for some men to come and assist the little child.</p>
+
+<pb n="30"/>
+
+<p>MRS. TALBOT.  But if George had been equally prudent, and had taken so much care of himself, it would have been too late, and probably at least the little girl would have been drowned.</p>
+
+<p>HARRY.  And if it had, who could have helped it&#8212;those people should take more care of their children.&#8212;I wonder if they expect <i>Gentlemen</i> to be hazarding their lives for such brats as that.</p>
+
+<p>MRS. TALBOT.  Do you think, Mr. Scamperville, you should have been more alert, if the child of a person whom you consider as being of <i>fashion</i> had met with the same disaster.</p>
+
+<p>HARRY.  Oh! that is not likely, you know&#8212;but these common people should be punished, I think, for annoying one with such things.</p>
+
+<p>MRS. TALBOT.  You have notions admirably calculated for the promotion of your own ease, but not quite such as will recommend you much to the affection of others.</p>
+
+<pb n="31"/>
+
+<p>GEORGE.  Did you never hear of doing as you would be done by&#8212;suppose you had fallen into the water, and this child's brother or father had saved you from drowning?</p>
+
+<p>HARRY.  Well&#8212;they would have been handsomely paid, and it would have been a good job for them.</p>
+
+<p>MRS. TALBOT.  But let us suppose for a moment, that instead of being the only son of Sir Harry Scamperville, you had been the son of John Needwood the labourer; would it therefore have been well in those who might witness the accident, to leave you to be drowned; and is not the life of a prince or a peasant equal in the estimation of God, who created both with the same feelings and wants, and are human creatures only to be considered as such, when they happen to be rich?</p>
+
+<p>HARRY.  Yes, Ma'am&#8212;I dare say they are&#8212;but really I never desire, when I come out just to visit a friend, to be bored with such sort of things&#8212;I wish
+
+<pb n="32"/>
+
+you a good evening&#8212;I shall not like to give up my rowing plan down the river&#8212;I dare say Germain is waiting for me by this time&#8212;George, have you a mind for a little dash?</p>
+
+<p>GEORGE.  Thank you&#8212;but I have not the least wish for it.</p>
+
+<p>HARRY.  Well! good bye to you then.</p>
+
+<p>GEORGE.  Farewell.</p>
+
+<p>MRS. TALBOT.  There he goes, the echo of insolent wealth and unfeeling prosperity&#8212;totally without any sense of what he owes to others, and occupied only in gratifying himself.</p>
+
+<p>GEORGE.  I am sure I shall not seek <i>him</i> again; and I heartily hope he will not seek me.</p>
+
+<p>MRS. TALBOT.  But as we walk, which in your wet clothes must not be slowly, tell me how it happened.</p>
+
+<p>GEORGE.  Scamperville was boasting about his courage in hunting, and describing how he would fearlessly ford the river on
+
+<pb n="33"/>
+
+his fine mare, Miss Something, as he called her, when Needwood's son came running up, and said his little sister had fallen into the water.  I ran to the place, and Mr. Scamperville, after desiring me not to go, went away as fast as he could to get more help.</p>
+
+<p>MRS. TALBOT.  And was the water deep?</p>
+
+<p>GEORGE.  No, indeed, mother, the hazard was nothing:&#8212;the little child was so near the edge, that I had not occasion to swim above two strokes, and I easily brought her out.</p>
+
+<p>MRS. TALBOT.  I will confess, George, my pleasure is great on this occasion, though chastened by the remains of the fears I felt.&#8212;You are now sensible of the advantage of having been educated hitherto, in some measure, in the manner directed by the admirable author of Les Etudes de la Nature&#8212;"J'entremelerios ces speculations touchanted, d'exercise agreeable, et converable *a la fougue de
+
+<pb n="34"/>
+
+*age. Je leur ferois apprendre *a nager, non pas seulement pour les apprendre de se tirer eux *meme du peril; mais, pour porter du secours *a ceux qui peuvent se trouver en danger."</p>
+
+<head><i>Translation</i>.</head>
+
+<p>"I would interpose with these interesting speculations, exercise suitable to the vivacity natural at that period of life&#8212;I would have them taught to swim, not only that they may be enabled to extricate themselves from danger, but that they may succour others whose peril may call upon their humanity."</p>
+
+<p>I congratulate myself that you can distinguish between that useless headlong rashness, which often hurries a young person into danger in a fit of boasting, and that real courage, which does not shrink from any peril which duty to a fellow creature calls upon him to brave; and if the danger in this instance had been greater, if I had even been deprived of
+
+<pb n="35"/>
+
+you in consequence of your humainty, I should, with whatever anguish in my heart, have felt like the illustrious Ormond, who, when he lost the support and consolation of his age, declared that he "would not exchange his dead son, for any living son in christendom."</p>
+
+<p>But now we are arrived, go change your clothes&#8212;I shall say nothing to Emily this evening of what has happened, as she was not with me when that stout-hearted Scamperville came staring up to me, and knew nothing of the matter.&#8212;My spirits want to be quieted, and I would avoid her questions at present.</p>
+
+<p>EMILY.  Dear Mamma, where have you been?&#8212;When I returned with the piece of matting you sent me for to tie up the convolvulus, I could not find you, and I have been seeking you ever since.</p>
+
+<p>MRS. TALBOT.  Well, now I am found; but I am rather fatigued, so come and read to me.</p>
+
+<pb n="36"/>
+
+<p>EMILY.  Shall I read the history of the bee, which we were going to begin yesterday?</p>
+
+<p>MRS. TALBOT.  Only the abridgement, introductory to the little poem; we shall have time for no more.</p>
+
+<p>EMILY.  Apis mellifica, the common honey bee, is an insect of important use to mankind.&#8212;An hive contains from 16,000 to 20,000 bees, of which one only is a female; of the rest, some are drones, but the greater part of them are working bees.&#8212;On which last, the care of the young depend, as well as the making of honey, which they collect from almost every flower, while by a different process, they form the wax of the pollen of flowers, and build their hexagon cells so regularly and neatly, that human art cannot imitate them.&#8212;The eggs of the queen, or the only female bee, are laid in these, and each is then filled with honey&#8212;they have the art of extracting the nectar from almost all plants, even those which to us appear
+
+<pb n="37"/>
+
+to have but little odour.  The blossoms of the heath, of thyme, of rosemary, and those of fruit trees, and aromatic herbs, are particularly grateful to them.</p>
+
+<p>MRS. TALBOT.  It was on the thyme in the kitchen garden, you remarked, I remember, my Emily, when you were a very little girl, that the bees were <i>honeying</i>.</p>
+
+<p>EMILY.  I always liked to watch them at their work, it seemed so clever in such little creatures to build those regular cells, and fill them with sweet juice.</p>
+
+<p>MRS. TALBOT.  And you recollect my explanation of the expression I use in the verses, alchemy.</p>
+
+<p>EMILY.  Yes, you told me alchemy was a process of chymistry, by which it was long believed inferior metals, such as copper or iron, might be converted or transmuted into gold; and that you applied it in a figurative sense, to describe the change made by the bees, of other substances, into honey.</p>
+
+<pb n="38"/>
+
+<p>MRS. TALBOT.  There are many other sorts of bees, you know; and there are other insects, such as wasps and hornets, that resemble them in living societies, making very ingeniously the nests where they raise their young; but in elegance of taste, and delicacy of manner, these are very inferior.  The live on fruit, meat, and even on other insects.&#8212;The author who writes under the name of Hector St. John, an American farmer, relates, that in America, it is very common to suspend an hornet's nest in the middle of the ceiling of a room where the family live, that these insects may relieve them from the great number of flies with which the houses are infested, and that it is usual for the hornets to settle on the faces of the children, with no other intention than to carry away the flies; while the children accustomed to them express no fear, and never are stung.  These hornets, and their near relations, the wasps, are great enemies of the bees, not only by stealing their honey,
+
+<pb n="39"/>
+
+but because they kill the industrious labourers themselves.  In the vast woods of America there are wild bees, that make great quantities of honey in the hollows of trees, and the settlers and Indians are guided to these treasures by a bird, who knows where they are deposited.&#8212;There are many other particulars, which at some future time we will collect.  At present our business is with the honey bee of our own country.</p>
+
+<lg type="poem">
+<head>INVITATION TO THE BEE.</head>
+
+<l>CHILD of patient industry,</l>
+<l>Little active busy bee,</l>
+<l>Thou art out at early morn,</l>
+<l>Just as the opening flowers are born,</l>
+<l>Among the green and grassy meads</l>
+<l>Where the cowslips hang their heads;</l>
+<l>Or by hedge-rows, while the dew</l>
+<l>Glitters on the harebell blue.&#8212;</l>
+
+<l>Then on eager wing art flown,</l>
+<l>To thymy hillocks on the down;</l>
+
+<pb n="40"/>
+
+<l>Or to revel in the broom;</l>
+<l>Or such the clover's crimson bloom;</l>
+<l>Murmuring still thou busy bee</l>
+<l>Thy little ode to industry!</l>
+
+<l>Go while summer suns are bright,</l>
+<l>Take at large thy wandering flight;</l>
+<l>Go and load thy tiny feet</l>
+<l>With every rich and various sweet,</l>
+<l>Cling around the flowring thorn,</l>
+<l>Dive in woodbine's honied horn,</l>
+<l>Seek the wild rose that shades the dell,</l>
+<l>Explore the foxglove's freckled bell,</l>
+<l>Or in the heath flower's fairy cup</l>
+<l>Drink the fragrant spirit up.</l>
+
+<l>But when the meadows shall be mown,</l>
+<l>And summer's garlands overblown;</l>
+<l>Then come thou little busy bee,</l>
+<l>And let thy homestead be with me,</l>
+<l>There, shelter'd by thy straw-built hive,</l>
+<l>In my garden thou shalt live,</l>
+<l>And that garden shall supply</l>
+<l>Thy delicious alchemy;</l>
+<l>There for thee, in autumn, blows</l>
+<l>The Indian pink and latest rose,</l>
+<l>The mignionette perfumes the air,</l>
+<l>And stocks, unfading flowers are there,</l>
+
+<pb n="41"/>
+
+<l>Yet fear not when tempest come,</l>
+<l>And drive thee to thy waxen home,</l>
+<l>That I shall then most treacherously</l>
+<l>For thy honey murder thee.</l>
+
+<l>Ah, no!&#8212;throughout the winter drear</l>
+<l>I'll feed thee, that another year</l>
+<l>Thou may'st renew thy industry</l>
+<l>Among the flowers, thou little busy bee.</l></lg>
+
+<pb n="42"/>
+
+</div1>
+<pb n="43"/>
+
+<div1 type="chapter">
+<head>CONVERSATIONS THE SECOND.</head>
+
+<head>POEMS.</head>
+
+<p>HEDGE-HOG.</p>
+<p>EARLY BUTTERFLY.</p>
+<p>MOTH.</p>
+<p>SONNET TO A GLOWWORM.</p>
+<p>MIMOSA.</p>
+<p>DORMOUSE.</p>
+
+<pb n="44"/>
+
+<pb n="45"/>
+
+<head>CONVERSATIONS THE SECOND.</head>
+
+<head>MRS. TALBOT&#8212;GEORGE&#8212;EMILY.</head>
+
+<p>MRS. TALBOT.  Whence do you come, my dear George?</p>
+
+<p>GEORGE.  After I had been, as you desired me, to enquire after the poor little girl, who is as well as if nothing had happened, I went to see Farmer Warwood's men reaping the rye.&#8212;I tried if I could cut some down myself, but I was so awkward, that the men were afraid I should cut myself, and desired me not to attempt it.&#8212;Afterwards in crossing from the meadows towards the home field, just in the middle of the path, I saw something brown, travelling slowly along; upon approaching it quickly, it rolled itself up in a moment.&#8212;It was this hedge-
+
+<pb n="46"/>
+
+hog&#8212;and that it might not share the fate of that which I tried in vain to rescue from the village boys a little time ago, I put it into my handkerchief, and brought it home, meaning to let it go in the copse.</p>
+
+<p>MRS. TALBOT.  Do so then, and unpromising as it appears for a subject of poetry, we will try if something cannot be made of it, to encrease our collection of animals, as subjects of natural history in verse.</p>
+
+<lg type="poem">
+<head>THE HEDGE-HOG SEEN IN A FREQUENTED PATH.</head>
+
+<l>WHEREFORE should man or thoughtless boy</l>
+<l>Thy quiet harmless life destroy,</l>
+<l>Innoxious urchin?&#8212;for thy food</l>
+<l>Is but the beetle and the fly,</l>
+<l>And all thy harmless luxury</l>
+<l>The swarming insects of the wood.</l>
+
+<pb n="47"/>
+
+<l>Should man to whom his God has given</l>
+<l>Reason, the brightest ray of heaven,</l>
+<l>Delight to hurt, in senseless mirth,</l>
+<l>Inferior animals?&#8212;and dare</l>
+<l>To use his power in waging war</l>
+<l>Against his brethren of the earth?</l>
+
+<l>Poor creature! to the woods resort,</l>
+<l>Lest lingering here, inhuman sport</l>
+<l>Should render vain thy thorny case;</l>
+<l>And whelming water, deep and cold,</l>
+<l>Make thee thy spiny ball unfold,</l>
+<l>And shew thy simple negro face!</l>
+
+<l>Fly from the cruel; know than they</l>
+<l>Less fierce are ravenous beasts of prey,</l>
+<l>And should perchance these last come near thee;</l>
+<l>And fox or martin cat assail,</l>
+<l>Thou, safe within thy coat of mail,</l>
+<l>May cry&#8212;Ah! noli me tangere.</l></lg>
+
+<p>MRS. TALBOT.  Well, you have liberated your captive, and here is my address to him.</p>
+
+<p>GEORGE.  I beg your pardon, my dear mother, but you know that last verse is not quite right, for the word is pronounced <i>tan</i>gere, and not tan<i>gere</i>.</p>
+
+<pb n="48"/>
+
+<p>MRS. TALBOT.  Your remark is perfectly just, my son&#8212;and you see, that read properly, there is a false quantity in the line.&#8212;But such licences are now very frequently taken in short and trifling pieces like this.&#8212;So we will relax in the severity of our criticism, and return to the history of the urchin, or hedge-hog.  This inoffensive animal is among those to which superstition once affixed malignant qualities.&#8212;The witches in Macbeth name its cry among those of evil omen.</p>
+
+<lg type="poem">
+<l>Thrice the brinded cat hath mew'd'</l>
+<l>Twice and once the hedge-pig whined.</l>
+</lg>
+
+<p>And you know Caliban complains of it as one of the creatures that his master, Prospero, sent to torment him.</p>
+
+<lg type="poem">
+<l>For ever trifle they are set upon me&#8212;</l>
+<l>Sometimes like apes that moe and chatter at me,</l>
+<l>And after bite me; then like hedge-hogs, which</l>
+<l>Lie tumbling in my bare foot path&#8212;&#8212;"</l></lg>
+
+<pb n="49"/>
+
+<p>And the vulgar still believe, that hedge-hogs are unlucky, and even more actively mischievous&#8212;for, that they eat the roots of corn; suck the cows, causing their udders to ulcerate; and many other misdemeanors are laid to the charge of this poor little ugly beast; who, being guilty of none of them, lives in remote hedge-rows, copses, and the bottoms of dry ditches, under leaves and fern, and feeds on beetles, worms, and flies.&#8212;Sometimes with its snout, it digs up the roots of the plantain among the grass, and makes them a part of its food.&#8212;And now, my Emily, we will have this copied into our little book.&#8212;It will serve for your writing lesson to-morrow.</p>
+
+<p>GEORGE. Mother, I wanted to tell you, that yesterday I was reading the history of moths and butterflies; I knew it indeed before, and so did Emily, but I was not aware of the immense variety there are, especially of moths.</p>
+
+<p>EMILY.  Those eggs, brother, on a leaf
+
+<pb n="50"/>
+
+which you bade me put in a box, are not yet hatched.&#8212;It will be so long before they become butterflies, that I shall not have patience to watch them.</p>
+
+<p>GEORGE.  If my mother does not dislike it, I will search for some of these insects in a more advanced state; that is when they are become chrysalis's&#8212;which is their intermediate form between the caterpillar and the butterfly.  My book says they are to be found at all times of the year.</p>
+
+<p>MRS. TALBOT.  And a very likely place is the old room at the end of the green-house; I have hardly ever failed to meet with several sorts there&#8212;and as early as last March, I found one of the most beautiful and delicate of English butterflies.  Probably, the next night's frost killed it, for on the following day I could not find it&#8212;and if it had got out, it would have found no flowers to feed on, for the weather afterwards became very severe.  However, there is a
+
+<pb n="51"/>
+
+yellow butterfly with dark iron coloured spots, and pointed wings, which is frequently seen abroad before the common cabbage-fly, so usual and so destructive in gardens, is hardly enough to venture.  When I was very young, I was very fond of catching butterflies, to paint from nature, but I was soon disgusted with the attempt to kill them.  It appeared so cruel, to impale an insect on a pin, and let it flutter for hours and even days in misery, that I could never bear to do it.  I was afterwards shewn how to kill them immediately, by pouring a drop of aether on their heads; but I thought I had no right to deprive one of these beautiful creatures of their short existence, which in some sorts lasts only a day.  And therefore I contented myself with copying from flies in collections already made.  There are some of these insects in the East and West Indies, of a very large size and the most dazzling beauty.</p>
+
+<pb n="52"/>
+
+<p>GEORGE.  But, mother, though you did not like to destroy the butterflies you speak of, you might have found in them good objects for our poetry.</p>
+
+<p>MRS. TALBOT.  It is difficult, George, to say any thing that is not mere common place on so obvious and hackneyed a subject; but open the drawer in my chiffonier, and take out my book; I have just recollected a few stanzas to the butterfly, called Rhamni, which makes its appearance early in March.</p>
+
+<lg type="poem">
+<head>THE EARLY BUTTERFLY.</head>
+
+<l>Trusting the first warm day of spring,</l>
+<l>When transient sunshine warms the sky,</l>
+<l>Light on his yellow spotted wing</l>
+<l>Comes forth the early butterfly.</l>
+
+<l>With wavering flight, he settles now</l>
+<l>Where pilewort spreads its blossoms fair,</l>
+<l>Or on the grass where daisies blow,</l>
+<l>Pausing, he rests his pinions there.</l>
+
+<pb n="53"/>
+
+<l>But insect! in a luckless hour</l>
+<l>Thou from thy winter home hast come</l>
+<l>For yet is seen no luscious flower</l>
+<l>With odour rich, and honied bloom.</l>
+
+<l>And these that to the early day</l>
+<l>Yet timidly their bells unfold,</l>
+<l>Close with the sun's retreating ray,</l>
+<l>And shut their humid eyes of gold.</l>
+
+<l>For night's dark shades then gather round,</l>
+<l>And night-winds whistle cold and keen,</l>
+<l>And hoary frost will crisp the ground</l>
+<l>And blight the leaves of budding green!</l>
+
+<l>And thou poor fly! so soft and frail,</l>
+<l>May'st perish e'er returning morn,</l>
+<l>Nor ever, on the summer gale,</l>
+<l>To taste of summer sweets be borne!</l>
+
+<l>Thus unexperienc'd rashness will presume</l>
+<l>On the fair promise of life's opening day,</l>
+<l>Nor dreams how soon the adverse storms may come,</l>
+<l>"That hush'd in grim repose, expect their evening prey."</l></lg>
+
+<p>That last line, you know, is from Gray&#8212;that admirable poet, who speaks of in
+
+<pb n="54"/>
+
+sect life so beautifully in his Ode to Spring.</p>
+
+<lg type="poem">
+<l>The insect youth are on the wing,</l>
+<l>Eager to taste the honied spring</l>
+<l>   And float amid the liquid noon.</l>
+<l>Some lightly o'er the current skim,</l>
+<l>Some shew their gaily gilded trim</l>
+<l>   Quick glancing to the sun.</l></lg>
+
+<p>The moth, however, or phalena, which the French call papillione de soir, or night butterflies, are by no means fond of shewing their varied plumage to the sun; while the butterfly, as soon as he quits the armour with which nature has provided him, dries his moist and newly unfolded wings in the rays of noon, and encouraged by the warmth, launches into the air; the moth, though his case, or skin, may at the same time burst, yet never thinks of venturing from the leaf or piece of wood to which he is attached, till the sun is set; then you may see millions of moths of different sorts flitting about and feeding on flowers.</p>
+
+<pb n="55"/>
+
+<p>EMILY.  But, Mamma, about a week ago, while the weather was so very hot, I went up stairs into your book-closet with a wax taper&#8212;the window was open, and I put a candle down on your table under it, when in an instant there were I don't know how many moths round it, and one so large flew against it that it was put out; which was fortunate enough for the rest, at least for a little time, since they seemed determined to be burnt to death.  However, as I wanted a book which I could not find in the dark, I rang for another candle, and in an instant the foolish insects were trying which could singe itself first.  I remember thinking then, that they were like silly people who will not take advice, for many of them, even after they were singed, flew back to the candle.</p>
+
+<p>MRS. TALBOT. The comparison is obvious, my dear little girl, yet it is not every little girl who would have made it. The obstinacy with which the moth per
+
+<pb n="56"/>
+
+severs in fluttering around the flame that inevitably destroys it, has been the subject of many comparisons.&#8212;Like verses on the butterfly, any attempt on the subject of the moth may perhaps be trite; but, as George has finished, I see, what he was about, he will be my scribe while I dictate.</p>
+
+<lg type="poem">
+<head>THE MOTH.</head>
+
+<l>WHEN dews fall fast, and rosy day</l>
+<l>Fades slowly in the west away,</l>
+<l>While evening breezes bend the future sheaves;</l>
+<l>Votary of vesper's humid light,</l>
+<l>The moth, pale wanderer of the night,</l>
+<l>From his green cradle comes, amid the whispering leaves.</l>
+
+<l>The birds on insect life that feast,</l>
+<l>Now in their woody coverts rest,</l>
+<l>The swallow slumbers in his dome of clay,</l>
+<l>And of the numerous tribes who war</l>
+<l>On the small denizens of air,</l>
+<l>The shrieking bat alone is on the wing for prey.</l>
+
+<pb n="57"/>
+
+<l>Eluding him, on lacey plume</l>
+<l>The silver moth enjoys the gloom,</l>
+<l>Glancing on tremulous wing thro' twilight bowers,</l>
+<l>Now flits where warm nasturtiums glow,</l>
+<l>Now quivers on the jasmine bough,</l>
+<l>And sucks with spiral tongue the balm of sleeping flowers.</l>
+
+<l>Yet if from open casement stream</l>
+<l>The taper's bright aspiring beam,</l>
+<l>And strikes with comet ray his dazzled sight;</l>
+<l>Nor perfum'd leaf, nor honied flower,</l>
+<l>To check his wild career have power,</l>
+<l>But to the attracting flame he takes his rapid flight.</l>
+
+<l>Round it he darts in dizzy rings,</l>
+<l>And soon his soft and powder'd wings</l>
+<l>Are singed; and dimmer grows his pearly eyes,</l>
+<l>And now his struggling feet are foil'd,</l>
+<l>And scorche'd, entangled, burnt, and soil'd,</l>
+<l>His fragile form is lost&#8212;the wretched insect dies!</l>
+
+<l>Emblem too just of one, whose way</l>
+<l>Thro the calm vale of life might lay,</l>
+<l>Yet lured by vanity's illusive fires</l>
+<l>Far from that tranquil vale aside,</l>
+<l>Like this poor insect suicide</l>
+<l>Follows the fatal light, and in its flame expires.</l></lg>
+
+<pb n="58"/>
+
+<p>MRS. TALBOT.  Well! that being completed, let us prepare for our walk.&#8212;It is a lovely evening after the slight rain, and every blade of grass and leaf will give us their delightful odours.  I remember too, my Emily, that you were desirous of finding another glow-worm, since the turkeys or guinea-fowl certainly devoured those you so carefully places on the lawn the other night; and these shining creatures will not appear above a week or ten days longer.  Come, George, will you not accompany us?</p>
+
+<p>GEORGE.  As soon, Mother, as I have written out "the Moth" fair in my book; I have already finished Emily's.</p>
+
+<p>MRS. TALBOT.  Hasten then, dear boy,&#8212;and we will go down the green lane which leads to the woodlands.  It was there that Emily and I found several glow-worms a few nights ago; and as we brought them home on the leaves and blades of grass, Emily would hardly be persuaded that they were by day-light very
+
+<pb n="59"/>
+
+ugly insects, without either lustre or beauty of shape.</p>
+
+<p>EMILY.  Indeed, Mamma, the sonnet you taught me was quite discouraging.&#8212;Here, however, is a glow-worm, and here comes my dear George to help me collect two or three to take home.</p>
+
+<p>GEORGE.  I don't remember the sonnet, Emily, what is it?</p>
+
+<lg type="poem">
+<head>THE GLOW WORM.</head>
+
+<l>IF on some balmy breathing night of Spring</l>
+<l>The happy child, to whom the world is new,</l>
+<l>Pursues the evening moth of mealy wing,</l>
+<l>Or from the heath flower beats the sparkling dew,</l>
+<l>He sees, before his inexperience'd eyes,</l>
+<l>The brilliant glow-worm like a meteor shine</l>
+<l>On the turf bank; amaz'd and pleas'd he cries,</l>
+<l>"Star of the dewy grass, I make thee mine!"</l>
+<l>Then, e'er he sleeps, collects the moisten'd flower,</l>
+<l>And bids soft leaves his glittering prize enfold,</l>
+<l>And dreams that fairy lamps illume his bower,</l>
+<l>Yet with the morning shudders to behold</l>
+<l>His lucid treasure, rayless as the dust.</l>
+<l>So turn the world's bright joys to cold and blank disgust.</l></lg>
+
+<pb n="60"/>
+
+<p>EMILY.  I will not look at these insects by day-light, for if I do I shall never admire them any more, or fancy them the fairies illuminations.</p>
+
+<p>MRS. TALBOT.  Thus it is but too often, my dear girl, in matter of more importance than our disquisition on insect beauty.  We are frequently determined to see only the bright and glittering part of any object of our immediate pursuit, and will not believe, nor see even when it is evident the object as it really is.</p>
+
+<p>It is not only the glow-worm that will not bear inspection when its lustre is lost by the light of day; but all those luminous insects that bear the same phosphoric fire about them; such as the lanthorn fly of the West-Indies, and of China, of which there are several sorts; some of which carry their light in a sort of snout, so that when you see them in a collection they are remarkably ugly.</p>
+
+<p>There is also an insect of this luminous sort common in Italy, called the lucciola.
+
+<pb n="61"/>
+
+An intelligent traveller relates, that some Moorish ladies having been made prisoners by the Genoese, lived in an house near Genoa till they could be exchanged; and on seeing some of the luccioula, or flying glow-worms, darting about in the evening in the garden near them, they caused the windows to be shut in great alarm, from a strange idea which seized them, that these shining flies were the souls of their deceased relations.</p>
+
+<p>GEORGE.  But what could possibly put such an absurd notion into their heads?</p>
+
+<p>MRS. TALBOT.  It is not possible to say, unless more was known of the popular superstition of their country.  But chimeras equally wild and absurd have often been entertained by persons, who have the advantage of living in countries where knowledge is more universally diffused.  Some particular noises, though they can easily be accounted for, have appalled persons of reason and courage; and as you remember I told you, when we were talk
+
+<pb n="62"/>
+
+ing of the hedge-hog, that some animals and birds are thought by the illiterate country people to be unlucky and to betoken misfortune.  I actually knew a woman of sense, who was much discomposed if in beginning a journey or a walk she happened to meet three magpies.</p>
+
+<p>EMILY.  Indeed, Mamma, she must have been very silly, for if any harm was going to happen to her, the magpies could certainly know nothing of the matter.</p>
+
+<p>MRS. TALBOT.  Assuredly not.  It is not by such means that a foreknowledge of events would be communicated.  I knew another poor woman, who lost half her time in waiting for <i>lucky</i> days, and made it a rule never to begin any work, write a letter on business, or set out on a journey on a Friday&#8212;so her business was never done, and her fortune suffered accordingly.  It would have been much wiser for her to have considered, that every day is lucky in which we possess strength of mind and body to do our duty,
+
+<pb n="63"/>
+
+in whatever line of life we are placed; and that persons who trifle away their time in waiting for fortunate days, will probably be unfortunate in proportion as they are idle and foolish.</p>
+
+<p>GEORGE.  But, Mother, I want to hear more of these lanthorn or fire flies.</p>
+
+<p>MRS. TALBOT.  I have no books at hand, George, that enable me to give you correct information on this subject; but I will write to a friend, who has a great collection of natural history, to send me such books as may help you in your enquiry&#8212;Perhaps we may inform ourselves on this subject.</p>
+
+<p>GEORGE.  I was reading in some voyage, that the sea is sometimes all bright with light, something like that of the glow-worm, and that it was supposed to be occasioned by sea insects.</p>
+
+<p>MRS. TALBOT.  Many different opinions have arisen as to that appearance.  Some have thought the light owing, as you say, to sea insects, and others to a
+
+<pb n="64"/>
+
+degree of putridity; because whiting, and some other fish which are in a state of decay, shine if taken into a dark room.  But there may be other causes.  It has happened in particular states of the air at sea, that phosphoric light have been seen on the rigging and masts of ships; and on the land such phenomena are not very unfrequent.  A gentleman and his servant were once riding up one of the high Sussex downs in a gloomy or rather stormy evening in Autumn, and on a sudden the servant, who followed his master, cried out in extreme terror that his horse's ears and mane were on fire.  The master, a man of great coolness, replied as he jogged on, "Don't be frightened, Thomas, for my horse's ears and mane are on fire too."  And in fact the fire continued wavering about for some time, and was probably of the same nature as those wandering fires which are called ingeus fatuus; and seem to have been always known under the names of Will with the wisp, Jack o'lan
+
+<pb n="65"/>
+
+thorn, or the friar's lanthorn.  Though Dr. Darwin says, he has travelled in all countries, and at all hours of the night, and at all seasons of the year, yet never happened to see any of these exhalations.  But it is time to go to our early dinner, that we may prepare for our walk in the afternoon.</p>
+___
+
+<head>AFTERNOON.</head>
+
+<head>MRS. TALBOT&#8212;GEORGE&#8212;EMILY.</head>
+
+<head>A CONSERVATORY AND GARDEN.</head>
+
+<p>MRS. TALBOT.  There are few sights, my children, that afford me so much pleasure as a collection of plants, where the produce of every quarter of the world is assembled.  In the stove the natives of the torrid zone; in the conservatory the inhabitants of milder regions, which are yet too tender to bear the winter in this coun
+
+<pb n="66"/>
+
+try.  There, planted in a swampy soil, brought from heaths and moors, are the beautiful productions of North America; in another spot of compost earth are Alpine plants; and on that artificial rock those that flourish on dry and stony places, where little else will vegetate.  Can any thing exceed in loveliness those orange trees, bearing at once the most fragrant flowers, and fruit in every stage, from the first falling of the blossom to the golden orange in its utmost perfection?  These myrtles too, aspiring like cypresses to the top of the conservatory, are delightful.</p>
+
+<p>GEORGE.  And that beautiful tree which seems to bear white lilies, what is it?</p>
+
+<p>MRS. TALBOT.  The datura arborea, or tree strammonium, which is a native of Peru and Mexico, and is of the same species as the datura, or thorn apple; a plant common enough in lanes, and among rubbish by the sides of roads, and which is of so poisonous a nature, that village
+
+<pb n="67"/>
+
+children have sometimes been destroyed by eating the fruit it bears.</p>
+
+<p>EMILY.  Oh Mamma! how I should like to have such a place as this to walk in! when abroad it is cold, and wet, and comfortless, when there are no leaves on the trees, no flowers in the fields.&#8212;</p>
+
+<p>MRS. TALBOT.  Yet it so happens, that many of those who have these enviable luxuries have no taste for them; and having once built and stored them with plants, hardly enter them again.</p>
+
+<p>GEORGE.  Then what is the use of their having spent so much money?</p>
+
+<p>MRS. TALBOT.  Very frequently because it is the fashion to have, or to affect a taste for plants; just as it is to do many other things, which perhaps those who appear the most eager had much rather let alone, if they were not governed by fashion.  The pleasure afforded, however, by these, the loveliest of nature's productions, is in some degree common to <i>almost</i> all the human race; and the humblest inhabitants of
+
+<pb n="68"/>
+
+a garret has a few sprigs of mint or angelica, faintly attempting to vegetate in his wretched abode in some narrow alley, where it is hardly possible to breathe; while the very fine lady, when she gives a splendid fete in town, goes to an immense expence to ornament her rooms in the middle of winter with lilacs, syringas, and roses; and winds her festoons of coloured lamps round orange trees and laurels.</p>
+
+<p>GEORGE.  I have been in the stove, Mother, but I could not remain there long, it is so extremely hot and sultry  The gardener has shewn me coffee, cocoa, and the bread fruit tree&#8212;the sugar cane, indigo, and ginger&#8212;Will you not go for a moment?</p>
+
+<p>MRS. TALBOT.  Yes, and I am very glad you have seen these plants, as they give you a much clearer idea of those productions thus growing, than can be conveyed by any description.</p>
+
+<p>GEORGE.  Was it not the bread fruit which the Indian from the South sea
+
+<pb n="69"/>
+
+islands was so affected by, when he saw it in the King's garden at Paris; because it brought to his memory his dear native country?</p>
+
+<p>MRS. TALBOT.  I am not sure: nor do I now recollect whether the Abbe de Lille, who has so happily introduced the circumstance into his Poem des Jardins, has told us what tree it was.  We must not forget to look for the passage, when we return home.</p>
+
+<p>EMILY.  Mamma, I touched a very light pretty plant that is like an acacia, only much smaller and with finer leaves, and instantly it withered away.</p>
+
+<p>GEORGE.  I could have told you what that is&#8212;It is the sensitive plant&#8212;I saw them, you know, Mamma, at a nursery gardener's.</p>
+
+<p>MRS. TALBOT.  And perhaps you may remember that I then told you, it is called the emblem of excessive sensibility; and a great many fine things have been said of persons whose delicate nerves make them
+
+<pb n="70"/>
+
+resemble this plant; of which, however, there are several sorts, some with more and others with less of this extraordinary quality; while the more robust of the genera do not possess it at all.  There is one sort which bears no flower in this country, and is of so very frail a texture, or the breathings of the air, cause its leaves immediately to fall, and fold over each other.  Your aunt compared this singular species of the mimosa, to persons who yield to an excess of sensiblitiy, or what is termed so; which arises much oftener than is generally imagined, from their having too much feeling for themselves, and too little feeling for others.  While we sit in the this recess, and recover ourselves from the faintness occasioned by the heat of the stove, I will endeavour to recollect and repeat the lines she addressed to</p>
+
+<pb n="71"/>
+
+<lg type="poem">
+<head>THE MIMOSA.</head>
+
+<l>SOFTLY blow the western breezes,</l>
+<l>Sweetly shines the evening sun;</l>
+<l>But you, mimosa! nothing pleases,</l>
+<l>You, what delights your comrades teizes,</l>
+<l>What they enjoy you try to shun.</l>
+
+<l>Alike annoy'd by heat or cold,</l>
+<l>Ever too little or too much,</l>
+<l>As if by heaviest winds control'd,</l>
+<l>Your leaves before the zephyr fold,</l>
+<l>And tremble at the slightest touch.</l>
+
+<l>Flutt'ring around, in playful rings,</l>
+<l>A gilded fly your beauty greeted;</l>
+<l>But, from his light and filmy wings,</l>
+<l>As if he had lanced a thousand stings,</l>
+<l>Your shuddering folioles retreated!</l>
+
+<l>Those feathery leaves are like the plume,</l>
+<l>Pluck'd from the bird of Indian skies;</l>
+<l>But should you therefore thus presume,</l>
+<l>While others boast a fairer bloom,</l>
+<l>All that surrounds you to despise?</l>
+
+<l>The rose, whose blushing blossoms blow,</l>
+<l>Pride of the vegetal creation,</l>
+<l>The air and light disdains not so,</l>
+<l>And the fastidious pride you show,</l>
+<l>Is not reserve, but affection.</l></lg>
+
+<pb n="72"/>
+
+<p>But it is time to return home, and we will walk through the lanes, though it is a little farther than over the fields.  At every period of the year, I am delighted with the scents in forest walks and copses; and at this season of ripened summer they are particularly delicious.  Nor are such scenes as those we are now entering upon entirely divested of pleasure in winter; though then they are wholly silent; or the silence is broken only by the cawing here and there of a solitary rook; an hare sometimes limps fearfully across the path, or a pheasant shakes the frozen snow from the trees, as he flies up among the branches.  The other animals of the woods are then torpid, at least partly so.</p>
+
+<p>GEORGE.  What animals?</p>
+
+<p>MRS. TALBOT.  The squirrel and the dormouse.  The squirrel indeed does not altogether confine himself to the nest he has built, and the stores he has laid up; but the dormouse, like a larger creature of the same species, the marmot, an inha
+
+<pb n="73"/>
+
+bitant of the Alps, becomes torpid in cold weather, and rolling himself into a ball which has hardly any appearance of life, he remains snug within his nest, till the first warm day calls him out to nibble a little of his winter store; but the chill winds of evening again congeal his blood, and he sleeps soundly.  This little creature is not classed with the common rat or mouse, but with the marmot, squirrel and hare.  Of these the marmot inhabits the highest Alps, where trees will not grow, and forms little societies of fourteen or twenty, feeding on roots, grass, and such plants as grow on those bleak summits.  They make burrows, something like those of rabbits, and line them very industriously with moss and dried grass.  They go into these retreats as soon as the first frosts set in, and sleep with great perseverance till March.  They are easily tamed; but are in winter so much disposed to sleep, that even in a warm room they are hardly kept awake.&#8212;So much for the marmot; and
+
+<pb n="74"/>
+
+when I tell you, that the first rhymes I ever made were on the loss of a favourite dormouse, killed by an accident, which I then, at about six years old, really thought the greatest calamity that ever was endured by an unhappy little girl, you will easily comprehend how it happens, that I am even now rather partial to that small animal, which certainly is not half so lively and entertaining as many others, that are usually kept by children for their amusement.</p>
+
+<p>EMILY.  Mamma, you never shewed us those verses; I should be so pleased to read them.</p>
+
+<p>GEORGE.  Do Mother, let us hear them, they must be quite curiosities.</p>
+
+<p>MRS. TALBOT.  My dear children, I have forgotten them many many years ago; nor have I the least notion whether they were more or less supposed to make; but to make you ample amends, and add a little sleeper, as the country people call it,
+
+<pb n="75"/>
+
+to your collection of minor poetry, it has just occurred to me, that I have some quatrains on the imprisonment of a dormouse, written some years ago by your aunt, which, as soon as we have rested a little after our long walk, I will try to find in a book, where several of our poetical attempts in former days are inserted.&#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; &#8212; I have fortunately found it; and perhaps there are other verses in it that may amuse you.  In a short time your brother and sister, returning from their long visit, will open to us new sources of enjoyment.&#8212;Here, George, with good emphasis and discretion read&#8212;this Address to a Mouse, taken in its insensible state, and presented to a little girl.</p>
+
+<lg type="poem">
+<head>THE DORMOUSE JUST TAKEN.</head>
+
+<l>SLEEP on, sleep on, poor captive mouse,</l>
+<l>Oh sleep! unconscious of the fate</l>
+<l>That ruthless spoil'd thy cosey* house,</l>
+<l>and tore thee from thy mate.</l>
+
+<note id="n" n="">*Cosey, a Scottish expression for snug.</note>
+
+<pb n="76"/>
+
+<l>What barbarous hand could thus molest</l>
+<l>A little innocent like thee,</l>
+<l>And drag thee from thy mossy nest</l>
+<l>To sad captivity?</l>
+
+<l>Ah! when suspended life again</l>
+<l>Thy torpid senses shall recall,</l>
+<l>Poor guiltless prisoner! what pain</l>
+<l>Thy bosom shall appal.</l>
+
+<l>When starting up in wild affright,</l>
+<l>Thy bright round eyes shall vainly seek</l>
+<l>Thy tiny spouse, with breast so white,</l>
+<l>Thy whisker'd brethren sleek;</l>
+
+<l>Thy snug warm nest with feathers lined,</l>
+<l>Thy winter store of roots and corn;</l>
+<l>Nor nuts nor beech-mast shalt thou find,</l>
+<l>The toll of many a morn.</l>
+
+<l>Thy soft white feet around thy cage</l>
+<l>Will cling; while thou in hopeless pain</l>
+<l>Wilt waste thy little life in rage,</l>
+<l>To find thy struggles vain!</l>
+
+<l>Yet since thou'rt fall'n in gentle hands,</l>
+<l>Oh! captive mouse, allay thy grief,</l>
+<l>For light shall by thy silken hands,</l>
+<l>And time afford relief.</l>
+
+<pb n="77"/>
+
+<l>Warm is the lodging, soft is the bed,</l>
+<l>Thy little mistress will prepare;</l>
+<l>By her kind hands thou shalt be fed,</l>
+<l>And dainties be thy fare.</l>
+
+<l>But neither man nor mice forget</l>
+<l>Their native home, where'er they be,</l>
+<l>And fondly thou wilt still regret</l>
+<l>Thy wild woods, loves, and liberty!</l></lg>
+
+<pb n="78"/>
+
+</div1>
+<div1 type="chapter">
+<pb n="79"/>
+
+<head>CONVERSATIONS THE THIRD.</head>
+
+<head>POEMS.</head>
+
+<p>SNOW-DROPS.</p>
+<p>VIOLETS.</p>
+<p>THE HUMBLE BEE.</p>
+<p>THE GRASSHOPPER.</p>
+<p>THE SQUIRREL.</p>
+<p>THE GLOW-WORM.</p>
+
+<pb n="80"/>
+
+<pb n="81"/>
+
+<head>CONVERSATION THE THIRD.</head>
+
+<head>MRS. TALBOT&#8212;GEORGE&#8212;EMILY.</head>
+
+<p>EMILY.  Brother, my dear brother, here is only pleasant news for us to-day; in the first place&#8212;in Mamma's book there are several little poems which she had forgotten&#8212;and in the next, my aunt writes to say that she will be here in a fortnight with Edward, Fanny, and Ella&#8212;and then after staying with us a few days, we are all going together to the sea-side for a month.</p>
+
+<p>GEORGE.  Indeed that <i>is</i> pleasant news&#8212;Mother, I do not think that either Edward or I have any reason now to envy Mr. Scamperville.</p>
+
+<p>MRS. TALBOT.  I trust, my dear boy, that you never will have any.</p>
+
+<pb n="82"/>
+
+<p>GEORGE.  And yet I assure you he looks upon me, and I dare say would on Edward if he was here, with the utmost contempt&#8212;I met him this morning on horseback.  He was smarter than ever, with leather breeches, boots, and a <i>knowing</i> coat, which he desired me to admire, as well as his horse, which his father, he said, had just purchased for him, that he might sport a <i>figure</i> and cut a <i>dash</i> at the famous races which begin this morning.  He had two servants with him, with whom he had been betting, he said, on the horses that were to run.  He was so good as to pity me extremely for not being able to go&#8212;and said, if he had known it time enough, he would have lent me his old poney.</p>
+
+<p>MRS. TALBOT.  And <i>could</i> you, George, hear all this without a wish to see this splendid shew?&#8212;Have buckskin breeches, fashionable boots, and a knowing coat, no charms in your imagination?</p>
+
+<p>GEORGE.  Indeed, Mother, I have been
+
+<pb n="83"/>
+
+and am very happy without all these.&#8212;I have never been taught to number them among my wants, and my not possessing them does not give me any pain.</p>
+
+<p>MRS. TALBOT.  What? not tho' you are thought a quiz, and a coddle, and a humdrum fellow, by these bucks, Mr. Scamperville, and his friends.</p>
+
+<p>GEORGE.  No, Mother, I must care more about them than I now do, before I shall be concerned at what they say of me; but if they are impertinent to me, it will be another affair.</p>
+
+<p>MRS. TALBOT.  I trust you will always have that proper degree of spirit, my George, which you now possess; and since you do not think fate has used you immeasurably ill, tho' you find yourself, this sultry morning of July, sitting with me and Emily, instead of scampering with all sorts of people, who appear half mad, to the races, amidst clouds of dust, and confused noises, tell me that will most
+
+<pb n="84"/>
+
+amuse you, till wedine?&#8212;afterwards I have a project to go and regale on wood strawberries and cream at the dairy farm, on the edge of the forest, or rather to take out our repast and eat it under an old beech tree, and fancy ourselves like the banished duke and his fellows, in George's favorite play of "As you like it."</p>
+
+<p>EMILY.  It will be delightful indeed, my dear Mamma!&#8212;I shall only be sorry that Edward and Ella, and my cousin Fanny, cannot be with us.</p>
+
+<p>MRS. TALBOT.  When they come, we shall contrive another party of the same sort, perhaps; at present we must be as happy as we can be by ourselves, unless indeed you would like to have the Miss Mincings, or Miss Brockly, invited to go with us.</p>
+
+<p>EMILY.  O no, Mamma&#8212;indeed I had rather not&#8212;the Miss Mincings are so prim, and make such a fuss about their frocks and their shoes, and their bonnets&#8212;
+
+<pb n="85"/>
+
+and the maid that waits upon them cries every moment, Miss Maria, you will spoil your new bonnet&#8212;Miss Jane, you will tear your best japan muslin&#8212;that the poor girls have no peace, and dare not play and amuse themselves.  So as they are taught to think these frocks and bonnets are the things of the greatest consequence, they are always telling me what this cost, and that cost, and asking me if what I wear cost as much&#8212;and indeed, Mamma, I am tired so with them, that I am very glad when they are gone.</p>
+
+<p>MRS. TALBOT.  But Miss Brockly&#8212;she is willing enough to play, I am sure?</p>
+
+<p>EMILY. And willing enough to eat.&#8212;When I go to see her, there is always such a quantity of cakes and fruit, that I wonder those who eat them are not sick, and if she comes here, she is never satisfied, unless there is something <i>nice</i>, as she calls it, to eat; and you know she devoured all the preserved  cherries, and every thing that
+
+<pb n="86"/>
+
+you ordered Margaret to let us have, when she was here last.</p>
+
+<p>MRS. TALBOT.  She is very piggishly brought up, indeed&#8212;but to <i>live</i> well, as it is called, is the taste of that family, and the child sees nothing else, and hears nothing else, than the gluttonous delights of eating, from the hour she rises till she goes to bed.</p>
+
+<p>EMILY.  Then you know, Mamma, there is not much pleasure with these Miss Mincings.</p>
+
+<p>MRS. TALBOT.  Nor with Miss Brockly, to be sure, Emily, when strawberries and cream are in question.</p>
+
+<p>EMILY.  Oh, Mamma, you know very well, it is not on that account, but I am happier with only you and my brother; and as to George, he don't like any of those little girls at all.</p>
+
+<p>MRS. TALBOT.  But George is often too severe in his judgment&#8212;I am afraid he will become satirical and cynical as he
+
+<pb n="87"/>
+
+grows older, and that will not do, perhaps, for a boy who is to make his way in the world.</p>
+
+<p>EMILY.  But, Mamma, you would have him always speak the truth, would you not, and never say to any one what he does not think?</p>
+
+<p>MRS. TALBOT.  Certainly&#8212;a strict adherence to truth is the basis of every other good quality, and without it no virtue or goodness can exist.  But while truth should be our first principle, there is no occasion to tell people with whom we have nothing to do, that we contemn and despise them.  George has such good qualities, and is in some respects so much superior to most other boys, that I sometimes apprehend his very excellencies will produce faults, and that the consciousness of uncommon understanding will make him proud and fastidious.&#8212;But I cannot imagine where he is gone to all this time.</p>
+
+<pb n="88"/>
+
+<p>EMILY.  He is coming at this moment across the garden.</p>
+
+<p>MRS. TALBOT.  Why George! you suddenly disappeared&#8212;we were going to examine further into the contents of this book, in which your aunt and I have entered several little poems that we either collected or wrote some years ago, as well as others of later date.</p>
+
+<p>GEORGE.  I would not have absented myself, my dear Mother, but I went down to Master Headham's, whom I met in the garden.  He came to ask the gardener for some herbs, to make what the poor man told me was to be a <i>fermentation</i> for his grandson's leg.</p>
+
+<p>MRS. TALBOT.  He means fomentation, but what is the matter with it then?</p>
+
+<p>GEORGE.  Two fine gentlemen, he says, going to see the races, <i>desperate grand</i> folks to be sure, drove along so fast in their <i>chai</i>, with two horses, that the poor lad who was running to open a gate for them was knocked down, and so hurt with
+
+<pb n="89"/>
+
+the wheel, that at first he thought his leg was broke; but the Doctor, who happened luckily enough to be visiting a poor woman in the village, says it is only sadly bruised, tho' the skin is torn off from his knee to his foot; so I thought I would go down to see the boy, who, poor fellow, is in great pain, but he does not want for any thing just now.  The old man and woman are in sad trouble about him, for he was an industrious boy, and just beginning to be an help to them; but they say they should not have minded the misfortune so much, as their child's leg is not broke, if these very <i>grand</i> gentlemen, though they saw him fall, and knew he was very much hurt, had not sworn at him most terribly, struck at him with a whip, and then drove away faster than ever.</p>
+
+<p>MRS. TALBOT.  And does nobody know who they are?</p>
+
+<p>GEORGE.  They are strangers, I believe, on a visit at Sir Harry's.&#8212;Their servants, who came along afterwards, said they
+
+<pb n="89"/>
+
+would have served the little rascal right, if they had killed him on the spot, for what business had he in the way?  But farmer Dewsberry, who saw the whole business, declared, that the horses were so violent, and unmanageable, that one of them flew out of the road and knocked the poor boy down, and it was impossible for him to get out of the way before the wheel nearly tore his leg off.</p>
+
+<p>MRS. TALBOT.  And it is thus, that young men, who aspire to be thought spirited and fashionable, trifle with the lives of others, while they hazard their own?&#8212;But what an aggravation, thus to add cruelty to fool-hardiness!&#8212;Go, my dear, and send Margaret down to the cottage of these poor old people&#8212;or perhaps you would like to go yourself.</p>
+
+<p>GEORGE.  Yes, I shall go quicker.</p>
+
+<p>MRS. TALBOT.  Give them this piece of money.&#8212;Tell them they shall not be under the necessity of applying to the parish to pay the apothecary, as I dare say that is
+
+<pb n="91"/>
+
+one of their apprehensions; but we will take care of that; and in my walk this evening I will call upon them.</p>
+
+<p>GEORGE.  Poor creatures! that will comfort them&#8212;but indeed, Mother, I think some one ought to apply to the men who did this mischief, to make poor Jack some amends.</p>
+
+<p>MRS. TALBOT.  If they do not break their own necks before night, which is highly probable, and which would not be half so great a loss to society as that of one honest labourer, who supports his children with difficulty by the utmost exertion of his strength; they will probably forget after a nine o'clock dinner, and sitting up the rest of the night at the gaming-table, that such an accident happened.  Or if they could be brought to remember it, they are much more likely to resent an application to their justice and humanity, than to listen to it.  So we will do for poor Jack as well as we can; and while you hasten to tell him so , Emily and I
+
+<pb n="92"/>
+
+will only read such of our new found collection as you have before seen; for some, I know, are familiar to you.</p>
+
+<p>EMILY.  Mamma, what is the reason that such men as these, that drove over the poor boy, are so cruel and hard-hearted?  Do they think that poor people have not as much feelings as they have?</p>
+
+<p>MRS. TALBOT.  They never thing about poor people at all.  They were probably brought up with every luxury about them, and how others fared they were never taught to consider.  Self gratification is their governing principle, and while they fly about from one place to another in search of pleasure, the wants and woes of the humble society, without whose toil these flashing men could not exist, are wholly overlooked.  I do not mean however to say, that it is the case with <i>all</i> young men of fortune; but I fear there are too many of this unfeeling disposition, and that it is a disposition that is rather
+
+<pb n="93"/>
+
+gaining ground.  However, since we can do but little, Emily, to amend them, let us endeavour to correct our own faults, and we shall seldom want employment, if we candidly examine ourselves.  And now while George is gone to poor Jack, let us read these two little poems on two favourite early flowers.  The first I wrote, as I now recollect, when, after having been some time in town, I went in Spring to pass a few days at a place, where in my early years I had lived frequently for two or three months at a time, with some young people of nearly my own age.  We had made gardens of our own, as you and your brothers and sisters do now, and planted several flowers.  After a long absence, I once more revisited the spot; it had been converted into a yard to dry the household linen; yet among the grass with which our former parterres was now covered, and notwithstanding the frequent inroads of pattens and bucking baskets, a few of our
+
+<pb n="94"/>
+
+former favourites raised their heads here and there among the posts and lines. The yellow hellebore and the snow-drop were the most remarkable.  The latter of these, you know, is indigenous in this country, and often grows spontaneously on the edges of fields and in extensive orchards, whitening the ground with its elegant drooping blossom.  It is supposed that the roots, if boiled and treated like those of the orchis of which saloop is made, would be equally nutritious; but at present its greatest merit seems to be in its delicate white petals, those within being elegantly veined with green; and its early appearance as the advanced guard, if I may use a military expression, of the loveliest productions of nature, as an announcing, though yet at a distance, the approach of the loveliest season of the year.</p>
+
+<p>Two lines of Mrs. Barbauld's on this flower are so beautiful, that they cannot be too often quoted&#8212;
+
+<pb n="95"/>
+
+<lg type="poem">
+<l>As Flora's breath, by some transforming power,</l>
+<l>Had chang'd an icicle into a flower.</l></lg>
+
+Now read the less happy verses at the third page of my old book.</p>
+
+<lg type="poem">
+<head>TO THE SNOW-DROP.</head>
+
+<head>EMILY.</head>
+
+<l>LIKE pendant flakes of vegetated snow,</l>
+<l>   The early herald of the infant year,</l>
+<l>E'er yet the adventurous Crocus dares to blow</l>
+<l>   Beneath the orchard boughs, thy buds appear.</l>
+
+<l>While still the cold north-east ungenial lowers,</l>
+<l>   And scarce the hazle in the leafless copse</l>
+<l>Or sallows shew their downy powder'd flowers,</l>
+<l>   The grass is spangled with thy silver drops.</l>
+
+<l>Yet, when those pallid blossoms shall give place</l>
+<l>   To countless tribes of richer hue and scent,</l>
+<l>Summer's gay blooms, and Autumn's yellow race,</l>
+<l>  I shall thy pale inodorous bells lament.</l>
+
+<l>So journeying onward in life's varying track,</l>
+<l>   Even while warm youth its bright illusion lends,</l>
+<l>Fond Memory often with regret looks back</l>
+<l>   To childhood's pleasures, and to infant friends.</l></lg>
+
+<pb n="96"/>
+
+<p>MRS. TALBOT.  The next, which is also addressed to a flower, is not altogether my own.  Indeed some of the lines are entirely taken from a little poem, I believe written by Mr. Gifford, and I adapted them to my purpose, which was for your sister to learn; but I left the book in town, and forgot that some of these were written in it, till George's taste for rhyme, and the facility with which you both learn any thing written in measure, made me recollect it was among the last papers and manuscripts that were sent me from thence.</p>
+
+<lg type="poem">
+<head>VIOLETS.</head>
+
+<head>EMILY.</head>
+
+<l>SWEET Violets! from your humble beds</l>
+<l>Among the moss, beneath the thorn,</l>
+<l>You rear you unprotected heads,</l>
+<l>And brave the cold and cheerless morn</l>
+<l>Of early March; not yet are past</l>
+<l>The wintry cloud, the sullen blast,</l>
+<l>Which, when your fragrant buds shall blow,</l>
+<l>May lay those purple beauties low.</l>
+
+<pb n="97"/>
+
+<l>Ah stay awhile, till warmer showers</l>
+<l>And brighter suns shall chear the day;</l>
+<l>Sweet Violets stay, till hardier flowers</l>
+<l>Prepare to meet the lovely May.</l>
+<l>Then from your mossy shelter come,</l>
+<l>And rival every richer bloom;</l>
+<l>For though their colours gayer shine,</l>
+<l>Their odours do not equal thine.</l>
+<l>And thus real merit still may dare to vie,</l>
+<l>With all that wealth bestows, or pageant heraldry.</l></lg>
+
+<p>MRS. TALBOT.  And here comes your brother from his charitable mission.</p>
+
+<p>GEORGE.  The boy is easier, Mother, and the poor old people, comforted by your kindness, have ceased to lament themselves.  Some of the neighbors have offered to drive up their cow, and do such things as the old man used to be assisted in by his grandson.</p>
+
+<p>MRS. TALBOT.  How little do those who live in luxury, whose every want is provided for and every wish prevented, know or comprehend of the difficulties
+
+<pb n="98"/>
+
+with which the poor patiently contend, only to be enabled to live from day to day.  It is almost impossible for one who has always lived in splendid houses, moved from place to place in convenient carriages, and been constantly pampered with delicacies, till their appetites are even jaded, to put themselves in the place of a fellow being, who rises from his flock bed before the sun, to work all day, and has nothing perhaps but bread for himself and his children, and not always enough of that.  It is not possible for the former of these men to conceive, of what importance a shilling is to the latter; and how happy the industrious poor man would think himself, to receive in the course of an whole year as much as is, in a single journey of whim, expended by the idle rich one, who perhaps yawns all the way, and when he arrives at the place he has hurried to reach, wonders why he came at all, and scampers back again.  And yet so little real happiness does this unmeaning
+
+<pb n="99"/>
+
+waste of money and time, bring to those who practise it, that if the fact could be ascertained, I am very sure the infirm labourer Thomas Hardham, who is old and lame, and poor, and who has lost his children, and met with a great many misfortunes; is a much happier being, than those unthinking and unfeeling men who were the occasion of his present misfortune.</p>
+
+<p>GEORGE.  I wish though they could be persuaded to make him some amends for it; and I wish I was of an age to say to them that it is only their duty.</p>
+
+<p>MRS. TALBOT.  Your endeavours would be in vain at any age, I believe.  But since we have now done all that our means allow to mitigate a misfortune we could not prevent, let us return to our beloved natural history.  There we meet with nothing to give us pain, but the more we study it, the more we are taught the truth of the observation so simply but justly expressed by Goldsmith&#8212;"How much
+
+<pb n="100"/>
+
+kinder in God to his creatures then they are to each other!"&#8212;Have you remarked nothing new, George, in your walks these days?</p>
+
+<p>GEORGE.  Yes&#8212;I sat down on a dry bank behind Hardham's cottage garden, while I waited to hear what Mr. Grant, the Apothecary, who called upon Jack a second time, thought of him.  And as I remained there, I saw two of those large bees, which we call humble bees, go into a small hole in the ground.  They seemed to unload themselves just as the honey bees do; for one of them came out again while I remained there, without that yellow meally substance on his thighs which I saw when he went in, and which I suppose is the material with which the cells are made; and therefore I thought these humble bees might have in some hollow place in the bank, a sort of hive or store, and that they were wise to hide it from the robbery of man.  Have they any such contrivance?</p>
+
+<pb n="101"/>
+
+<p>MRS. TALBOT.  I think there are several sorts of what we call humble bees.  The apis terrestris or the earth bee, and the apis nemorum or wood bee, and some others; but those two are, I believe, the commonest sorts, and the first is what you saw go into his subterraneous house.  As they appear as busy as the common honey bee, and to collect the nectar and the pollen of flowers in the same manner, it is probable that their habits are nearly the same; yet I never recollect having heard that their hoards of honey had been discovered in digging into banks, or those places which they are known to frequent.  And it was on the supposition that they were not equally provident with their congeners the honey bee, that, as a lesson of industry and forecast, the verses were composed which I am going to repeat.  They were written for a little girl, who had expressed great curiosity on this subject.  After all, however, it is probable that my moral is given at the expence of
+
+<pb n="102"/>
+
+the humble bee's character, which is perhaps very unjustly defamed.</p>
+
+<lg type="poem">
+<head>THE HUMBLE BEE.</head>
+
+<l>GOOD morrow, gentle humble bee,</l>
+<l>You are abroad betimes, I see,</l>
+<l>And sportive fly from tree to tree,</l>
+<l>   To take the air;</l>
+
+<l>And visit each gay flower that blows;</l>
+<l>While every bell and bud that glows,</l>
+<l>Quite from the daisy to the rose,</l>
+<l>   Your visits share.</l>
+
+<l>Saluting now the pied carnation,</l>
+<l>Now on the aster taking station,</l>
+<l>Murmuring your ardent admiration;</l>
+<l>   Then off you frisk,</l>
+
+<l>Where poppies hang their heavy heads,</l>
+<l>Or where the gorgeous sun-flower spreads</l>
+<l>For you her Inscious golden beds,</l>
+<l>   On her broad disk.</l>
+
+<l>To live on pleasure's painted wing,</l>
+<l>To feed on all the sweets of Spring,</l>
+<l>Must be a mighty pleasant thing,</l>
+<l>   If it would last.</l>
+
+<pb n="103"/>
+
+<l>But you, no doubt, have wisely thought,</l>
+<l>These joys may be too dearly bought,</l>
+<l>And will not unprepar'd be caught,</l>
+<l>   When Summer's past.</l>
+
+<l>For soon will fly the laughing hours,</l>
+<l>And this delightful waste of flowers</l>
+<l>Will shrink before the wintry showers</l>
+<l>   And winds so keen.</l>
+
+<l>Alas! who then will lend you aid,</l>
+<l>If your dry cell be yet unmade,</l>
+<l>Nor store of wax and honey laid,</l>
+<l>   In magazine?</l>
+
+<l>Then, Lady Buzz, you will repent,</l>
+<l>That hours for useful labour meant</l>
+<l>Were so unprofitably spent,</l>
+<l>   And idly lost.</l>
+
+<l>By cold and hunger keen oppress'd,</l>
+<l>Say, will your yellow velvet vest,</l>
+<l>Or the fur tippet on your breast,</l>
+<l>   Shield you from frost?</l>
+
+<l>Ah! haste your winter stock to save,</l>
+<l>That snug within your Christmas cave,</l>
+<l>When snows fall fast and tempests rave,</l>
+<l>   You may remain.</l>
+
+<pb n="104"/>
+
+<l>And the hard season braving there,</l>
+<l>On Spring's warm gales you will repair,</l>
+<l>Elate thro' chrystal fields of air,</l>
+<l>   To bliss again!</l></lg>
+
+<p>And now to dinner, and then we will set out on our forest walk.</p>
+___
+
+<head>SECOND PART.</head>
+
+<head>MRS. TALBOT&#8212;GEORGE&#8212;EMILY.</head>
+
+<head>A FOREST, AND WALK HOME.</head>
+
+<p>MRS. TALBOT.  Now, after our repast, we will ramble into the forest.&#8212;There is no scene more pleasing to me than these extensive woods, and none that are less frequently enjoyed in England.</p>
+
+<p>GEORGE.  If he had not been recorded as a robber, as well as an inhabitant of the woods, I have often thought, Mother, that I should have liked to have lived
+
+<pb n="105"/>
+
+with Robin Hood, and his followers, in Sherwood forest.</p>
+
+<p>MRS. TALBOT.  And I remember, George, when I was a girl, having an equal delight in wandering about woods and copses, but particularly among those beautiful beech woods, that shade some of the South Downs, where they descend to the weald.&#8212;And as I grew older, and became acquainted with the poets, I delighted to imagine myself engaged with a party of young friends, to act Milton's Masque of Comus, in a great wood that was not far from my then residence.</p>
+
+<p>EMILY.  But you never did so, Mamma?</p>
+
+<p>MRS. TALBOT.  No&#8212;I should not have been allowed to have undertaken a part in any theatrical performance.  It was merely one of those visions, in which I sometimes indulged myself.&#8212;At other times I used to fancy I could meet in those woods, with some of the Knights and Damsels that Spencer tells us of, in the Fairy Queen.</p>
+
+<pb n="106"/>
+
+<p>GEORGE.  Did you really believe then, that such persons existed?</p>
+
+<p>MRS. TALBOT.  No&#8212;I certainly knew they did not, yet a great deal of desultory reading, and a lively imagination, without having any friend who knew how to direct either the one or the other, made me in my early youth extremely romantic.  But tho' all these fairy visions have long since disappeared, a woody scene has still a thousand charms for me&#8212;I love to frequent it in all seasons of the year, and especially if it be of such an extent as this where we now are.</p>
+
+<p>GEORGE.  The forests in France and Germany are much larger than ours?</p>
+
+<p>MRS. TALBOT.  Beyond comparison.&#8212;The forest of Orleans covered many leagues, and is still very extensive, though not of its former magnitude.&#8212;There are other forests in France of immense extent&#8212;tho' many, and especially those that were appropriated to the amusement of the King and Princes of the blood, and no
+
+<pb n="107"/>
+
+bility, as hunting grounds, are much lessened since the revolution.  And as the people of France use no other fuel then wood, and very little care is taken to secure a succession by carefully planting and preserving trees, the fuel becomes every year scarcer, and has long been at an extravagant price in France; where the natives are prepossessed with a notion that coal is unwholesome.&#8212;The woods of Germany, many of which are oak, cover immense portions of the country, and feed very great droves of swine.  But even these, and the pine forests of Sweden, Russia, and Norway, are described as being inferior in extent and magnificence to the stupendous forests of America, which, notwithstanding the considerable tracts that have been cleared by the settlers from Europe, still cover unmeasured extents of country, and consist of trees, which in size, as well as beauty, greatly exceed all we have any idea of in England.&#8212;You have seen, I think, a
+
+<pb n="108"/>
+
+picture, or at least a print of an African forest, where the lion, the leopard, and tyger, prowl under trees that seem to be loaded with tropical fruits, but which I should think with such accomplishments, would afford little temptation.</p>
+
+<p>GEORGE.  And there were snakes, I remember.</p>
+
+<p>MRS. TALBOT.  Snakes of great size are found in both Africa, and America.&#8212;In the latter you know is the formidable rattle-snake, whose bite is so fatal&#8212;but they do not attack man, unless trod upon, or otherwise provoked; when they move, the horny rings in their tails, falling over each other, makes a kind of tinkling sound, which gives notice of their approach;  but the rattle-snake is, you know, said to possess the power of fascination; so that if a bird, a mouse, or squirrel, once sees the creatures fix his eyes upon it, the wretched animal, perfectly conscious of the fatal attraction, cannot escape, but as if bewitched, it is impelled to approach its
+
+<pb n="109"/>
+
+enemy, and it comes nearer and nearer, still uttering cries of distress and terror, till the jaws of the monster close upon it.  It has sometimes seemed to me, that there are people exactly in the case of the animal, thus fascinated by the rattle-snake.  How often does one see that a fatal impulse, contrary to reason and common sense, seems in despite of both to drag away some unhappy person to their destruction; and tho' they are told, and really feel themselves, that they are plunging into ruin, yet nothing can stop their headlong course till that ruin overwhelms them.</p>
+
+<p>GEORGE.  But is it true that the rattle-snake has this power?</p>
+
+<p>MRS. TALBOT.  It has been averred so repeatedly, that notwithstanding travellers are a little too apt to exceed, or misrepresent the truth in their relations, one must believe it to be true; and the ancient fable of the basilisk that killed with its eyes, seems to have originated in an opinion
+
+<pb n="110"/>
+
+that an animal possessing this power actually existed.</p>
+
+<p>EMILY. Dear! how much I should be terrified, Mamma, if we were to hear in this wood a noise resembling that which the rattle-snake makes.</p>
+
+<p>GEORGE.  But that, you know, Emily, is impossible, for there are no rattle-snakes in England, and no snakes here hurt at all.</p>
+
+<p>EMILY.  I am sure I would not trust them though, for I saw a frightful one the other day, just by the cucumber bed; and I ran away as fast as I possibly could.</p>
+
+<p>MRS. TALBOT.  And what did the snake do?</p>
+
+<p>EMILY.  It ran away too, I believe, for I looked behind me, being rather afraid it would have pursued me; but I saw it making its way towards the hot beds, quicker than I ran to the house.  The gardener said, when I told him how it had frightened me, that he had killed
+
+<pb n="111"/>
+
+another great snake there the day before, and found a great many of their eggs.</p>
+
+<p>MRS. TALBOT.  It is rather prejudice against them from their ugliness, than any real injury they do, that causes these reptiles to be so generally persecuted; and I much doubt whether they are not extremely useful in destroying insects, that would otherwise prey on the gardener's cucumbers, or injure their roots.  Vipers are dangerous; and I once saw an instance of a boy being severely bitten by them, when, believing there were a nest of young birds in a hollow tree, he thrust his hand among a family of vipers.  His hand and arm were so dreadfully swelled, that we were obliged to send for an apothecary, and it was some time before the boy recovered.  In general, however, the snakes of this country are quite harmless; and even in India, where the poison of reptiles and insects, as well as of plants, is exalted, and rendered more powerful by the heat of the sun, there are some creatures
+
+<pb n="112"/>
+
+of this species who are object of veneration to the simple natives.  In a book of Poems on various subjects, I found not long ago a few very pretty lines, which I believe I can remember.  It was the petition of an Indian girl to an adder, to stay while she copied the beautiful colours of his skin to weave a fillet for her lover, and is said to have been written in the year 1740, by an eminent literary character then at Winchester school, which made me imagine it might probably be Dr. Warton.</p>
+
+<lg type="poem">
+<l>Stay, stay, thou lovely fearful snake,</l>
+<l>Nor hide thee in yon darksome brake,</l>
+<l>But let me oft thy form review,</l>
+<l>Thy sparkling eyes and golden hue:</l>
+<l>From them a chaplet shall be wove,</l>
+<l>To grace the youth I dearest love.</l>
+<l>Then ages hence, when thou no more</l>
+<l>Shalt glide along the sunny shore,</l>
+<l>Thy copied beauties shall be seen;</l>
+<l>Thy vermeil red, and living green,</l>
+<l>In mimic folds thou shalt display;</l>
+<l>Stay, lovely fearful adder, stay!</l></lg>
+
+<pb n="113"/>
+
+<p>EMILY.  Indeed the Indian girl should not chuse a pattern for me, if she preferred the colours of a snake to those of beautiful flowers, or to the colours of the butterflies.  But pray, Mamma, tell me-what is that loud shrill noise?  I often used to hear it last Summer, but never when I happened to be walking with you; and I could not describe it so as to get any one to tell me what creature made it.&#8212;Listen, I hear it now!</p>
+
+<p>MRS. TALBOT.  You mean the chirping or song of the field cricket&#8212;or perhaps of some of the various sorts of grasshoppers that now are heard in many places, forming but a poor substitute, however, for the birds, many of which soon after Midsummer, cease to sing.</p>
+
+<p>EMILY.  Yet I like to hear those crickets and grasshoppers, the sound is so <i>Summerish</i>, if I may use the expression.</p>
+
+<p>GEORGE.  There is another sort too, a great deal larger then either field crickets or grasshoppers, that make a sort of shrill
+
+<pb n="114"/>
+
+noise, of a night; the gardener called it the fen cricket, or the churr worm, and said it did a great deal of mischief in the grass down by the side of the water.  But I saw no great harm it could do; for one that I observed appeared to be a very innocent and helpless creature, and to get into its hole in the grass again as soon as it could.</p>
+
+<p>MRS. TALBOT. It is the Talpo Grillus, usually called the mole cricket.  The noise made by that insect is, I think, particularly pleasant of an evening, heard as it usually is in solitary and remote places near water, where it inhabits: the grasshopper is a dweller among meadows, and is of the same species as the cicada, those little creatures which, when you are walking in the grass, seem to fly some yards before you.  Of this race are the insects called cicala, in Italy and other warm countries, whose chirping is at some seasons so loud, as to be very annoying, and who are so voracious as often to strip the shrubs and trees of their
+
+<pb n="115"/>
+
+leaves at a very early period of the Italian Summer.</p>
+
+<p>To this family the grilli and cicada, also belongs the locust; which has covered whole countries as with a cloud, and carried famine and desolation with it wherever their terrific hosts have settled, eating up every green leaf and blade of grass, and even the thatch of the houses, and every vegetable substance they alighted upon.  But fortunately they never find their way to these northern regions.&#8212;And see, George, here is another insect, which in this country is only of very trifling inconvenience to the husbandman or the gardener, but in some parts of the world is so destructive, as to inflict ruin on those whose property it seizes upon&#8212;I mean the ant.  Look at that brown hillock under the trees&#8212;it seems all alive and in motion.  It is formed by the horse or wood ant, one of the largest of a numerous species, some of which are as industrious, though less useful than bees.  But in the West Indies
+
+<pb n="116"/>
+
+such immense swarms of the black ant have sometimes appeared, that the ground for many miles seemed to move: they too devour every thing in their way, eating not only vegetable but animal substances; and they are said sometimes to have destroyed the helpless negro children, whom their unfortunate mothers have left on the ground while they worked.&#8212;But we have wandered from our former subject.  I meant, George, to have asked, if you do not recollect Cowley's translation of Anaceron's Grasshopper, which, as I thought him too much of an Epicurean to be respectable, I altered a little before you learned it.</p>
+
+GEORGE.  I am not sure that I remember it, but I will try.
+
+<lg type="poem">
+<head>THE GRASSHOPPER.</head>
+
+<l>HAPPY insect, what can be</l>
+<l>In happiness compar'd to thee,</l>
+<l>Fed with nourishment divine,</l>
+<l>The dewy morning's chrystal wine;</l>
+
+<pb n="117"/>
+
+<l>For Nature waits upon thee still,</l>
+<l>And thy verdant cup doth fill.</l>
+<l>All the fields which thou dost see,</l>
+<l>All the  plants belong to thee;</l>
+<l>All that Summer suns produce</l>
+<l>Are, blest insect! for thy use:</l>
+<l>While thy feast doth not destroy</l>
+<l>The verdure thou dost thus enjoy,</l>
+<l>But the blythe shepherd haileth thee,</l>
+<l>Singing as musical as he;</l>
+<l>And peasants love thy voice to hear,</l>
+<l>Prophet of all the ripening year.</l>
+<l>To thee of all things upon earth,</l>
+<l>Life is no longer then thy mirth.</l>
+<l>Insect truly blest! for thou</l>
+<l>Dost neither age nor winter know;</l>
+<l>But, when thou hast danc'd and sung</l>
+<l>Thy fill, the flowers and leaves among,</l>
+<l>Sated with thy Summer feast</l>
+<l>Thou retir'st to endless rest.</l></lg>
+
+<p>EMILY.  But, Mamma, I want to know what use these creatures are of; for both the insects we have been talking of seem in some places to do a great deal of harm, and I don't understand that they do any good.</p>
+
+<p>MRS. TALBOT.  Certainly they are of use, for they afford food to a great number
+
+<pb n="118"/>
+
+of birds, besides other purposes which they are doubtless created to answer, tho' we do not immediately perceive those purposes.  Of these little creatures just before us, who are so busy, some in carrying those straws and others white substances about, the first are providing a place for the reception and security of the young, while some are carrying the young themselves; but their toil will probably be rendered in a great degree useless; for the pheasants, with which these woods abound, find in these insects a principal article of their food, and devour great quantities whenever they can meet with them.  The black game, and all other fowls of that sort, as well as many smaller birds, also eat them; and the good housewifes send children into the woods to collect the pupa, or what we usually call eggs of ants, for their young turkies and Guinea fowl.</p>
+
+<p>GEORGE.  And so every animals preys upon some inferior animal.</p>
+
+<pb n="119"/>
+
+<p>MRS. TALBOT.  And man upon them all.</p>
+
+<p>GEORGE.  But I should think, Mother, that as far as relates to pheasants, and others of those wild birds, which are called game, some other creatures go more than halves with man.  Foxes and wild cats live in these woods, and I dare say kill great numbers of the pheasants and hares.</p>
+
+<p>MRS. TALBOT.  And there are weasels, polecats, and other creatures of that race, who also put in their claim.  The squirrel alone, of all the quadrupeds that inhabit these wild scenes, seems to be the least at enmity with other creatures.</p>
+
+<p>GEORGE.  And he is rewarded, I think, by being less persecuted.</p>
+
+<p>MRS. TALBOT.  And yet he is not without his troubles: the wild cat and martin cat can reach his airy abode, and destroy his infant family; and man, though the squirrel cannot be considered as fit for food, pursues and destroys him in mere
+
+<pb n="120"/>
+
+wantonness, using a short stick loaded at each end, which thrown with great force among the boughs, often brings these pretty lively creatures bleeding to the ground.  Sometimes too an idle sportsman, who has perhaps been disappointed of his game, fires his gun among them, and brings two or three down, maimed or dead, from their happy domicile above him.</p>
+
+<p>EMILY.  How extremely barbarous!&#8212;If I had brothers who were so cruel out of mere wantonness, I am sure I could not love them.  I should think they would torment me just the same if they could.</p>
+
+<p>GEORGE.  Well but, Emily, you don't consider, that if none of the creatures we see about us were ever to be destroyed, we should ourselves be devoured by them, and even the least of them might do a great deal of mischief.</p>
+
+<p>EMILY.  Yes, but it is one thing to kill them for food or in defence of our property, and another, you know, Mamma, to kill them or make them suffer in
+
+<pb n="121"/>
+
+sport.  Remember the lines in Cowper which we wrote out.</p>
+
+<p>MRS. TALBOT.  Well, suppose, since there is reason here on both sides, which very rarely happens in an argument, that we add to our reason a little rhyme, and try what we can say of the squirrel in verse, as we walk home; for it grows late.</p>
+
+<lg type="poem">
+<head>THE SQUIRREL.</head>
+
+<l>THE Squirrel, with aspiring mind,</l>
+<l>Disdains to be to earth confin'd,</l>
+<l>   But mounts aloft in air:</l>
+<l>The pine-tree's giddiest height he climbs,</l>
+<l>Or scales the beech-tree's loftiest limbs,</l>
+<l>   And builds his castle there.</l>
+
+<l>As Nature's wildest tenants free,</l>
+<l>A merry forester is he,</l>
+<l>   In oak o'ershadow'd dells,</l>
+<l>Or glen remote, or woodland lawn,</l>
+<l>Where the doe hides her infant fawn,</l>
+<l>   Among the birds he dwells.</l>
+
+<l>Within some old fantastic tree,</l>
+<l>Where time has worn a cavity,</l>
+<l>   His winter food is stor'd:</l>
+
+<pb n="122"/>
+
+<l>The cone beset with many a scale,</l>
+<l>The chesnut in its coat of mail,</l>
+<l>   Or nuts complete his hoard.</l>
+
+<l>And of wise prescience thus prossess'd,</l>
+<l>He near it rears his airy nest,</l>
+<l>   With twigs and moss entwin'd,</l>
+<l>And gives its roof a conic form,</l>
+<l>Where safely shelter'd from the storm</l>
+<l>   He braves the rain and wind.</l>
+
+<l>Though plumeless, he can dart away,</l>
+<l>Swift as the woodpecker or jay,</l>
+<l>   His sportive mate to woo:</l>
+<l>His Summer food is berries wild,</l>
+<l>And last year's acorn cups are fill'd</l>
+<l>   For him with sparkling dew.</l>
+
+<l>Soft is his shining auburn coat,</l>
+<l>As ermine white his downy throat,</l>
+<l>   Intelligent his mien;</l>
+<l>With feathery tail and ears alert,</l>
+<l>And little paws as hands experts,</l>
+<l>   And eyes so black and keen.</l>
+
+<l>Soaring above the earth-born herd</l>
+<l>Of beasts, he emulates the bird,</l>
+<l>   Yet feels no want of wings:</l>
+<l>Exactly pois'd, he dares to launch</l>
+<l>In air, and bounds from branch to branch</l>
+<l>   With swift clastic springs.</l>
+
+<pb n="123"/>
+
+<l>And thus the man of mental worth</l>
+<l>May rise above the humblest birth,</l>
+<l>   And adverse Fate control;</l>
+<l>If to the right heart be join'd</l>
+<l>The active persevering mind,</l>
+<l>   And firm unshaken Soul.</l></lg>
+
+<p>EMILY.  Oh! lovely little squirrel&#8212;I shall always delight to see them, and to recollect these verses.</p>
+
+<p>MRS. TALBOT.  But we have not yet reckoned up all the enemies of our squirrel.  Kites and hawks, that live on the edges of these great woods, frequently strike them.</p>
+
+<p>GEORGE.  But small birds are the chief pursuit, I believe, of birds of prey.</p>
+
+<p>MRS. TALBOT.  Yes, for they can more conveniently get at them.  Scug does not very willingly expose himself in the open day far from his trees.  He rather avoids the sun, and sports and amuses himself in the fine moon-light nights of Summer; when the squirrels are seen darting about after each other, down this tree and up
+
+<pb n="124"/>
+
+that, and squeaking in a peculiar note of satisfaction.</p>
+
+<p>EMILY.  If I had a place where they could live, I would not let any body disturb them; and as for those odious kites and hawks, I would have them shot.</p>
+
+<p>MRS. TALBOT.  And yet, Emily, those kites and hawks have as much right to enjoy the life God has given them as your favourite squirrel&#8212;or as any of the other inhabitants of this wood, or any other place.</p>
+
+<p>EMILY.  Perhaps so, Mamma; but you know man is allowed to kill all creatures that do him harm.</p>
+
+<p>MRS. TALBOT.  Now there, on the trunk of that white poplar, there is a creature which does a great deal of harm, but which is so beautiful, that you would hardly consent to its being shot.</p>
+
+<p>EMILY.  What is it?  I see only two little, very little birds, not so big as mice, clinging to the trees.</p>
+
+<p>MRS. TALBOT.  No, it is those
+
+<pb n="125"/>
+
+minute birds, which are vulgarly called tree creepers, that I mean, but a larger bird&#8212;It is gone!&#8212;I speak, however, of the woodpecker, or yaffil.</p>
+
+<p>GEORGE.  Yes, I know&#8212;the bird that makes the noise I love so much to hear, like laughing.</p>
+
+<p>MRS. TALBOT.  Exactly as if he was heartily enjoying some excellent joke; but notwithstanding his gaiety and his splendid plumage, which excells that of most British birds, he is a mischievous fellow.  For if in any tree he discovers the least hole, he bores it with his strong bill, till he makes it big enough sometimes to receive his whole family; and while he and his feathered companion are at that employment, you may hear their noise resounding to a great distance thro' the woods; but it does great mischief to the tree, and occasions it to rot.  The food of this race of birds is insects, which harbour in the rugged or decayed bark; and these they get out of their hiding places by means of the
+
+<pb n="126"/>
+
+long slender tongue which they are furnished with&#8212;but we must hasten, or we shall be benighted.</p>
+
+<p>GEORGE.  Let us go down the way that Emily calls her glow-worm walk.</p>
+
+<p>MRS. TALBOT.  Most willingly.&#8212;They will not be visible much longer, those shining insects which Emily so much admires.  But see! there are two or three&#8212;Let us try if we cannot find something to say of them more flattering to Emily's partiality, than the sonnet which described their appearance by day-light.</p>
+
+<lg type="poem">
+<head>THE GLOW-WORM.</head>
+
+<l>BRIGHT insect! that on humid leaves and grass</l>
+<l>Lights up thy fairy lamp; as if to guide</l>
+<l>The steps of labouring swains that homeward pass,</l>
+<l>Well pleas'd to see thee chear the pathway side,</l>
+<l>Betokening cloudless skies and pleasant days;</l>
+<l>While he whom evening's sober charms invite</l>
+<l>In shady woodlanes, often stops to gaze,</l>
+<l>And moralizing hails thy emerald light!</l>
+<l>On the fair tresses of the roseate morn,</l>
+<l>Translucent dews, as precious gems appear,</l>
+
+<pb n="127"/>
+
+<l>Not less dost thou the night's dark hour adorn,</l>
+<l>"Like a rich jewel in an Ethiop's ear."</l>
+<l>Though the rude bramble, or the fan-like ferns,</l>
+<l>Around thee their o'ershadowing branches spread,</l>
+<l>Steady and clear thy phosphor brilliance burns,</l>
+<l>And thy soft rays illuminate the shade.</l>
+<l>Thus the calm brightness of superior minds</l>
+<l>Makes them amid misfortune's shadow blest,</l>
+<l>And thus the radiant spark of Genius shines,</l>
+<l>Though screen'd by Envy, or by Pride oppress'd.</l></lg>
+
+<p>EMILY.  O Mamma!&#8212;those verses are the prettiest we have heard yet, and a great deal less mortifying to my favorite insects, which I like to fancy the fairies flambeaux, such as you know as they are called in the song I learned when I was a very little girl; where the Fairy tells of the table made of a mushroom, and of the food it was covered with; and two lines, you know, are,
+
+<lg type="poem">
+<l><l>And when the moon doth hide her head</l>,
+The glow-worm lights us home to bed.</l></lg></p>
+
+<p>MRS. TALBOT.  And now it must do us that good office, for we have loitered
+
+<pb n="128"/>
+
+till the sun is quite gone.  And we must be early risers to-morrow; for perhaps we may hear by the post that your aunt, and Edward and Ella, and Fanny expects us to meet them.  Then we may parody a line of Milton, and say,
+
+<lg type="poem">To-morrow for fresh walks, and verses new!</lg></p>
+
+</div1>
+<div1 type="chapter">
+
+<pb n="129"/>
+
+<head>CONVERSATIONS THE FOURTH.</head>
+
+<head>POEMS.</head>
+
+<p>TO A BUTTERFLY IN A WINDOW.</p>
+<p>WILD FLOWERS.</p>
+<p>THE HOT-HOUSE ROSE.</p>
+
+<pb n="130"/>
+
+<pb n="131"/>
+
+<head>CONVERSATIONS THE FOURTH.</head>
+
+<head>MRS. TALBOT&#8212;GEORGE&#8212;EMILY.</head>
+
+<p>MRS. TALBOT.  The day opens propitiously for our meeting the dear friends we expect.  I never saw the sun rise with more beauty, or promising finer weather.</p>
+
+<p>GEORGE.  In half an hour, Mother, we shall be on our way; and in two hours we shall meet them, shall we not?</p>
+
+<p>MRS. TALBOT.  I hope so; and as you know we were talking of omens yesterday, I will consider it as a favourable prognostic to the pursuit of our little studies in natural history, that I this morning found in my window one of those beautiful butterflies called the Admirable; and sometimes the Colonel&#8212;a fly which is rarely
+
+<pb n="132"/>
+
+found in the house, though others, such as the Nettle Tortoise-shell, frequently are.  In an impromptu I addressed my captive, and then gave him his freedom.</p>
+
+<p>EMILY.  It is that large black butterfly, with bright scarlet and white spots, one of which I saw in the garden yesterday.</p>
+
+<p>MRS. TALBOT.  The same&#8212;But perhaps I have not been altogether correct in my poetical history, insomuch as I have described the butterfly as emerging from the retreat it had chosen during the cold months; but it is more probable that the individual insect in question has been produced this Summer.  For the progress of this species I understand to be, that a few that have passed the inclement season in the chrysalis state, are seen on the wing early in May; soon after which the female lays her eggs singly on the leaves of nettles.  The caterpillar, immediately on being hatched, sews the leaf on which it
+
+<pb n="133"/>
+
+finds itself round it like a case; the effect of wonderful instinct, to preserve itself from a particular species of fly called the ichneumon, which otherwise would destroy it, by depositing its eggs in the soft body of the caterpillar.  But, as the caterpillar must have food as well as shelter, it feeds on the tender part of this covering, till the leaf becomes in too ruinous a state to be longer inhabited; then crawling to another, it again wraps itself up; and this happens till it is nearly full grown, and so much encreased in size, that one leaf will not serve it both for food and raiment.  It therefore becomes more ambitious, and reaching the top of the nettle, connects several leaves together to make its house and supply its appetite; till being at length full grown, it suspends itself from a leaf, and puts on the armour that nature directs it to assume before its last and complete state of existence, which happens in sixteen or twenty days, according to the temperature of the air.  Then the ugly
+
+<pb n="134"/>
+
+deformed caterpillar is metamorphosed into the beautiful butterfly, one of which by some singular chance I found to-day.</p>
+
+<lg type="poem">
+<head>TO A BUTTERFLY IN A WINDOW.</head>
+
+<l>ESCAPED thy place of wintry rest,</l>
+<l>And in the brightest colours drest,</l>
+<l>Thy new-born wings prepared for flight,</l>
+<l>Ah! do not, Butterfly, in vain</l>
+<l>Thus flutter on the crystal pane,</l>
+<l>But go! and soar to life and light.</l>
+
+<l>High on the buoyant Summer gale</l>
+<l>Thro' cloudless ether thou may'st sail,</l>
+<l>Or rest among the fairest flowers;</l>
+<l>To meet thy winnowing friends may'st speed.</l>
+<l>Or at thy choice luxurious feed</l>
+<l>In woodlands wild, or garden bowers.</l>
+
+<l>Beneath some leaf of ample shade</l>
+<l>Thy pearly eggs shall then be laid,</l>
+<l>Small rudiments of many a fly;</l>
+<l>While thou, thy frail existence past,</l>
+<l>Shall shudder in the chilly blast,</l>
+<l>And fold thy painted wings and die!</l>
+
+<l>Soon fleets thy transient life away;</l>
+<l>Yet short as is thy vital day,</l>
+
+<pb n="135"/>
+
+<l>Like flowers that form thy fragrant food;</l>
+<l>Thou, poor Ephemeron, shalt have filled</l>
+<l>The little space thy Maker willed,</l>
+<l>And all thou know'st of life be good.</l></lg>
+
+<p>GEORGE.  Mother, I think our book will be so full of verses, that we must begin another when my aunt brings us those she has promised us.</p>
+
+<p>EMILY.  And I shall never be weary of learning them.  You thought, Mamma, that I should not have all our present collection complete, both in my book and my memory, before my aunt, my brother and sister, and my cousin Fanny came; but I believe I can go through them without missing a line.</p>
+
+<p>MRS. TALBOT.  I am as willing, as I am happy to believe it, my Emily; but now we have hardly time to talk of our acquisitions, for the chaise is, I see, just driving through the lawn.</p>
+
+<pb n="136"/>
+
+<p>GEORGE.  I am ready&#8212;Emily, make haste&#8212;I am going for my horse, and shall ride round by the time you get in.  Mother, you cannot imagine how well the poor old fellow Dumplin looks, since I have got a better bridle and had his mane hogged&#8212;I shall have a delightful ride!</p>
+
+<p>MRS. TALBOT.  I hope so.&#8212;But what has John in his hand?&#8212;A letter?&#8212;It is, and from your aunt&#8212;Something, I am afraid, has happened to prevent her meeting us.</p>
+
+<p>GEORGE.  Oh! Mother, pray tell me what it is.  Surely nobody is ill.</p>
+
+<p>EMILY.  I am frightened so that I dare not ask.</p>
+
+<p>MRS. TALBOT.  My dear children, be not alarmed.  Thank God, it is not illness among our beloved party, that deprives us for a time of the happiness we hoped to be enjoying in a few hours; but the unexpected arrival at my sister's house of an old friend of hers under affliction, who comes to her for consolation, and to
+
+<pb n="137"/>
+
+whom she cannot refuse the alleviations that friendships and sympathy give to the unhappy.</p>
+
+<p>GEORGE.  Well&#8212;I am very sorry, to be sure, for the disappointment; but since it is so, and that none of our own dear folks are sick, I must not vex about it.</p>
+
+<p>MRS. TALBOT.  I should be vexed with you, George, if you did.  The disappointment to you is surely not worth thinking of, since your poney Dumplin, with his new bridle and his hog mane, will look and go quite as well another day; and you may even take a gallop with him immediately if you will, since you and he are equipped.  But consider with yourself a moment what would have been the disappointment of your aunt's afflicted friend, if, in order to keep her appointment, and to have been here a few days sooner, she had refused to remain to comfort the unhappy.  Consider too how much more
+
+<pb n="138"/>
+
+severely we should have felt this mortification, had it arisen from any misfortune having fallen on those we expected.</p>
+
+<p>GEORGE.  Indeed, Mother, I am very sensible that all you say is true; and I hope you don't think me so unreasonable as to murmur, though I own I <i>was</i> a little vexed at first.</p>
+
+<p>MRS. TALBOT.  And you, Emily?&#8212;Come, confess that you bear this disappointment with even less fortitude than your brother.</p>
+
+<p>EMILY.  I was frightened, Mamma, while you were reading the letter, for I was sure almost by your look that something was the matter; I was afraid my brother, or my sister, or Fanny had been ill; or my aunt herself.  But indeed, since it is not so, I do not mind the disappointment on my own account, and am only sorry for my aunt's poor friend.</p>
+
+<p>MRS. TALBOT.  My children, I am the more earnest with you on this occasion, as I so well recollect with regret,
+
+<pb n="139"/>
+
+how ill I bore disappointment myself, when I was a girl, and how frequently I was weak enough on such occasions to lose my own temper, and try that of the good aunt whose care I was under.&#8212;A rainy day when I was promised a long walk, or to pass the morning with any favourite play-fellow, seemed then to be a misfortune which was not to be endured.  I remember that a party of ladies who lived at some distance, and with whom my family were on terms of ceremonious visiting, happened to arrive one morning just I was eagerly setting out to see the river fished, that ran thro' the grounds, and about the sport it would afford, I had heard a great deal for some days before.  Every body was gone but my aunt and I; and already I had heard by the boys and people that were running backwards and forwards, of the great pike that had been taken, and the quantity of fine fish they expected.  The ladies, I thought, need not detain me, as I could not amuse
+
+<pb n="140"/>
+
+them, and was sure they could not amuse me; so I was earnestly soliciting leave to go, and had nearly obtained it, when they all entered the room, and with them a girl of my own age, who was at home for the holidays, and whom her mother brought to exhibit, as she was remarkably accomplished for her age; and I believe it was intended to mortify my aunt by the comparison.  The little <i>Miss</i> was formally introduced to me, and no hope remained of my seeing the river fished; I ought, you know, to have made light of such a trifling deprivation, and have been civil to my visitor.  Instead of that I was silent, and I am afraid sullen; while she displayed all her acquirements; played on the piano forte, sung a fashionable air, shewed a new pas grave, which her dancing-master had lately introduced, and desired with an air of triumph to see my drawings, which when I was obliged by authority to fetch, she turned over in a mighty negligent way, as not likely to be worth her criticism;
+
+<pb n="141"/>
+
+and the elder ladies hardly deigned to look at them; Lady Prunely gravely assuring my aunt, that a much better method was now adopted than that which I seemed to have been taught by.  My patience was now quite exhausted; and all this affronting parade of superiority as I then thought it, operating upon my mind embittered by disappointment, I forgot every thing but my extreme desire to escape from society I did not like, to an amusement particularly pleasing to me.  Under pretence therefore of carrying away my drawing book, I hurried as fast as I could to the river, where my brothers were highly enjoying themselves, while the men in dresses on purpose waded into the shallow water, and threw quantities of fish on the banks.  My eagerness was not exceeded by that of the boys, in the midst of whom I was presently busy in putting the fish into baskets to be carried to the ponds; and in despite of my maid's lectures that morning about my white frocks and petticoats, I was as deep in the mud
+
+<pb n="142"/>
+
+as the boys themselves, when my persecutors, Lady Prunely, her elegant daughter, and the whole party appeared, and a message was sent to me to join them immediately, as they could not think of approaching very near on account of the dirt.  Most unwillingly I attempted to obey; but there were several nets that had been thrown on the bank; in one of them I became entangled, and endeavouring impatiently to disengage myself, I fell among the mud and weeds with which the bank was covered; and a more deplorable object than I appeared when I recovered my feet cannot be imagined.  I escaped an heavy censure at that moment, because I was not in a condition to approach the nice groupe who beheld my disgrace, as they thought it, with horror and amazement.  But Lady Prunely, who had an high opinion of her own sagacity and superior knowledge, took that opportunity to advise my aunt very seriously to send me to school.  "Really," said the dictatorial
+
+<pb n="143"/>
+
+Lady, "Miss Caroline is a good fine girl, but my dear Ma'am, she is, I am sure, vastly too much for your tender spirits.&#8212;Forgive me, my dear Ma'am, but I know you are of so gentle a disposition, that you cannot control a child of that extreme vivacity.  It would be of infinite use to her if you were to send her to school.  That where my Arabella is, to be sure, is very expensive, but my dear Ma'am, if your niece were to be sent to it, for only <i>a couple</i> of years, I would engage that you would be highly satisfied, and <i>sure I am</i> that you would find Miss Caroline quite another thing."</p>
+
+<p>This advice, tho' it was given in the proud consciousness of fancied wisdom, was, I believe, very good advice, as we lived in a place where little or no good instruction was to be had.  There were objections to taking a governess into the house, and persons well qualified for that office were even more difficult to be found then, than they are now.  Miss
+
+<pb n="144"/>
+
+Caroline, undismayed by her disaster after it was once over, continued to be perhaps too fond of digging with her brothers in the garden; running about without her hat, swinging in the barn with them, and even mounting an ass; all of which were then reckoned very indecorous amusements.&#8212;So Lady Prunely's council was in a few months followed, and I was sent to the school where her daughter was.  But you see here was an event of some importance in my life, produced by the impatience with which I bore a trifling disappointment; for had I been civil, as undoubtedly I ought to have been, and smiled, and bowed, and praised Miss Arabella Prunely, instead of being, as the lady her mother described me, "ruder than a young Hottentot," I should not perhaps have been so soon, if at all, sent from home.</p>
+
+<p>GEORGE.  But then, Mother, you would have been an hypocrite; and if hypocrisy is hateful in persons grown up, it
+
+<pb n="145"/>
+
+is ten times worse in children and young people.</p>
+
+<p>MRS. TALBOT.  But one purpose of education, George, is, to teach us, not hypocrisy, but to live for others as well as ourselves, and even in matters of indifference not to offend the feelings or prejudices of those we live among, whether our superiors or equals, or those whom fortune has placed beneath us.  You meet with people every day whom you dislike, do you not?</p>
+
+<p>GEORGE.  Yes, indeed, and I long to tell them so.</p>
+
+<p>MRS. TALBOT.  I know you do; but what right have you to offend these people with disagreeable truths, or such speeches as you think truths?  Should you like to have one of them come up to you, and tell you you were awkward or ill bred, or that you were not so rich as they themselves?</p>
+
+<p>GEORGE.  I should not much care about the last, because I know it very well, and
+
+<pb n="146"/>
+
+there is no disgrace in not having a great fortune; and as to being awkward and ill bred, that is mere matter of opinion, and I had rather be both then a finical coxcomb.</p>
+
+<p>MRS. TALBOT.  But if they were to tell you you were guilty of meanness or falsehood?&#8212;</p>
+
+<p>GEORGE.  I suppose I should knock any man down that was to charge me with either, at least if I could.</p>
+
+<p>MRS. TALBOT.  And yet, George, I have seen you tell people, almost as plainly as the most unequivocal words could have done, that you had as ill an opinion of them as those words imply.</p>
+
+<p>GEORGE.  Well, Mother, but if they deserve that opinion?&#8212;</p>
+
+<p>MRS. TALBOT.  You are too young to judge yourself of the characters of individuals; and you should not take evil report upon trust.  There was Farmer Delverstone who came the other day for taxes.  You had heard he was remarkable for his avarice, and for being cruel to the poor as
+
+<pb n="147"/>
+
+Overseer or Churchwarden, and I was really afraid you were going to tell him so.  Then whenever Miss Commere is here, you are always talking of gossiping meddling old women, who go about from house to house tale bearing, and making quarrels among neighbours.  It is very true, she does do all that; but you cannot now reform her, for it is an inveterate habit acquired and fixed in a long life; yet you have excited her dislike, and she tells every body that you are utterly ruined by my false indulgence.  I would always have you despise and avoid vice of every kind, and look on meanness and malice with as much contempt and abhorrence as you do now; but it is not necessary to offend the forms of the world by a rough and obtrusive manner, which reforms nobody, but renders almost every body your enemy.  However, here is a much longer lecture than I intended for this time; before it is too hot to take your ride; but I advise you not to let it be towards Sir Harry's, for how
+
+<pb n="148"/>
+
+would your philosophy bear a comparison between Mr. Scamperville's <i>famous</i> mare, and our poor old Dumpling?</p>
+
+<p>GEORGE.  Well enough, I hope.  It would not be right or reasonable in me to ask you to go to such expence as Sir Harry can afford; and I should be more ashamed if people were to say, "there goes George Talbot on a fine horse, when his mother and sisters never go out but in an hired chaise."  Besides, Mamma, I like riding very well, and wish to be a tolerable good horseman, because it is useful to be able to take journeys on horseback, if necessary; but I do not want to ride like on of Sir Harry's training grooms.</p>
+
+<p>MRS. TALBOT.  I am perfectly satisfied with your reasoning, my dear boy; and have little to wish, but that you may always judge as rationally as you do now of the value of those objects, which excite so much ambition among boys, and are allowed to give so strong a bias to the character of their subsequent lives.  Adieu
+
+<pb n="149"/>
+
+then for this morning!  Emily is going to read to me the poem which you were so please with, when you met with it in one of your cousin Fanny's school books.  So for the present farewell.</p>
+
+<p>EMILY.  Mamma, I have now several little copies of verses on insects, and some on plants: I have the squirrel too, the dormouse and the hedgehog, which are beasts, but we have nothing that tell of birds.</p>
+
+<p>MRS. TALBOT.  And yet none of the various inhabitants of the earth are more entitled to our attention, or more worthy of our admiration.  We must apply to you aunt for her assistance, and try to enrich our collection with some subjects from that department of natural history; at present let me hear the poetical collection of</p>
+
+<lg type="poem">
+<head>WILD FLOWERS.</head>
+
+<l>FAIR rising from her icy couch,</l>
+<l>Wan herald of the floral year,</l>
+<l>The Snow-drop marks the Spring's approach,</l>
+<l>E'er yet the Primrose groups appear,</l>
+<l>Or peer the Arum from its spotted veil,</l>
+<l>Or odorous Violets scent the cold capricious gale.</l>
+
+<pb n="150"/>
+
+<l>Then thickly strewn in woodland bowers</l>
+<l>Anemonies their stars unfold;</l>
+<l>There spring the Sorrel's veined flowers,</l>
+<l>And rich in vegetable gold</l>
+<l>From calyx pale, the freckled Cowslip born,</l>
+<l>Receives in amber cups the fragrant dews of morn.</l>
+
+<l>Lo! the green Thorn her silver buds</l>
+<l>Expands, to May's enlivening beam;</l>
+<l>Hottonia blushes on the floods;</l>
+<l>And where the slowly trickling stream</l>
+<l>Mid grass and spiry rushes stealing glides,</l>
+<l>Her lovely fringed flowers fair Menyanthes hides.</l>
+
+<l>In the lone copse or shadowy dale,</l>
+<l>Wild cluster'd knots of Harebells blow,</l>
+<l>And droops the Lily of the vale</l>
+<l>O'er Vinca's matter leaves below,</l>
+<l>The Orchis race with varied beauty charm,</l>
+<l>And mock the exploring bee, or fly's aerial form.</l>
+
+<l>Wound in the hedgerow's oaken boughs,</l>
+<l>The Woodbine's tassels float in air,</l>
+<l>And blushing, the uncultured Rose</l>
+<l>Hangs high her beauteous blossoms there;</l>
+<l>Her fillets there the purple Nightshade weaves,</l>
+<l>And the Brionia winds her pale and scalloped leaves.</l>
+
+<l>To later Summer's fragrant breath</l>
+<l>Clemati's feathery garlands dance;</l>
+
+<pb n="151"/>
+
+<l>The hollow Foxglove nods beneath</l>
+<l>While the tall Mullein's yellow lance,</l>
+<l>Dear to the meally tribe of evening, towers,</l>
+<l>And the weak Galium weaves its myriad fairy flowers.</l>
+
+<l>Sheltering the coot's or wild duck's nest.</l>
+<l>And where the timid halcyon hides,</l>
+<l>The Willow-herb, in crimson drest,</l>
+<l>Waves with Arundo o'er the tides;</l>
+<l>And there the bright Nymphea loves to lave,</l>
+<l>Or spreads her golden orbs upon the dimpling wave.</l>
+
+<l>And thou! by pain and sorrow blest,</l>
+<l>Papaver! that an opinion dew</l>
+<l>Conceal'st beneath thy scarlet vest,</l>
+<l>Contrasting with the Corn flower blue,</l>
+<l>Autumnal months behold thy gauzy leaves</l>
+<l>Bend in the rustling gale, amid the tawny sheaves.</l>
+
+<l>From the first bud whose venturous head</l>
+<l>The Winter's lingering tempest braves,</l>
+<l>To those which mid the foliage dead</l>
+<l>Sink latest to their annual grave,</l>
+<l>All are for food, for health, or pleasure given,</l>
+<l>And speak in various ways the bounteous hand of Heaven.</l></lg>
+
+<pb n="152"/>
+
+<head>EVENING.</head>
+
+<p>MRS. TALBOT.  Your excursion then was a pleasant one?</p>
+
+<p>GEORGE.  Remarkably so, indeed, my dear Mother.  The woods are in general as green as they were in Spring; only here and there a bough is just tinted with yellow.  But the birds are almost silent, at least very few are heard in comparison of the numbers we listened to, when three weeks since we took our long forest walk.</p>
+
+<p>EMILY.  Oh dear! those yellow leaves tell us of the approach of Autumn&#8212;and then comes Winter, cold, chearless, dreary Winter.</p>
+
+<p>MRS. TALBOT.  But Emily, why do you seem to dread it so much?  To you surely it has never yet been chearless.  And Autumn, you know, is generally the season chosen now for enjoying the coun
+
+<pb n="153"/>
+
+try.  No person of fashion thinks of leaving London till July or August; and some not till September.</p>
+
+<p>GEORGE.  They cannot have much taste though for beauty of the country&#8212;Spring and Summer are so delightful! and there is such a <i>joyous</i> appearance about every object.</p>
+
+<p>MRS. TALBOT.  <i>You</i> would not be allowed to have any taste, my dear George, either by the sportsman or the lover of good eating, were they to hear you assert, that the Spring and Summer are the most joyous.  Your acquaintance Mr. Scamperville, were you to enquire of him, would tell you, that all persons who are as he calls it in a <i>certain style</i>, find the pleasures of those seasons to consist of parties in London, lounging up and down Bond-Street, riding and driving in the Park, all the morning, and in an evening frequenting crowded rooms, where "<i>people of a certain rank</i>" vie with each other in the
+
+<pb n="154"/>
+
+excessive expence of entertainments; while those who cannot without injury to their fortunes emulate these luxurious exhibitions are half undone by their prodigality&#8212;It is for them that nature is forced, and that cherries are produced in February, and roses bloom at Christmas; for what would become of people <i>in a certain style</i>, if they could only eat cherries and smell roses, when the plebeian can equally enjoy both?</p>
+
+<p>GEORGE.  Well! I shall never regret not being <i>in a certain style</i>, if those things only are denied to a plebeian&#8212;for I am quite content, are not you, Mother? to have roses and cherries in the common course.</p>
+
+<p>MRS. TALBOT.  Undoubtedly I am; yet I certainly have great delight in the productions which Art gives us in our cold and capricious climate&#8212;especially plants, of the warmer latitudes.  Nor is this a luxury unattended with extensive benefit, for great numbers of people are supported by the culture, not indeed of exotics, and rare
+
+<pb n="155"/>
+
+plants, for that branch of gardening, however great its present perfection, can comparatively occupy but a few; but the culture of early vegetables, and forced flowers, employs many men, and we may say with the Poet,
+
+<lg type="poem">
+<l>"But hence the poor are clothed, the hungry fed,</l>
+<l>Health to himself, and to his children bread</l>
+<l>The labourer bears."</l></lg>
+
+And when I have sometimes seen a crown given for a rose in Winter, and have thought&#8212;as it is impossible not to think, on the strange inequality with which the gifts of fortune are divided; I have consoled myself with this reflection; and have said, that though my acquaintance, Lady Felicia Fidwell, could throw away, for the indulgence of a few moments gratification, a sum, which would purchase food during the week for the poor outcast of his family; who stands soliciting an
+
+<pb n="156"/>
+
+halfpenny of her Ladyship's footman, as a small acknowledgement for having swept the mud from the crossing, which this fine fellow with his tasselled cane, his ruffles and laced hat, was obliged to pass on a message of his Lady to the Circulating Library over the way; yet that some <i>other</i> poor man was long employed and found bread in performing the offices requisite for the production of this rose; and I have by that recollection conquered my disposition to find it strange, that things are so unequally divided.</p>
+
+<p>GEORGE.  I remember, Mother, you said one day, that roses blown by artificial heat are more beautiful than those that blow in the usual season in the garden.</p>
+
+<p>EMILY.  So they are indeed, Brother.  I had a bunch given to me by my cousin, who had an whole flower-pot full made her a present of; and they were the sweetest and most beautiful roses I ever saw in my life.
+
+<pb n="157"/>
+
+GEORGE.  Now <i>I</i> think, Emily, that you only fancied them so, because it was at a time when they were scarce, and you had not seen roses a great while.</p>
+
+<p>MRS. TALBOT.  Not altogether so, George.  Roses blown by artificial heat are more delicate than those which ornament our gardens in June, lovely as they are.  I know not whether their scent be more exquisite, and indeed I doubt it; but they are usually more free from blight, and those insects which sometimes destroy our garden roses.  Since we are upon this subject, I will repeat to you a little Poem written some years ago by your aunt, in which the effect of the culture of the rose by artificial heat is represented, as being like that of education on the female mind.  You will hear the pleading of Nature and Art, who are here personified.</p>
+
+<p>EMILY.  Excuse my interrupting you, dearest Mamma; but you always bid me ask, when I do not understand the meaning of a word.  You used this the other
+
+<pb n="158"/>
+
+day, and I could not then ask you.  What is meant by personified?</p>
+
+<p>MRS. TALBOT.  I will endeavour to explain it as well as I can.  It is a very usual figure in modern Poetry, and has in many instances superseded the use of the imaginary Deities of the Heathen mythology, where love was called Cupid, you know; beauty was Venus; and wisdom Minerva or Pallas, and so on; but now a Poet <i>personifies</i> the virtue, vice, or passion he would represent.  Collin's poetry is full of those bold figures.  Mercy is called
+
+<l>"Gentlest of sky-born forms, and best ador'd.</l>
+
+And Fear is admirably pourtrayed, as well as many other human passions.  And it is common to <i>apostrophise</i>, or for the Poet to <i>address</i> himself to one of those imaginary passions or virtues, as in Smollett's Ode to Independence, and many others.  Scenes of Nature are often personified.  Thus Gray, you may remember George, addresses himself to "Father Thames," in
+
+159
+
+one of the verses of his beautiful "Ode on a distant Prospect of Eton College."  However, we will have a farther dissertation on this another day; I have at present said enough, I believe, Emily, to make you comprehend what is meant by <i>personification</i>.  And now attend to the pleadings of Nature and Art, on the improvement bestowed by the latter, on the darling production of the former.</p>
+
+<lg type="poem">
+<head>THE HOT-HOUSE ROSE.</head>
+
+<l>AN early Rose borne from her genial bower</l>
+<l>   Met the fond homage of admiring eyes,</l>
+<l>And while young Zephyr fann'd the lovely flower,</l>
+<l>   Nature and Art contended for the prize.</l>
+
+<l>Exulting Nature cried, I made thee fair,</l>
+<l>   'Twas I that nursed thy tender buds in dew;</l>
+<l>I gave thee fragrance to perfume the air,</l>
+<l>   And stole from beauty's cheeks her blushing hue.</l>
+
+<l>Vainly fastidious novelty affects</l>
+<l>   O'er alpine heights and untrod wilds to roam,</l>
+<l>From rocks and swamps her foreign plants collects,</l>
+<l>   And brings the rare but scentless treasures home.</l>
+
+<pb n="160"/>
+
+<l>Midst Art's factitious children let them be</l>
+<l>   In sickly state by names pedantic known,</l>
+<l>True taste's unbiased eye shall turn to thee,</l>
+<l>   And love and beauty mark thee for their own.</l>
+
+<l>Cease goddess, cease, indignant Art replied,</l>
+<l>   And e'er you triumph, know that but for me</l>
+<l>This beauteous object of our mutual pride</l>
+<l>   Had been no other then a vulgar tree.</l>
+
+<l>I snatched her from her tardy mother's arms,</l>
+<l>   Where sun-beams scorch and piercing tempests blow;</l>
+<l>On my warm bosom nursed her infant charms,</l>
+<l>   Pruned the wild shoot, and trained the straggling bough.</l>
+
+<l>I watched her tender buds, and from her shade</l>
+<l>   Drew each intruding weed with anxious care,</l>
+<l>Nor let the curling blight her leaves invade,</l>
+<l>   Nor worm nor noxious insect harbor there;</l>
+
+<l>At length the beauty's loveliest bloom appears,</l>
+<l>   And Art from Fame shall win the promised boon,</l>
+<l>While wayward April smiling through her tears</l>
+<l>   Decks her fair tresses with wreaths of June.</l>
+
+<l>Then jealous Nature, yield the palm to me,</l>
+<l>   To me thy pride its early triumph owes;</l>
+<l>Though <i>thy</i> rude workmanship produced the tree,</l>
+<l>   'Twas <i>Education</i> formed the perfect Rose!</l></lg>
+
+
+
+</div1>
+<div1 type="chapter">
+
+<head>CONVERSATIONS THE FIFTH.</head>
+
+<head>POEMS.</head>
+
+<p>THE ROBIN'S PETITION.</p>
+<p>THE CAPTIVE FLY.</p>
+<p>THE CRICKET.</p>
+<p>THE CLOSE OF SUMMER.</p>
+
+(not numbered)
+
+(not numbered)
+
+<head>CONVERSATIONS THE FIFTH.</head>
+
+<head>MRS. TALBOT&#8212;GEORGE&#8212;EMILY.</head>
+
+<p>GEORGE.  And it is at last fixed that we are to go on Thursday to meet my aunt, and Edward, and all of them, and it is quite certain, Mother?</p>
+
+<p>MRS. TALBOT.  As certain as any thing can be that depends on human will and human power; but you know that there is a greater power which governs the world, and without whose permission we are taught, that not even a sparrow falls.  Now it may so happen that some occurrence or other, which we can neither foresee nor prevent, may counteract our present intentions, and therefore we ought never to say that any thing is absolutely
+
+<pb n="162"/>
+
+certain: there is an aphorism, you know, which says, "Man proposes, but God disposes."</p>
+
+<p>EMILY.  I am sure I hope nothing will happen any more to put our journey off.  It is near four months since Ella has been away!  And we never saw Edward at the last holidays.</p>
+
+<p>MRS. TALBOT.  Well, Emily, I trust a few pleasant weeks passed at the seaside with all those we love, will make us amends for all our disappointments.  We shall be there first, however, by more than a week.</p>
+
+<p>EMILY.  To-day is only Friday.  It is five days still before we shall set out&#8212;and Summer is almost gone.</p>
+
+<p>MRS. TALBOT.  We shall enjoy, therefore, with greater pleasure, the change of scenery.  The downs, near the sea, are almost always of a brighter green than such high lands that are more remote from the coast, because the vapour arising from the sea nourishes the short turf.</p>
+
+<pb n="163"/>
+
+<p>GEORGE.  Delightful green downs!&#8212;Mother, almost the first thing I remember was going out with you, and while Edward held my hand, trying to run up and down one of the slopes upon the hill.  And you sat down on the opposite side, and laughed to see me scramble up; till at last I was able to do it without Edward's help, and I was as proud as possible of my performance.</p>
+
+<p>MRS. TALBOT.  Yes, George, you had then just left off your petticoats, and in your own idea you were already a man, and emulated your elder brother, who was six years old.</p>
+
+<p>GEORGE.  I was not yet three years old, I believe, yet I remember it very well.</p>
+
+<p>MRS. TALBOT.  Early impressions long remain, even when more recent events, if of no great consequence, are obliterated.  I, who have passed so many more years since my infancy, have a very perfect recollection of what happened when I was only three or four years old, while I have for
+
+<pb n="164"/>
+
+gotten a great many things that have occurred within these few years; and I have observed that very old people often talk of their lives in their early youth, yet seem to have little remembrance of what they saw last year.</p>
+
+<p>GEORGE.  That is very odd, I think.</p>
+
+<p>MRS. TALBOT.  It is easily accounted for; but not to enter into this enquiry at present, I must tell you, that your aunt has sent you something to amuse you and Emily, knowing how tedious you would think the days that are yet to pass before we meet.</p>
+
+<p>EMILY.  Oh, how good she is!  Let us see the something, Mamma.  It is a Tale or a Poem, I know.</p>
+
+<p>MRS. TALBOT.  You may call it both.  It is the history of a bird.  I told your aunt in one of my letters, that animals, and insects, and plants, had been celebrated in the verses of our book, but that it was not yet enriched with one bird.  She has therefore sent you an account of a
+
+<pb n="165"/>
+
+favourite Robin, and added a little Poem, which I am sure you will be pleased with.  George shall read it.  There have been so many verses written about this bird, which used to be held sacred to the household gods, that it was not very easy to give these any novelty.  But the subject of them was highly interesting.&#8212;This is what your aunt says.</p>
+
+<p>"Two years ago, towards the close of the month of August, a Robin frequented the drawing-room at B. and became in the course of the Winter so tame, that as soon as the windows were open in the morning he used to come in, and seemed to consider it as his domicile, tho' he always roosted among the shrubs near the window.  On being called, he readily made his appearance, and used to sit and sing at the back of a chair, or on the piano forte.  He was a constant attendant at the breakfast table, and expected to be fed like a domestic animal; for when we went out for a few
+
+<pb n="166"/>
+
+days, he resorted to the offices, and followed the servants into the larder.  My pretty Robin, however, was a very Turk in disposition, and would suffer no Brother near the Throne; for he drove away, with every mark of resentment, any of his compatriots, who during the hard weather shewed any inclination to share the advantages he had appropriated to himself; of which indeed he seemed to feel all the value, for as Winter advanced, he became so familiar as to sit and sing on my daughter's shoulder, and appeared to have totally lost all apprehensions of a wild bird.  If he chose to go out at all, instead of beating himself against the window, he sat on the edge of the frame until it was opened for him; or taking an opportunity when the door was open, he flew through the green-house or through the passages, till he found his way out.  He was a great favourite as well in the kitchen, as in the parlour: and it was with general
+
+<pb n="167"/>
+
+regret, that early in the Spring he was missed, and never returned.&#8212;Had he retired to build, as Robins are said to do, in the woods and copses, he would not have gone far from the house, around which there were so many thickets and shrubs, and where it is probable he was bred.  It is therefore most likely, that being so tame and fearless, he was destroyed by a cat.</p>
+
+"I might have written his Elegy for Emily, but I thought it would be less imitative of verses of the same description, to Sparrows and Canary-birds, and Robins, if I introduced him such as he would have been on our first acquaintance, had that acquaintance been begun in such hard weather, as usually drives the smaller birds, but particularly the Robin, to the shelter and food afforded in and about the habitation of Man.&#8212;My composition is therefore called"&#8212;
+
+<pb n="168"/>
+
+<lg type="poem">
+<head>THE ROBIN'S PETITION.</head>
+
+<l>"A SUPPLANT to your window comes,</l>
+<l>"Who trusts your faith and fears no guile,</l>
+<l>"He claims admittance for your crumbs,</l>
+<l>"And reads his passport in your smile.</l>
+
+<l>"For cold and cheerless is the day,</l>
+<l>"And he has sought the hedges round;</l>
+<l>"No berry hangs upon the spray,</l>
+<l>"Nor worm nor ant-egg can be found.</l>
+
+<l>"Secure his suit will be preferr'd,</l>
+<l>"No fears his slender feet deter;</l>
+<l>"For sacred is the household bird</l>
+<l>"That wears the scarlet stomacher."</l>
+
+<l>Lucy the prayer assenting heard,</l>
+<l>The feather'd suppliant flew to her,</l>
+<l><l>And fondly cherish'd was the bird,</l>
+That wears the scarlet stomacher.</l>
+
+<l>Embolden'd then, he'd fearless perch</l>
+<l>Her netting or her work among,</l>
+<l>For crumbs among her drawings search,</l>
+<l>And add his music to her song;</l>
+
+<l>And warbling on her snowy arm,</l>
+<l>Or half entangled in her hair,</l>
+<l>Seemed conscious of the double charm</l>
+<l>Of freedom, and protection there.</l>
+
+<pb n="169"/>
+
+<l>A graver moralist, who used</l>
+<l>From all some lesson to infer,</l>
+<l>Thus said, as on the bird she mused,</l>
+<l>Pluming his scarlet stomacher&#8212;</l>
+
+<l>"Where are his gay companions now,</l>
+<l>"Who sung so merrily in Spring?</l>
+<l>"Some shivering on the leafless bough,</l>
+<l>"With ruffled plume, and drooping wing.</l>
+
+<l>"Some in the hollow of a cave,</l>
+<l>"Consign'd to temporary death;</l>
+<l>"And some beneath the sluggish wave</l>
+<l>"Await reviving nature's breath.</l>
+
+<l>"The migrant tribes are fled away,</l>
+<l>"To skies were insect myriads swarm,</l>
+<l><l>"They vanish with the Summer day,</l>
+"Nor bide the bitter northern storm.</l>
+
+<l>"But still is <i>this</i> sweet minstrel heard,</l>
+<l>"While lours December dark and drear,</l>
+<l>"The social, chearful, household bird,</l>
+<l>"That wears the scarlet stomacher.</l>
+
+<l>"And thus in life's propitious hour,</l>
+<l>"Approving flatterers round us sport,</l>
+<l>"But if the faithless prospect lour,</l>
+<l>"They the more happy fly to court.</l>
+
+<pb n="170"/>
+
+<l>"Then let us to the selfish herd</l>
+<l>"Of fortune's parasites prefer,</l>
+<l>"The friend like this, our Winter bird,</l>
+<l>"That wears the scarlet stomacher."</l></lg>
+
+<p>GEORGE.  That is in my opinion the prettiest of all our poems.&#8212;I shall be impatient to transcribe it, tho' I do not quite understand what is meant by the scarlet stomacher.</p>
+
+<p>MRS. TALBOT.  It is an old fashioned expression, used by an old fashioned poet, Dr. Donne, in celebrating the robin.&#8212;But it needs explaining to you, because it is an article of dress no longer in use.  It means a piece of silk, or other material, formed to the shape, and covered with ribbands, or lace, or jewels.  I have seen such among the wardrobe of a good old lady who had hoarded up many of the ornaments of her youth, and who used to descant with great eloquence on the elegance of stomachers, robeings, and double ruffles; and was, I believe, firmly persuaded, that
+
+<pb n="171"/>
+
+the world was degenerated since those ornaments had given place to the modern fashions, which she thinks so preposterous.  But to return to our Winter friend&#8212;the robin, you know, sings at seasons when every other bird is silent, and even the chirping and clamorous sparrow is little heard.  But his song is not confined to the more melancholy fall of the leaf, or the dreary season of Winter.&#8212;Throughout the year he sings, but his weaker voice is lost in the chorus that fills the copses and hedgerows before Mid-summer; when the wood-lark, the linnet, the thrush, the blackbird, seem to vie with each other, while the nightingale, like the robin, is only heard at night, in the greatest perfection, because his voice is in the day time often drowned in the songs of other choristers.</p>
+
+<p>GEORGE.  And now we hear hardly any of them, except the robin&#8212;most of them are already silent.</p>
+
+<pb n="172"/>
+
+<p>MRS. TALBOT.  Towards the end of July that always happens.  August, the present month, is said, by an accurate observer of nature, to be one of the most silent in the year, for later, a few birds renew their notes, just as there are a few faint flowers, that blow when the bloom of Summer beauty is gone.</p>
+
+<p>EMILY.  Alas! they are almost all gone now!&#8212;I could not to-day find roses to fill even one flower-pot.  I was going to gather the blossoms of a tall pink, and white bell-shaped flower in the lower shrubbery, the name of which I do not know; but I found that in many of the flowers there were dead flies.</p>
+
+<p>MRS. TALBOT.  It is the Apocynum, or tutsan leaved dog's-bane.&#8212;I did not recollect that it was likely to now to be in bloom, or I should have looked at it.</p>
+
+<p>GEORGE.  Shew it me, Emily, when we go for our walk.</p>
+
+<p>MRS. TALBOT.  It is one among some other flowers, that has the singular property of catching insects.</p>
+
+<pb n="173"/>
+
+<p>GEORGE.  Yes! you remember, Mother, we were shewn one at Mr. Roberts's, which caught flies by mean of teeth set on each side of the leaf, just like the trap, or gin, which I have seen the men use in the stable, or farm yard, to catch rats.  And the leaf seemed to have a spring within it, for when a fly settled upon it, the jagged teeth set on each side of the leaf closed and crushed the poor insect.</p>
+
+<p>MRS. TALBOT.  That is a very different plant; it comes from the swamps of North America, and has received the name of Dionaea muscipula, or Venus's fly-trap; it is white, and without any great share of beauty&#8212;You should tell you sister, George, that Dione is one of the many names given to the imaginary deity, Venus, the goddess of beauty.</p>
+
+<p>GEORGE.  I tried to explain some parts of the heathen mythology the other day, when we were looking at those beautiful prints in the fine edition of Virgil; but Emily said she was sure it was so wicked that she would not listen to it.</p>
+
+174
+
+<p>MRS. TALBOT.  We must, however, find some method to make our Emily acquainted with these mythological fables, or rather allegories; because without some knowledge of them, many books cannot be understood, nor can we comprehend or enjoy those beautiful works of art, that represent the beings with which the ancients peopled the heavens and earth.  We should not disdain to acquaint ourselves with the deities acknowledged by some of the wisest and greatest of mankind, and whose existence Cato and Cicero made a part of that faith which they professed, although <i>we</i> know there is only one God, the father of light and life, and the creator of the universe.  But at present let us return to our plant, the Apocynum.&#8212;There is a drawing of it in the botanic garden, and an account of the manner of its catching flies&#8212;which is, however, more correctly explained, I believe, in number 280 of Curtis's Botanical Magazine, where there is a much better drawing of this
+
+<pb n="175"/>
+
+plant, "the Apocynum Androsaemifolium, or tutsan leaved dog's bane."</p>
+
+<p>The author of "les Etudes de la Nature", who saw this plant in the royal botanic garden at Paris, where it has long been cultivated, speaks of it as another Dione; but, except in its quality of catching insects, it has no resemblance to the plant so called, and is quite of a different species.  The one receiving the flies on the foliole, or part of the leaf armed with spines; while this, the Apocynum, takes them in its cup, or flower; partly by the construction of the anthers in which the insects get entangled, and partly by the viscid quality of the honey-like substance that attracts them.  This curious Apocynum, which is not so common as it might be made, since it is raised without much trouble, and will thrive in the open air, has given occasion to a little Poem, which I am gong to read to you.</p>
+
+<p>EMILY.  Oh, thank you, Mamma!&#8212;
+
+<pb n="176"/>
+
+I wish sometimes that I could write Poems as you and my aunt do, on all sorts of subjects, but especially flowers and plants.</p>
+
+<p>MRS. TALBOT.  There are many persons who doubt whether it be a desirable faculty or no.&#8212;However, as it cannot perhaps be acquired, I shall be quite content, Emily, if you learn to describe these subjects of natural history, elegantly and accurately with your pencil, and if you will take as much pains to excell in that art, as may not interfere with other more necessary, because more useful acquirements.  But now your brother will read the poem.  Come, George, it is not new to you.
+
+GEORGE.  No, Mother, I remember having once heard it.</p>
+
+<lg type="poem">
+<head>THE CAPTIVE FLY.</head>
+
+<l>SEDUCED by idle change and luxury,</l>
+<l>See in vain struggles the expiring fly,</l>
+<l>He perishes! for lo, in evil hour,</l>
+<l>He rushed to taste of yonder garish flower,</l>
+
+<pb n="177"/>
+
+<l>Which in young beauty's loveliest colours drest,</l>
+<l>Conceals destruction in her treacherous breast,</l>
+<l>While round the roseate chalice odours breathe,</l>
+<l>And lure the wanderer to voluptuous death.</l>
+
+<l>Ill-fated vagrant! did no instinct cry,</l>
+<l>Shun the sweet mischief?&#8212;No experienc'd fly</l>
+<l>Bid thee of this fair smiling fiend beware,</l>
+<l>And say, the false Apocynum is there?</l>
+<l>Ah wherefore quit for this Circean draught</l>
+<l>The Bean's ambrosial flower, with incense fraught,</l>
+<l>Or where with promise rich, Fragaria spreads</l>
+<l>Her spangling blossoms on her leafy beds;</l>
+<l>Could thy wild flight no softer blooms detain?</l>
+<l>And tower'd the Lilac's purple groups in vain?</l>
+<l>Or waving showers of golden blossoms, where</l>
+<l>Laburnum's pensile tassels float in air,</l>
+<l>When thou within those topaz keels might creep</l>
+<l>Secure, and rock'd by lulling winds to sleep.</l>
+
+<l>But now no more for thee shall June unclose</l>
+<l>Her spicy Clove-pink, and her damask Rose;</l>
+<l>Not for thy food shall swell the downy Peach,</l>
+<l>Nor Raspberries blush beneath the embowering Beech,</l>
+<l>In efforts vain thy fragile wings are torn,</l>
+<l>Sharp with distress resounds thy small shrill horn,</l>
+<l>While thy gay happy comrades hear thy cry,</l>
+<l>Yet heed thee not, and careless frolic by,</l>
+<l>Till thou, sad victim, every struggle o'er,</l>
+<l>Despairing sink, and feel thy fate no more.</l>
+
+<pb n="178"/>
+
+<l>An insect lost should thus the muse bewail?</l>
+<l>Ah no! but 'tis the <i>moral</i> points the <i>tale</i></l>
+<l>From the mild friend, who seeks with candid truth</l>
+<l>To show its errors to presumptuous Youth;</l>
+<l>From the fond caution of parental care,</l>
+<l>Whose watchful love detects the hidden snare,</l>
+<l>How do the Young reject, with proud disdain,</l>
+<l>Wisdom's firm voice, and Reason's prudent rein,</l>
+<l>And urge on pleasure bent, the impetuous way,</l>
+<l>Heedless of all but of the present day,</l>
+<l>Then while false meteor-lights their steps entice,</l>
+<l>They taste, they drink, the empoisoned cup of vice;</l>
+<l>Till misery follows; and too late they mourn,</l>
+<l>Lost in the fatal gulph, from whence there's no return.</l></lg>
+
+<p>GEORGE.  Now <i>I</i> like that better than any other.</p>
+
+<p>EMILY.  And I like it very well&#8212;extremely well, only it is rather too grave.</p>
+
+<p>MRS. TALBOT.  Tell me, Emily, should you not have preferred the history of some bird, for birds, I find, are at present very much the <i>fashion</i> with you, as boys say of their sports at school?  Should you not have preferred an elegy or an eulogium on a bullfinch, to this somewhat serious po
+
+<pb n="179"/>
+
+etical lamentation over a fly, ending with so serious a moral?</p>
+
+<p>EMILY.  To say the truth, my mamsy, I should.</p>
+
+<p>MRS. TALBOT.  Well! I have a bird or two hatching for you, but they are not yet in a state to make a figure in our Museum of animals.  Let us have recourse therefore to some expedient to fill up out time, if not our book.  Come, read to me Cowper's translation of Vincent Bourne's verses "to the Cricket," in which, tho' it is something like sacrilege to change a word of his, you will see I have made a few alterations.  George can write out the last poem, while we read this.</p>
+
+<lg type="poem">
+<head>THE CRICKET.</head>
+
+<l>LITTLE inmate full of mirth,</l>
+<l>Chirping on my humble hearth,</l>
+<l>Wheresoe'er be thine abode,</l>
+<l>Always harbinger of good,</l>
+<l>Pay me for thy warm retreat</l>
+<l>With a song most soft and sweet,</l>
+<l>In return thou shalt receive</l>
+<l>Such a song as I can give.</l>
+
+<pb n="180"/>
+
+<l>Though in voice and shape they be</l>
+<l>Form'd as if akin to thee,</l>
+<l>Thou surpassest, happier far,</l>
+<l>Happiest Grasshopper that are;</l>
+<l>Theirs is but a Summer song,</l>
+<l>Thine endures the Winter long,</l>
+<l>Unimpair'd, and shrill and clear,</l>
+<l>Melody throughout the year.</l>
+
+<l>Neither night nor dawn of day</l>
+<l>Puts a period to thy lay.</l>
+<l>Then Insect! let thy simple song</l>
+<l>Chear the Winter evening long,</l>
+<l>While secure from every storm,</l>
+<l>In my cottage snug and warm,</l>
+<l>Thou shalt my merry minstrel be,</l>
+<l>And I delight to shelter thee.</l></lg>
+
+<p>EMILY.  I don't love crickets much, Mamma&#8212;they are not pretty&#8212;and I remember when we called once at poor old Dame Beech's cottage, she complained that ever since the boys had killed her cat, the crickets over-run her so that they spoiled every thing.</p>
+
+<p>MRS. TALBOT.  You know you saved a kitten for her, and I dare say she has no more crickets now than she wishes to have.</p>
+
+<pb n="181"/>
+
+<p>EMILY.  Why should she wish to have any?  I should not suppose she has as much taste as the Poet had for their music.</p>
+
+<p>MRS. TALBOT. Perhaps not; but you may remember when we were talking of these insects one morning, while Mary Ambrose was in the room helping me to measure some linen, she said it was "counted" to use her expression, "very bad luck indeed when the Crickets all went away from an house"&#8212;and this superstition is, I believe, still very general among the cottagers.</p>
+
+<p>EMILY.  What nonsense!</p>
+
+<p>MRS. TALBOT.  I never could hear any reason assigned for this prejudice; and indeed reason has nothing to do wish such sort of notions, that are handed down from one uninformed person to another.  I believe the fact is, that at certain seasons of the year these insects go into the fields, and assume in some degree the habits of the Gryllus Campertris, or field cricket, which we were speaking of a little while ago.</p>
+
+<pb n="182"/>
+
+<p>GEORGE.  And which are heard particularly loud now, Mother.  Last night I listened a long time to the mole cricket and the common cricket, and was surprised at the loudness of their noise.</p>
+
+<p>MRS. TALBOT.  It is generally so in hot and dry weather.  In the warmer countries of Europe, Italy, Spain, and the South of France, these cicada or cicala make such a clamourous chirping of an evening that it is very disagreeable; and they are less pleasant to hear, because they are such devourers of the green leaves, as to disfigure the country, and are besides very prejudicial.</p>
+
+<p>EMILY.  Indeed if we were not going to the sea side so soon, I should perhaps, Mamma, be a <i>little</i> apt to do that which you have often said nobody ought to do.</p>
+
+<p>MRS. TALBOT.  Indeed?&#8212;And pray what is that?</p>
+
+<p>EMILY.  Be discontented with the weather, Mamma, and murmur at the heat and the dust&#8212;and wish it was Spring or
+
+<pb n="183"/>
+
+Summer, or even Winter, rather than this hot dull parched up Autumn.</p>
+
+<p>MRS. TALBOT.  How foolish to murmur at the revolutions of the seasons, and how much worse than foolish to dislike the period when, in the harvest, God gives to the industry of man, the support he has worked for throughout the year.</p>
+
+<p>EMILY.  I know it, Mamma, and I don't mean to murmur, only there are so few flowers, the grass is so burnt, and the roads and lanes so dusty, that it is <i>not</i> pleasant.</p>
+
+<p>MRS. TALBOT.  I allow that the beauty of the country is greatly injured, yet it is only in very hot summers that in England the verdure of the fields is so entirely gone as we now see it.&#8212;Sometimes, as in the year 1799, perpetual rain renders the country in August as green as it usually is in May.&#8212;But the effect of this is far from desirable.  I then saw from one of the Sussex hills many hundred acres of wheat, and other grain, covered
+
+<pb n="184"/>
+
+with water.&#8212;The rives overflowed, and swept away the produce of whole farms; and the sad consequence was, a scarcity of bread, amounting almost to famine; a deprivation most severely felt, particularly among the poor, who, tho' assisted by subscription, were unable to purchase enough for the support of their families, so that sickness soon followed, and a long train of evils.&#8212;Let us, therefore, learn to thank God for this fine weather, and let us see with pleasure and gratitude the last load of wheat carried by, dressed with boughs by the little peasant boys, who are mounted upon it, hallooing and rejoicing, while the men and women who have been employed in reaping, binding, and carrying it, are enjoying by anticipation the harvest supper; and look forward with still more satisfaction, to the certainty of having bread for their children during the ensuing winter.</p>
+
+<p>GEORGE.  And that sight, Emily, we may enjoy this evening, for I have been
+
+<pb n="185"/>
+
+in the last field, helping a little, and Master Oakbridge says he shall finish his wheat by five o'clock, and desired me to come and see them pitch the last load.</p>
+
+<p>MRS. TALBOT.  Well, go, my Emily, with your brother; I shall have some papers and books to look out, and some directions to give about what I would have done in my absence from home, but I will meet you on your return from your walk.</p>
+
+<p>EMILY.  I will go, Mamma, certainly; but&#8212;</p>
+
+<p>MRS. TALBOT.  But what?</p>
+
+<p>EMILY.  Why only, Mamma, you know I cannot do any good in <i>pitching</i> the wheat as George can&#8212;and it is so hot, I had rather stay with you.</p>
+
+<p>MRS. TALBOT.  Do as you please, I only meant your amusement.</p>
+
+<p>GEORGE.  Mother, I should like to see the harvest in France.</p>
+
+<p>MRS. TALBOT.  So should I have done once, George.</p>
+
+<pb n="186"/>
+
+<p>GEORGE.  But you have seen it?</p>
+
+<p>MRS. TALBOT.  Never.&#8212;Tell me, however, what makes you think the harvest there a <i>spectacle</i>, (to use the phrase of that country for all sorts of sights) so particularly desirable?</p>
+
+<p>GEORGE.  Because they at once collect the three articles which are named in Scripture, as being necessary to the life of man; corn, wine, and oil.</p>
+
+<p>MRS. TALBOT.  I admire your reason.&#8212;But the fact is not exactly so.&#8212;The corn in the northern provinces of France, la *recolte, le moisson, is not gathered much, if at all, earlier than our in England; and there are no olive trees in those provinces, and very few grapes; I mean comparatively.&#8212;There are more, and better grapes than in England, but the wine is little worth, and very little of it is made.  The peasantry of Normandy are content with le bon cidre; and it is indeed excellent.</p>
+
+<pb n="187"/>
+
+<p>GEORGE.  But in the southern provinces?</p>
+
+<p>MRS. TALBOT.  In some of those, as in the Limosin, there is very little corn, the poorer classes being very much indebted to the woods for their support.</p>
+
+<p>GEORGE.  To the woods?</p>
+
+<p>MRS. TALBOT.  Yes, they are fed by a bread, or paste, made of what we call Spanish chesnuts, which I am assured is no contemptible substitute.  The wheat they have, however, is ripe much earlier than with us.&#8212;The olives are a late harvest; and the grapes of which wine is made, are never gathered till after the first frosts.&#8212;The colour of the wine depends on the simplest circumstances, as whether the dew is on or off the grapes when they are carried to the press.  But I have not time now, my dear children, to tell you the little, that books have told me on these matters; one day or other, perhaps, if ever France should be tranquil, and at peace with us, you may wit
+
+<pb n="188"/>
+
+ness they joyous scene of the vintage, <i>la Vendange</i>, in that delicious country.</p>
+
+<p>GEORGE.  The olive tree, I think you told me, was not at all beautiful.</p>
+
+<p>MRS. TALBOT.  I believe it is neither beautiful individually as a tree, or when grouped; it is grey, and pale like the willow, but without the silver lined leaves or flexible branches of that aquatic.&#8212;The most beautiful things are not always the most useful.  The history of the olive tree is worthy, however, of farther investigation, and we must enquire into it more at leisure.  And now, while you, Emily, go after dinner to your plants, and give your charge to old David to take care of them, George will go to the harvest field; and busy as I am, I will try a sort of impromptu on the subject of our discourse; this autumnal heat which offends you so much.</p>
+
+<p>GEORGE.  Come then, Emily, the sooner we go the better.</p>
+
+<p>EMILY <i>returning</i>.  Well, my dear
+
+<pb n="189"/>
+
+Mamma, have you in the midst of your packing composed these verses?</p>
+
+<p>MRS. TALBOT.  I have.&#8212;They may perhaps want some polishing, for they are literally an extempore composition, and here comes George to read them.</p>
+
+<p>GEORGE.  And have you done the stanzas so soon, Mother?</p>
+
+<p>MRS. TALBOT.  Read them.</p>
+
+<lg type="poem">
+<head>THE CLOSE OF SUMMER.</head>
+
+<l>FAREWELL ye banks, where late the primrose growing,</l>
+<l>Among fresh leaves its pallid stars display'd,</l>
+<l>And the ground-ivy's balmy flowers blowing,</l>
+<l>Trail'd their festoons along the grassy shade.</l>
+
+<l>Farewell! to richer scenes and Summer pleasures,</l>
+<l>Hedge-rows, engarlanded with many a wreath,</l>
+<l>Where the wild roses hang their blushing treasures,</l>
+<l>And to the evening gale the woodbines breathe.</l>
+
+<l>Farewell! the meadows, where such various showers</l>
+<l>Of beauty lurked, among the fragrant hay;</l>
+
+<pb n="190"/>
+
+<l>Where orchis bloomed with freak'd and spotted flowers,</l>
+<l>And lychnis blushing like the new born day.</l>
+
+<l>The burning dog-star, and the insatiate mower,</l>
+<l>Have swept or wither'd all this floral pride;</l>
+<l>And mullein's now, or bugloss' lingering flower,</l>
+<l>Scare cheer the green lane's parched and dusty side.</l>
+
+<l>His busy sickle now the months-man wielding,</l>
+<l>Close are the light and fragile poppies shorn,</l>
+<l>And while the golden ears their stores are yielding,</l>
+<l>The azure corn-flowers fall among the corn.</l>
+
+<l>The woods are silent too, where loudly flinging</l>
+<l>Wild notes of rapture to the western gale,</l>
+<l>A thousand birds their hymns of joy were singing,</l>
+<l>And bade the enchanting hours of Spring time hail!</l>
+
+<l>The stock-dove now is heard, in plaintive measure,</l>
+<l>The cricket shrill, and wether's drowsy bell,</l>
+<l>But to the sounds and scents of vernal pleasure,</l>
+<l>Music and dewy airs, a long farewell!</l>
+
+<l>Yet tho' no beauteous wreaths adorn the season,</l>
+<l>Nor birds sing blythe, nor sweets the winds diffuse,</l>
+<l>This riper period, like the age of reason,</l>
+<l>Tho' stript of loveliness, is rich in use.</l></lg>
+
+<pb n="191"/>
+
+<p>EMILY.  These will be a great acquisition to our book, but there are some things mentioned in the lines I do not quite understand.  I know, I believe, all the flowers; but what is a monthsman?</p>
+
+<p>GEORGE.  One who is hired by the farmer, to work for him for a month, during harvest; for which time the men have in proportion more wages, than at any other time of the year.</p>
+
+<p>EMILY.  Well, I understand that; but what kind of birds are stock-doves?</p>
+
+<p>MRS. TALBOT.  There are in this country, two or three sorts of wild pigeons and doves.&#8212;One is the ring-pigeon, which is called in Scotland the cushat; it seems to be continually confounded with the ring-dove that is often brought from Spain, and the opposite coast of Africa, tho' they do not at all resemble each other.  The most common is the stock-dove, or wood-pigeon, which you hear make a pleasant, but somewhat melancholy noise during the summer, and par
+
+<pb n="192"/>
+
+ticularly towards its close; but in September they leave their woodland retreats, and are heard no more till the following March, when they return to build in this country.&#8212;And now you may amuse yourselves as you please an hour or two, for I am obliged to attend to a person, who comes to me on business, which before I leave home must be settled.</p>
+
+</div1>
+
+<pb n="193"/>
+
+</div1></text></TEI.2>

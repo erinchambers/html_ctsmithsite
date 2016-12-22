@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="../xslt/CTsmith.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD CTsmith.dtd//EN" 'CTsmith.dtd'
+[<!NOTATION jpg SYSTEM "JPEG">
+<!ENTITY filename SYSTEM "filename.jpg" NDATA jpg>
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+]>
+<TEI.2 id="smi.00004" n="30"><text><div1 type="poem">
+<head>THE FEMALE EXILE.</head>
+<head type="sub">WRITTEN AT BRIGHTHELMSTONE IN NOV. 1792.</head>
+<note>THE FEMALE EXILE.<lb/>This little Poem, of which a sketch first appeared in blank verse in a Poem called "The Emigrants," was suggested by the sight of the group it attempts to describe &#8212;  a French lady and her children.  The drawing from which the print is taken I owe to the taste and talents of a lady, whose pencil had bestowed the highest honor this little book can boast.
+</note>
+<lg type="verse">
+<l>NOVEMBER'S chill blast on the rough beach is howling,</l>
+<l rend="indent">The surge breaks afar, and then foams to the shore,</l>
+<l>Dark clouds o'er the sea gather heavy and scowling,</l>
+<l rend="indent">And the white cliffs re-echo the wild wintry roar.</l>
+</lg>
+<lg type="verse">
+<l>Beneath that chalk rock, a fair stranger reclining,</l>
+<l rend="indent">Has found on damp sea-weed a cold lonely seat;</l>
+<l>Her eyes fill'd with tears, and her heart with repining,</l>
+<l rend="indent">She starts at the billows that burst at her feet.</l>
+</lg>
+<pb n="29"/>
+<lg type="verse">
+<l>There, day after day, with an anxious hear heaving,</l>
+<l rend="indent">She watches the waves where they mingle with air;</l>
+<l>For the said which, alas! all her fond hopes deceiving,</l>
+<l rend="indent">May bring only tidings to add to her care.</l>
+</lg>
+<lg type="verse">
+<l>Loose stream to wild winds those fair flowing tresses,</l>
+<l rend="indent">Once woven with garlands of gay Summer flowers;</l>
+<l>Her dress unregarded, bespeaks her distresses,</l>
+<l rend="indent">And beauty is blighted by grief's heavy hours.</l>
+</lg>
+<lg type="verse">
+<l>Her innocent children, unconscious of sorrow,</l>
+<l rend="indent">To seek the gloss'd shell, or the crimson weed stray;</l>
+<l>Amused with the present, they heed not to-morrow,</l>
+<l rend="indent">Nor think of the storm that is gathering to day.</l>
+</lg>
+<pb n="[plate]"/>
+<p>
+<figure>
+<entity name="vol2page31"/>
+</figure>
+</p>
+<pb n="31"/>
+<lg type="verse">
+<l>The gilt, fairy ship, with its ribbon-sail spreading,</l>
+<l rend="indent">They launch on the salt pool the tide left behind;</l>
+<l>Ah! victims &#8212; for whom <emph>their</emph> sad mother is dreading</l>
+<l rend="indent">The multiplied miseries that wait on mankind!</l>
+</lg>
+<lg type="verse">
+<l>to fair fortune born, she beholds them with anguish,</l>
+<l rend="indent">Now wanderers with her on a once hostile foil,</l>
+<l>Perhaps doom'd for life in chill penury to languish,</l>
+<l rend="indent">Or abject dependence, or foul-crushing toil.</l>
+</lg>
+<lg type="verse">
+<l>But the sea-boat, her hopes and her terrors renewing,</l>
+<l rend="indent">O'er the dim grey horizon now faintly appears;</l>
+<l>She flies to the quay, dreading tidings of ruin,</l>
+<l rend="indent">All breathless with haste, half expiring with fears.</l>
+</lg>
+<pb n="32"/>
+<lg type="verse">
+<l>Poor mourner! &#8212; I would that my fortune had left me</l>
+<l rend="indent">The means to alleviate the woes I deplore;</l>
+<l>But like thine my hard fate has of affluence berest me,</l>
+<l rend="indent">
+<emph>I</emph> can warm the cold heart of the wretched no more!</l>
+</lg>
+</div1></text></TEI.2>
